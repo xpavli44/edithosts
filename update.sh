@@ -11,7 +11,7 @@ sudo cp -f /tmp/edithosts/uninstall.sh /opt/edithosts/uninstall.sh
 
 sudo chmod 755 /opt/edithosts -R
 
-#periodická aktualizace programu a filtrů
+#periodic updates
 sudo cp -f /opt/edithosts/autoupdate.sh /etc/cron.monthly/updateprogramuedithosts
 sudo cp -f /opt/edithosts/cron.weekly-edithosts /etc/cron.weekly/edithosts
 

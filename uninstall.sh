@@ -6,5 +6,5 @@ sudo mv /etc/hosts.d/hosts.bak /etc/hosts
 sudo rm /etc/hosts.d/ -rf
 sudo rm /etc/cron.monthly/updateprogramuedithosts
 sudo rm /etc/cron.weekly/edithosts
-echo "edithost: Odinstalace dokončena"
+echo "edithost: Uninstall OK"
 exit 0
