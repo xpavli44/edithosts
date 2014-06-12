@@ -29,7 +29,7 @@ sudo rm /etc/cron.monthly/updateprogramuedithosts
 #################################################################################
 ---------------------------------------------------------------------------------
 cd /tmp
-git clone clone https://github.com/jiri001meitner/edithosts.git
+git clone https://github.com/jiri001meitner/edithosts.git
 edithosts/update.sh
 ---------------------------------------------------------------------------------
 #################################################################################
