@@ -8,6 +8,7 @@ sudo cp -f /tmp/edithosts/edithosts.sh /opt/edithosts/edithosts.sh && sudo ln -s
 sudo cp -f /tmp/edithosts/gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /opt/edithosts/gethosts.sh /usr/sbin/gethosts
 sudo cp -f /tmp/edithosts/cron.weekly-edithosts /opt/edithosts/
 sudo cp -f /tmp/edithosts/uninstall.sh /opt/edithosts/uninstall.sh
+sudo cp -f /tmp/edithosts/licence /opt/edithosts/licence
 
 sudo chmod 755 /opt/edithosts -R
 

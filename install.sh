@@ -25,6 +25,7 @@ sudo cp edithosts.sh /opt/edithosts/edithosts.sh && sudo ln -s /opt/edithosts/ed
 sudo cp gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /opt/edithosts/gethosts.sh /usr/sbin/gethosts
 sudo cp cron.weekly-edithosts /opt/edithosts/
 sudo cp uninstall.sh /opt/edithosts/uninstall.sh
+sudo cp licence /opt/edithosts/licence
 sudo chmod 755 /opt/edithosts -R
 
 ## periodic updates
