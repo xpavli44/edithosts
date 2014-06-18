@@ -9,6 +9,8 @@ sudo cp -f /tmp/edithosts/gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /
 sudo cp -f /tmp/edithosts/cron.weekly-edithosts /opt/edithosts/
 sudo cp -f /tmp/edithosts/uninstall.sh /opt/edithosts/uninstall.sh
 sudo cp -f /tmp/edithosts/licence /opt/edithosts/licence
+sudo cp -f /tmp/edithosts/temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh
+sudo cp -f /tmp/edithosts/refreshblocking.sh /opt/edithosts/refreshblocking.sh
 
 sudo chmod 755 /opt/edithosts -R
 

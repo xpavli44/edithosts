@@ -26,6 +26,8 @@ sudo cp gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /opt/edithosts/geth
 sudo cp cron.weekly-edithosts /opt/edithosts/
 sudo cp uninstall.sh /opt/edithosts/uninstall.sh
 sudo cp licence /opt/edithosts/licence
+sudo cp temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
+sudo cp refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
 sudo chmod 755 /opt/edithosts -R
 
 ## periodic updates
