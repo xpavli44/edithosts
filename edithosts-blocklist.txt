@@ -1,4 +1,4 @@
 ## my blocklist
-127.0.0.1	youtubecom-watchlatest-shocking.blogspot.cz
-127.0.0.1	fb-user-profile-views.herokuapp.com
+0.0.0.0	youtubecom-watchlatest-shocking.blogspot.cz
+0.0.0.0	fb-user-profile-views.herokuapp.com
 
