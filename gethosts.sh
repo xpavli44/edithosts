@@ -21,11 +21,11 @@ sed -e 's/\r//' -e '/^0.0.0.0/!d' -e '/localhost/d' -e 's/127\.0\.0\.1/0.0.0.0/'
 
 sed -e 's/\r//' -e '/^127\.0\.0\.1/!d' -e '/localhost/d' -e 's/127\.0\.0\.1/0.0.0.0/' -e 's/ \+/\t/' -e 's/#.*$//' -e 's/[ \t]*$//' < "$temphosts1b" | sort -u > "$temphosts2b"
 
-cat "$temphosts2a" "$temphosts2b" | sort -u > "$temphostst3"
+cat "$temphosts2a" "$temphosts2b" | sort -u > "$temphosts3"
 
 echo -e "\n# Edithost updated this file at $(date)" | cat /etc/hosts.d/hosts.conf - "$temphosts3" > /etc/hosts.d/hosts-block
 echo -e "\n# Blocked $(cat /etc/hosts.d/hosts-block | grep 0.0.0.0 | wc -w) domains" >> /etc/hosts.d/hosts-block
-rm "$temphosts1a" "$temphosts1b" "$temphostst2a" "$temphostst2b" "$temphosts3"
+rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3"
 cp /etc/hosts.d/hosts-block /etc/hosts
 
 echo "edithosts:Everything is OK"
