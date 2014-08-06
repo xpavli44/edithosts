@@ -28,7 +28,7 @@ echo -e "\n# Blocked $(cat /etc/hosts.d/hosts-block | grep 0.0.0.0 | wc -w) doma
 rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3"
 cp /etc/hosts.d/hosts-block /etc/hosts
 
-echo "edithosts:Everything is OK"
+echo "edithosts:Filters are up to date now."
 
 else
   echo "edithosts:Internet connectivity is not OK, exit."
