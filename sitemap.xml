@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 -<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
--<url>
- <loc>http://www.meitner.cz/2014/06/edithosts-projekt-pro-blokovani-reklam.html</loc>
-  
-</url>
-
--<url>
- <loc>http://www.meitner.cz</loc>
-  
-</url>
-
--<url>
- <loc>https://github.com/jiri001meitner/edithosts/zipball/master</loc>
-  
-</url>
-
--<url>
- <loc>https://github.com/jiri001meitner/edithosts/tarball/master</loc>
-  
-</url>
-
--<url>
- <loc>https://github.com/jiri001meitner/edithosts</loc>
-  
-</url>
-
--<url>
- <loc>http://l.meitner.cz/paypal-edithosts</loc>
-  
-</url>
-
+ -<url>
+  <loc>http://www.meitner.cz/2014/06/edithosts-projekt-pro-blokovani-reklam.html</loc>
+ </url>
+ -<url>
+  <loc>http://www.meitner.cz</loc>
+ </url>
+ -<url>
+  <loc>https://github.com/jiri001meitner/edithosts/zipball/master</loc>
+ </url>
+ -<url>
+  <loc>https://github.com/jiri001meitner/edithosts/tarball/master</loc>
+ </url>
+ -<url>
+  <loc>https://github.com/jiri001meitner/edithosts</loc>
+ </url>
+ -<url>
+  <loc>http://l.meitner.cz/paypal-edithosts</loc>
+ </url>
 </urlset>
