@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 -<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
 -<url>
  <loc>http://www.meitner.cz/2014/06/edithosts-projekt-pro-blokovani-reklam.html</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 -<url>
  <loc>http://www.meitner.cz</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 -<url>
  <loc>https://github.com/jiri001meitner/edithosts/zipball/master</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 -<url>
  <loc>https://github.com/jiri001meitner/edithosts/tarball/master</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 -<url>
  <loc>https://github.com/jiri001meitner/edithosts</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 -<url>
  <loc>http://l.meitner.cz/paypal-edithosts</loc>
-  <lastmod>2014-09-02T00:54:05Z</lastmod>
+  
 </url>
+
 </urlset>
