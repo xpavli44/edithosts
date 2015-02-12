@@ -18,7 +18,15 @@
   </head>
 
   <body>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&appId=162699459119&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<html xmlns:fb="http://ogp.me/ns/fb#">
     <header>
       <div class="container">
         <h1>
@@ -39,6 +47,7 @@
           </script>
           <!-- Umístěte tuto značku na místo, kde se má widget tlačítko +1 zobrazit. -->
           <div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://edithosts.meitner.cz"></div>
+          <fb:like href="http://edithosts.meitner.cz" layout="button" action="like" show_faces="true" share="true"></fb:like>
       </div>
     </header>
 
