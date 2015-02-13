@@ -1,6 +1,6 @@
-# ![edithosts logo](http://www.abclinuxu.cz/images/screenshots/5/2/206225-edithosts-1831189428945593396.png)
+![edithosts logo](http://www.abclinuxu.cz/images/screenshots/5/2/206225-edithosts-1831189428945593396.png)
 
-#O Projektu
+##O projektu
 
 Zde bych Vás rád seznámil s projektem Edithosts na blokování reklamy a malware webů na systému GNU/Linux.
 
@@ -70,3 +70,15 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 >slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
 
 Přeji bezproblémový provoz.
+
+###Příspěvek na vývoj
+Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
+
+#![paypal logo](http://lh6.ggpht.com/BZI79hhmUnhh3dQYq0dF1qkp8qOJJewmc62k2ZGXdhZBsZUAFB9Ng-dWyvAurO-YRwHM=s147)
+
+[PayPal účet či platební karta online](http://l.meitner.cz/paypal-edithosts)
+
+
+Fio banka: 2100068351/2010
+
+mBank: 670100-2201542227/6210
