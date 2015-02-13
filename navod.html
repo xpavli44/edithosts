@@ -67,6 +67,7 @@ edithosts/install.sh
 /opt/edithosts/uninstall.sh
  </code></pre>
 
+
 <h4>Ruční úprava souboru /etc/hosts</h4>
 
 <pre><code>
@@ -84,7 +85,7 @@ edithosts/install.sh
 
 
 <h4>Příklad použití</h4>
-
+<p>
 <pre><code>
 /opt/edithosts/uninstall.sh
 </code></pre>
@@ -92,7 +93,8 @@ edithosts/install.sh
 <blockquote>
   <p>slouží k odinstalaci programu a vrácení všech nastavení</p>
 </blockquote>
-
+</p>
+<p>
 <pre><code>
 /opt/edithosts/autoupdate.sh
 </code></pre>
@@ -100,7 +102,8 @@ edithosts/install.sh
 <blockquote>
   <p>slouží ke kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
-
+</p>
+<p>
 <pre><code>
 /etc/cron.monthly/updateprogramuedithosts
 </code></pre>
@@ -108,7 +111,8 @@ edithosts/install.sh
 <blockquote>
   <p>je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
-
+</p>
+<p>
 <pre><code>
 /opt/edithosts/cron.weekly-edithosts
 </code></pre>
@@ -116,8 +120,8 @@ edithosts/install.sh
 <blockquote>
   <p>slouží k aktualizaci černé listiny</p>
 </blockquote>
-
-
+</p>
+<p>
 <pre><code>
 /etc/cron.weekly/edithosts
 </code></pre>
@@ -125,8 +129,8 @@ edithosts/install.sh
 <blockquote>
   <p>je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.</p>
 </blockquote>
-
-
+</p>
+<p>
 <pre><code>
 /opt/edithosts/edithosts.sh
 </code></pre>
@@ -134,7 +138,8 @@ edithosts/install.sh
 <blockquote>
   <p>slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.</p>
 </blockquote>
-
+</p>
+<p>
 <pre><code>
 /opt/edithosts/gethosts.sh
 </code></pre>
@@ -142,17 +147,21 @@ edithosts/install.sh
 <blockquote>
   <p>slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.</p>
 </blockquote>
-    
+</p>
+<p>
 <pre><code>
 /opt/edithosts/temporarilydisableblocking.sh
+</code></pre>
+<pre><code>
 temporarilydisableblocking
 </code></pre>
 
 <blockquote>
   <p>slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.</p>
 </blockquote>
+</p>
 
-  
+
 <h5>
 <a id="Kam dál?" class="anchor" href="#Kam-dál?" aria-hidden="true"><span class="octicon octicon-link"></span></a>Kam dál?</h5>
 
