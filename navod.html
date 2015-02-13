@@ -53,87 +53,82 @@
 
 
 <h4>Instalace:</h4>
-
+<p>
 <pre><code>cd /tmp
 git clone https://github.com/jiri001meitner/edithosts.git
 edithosts/install.sh</code></pre>
-
+</p>
   
 <h4>Odinstalace:</h4>
-
+<p>
 <pre><code>/opt/edithosts/uninstall.sh</code></pre>
-
+</p>
 
 <h4>Ruční úprava souboru /etc/hosts</h4>
-
+<p>
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
 
 <blockquote>
-  <p>(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.</p>
+  Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru. Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
 </blockquote>
-
-
-<h4>Popis</h4>
-
-<p>Edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux. Program se sám aktualizuje a uživatel se nemusí o nic starat.</p>
-
+</p>
 
 <h4>Příklad použití</h4>
 <p>
 <pre><code>/opt/edithosts/uninstall.sh</code></pre>
-
 <blockquote>
-  <p>slouží k odinstalaci programu a vrácení všech nastavení</p>
+  Slouží k odinstalaci programu a vrácení všech nastavení.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/opt/edithosts/autoupdate.sh</code></pre>
-
 <blockquote>
-  <p>slouží ke kontrole aktualizací programu a k následné aktualizaci</p>
+  Slouží ke kontrole aktualizací programu a k následné aktualizaci.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
-
 <blockquote>
-  <p>je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci</p>
+  Je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/opt/edithosts/cron.weekly-edithosts</code></pre>
-
 <blockquote>
-  <p>slouží k aktualizaci černé listiny</p>
+  Slouží k aktualizaci černé listiny.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/etc/cron.weekly/edithosts</code></pre>
-
 <blockquote>
-  <p>je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.</p>
+  Je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
-
 <blockquote>
-  <p>slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.</p>
+  Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/opt/edithosts/gethosts.sh</code></pre>
-
 <blockquote>
-  <p>slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.</p>
+  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
 </blockquote>
 </p>
+
 <p>
 <pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
 <pre><code>temporarilydisableblocking</code></pre>
 
 <blockquote>
-  <p>slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.</p>
+  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
 </blockquote>
 </p>
 
