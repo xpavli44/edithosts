@@ -4,3 +4,5 @@ Disallow:
 User-agent: *
 Disallow:
 Allow: /
+
+Sitemap: http://edithosts.meitner.cz/sitemap.xml
