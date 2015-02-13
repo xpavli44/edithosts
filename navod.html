@@ -51,115 +51,110 @@
 <p>Předpokládejme, že máte operační systém Linux, máte nainstalovaný git, jste superuživatel root nebo máte právo používat příkaz sudo.
 <p>Edithosts nemůžete v žádném případě používat na systému Windows (ne, opravdu ani na Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, ani na jakékoliv superbudoucí verzi Woken, snad jen kdyby společnost Microsoft začala své nové produkty dělat na linuxovém základě)</p>
 
-<div>
-  <h4>Instalace:</h4>
 
-    <pre><code>cd /tmp
-               git clone https://github.com/jiri001meitner/edithosts.git
-               edithosts/install.sh
-    </code></pre>
+<h4>Instalace:</h4>
+
+    <code>
+    cd /tmp
+    git clone https://github.com/jiri001meitner/edithosts.git
+    edithosts/install.sh
+    </code>
 
   
-</div>
+<h4>Odinstalace:</h4>
 
-<div>
-    <h4>Odinstalace:</h4>
+    <code>
+    /opt/edithosts/uninstall.sh
+    </code>
 
-    <pre><code>/opt/edithosts/uninstall.sh
-    </code></pre>
-</div>
+<h4>Ruční úprava souboru /etc/hosts</h4>
 
-<div>
-    <h4>Ruční úprava souboru /etc/hosts</h4>
-
-    <pre><code>/opt/edithosts/edithosts.sh
-    </code></pre>
+    <code>
+    /opt/edithosts/edithosts.sh
+    </code>
 
 <blockquote>
   <p>(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.</p>
 </blockquote>
-</div>
 
-<div>
-    <h4>Popis</h4>
 
-<blockquote>
-  <p>edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.</p>
-</div>
+<h4>Popis</h4>
 
-<div>
-    <p>Program se sám aktualizuje a uživatel se nemusí o nic starat.</p>
-</blockquote>
-</div>
+<p>Edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux. Program se sám aktualizuje a uživatel se nemusí o nic starat.</p>
 
-<div>
+
 <h4>Příklad použití</h4>
 
-<pre><code>/opt/edithosts/uninstall.sh
-</code></pre>
+    <code>
+    /opt/edithosts/uninstall.sh
+    </code>
 
 <blockquote>
   <p>slouží k odinstalaci programu a vrácení všech nastavení</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/opt/edithosts/autoupdate.sh
-</code></pre>
+
+
+  <code>
+  /opt/edithosts/autoupdate.sh
+  </code>
 
 <blockquote>
   <p>slouží ke kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/etc/cron.monthly/updateprogramuedithosts
-</code></pre>
+
+  <code>
+  /etc/cron.monthly/updateprogramuedithosts
+  </code>
 
 <blockquote>
   <p>je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/opt/edithosts/cron.weekly-edithosts
-</code></pre>
+
+  
+  <code>
+  /opt/edithosts/cron.weekly-edithosts
+  </code>
 
 <blockquote>
   <p>slouží k aktualizaci černé listiny</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/etc/cron.weekly/edithosts
-</code></pre>
+
+
+  <code>
+  /etc/cron.weekly/edithosts
+  </code>
 
 <blockquote>
   <p>je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/opt/edithosts/edithosts.sh
-</code></pre>
+
+
+  <code>
+  /opt/edithosts/edithosts.sh
+  </code>
 
 <blockquote>
   <p>slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/opt/edithosts/gethosts.sh
-</code></pre>
+
+  <code>
+  /opt/edithosts/gethosts.sh
+  </code>
 
 <blockquote>
   <p>slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.</p>
 </blockquote>
-</div>
-<div>
-<pre><code>/opt/edithosts/temporarilydisableblocking.sh
-temporarilydisableblocking
-</code></pre>
+    
+  <code>
+  /opt/edithosts/temporarilydisableblocking.sh
+  temporarilydisableblocking
+  </code>
 
 <blockquote>
   <p>slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.</p>
 </blockquote>
-</div>
-<div>
+
+  
 <h5>
 <a id="Kam dál?" class="anchor" href="#Kam-dál?" aria-hidden="true"><span class="octicon octicon-link"></span></a>Kam dál?</h5>
 
