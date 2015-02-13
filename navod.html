@@ -54,24 +54,24 @@
 
 <h4>Instalace:</h4>
 
-    <code>
+    <pre><code>
     cd /tmp
     git clone https://github.com/jiri001meitner/edithosts.git
     edithosts/install.sh
-    </code>
+    </code></pre>
 
   
 <h4>Odinstalace:</h4>
 
-    <code>
+    <pre><code>
     /opt/edithosts/uninstall.sh
-    </code>
+    </code></pre>
 
 <h4>Ruční úprava souboru /etc/hosts</h4>
 
-    <code>
+    <pre><code>
     /opt/edithosts/edithosts.sh
-    </code>
+    </code></pre>
 
 <blockquote>
   <p>(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.</p>
@@ -85,70 +85,70 @@
 
 <h4>Příklad použití</h4>
 
-    <code>
+    <pre><code>
     /opt/edithosts/uninstall.sh
-    </code>
+    </code></pre>
 
 <blockquote>
   <p>slouží k odinstalaci programu a vrácení všech nastavení</p>
 </blockquote>
 
 
-  <code>
+  <pre><code>
   /opt/edithosts/autoupdate.sh
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>slouží ke kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
 
-  <code>
+  <pre><code>
   /etc/cron.monthly/updateprogramuedithosts
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci</p>
 </blockquote>
 
   
-  <code>
+  <pre><code>
   /opt/edithosts/cron.weekly-edithosts
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>slouží k aktualizaci černé listiny</p>
 </blockquote>
 
 
-  <code>
+  <pre><code>
   /etc/cron.weekly/edithosts
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.</p>
 </blockquote>
 
 
-  <code>
+  <pre><code>
   /opt/edithosts/edithosts.sh
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.</p>
 </blockquote>
 
-  <code>
+  <pre><code>
   /opt/edithosts/gethosts.sh
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.</p>
 </blockquote>
     
-  <code>
+  <pre><code>
   /opt/edithosts/temporarilydisableblocking.sh
   temporarilydisableblocking
-  </code>
+  </code></pre>
 
 <blockquote>
   <p>slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.</p>
@@ -180,3 +180,4 @@ ga('send', 'pageview');
 
   </body>
 </html>
+
