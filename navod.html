@@ -75,6 +75,27 @@ edithosts/install.sh</code></pre>
 
 <h3>Pro pokročilejší</h3>
 
+<p>
+<pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
+nebo
+<pre><code>temporarilydisableblocking</code></pre>
+
+<blockquote>
+  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut. Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině programu Edithosts nebo zdali není na černé listině nějaká součást, kterou ten web vyžaduje. Například stream.cz si příliš s Edithosts nerozumí.
+  Pokud zmáčknete v terminálu ctrl+c, tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes <span>refreshblocking</span>.
+</blockquote>
+</p>
+
+<p>
+<pre><code>/opt/edithosts/refreshblocking.sh</code></pre>
+nebo
+<pre><code>refreshblocking</code></pre>
+
+<blockquote>
+  Slouží pro ruční aktivaci blokování, pokud jste deaktivovali prostřednictvím <span>temporarilydisableblocking</span>.
+</blockquote>
+</p>
+
 <h4>Ruční úprava souboru /etc/hosts</h4>
 <p>
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
@@ -127,16 +148,6 @@ edithosts/install.sh</code></pre>
   Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
 </blockquote>
 </p>
-
-<p>
-<pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
-<pre><code>temporarilydisableblocking</code></pre>
-
-<blockquote>
-  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
-</blockquote>
-</p>
-
 
 <h5>
 <a id="Kam dál?" class="anchor" href="#Kam-dál?" aria-hidden="true"><span class="octicon octicon-link"></span></a>Kam dál?</h5>
