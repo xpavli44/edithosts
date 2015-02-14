@@ -82,8 +82,8 @@ nebo
 
 <blockquote>
   Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut (pokud vám nastavená doba nevyhovuje, můžete jí změnit v souboru <span>/opt/edithosts/temporarilydisableblocking.sh</span>.
-  Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině <span>Edithosts</span> nebo zdali není na černé listině nějaká součást, kterou ten web vyžaduje.
-Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes <span>refreshblocking</span>.
+  Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině.
+Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes příkaz <span>refreshblocking</span>.
 </blockquote>
 </p>
 
@@ -106,47 +106,35 @@ nebo
 </blockquote>
 </p>
 
-<h4>Příklady použití</h4>
-
-<p>
-<pre><code>/opt/edithosts/autoupdate.sh</code></pre>
-<blockquote>
-  Slouží ke kontrole aktualizací programu a k následné aktualizaci.
-</blockquote>
-</p>
+<h4>Další příkazy, info o souborech</h4>
 
 <p>
 <pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
 <blockquote>
-  Je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci.
-</blockquote>
-</p>
-
-<p>
-<pre><code>/opt/edithosts/cron.weekly-edithosts</code></pre>
-<blockquote>
-  Slouží k aktualizaci černé listiny.
+  Je symbolickým odkazem k <span>/opt/edithosts/autoupdate.sh</span> a slouží k automatické měsíční aktualizaci programu.
 </blockquote>
 </p>
 
 <p>
 <pre><code>/etc/cron.weekly/edithosts</code></pre>
 <blockquote>
-  Je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.
+  Je symbolickým odkazem k <span>/opt/edithosts/cron.weekly-edithosts</span> a slouží k týdenní automatické aktualizaci černé listiny.
 </blockquote>
 </p>
 
 <p>
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
+nebo
+<pre><code>edithosts</code></pre>
 <blockquote>
-  Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
+  Slouží pro editaci <span>/etc/hosts</span> ve vašem oblíbeném editoru.
 </blockquote>
 </p>
 
 <p>
 <pre><code>/opt/edithosts/gethosts.sh</code></pre>
 <blockquote>
-  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
+  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu, ručně ho není potřeba spouštět.
 </blockquote>
 </p>
 
