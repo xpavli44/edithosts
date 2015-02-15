@@ -1,4 +1,4 @@
-![edithosts logo](http://www.abclinuxu.cz/images/screenshots/5/2/206225-edithosts-1831189428945593396.png)
+![edithosts logo](https://raw.githubusercontent.com/jiri001meitner/edithosts/master/edithosts.png)
 
 ##O projektu
 
@@ -74,7 +74,7 @@ Přeji bezproblémový provoz.
 ###Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 
-#![paypal logo](http://lh6.ggpht.com/BZI79hhmUnhh3dQYq0dF1qkp8qOJJewmc62k2ZGXdhZBsZUAFB9Ng-dWyvAurO-YRwHM=s147)
+#![paypal logo](http://goo.gl/x7gkAc)
 
 [PayPal účet či platební karta online](http://l.meitner.cz/paypal-edithosts)
 
