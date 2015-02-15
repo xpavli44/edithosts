@@ -1,2 +1,1 @@
-0.0.0.0	youtubecom-watchlatest-shocking.blogspot.cz
-0.0.0.0	fb-user-profile-views.herokuapp.com
+

@@ -27,7 +27,7 @@ cat "$temphosts2a" "$temphosts2b" | sort -u > "$temphosts3"
 
 wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/whitelist.txt >> "$whitelists"
 
-for patern in $(cat $whitelist); do sed -i "/$patern/d" $temphosts3; done
+#for patern in $(cat $whitelist); do sed -i "/$patern/d" $temphosts3; done
 
 
 echo -e "\n# Edithost updated this file at $(date)" | cat /etc/hosts.d/hosts.conf - "$temphosts3" > /etc/hosts.d/hosts-block
