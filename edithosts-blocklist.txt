@@ -1,2 +1,1 @@
-0.0.0.0 seznam.cz
-0.0.0.0 facebook.com
+0.0.0.0 bbcdn.go.cz.bbelements.com
