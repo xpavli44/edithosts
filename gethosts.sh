@@ -10,7 +10,7 @@ temphosts1b=$(mktemp)
 temphosts2a=$(mktemp)
 temphosts2b=$(mktemp)
 temphosts3=$(mktemp)
-whitelists=$(mktemp)
+whitelist=$(mktemp)
 
 
 wget -nv -O - "https://raw.githubusercontent.com/jiri001meitner/edithosts/master/edithosts-blocklist.txt" >> "$temphosts1a"
@@ -25,15 +25,15 @@ sed -e 's/\r//' -e '/^127\.0\.0\.1/!d' -e '/localhost/d' -e 's/127\.0\.0\.1/0.0.
 
 cat "$temphosts2a" "$temphosts2b" | sort -u > "$temphosts3"
 
-wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/whitelist.txt >> "$whitelists"
+wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/whitelist.txt >> "$whitelist"
 
 
-#for patern in $(cat $whitelist); do sed -i "/$patern/d" $temphosts3; done
+for patern in $(cat "$whitelist"); do sed -i "/$patern/d" $temphosts3; done
 
 
 echo -e "\n# Edithost updated this file at $(date)" | cat /etc/hosts.d/hosts.conf - "$temphosts3" > /etc/hosts.d/hosts-block
 echo -e "\n# Blocked $(cat /etc/hosts.d/hosts-block | grep 0.0.0.0 | wc -w) domains" >> /etc/hosts.d/hosts-block
-rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelists"
+rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist"
 cp /etc/hosts.d/hosts-block /etc/hosts
 
 echo "edithosts:Filters are up to date now."
