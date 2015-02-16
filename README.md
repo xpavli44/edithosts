@@ -1,4 +1,4 @@
-![edithosts logo](https://raw.githubusercontent.com/jiri001meitner/edithosts/master/edithosts.png)
+![edithosts logo](http://l.meitner.cz/edihtosts.logo.png)
 
 ##O projektu
 
