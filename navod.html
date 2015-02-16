@@ -57,30 +57,31 @@
 <p>Předpokládejme, že máte operační systém Linux, máte nainstalovaný git, jste superuživatel root nebo máte právo používat příkaz sudo.
 <p>Edithosts nemůžete v žádném případě používat na systému Windows (ne, opravdu ani na Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, ani na jakékoliv superbudoucí verzi Woken, snad jen kdyby společnost Microsoft začala své nové produkty dělat na linuxovém základě).</p>
 
-
+<div>
 <h4>Instalace:</h4>
-<p>
+
 <pre><code>cd /tmp
 git clone https://github.com/jiri001meitner/edithosts.git
 edithosts/install.sh</code></pre>
 <blockquote>
   Slouží k instalaci programu a zálohování aktuálního nastavení v /etc/hosts.
 </blockquote>
-</p>
-  
+</div>
+
+<div>  
 <h4>Odinstalace:</h4>
-<p>
+
 <pre><code>/opt/edithosts/uninstall.sh</code></pre>
 <blockquote>
   Slouží k odinstalaci programu a vrácení všech nastavení.
 </blockquote>
-</p>
+</div>
 
 <p>S instalací a odinstalací si většina uživatelů vystačí.</p>
 
+<div>
 <h3>Pro pokročilejší</h3>
 
-<p>
 <pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
 nebo
 <pre><code>temporarilydisableblocking</code></pre>
@@ -90,9 +91,9 @@ nebo
   Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině.
 Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes příkaz <span>refreshblocking</span>.
 </blockquote>
-</p>
+</div>
 
-<p>
+<div>
 <pre><code>/opt/edithosts/refreshblocking.sh</code></pre>
 nebo
 <pre><code>refreshblocking</code></pre>
@@ -100,48 +101,49 @@ nebo
 <blockquote>
   Slouží pro ruční aktivaci blokování, pokud jste deaktivovali prostřednictvím <span>temporarilydisableblocking</span>.
 </blockquote>
-</p>
+</div>
 
+<div>
 <h4>Ruční úprava souboru /etc/hosts</h4>
-<p>
+
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
 
 <blockquote>
   Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru. Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
 </blockquote>
-</p>
+</div>
 
+<div>
 <h4>Další příkazy, info o souborech</h4>
 
-<p>
 <pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
 <blockquote>
   Je symbolickým odkazem k <span>/opt/edithosts/autoupdate.sh</span> a slouží k automatické měsíční aktualizaci programu.
 </blockquote>
-</p>
+</div>
 
-<p>
+<div>
 <pre><code>/etc/cron.weekly/edithosts</code></pre>
 <blockquote>
   Je symbolickým odkazem k <span>/opt/edithosts/cron.weekly-edithosts</span> a slouží k týdenní automatické aktualizaci černé listiny.
 </blockquote>
-</p>
+</div>
 
-<p>
+<div>
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
 nebo
 <pre><code>edithosts</code></pre>
 <blockquote>
   Slouží pro editaci <span>/etc/hosts</span> ve vašem oblíbeném editoru.
 </blockquote>
-</p>
+</div>
 
-<p>
+<div>
 <pre><code>/opt/edithosts/gethosts.sh</code></pre>
 <blockquote>
   Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu, ručně ho není potřeba spouštět.
 </blockquote>
-</p>
+</div>
 
 </article>
 </div> 
