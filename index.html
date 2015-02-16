@@ -38,11 +38,18 @@
           <a href="http://edithosts.meitner.cz/kontakt" class="btn">Kontakt</a>
         </section>
 <menu type="context" id="mymenu">
-   <menuitem label="O EditHosts" onclick="window.open('//edithosts.meitner.cz);"></menuitem>
-   <menuitem label="Instalace" onclick="window.open('//edithosts.meitner.cz/instalace;"></menuitem>
-   <menuitem label="Návod" onclick="window.open('//edithosts.meitner.cz/navod;"></menuitem>
-   <menuitem label="Dobrovolný příspěvek" onclick="window.open('//edithosts.meitner.cz/prispevek;"></menuitem>
-   <menuitem label="Kontakt" onclick="window.open('//edithosts.meitner.cz/kontakt;"></menuitem>
+  <menuitem label="Refresh" onclick="window.location.reload();" icon="ico_reload.png">
+  </menuitem>
+  <menu label="Share on...">
+    <menuitem label="Twitter" icon="http://upload.wikimedia.org/wikipedia/commons/f/f3/Twitter_icon.png"
+    onclick="window.open('//twitter.com/intent/tweet?text='+window.location.href);">
+    </menuitem>
+    <menuitem label="Facebook" icon="http://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png?uselang=cs"
+    onclick="window.open('//facebook.com/sharer/sharer.php?u='+window.location.href);">
+    </menuitem>
+  </menu>
+  <menuitem label="Email This Page"
+  onclick="window.location='mailto:?body='+window.location.href;"></menuitem>
 </menu>
   <!-- Umístěte tuto značku do záhlaví nebo těsně před značku konce těla textu. -->
   <script src="https://apis.google.com/js/platform.js" async defer>{lang: 'cs'}</script>
