@@ -1,4 +1,4 @@
-![edithosts logo](http://l.meitner.cz/edihtosts.logo.png)
+![edithosts logo](http://l.meitner.cz/edithosts.logo.png)
 
 ##O projektu
 
