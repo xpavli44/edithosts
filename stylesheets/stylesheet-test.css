@@ -3,7 +3,7 @@ body {
   padding: 0;
   background-color: #444444;
   color: #eaeaea;
-  font: 16px;
+  font-size: 100%;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -44,7 +44,7 @@ header {
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 250%;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
@@ -58,7 +58,7 @@ header h1 {
 }
 
 header h2 {
-  font-size: 18px;
+  font-size: 200%;
   font-weight: 300;
   color: #808000;
 }
