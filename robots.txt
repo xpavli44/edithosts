@@ -1,8 +1,5 @@
-User-agent: Mediapartners-Google
-Disallow: 
-
 User-agent: *
-Disallow:
+Disallow: /sandbox
 Allow: /
 
 Sitemap: http://edithosts.meitner.cz/sitemap.xml
