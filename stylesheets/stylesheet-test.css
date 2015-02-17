@@ -54,7 +54,7 @@ header h1 {
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
+
 }
 
 header h2 {
@@ -74,7 +74,7 @@ header h2 {
 
 #main_content {
   width: 100%;
-  -webkit-font-smoothing: antialiased;
+
 }
 section img {
   max-width: 100%
