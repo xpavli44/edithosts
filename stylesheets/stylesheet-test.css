@@ -151,8 +151,6 @@ pre {
   font-size: 100%;
   color: #b5e853;
   border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
   overflow: auto;
   overflow-y: hidden;
 }
