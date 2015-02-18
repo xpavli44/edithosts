@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
     
-    <title>sandbox</title>
+    <title>Uvolněna nová verze 1.0.8</title>
   </head>
   <body>
     <header>
@@ -59,43 +59,46 @@
 <!-- článek -->
 <div class="container">
 <article>
-<h3>Lorem ipsum test</h3>
+<h3>Uvolněna nová verze programu 1.0.8</h3>
 
-<time datetime="2015-02-16">16. únor 2015</time> 
+<time datetime="2015-02-18">18. únor 2015</time> 
 
-<p><a href="http://l.meitner.cz/paypal-edithosts"><img src="http://goo.gl/4cpbVw" alt="nejaky obrazek"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu velit varius, malesuada tellus sed, tristique elit. Suspendisse pretium risus neque, id tempus erat ultricies sed. Fusce mollis vel justo in condimentum. In vehicula viverra est ac tristique. Suspendisse sagittis suscipit orci, at sagittis erat efficitur suscipit. Curabitur et lacinia metus. Etiam et convallis mauris. Vivamus semper tortor nisl, at vehicula purus lobortis sed. Nam hendrerit urna eget enim semper viverra.</p>
+<p><img src="http://clipartist.net/RSS/openclipart.org/2012/March/SVG/Linux/shokunin_tux_penguin_linux.svg" alt="nejaky svobodný tučňák"></a>
+Nová verze umožńuje uživateli přidat snadno domény do lokálního blacklistu a whitelistu.</p>
 
-<p>Edithosts má otevřený zdrojový kód, každý si může snadno ověřit, jestli v něm není chyba. Kdo najde chybu, nebo dostane nápad, jak kód vylepšit, tak může projekt tzv. forknout (zjednodušeně řečeno zkopírovat a vést vlastní vývojovou větev) nebo mne kontaktovat.</p>
+<p><span>Lokální blacklist</span> (lokální <span>černá listina</span> slouží k zablokování domén, které nechcete na svém počítači povolit. Můžete takto zablokovat třeba nějaký reklamní, malwarový, nebo jakýkoliv jiný web.</p>
 
-<p><a href="https://github.com/jiri001meitner/edithosts" class="btn btn-github"><span class="icon"></span>Zdrojové kódy</a></p>
+<h4>Příklady použití</h4>
 
-<p>Nullam tristique elit arcu, vitae lobortis ante aliquam ut. Quisque ipsum lorem, maximus id justo sed, ultricies aliquam leo. Pellentesque vitae cursus magna. Nam gravida lacinia blandit. Aliquam aliquet nibh vulputate maximus blandit. Maecenas id mauris nec nunc accumsan aliquam eu at risus. Etiam dapibus libero ac ultrices ultricies. Donec convallis quam placerat orci dapibus convallis. Etiam ut pellentesque leo, sagittis tristique elit. Curabitur erat dui, lobortis eu nunc ut, fermentum gravida nisl. Aliquam cursus nisi mi.</p>
+<p>Chcete zablokovat například facebook.com</p>
 
-<p>Donec dignissim venenatis gravida. Morbi aliquam maximus nisi eu maximus. Aenean porttitor nec risus nec varius. In sapien libero, dignissim ut justo nec, lacinia vehicula orci. Nam quis nisi sit amet purus tristique mattis. Donec ac volutpat urna. Donec maximus felis imperdiet elementum aliquam. In a aliquet lectus. Duis convallis felis consectetur augue tempus pretium. Ut tempus dictum lacinia. Proin a ultricies purus, eget lobortis lectus. Duis aliquet massa at nisi posuere imperdiet. Pellentesque dapibus lacus ac nibh mattis vehicula. Sed et ligula vitae metus efficitur eleifend a eget ante. Donec eu ipsum vitae dui ultrices venenatis.</p>
 
-<p>Suspendisse potenti. Ut nec posuere sem, vitae placerat ligula. Nam sit amet purus arcu. Proin ultricies porttitor euismod. Aliquam at rhoncus libero. Donec ultricies mattis ultrices. Morbi non libero id nisl venenatis semper.</p> 
 
-<p>Aenean mi ipsum, maximus vel sapien sed, accumsan ultrices mauris. Vivamus ac libero nulla. Morbi id metus at purus molestie faucibus sit amet vitae risus. Suspendisse neque dui, ornare eget fermentum sit amet, sollicitudin a lorem. Etiam sem risus, ultricies condimentum felis ac, aliquam ultrices turpis. Donec in enim ut purus mollis congue. Proin sodales arcu tortor, quis tincidunt mauris dictum et. Suspendisse accumsan dolor vitae feugiat porttitor. Ut eu sem convallis, mollis dui a, volutpat eros. Mauris sit amet feugiat quam. Pellentesque tempus tristique leo. Donec posuere gravida metus, vel euismod dui finibus quis. Phasellus dapibus magna id bibendum suscipit. Pellentesque non erat convallis, gravida turpis quis, aliquet neque. Donec gravida fermentum euismod. Nunc volutpat lacus hendrerit lacus pretium rhoncus.</p>
+<dl>
+<dt>Jak zablokujete facebook.com?</dt>
+<dd><pre><code>edithosts-ban</code></pre>
+do souboru zapište
+<pre><code>0.0.0.0 facebook.com</pre></code></dd>
+</dl>
+
+<p>Chcete vždy povolit reklamy z <span>bbelements.com</span>?
+Tyto reklamy se zobrazují například v různých zpravodajských webech. Používají domény <span>go.cz.bbelements.com</span>, <span>go.eu.bbelements.com</span>, <span>go.idnes.bbelements.com</span>, <span>go.ihned.bbelements.com</span> 
+</p>
+<dl>
+<dt>Jak povolit reklamy z domén <span>bbelements.com</span></dt>
+<dd>v terminálu zadejte a následující příkaz a své heslo
+<pre><code>edithosts-allow</code></pre>
+na konec otevřeného souboru přidejte:
+<pre><code>bbcdn.go.cz.bbelements.com
+go.cz.bbelements.com
+go.eu.bbelements.com
+go.idnes.bbelements.com
+go.ihned.bbelements.com<pre><code>
+Všimněte si, že zadává bez nul a bez mezer, na každém řádku pouze jedna doména. 
+</dd>
+</dl>
 
 </article>
-
-<!---hcard-->
-<div id="hcard-Jiří-Meitner" class="vcard">
-<p><img style="float:left; margin-right:4px" src="http://l.meitner.cz/photo.jpg" alt="photo of " class="photo"/></p>
- <p><a class="url fn" href="https://plus.google.com/u/0/+JiříMeitner/about">Jiří Meitner</a></p>
- <p><a class="email" href="mailto:jiri@meitner.cz">jiri@meitner.cz</a></p>
- <div class="adr">
-  <div class="street-address">Družstevní 1376/3</div>
-  <span class="locality">Praha 4-Nusle</span>,
-  <span class="postal-code">140 00</span>
-  <span class="country-name">Česká republika</span>
- </div>
- <div class="tel">+420 774 999 082</div>
-<div><span class="category">linux</span>, <span class="category">security</span>, <span class="category">antimalware</span>, <span class="category">Ubuntu</span>, <span class="category">Debian</span>, <span class="category">web</span></div><p style="font-size:smaller;"></p>
-</div>
-<!---hcard-->
-
 </div>
 <!-- konec článku -->
 
@@ -110,6 +113,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu velit varius, 
         <li><a href="http://edithosts.meitner.cz/navod" tabindex="3">Návod</a></li>
         <li><a href="http://edithosts.meitner.cz/prispevek" tabindex="4">Dobrovolný příspěvek</a></li>
         <li><a href="http://edithosts.meitner.cz/kontakt" tabindex="5">Kontakt</a></li>
+        <li><a href="http://edithosts.meitner.cz/novinky" tabindex="6">Seznam novinek</a></li>
       </ul>
     </nav>
 </div>
