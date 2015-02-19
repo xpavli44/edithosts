@@ -3,37 +3,31 @@
   <url>
     <loc>http://edithosts.meitner.cz/</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/instalace</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
   </url>
     <url>
     <loc>http://edithosts.meitner.cz/navod</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/kontakt</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/prispevek</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
   </url>
     <url>
     <loc>http://www.meitner.cz/rss.xml</loc>
     <lastmod>2015-02-12T22:35:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
   </url>
 </urlset>
