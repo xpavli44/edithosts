@@ -4,6 +4,7 @@ N;LANGUAGE=cs;CHARSET=windows-1250:Meitner;Jiří
 FN;CHARSET=windows-1250:Jiří Meitner
 TEL;CELL;VOICE:+420 774 999 082
 ADR;WORK;CHARSET=windows-1250:;;;;;;Česká republika
+LABEL;WORK;CHARSET=windows-1250:Česká republika
 ADR;HOME;PREF;CHARSET=windows-1250:;;Družstevní 1376/3;Praha 4-Nusle;;140 00;Česká republika
 LABEL;HOME;PREF;CHARSET=windows-1250;ENCODING=QUOTED-PRINTABLE:Dru=9Estevn=ED 1376/3=0D=0A=
 140 00  Praha 4-Nusle=0D=0A=
@@ -106,5 +107,5 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:
  xbaUB4lXCgABSBjsVI5xklFAHAUUUUAFFFFAH//Z
 
 X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="right" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">MobilnĂ­ telefon</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="text1" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="webhome" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20150219T101302Z
+REV:20150219T113626Z
 END:VCARD
