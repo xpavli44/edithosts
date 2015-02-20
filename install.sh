@@ -29,7 +29,7 @@ sudo cp licence /opt/edithosts/licence
 sudo cp temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
 sudo cp refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
 sudo gzip -c man/cs/man1/edithosts.1 > man/cs/man1/edithosts.1.gz
-sudo cp man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
+sudo mv man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
 sudo chmod 755 /opt/edithosts -R
 
 ## periodic updates

@@ -12,7 +12,7 @@ sudo cp -f /tmp/edithosts/licence /opt/edithosts/licence
 sudo cp -f /tmp/edithosts/temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh
 sudo cp -f /tmp/edithosts/refreshblocking.sh /opt/edithosts/refreshblocking.sh
 sudo gzip -c /tmp/edithosts/man/cs/man1/edithosts.1 > man/cs/man1/edithosts.1.gz
-sudo cp -f /tmp/edithosts/man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
+sudo mv -f /tmp/edithosts/man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
 
 sudo chmod 755 /opt/edithosts -R
 
