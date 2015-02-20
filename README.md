@@ -69,7 +69,10 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 	temporarilydisableblocking
 >slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
 
-Přeji bezproblémový provoz.
+###Zobrazení nápovědy
+
+	man edithosts
+>slouží pro zobrazení nápovědy v terminálu
 
 ###Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
