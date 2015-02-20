@@ -85,3 +85,4 @@ Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 Fio banka: 2100068351/2010
 
 mBank: 670100-2201542227/6210
+
