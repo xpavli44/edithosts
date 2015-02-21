@@ -19,7 +19,7 @@ echo "edithosts:Proběhne aktualizace programu."
 # Provedení aktualizace
 /tmp/edithosts/update.sh && echo "edithosts:Instalace aktualizace proběhla úspěšně." || echo "edithosts:Instalace aktualizace se nezdařila."
 
-rm /tmp/edithosts -rf && /usr/sbin/gethosts
+rm /tmp/edithosts -rf && sudo /usr/sbin/gethosts
 
 	else
 
