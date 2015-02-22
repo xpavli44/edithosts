@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
  <url>
-    <loc>http://edithosts.meitner.cz/en/</loc>
+   <loc>http://edithosts.meitner.cz/en/</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
@@ -14,7 +14,7 @@
     />
  </url>
  <url>
-    <loc>http://edithosts.meitner.cz/en/install</loc>
+   <loc>http://edithosts.meitner.cz/en/install</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
@@ -27,7 +27,7 @@
     />
  </url>
  <url>
-    <loc>http://edithosts.meitner.cz/en/manual</loc>
+   <loc>http://edithosts.meitner.cz/en/manual</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
@@ -40,7 +40,7 @@
     />
  </url>
  <url>
-    <loc>http://edithosts.meitner.cz/en/contact</loc>
+   <loc>http://edithosts.meitner.cz/en/contact</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
@@ -53,7 +53,7 @@
     />
  </url>
  <url>
-    <loc>http://edithosts.meitner.cz/en/donate</loc>
+   <loc>http://edithosts.meitner.cz/en/donate</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
@@ -66,7 +66,7 @@
     />
  </url>
  <url>
-    <loc>http://www.meitner.cz/rss.xml</loc>
+   <loc>http://www.meitner.cz/rss.xml</loc>
     <xhtml:link 
      rel="alternate"
      hreflang="cs"
