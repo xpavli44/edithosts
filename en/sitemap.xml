@@ -63,6 +63,11 @@
                  hreflang="cs"
                  href="http://edithosts.meitner.cz/prispevek"
                  />
+     <xhtml:link 
+                 rel="alternate"
+                 hreflang="en"
+                 href="http://edithosts.meitner.cz/en/donate"
+                 />
     <changefreq>hourly</changefreq>
   </url>
     <url>
