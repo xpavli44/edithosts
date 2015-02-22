@@ -7,7 +7,7 @@
         hreflang="cs"
         href="http://edithosts.meitner.cz"
     />
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="en"
         href="http://edithosts.meitner.cz/en/"
@@ -15,12 +15,12 @@
 </url>
 <url>
     <loc>http://edithosts.meitner.cz/en/install</loc>
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="cs"
         href="http://edithosts.meitner.cz/instalace"
     />
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="en"
         href="http://edithosts.meitner.cz/en/install"
@@ -28,12 +28,12 @@
 </url>
 <url>
     <loc>http://edithosts.meitner.cz/en/manual</loc>
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="cs"
         href="http://edithosts.meitner.cz/navod"
     />
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="en"
         href="http://edithosts.meitner.cz/en/manual"
@@ -41,12 +41,12 @@
 </url>
 <url>
     <loc>http://edithosts.meitner.cz/en/contact</loc>
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="cs"
         href="http://edithosts.meitner.cz/kontakt"
     />
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="en"
         href="http://edithosts.meitner.cz/en/contact"
@@ -54,12 +54,12 @@
 </url>
 <url>
     <loc>http://edithosts.meitner.cz/en/donate</loc>
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="cs"
         href="http://edithosts.meitner.cz/prispevek"
     />
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="en"
         href="http://edithosts.meitner.cz/en/donate"
@@ -67,10 +67,10 @@
 </url>
 <url>
     <loc>http://www.meitner.cz/rss.xml</loc>
-     <xhtml:link 
+    <xhtml:link 
         rel="alternate"
         hreflang="cs"
         href="http://www.meitner.cz/rss.xml"
     />
-  </url>
+</url>
 </urlset>
