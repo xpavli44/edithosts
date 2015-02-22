@@ -12,7 +12,6 @@
                  hreflang="en"
                  href="http://edithosts.meitner.cz/en/"
                  />
-    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/en/install</loc>
@@ -26,7 +25,6 @@
                  hreflang="en"
                  href="http://edithosts.meitner.cz/en/install"
                  />
-    <changefreq>hourly</changefreq>
   </url>
     <url>
     <loc>http://edithosts.meitner.cz/en/manual</loc>
@@ -40,7 +38,6 @@
                  hreflang="en"
                  href="http://edithosts.meitner.cz/en/manual"
                  />
-    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/en/contact</loc>
@@ -54,7 +51,6 @@
                  hreflang="en"
                  href="http://edithosts.meitner.cz/en/contact"
                  />
-    <changefreq>hourly</changefreq>
   </url>
   <url>
     <loc>http://edithosts.meitner.cz/en/donate</loc>
@@ -68,7 +64,6 @@
                  hreflang="en"
                  href="http://edithosts.meitner.cz/en/donate"
                  />
-    <changefreq>hourly</changefreq>
   </url>
     <url>
     <loc>http://www.meitner.cz/rss.xml</loc>
@@ -77,6 +72,5 @@
                  hreflang="cs"
                  href="http://www.meitner.cz/rss.xml"
                  />
-    <changefreq>hourly</changefreq>
   </url>
 </urlset>
