@@ -1,3 +1,4 @@
+0.0.0.0 10.im.cz
 0.0.0.0 bbcdn.go.cz.bbelements.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.eu.bbelements.com
