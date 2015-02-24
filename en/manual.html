@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Jiří Meitner">
+    	<!-- Google Authorship and Publisher Markup -->
+		<link rel="author" href="https://plus.google.com/+JiříMeitner/posts"/>
+		<link rel="author" href="https://plus.google.com/+MeitnerCz/posts">
+		<link rel="publisher" href="https://plus.google.com/+JiříMeitner/posts">
+    <link rel="publisher" href="https://plus.google.com/+MeitnerCz/posts/">
+        <!-- Google Authorship and Publisher Markup -->
+    <meta name="description" content="Edithosts slouží pro blokování reklamy a malware webů na Linuxu.">
+    <meta name="keywords" content="Edithosts,Linux,bezpečnost,reklama,antimalware,security">
+    <meta property="og:title" content="EditHosts" />
+    <meta property="og:type" content="website" />
+    <meta content="http://l.meitner.cz/eh2.png" property="og:image">
+    <meta property="og:description" content="Edithosts slouží pro blokování reklamy a malware webů na Linuxu." />
+    <meta property="og:locale" content="en" />
+    <meta property="og:site_name" content="EditHosts" />
+    <meta property="og:latitude" content="50.0626875"/>
+    <meta property="og:longitude" content="14.4463600"/>
+    <meta property="og:street-address" content="Družstevní 1376/3" />
+    <meta property="og:locality" content="Praha 4–Nusle" />
+    <meta property="og:postal-code" content="140 00" />
+    <meta property="og:country-name" content="Česká republika" /> 
+    <meta property="fb:page_id" content="1567189916857947">
+    <meta property="fb:admins" content="1257777335">
+    <meta name="apple-mobile-web-app-title" content="edithosts.meitner.cz" />
+    <meta name="robots" content="index, follow">
+<link rel="apple-touch-icon" href="http://l.meitner.cz/eh2.png" />    
+<link rel="shortcut icon" href="http://l.meitner.cz/eh2.png" />
+<link href="http://l.meitner.cz/eh2.png" rel="image_src"> 
+<link href='http://l.meitner.cz/eh.png' rel='icon' type='image/x-icon'/>
+<link rel="me" href="https://plus.google.com/+JiříMeitner/about" />
+<link rel="me" href="https://plus.google.com/+MeitnerCz/about" />
+<link href='https://plus.google.com/+JiříMeitner' rel='publisher'/>
+<link href='https://plus.google.com/+MeitnerCz' rel='publisher'/>
+<link rel="alternate" type="application/rss+xml" title="Meitner.cz" href="http://www.meitner.cz/rss.xml" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/stylesheet-test.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print">
+    
+    <!-- výše uvedené stejné na všech stránkách -->
+    
+<title>Návod</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <h1><a href="http://edithosts.meitner.cz"><img src="http://farm9.staticflickr.com/8662/16363128967_1a6be57260_o.png" alt="EditHosts"></a></h1>
+        
+        
+        <h2>Edithosts je program pro blokování reklam, zvýšení bezpečnosti a ochranu soukromí pro operační systémy GNU/Linux</h2>
+        
+            <!-- menu -->
+<nav>
+ <p>
+      <a href="http://edithosts.meitner.cz" class="btn" tabindex="1">O EditHosts</a>
+      <a href="http://edithosts.meitner.cz/instalace" class="btn" tabindex="2">Instalace</a>
+      <a href="http://edithosts.meitner.cz/navod" class="btn" tabindex="3">Návod</a>
+      <a href="http://edithosts.meitner.cz/prispevek" class="btn" tabindex="4">Přispějte</a>
+      <a href="http://edithosts.meitner.cz/kontakt" class="btn" tabindex="5">Kontakt</a>
+ </p>
+</nav>
+            <!-- menu -->  
+       
+  <!-- Umístěte tuto značku do záhlaví nebo těsně před značku konce těla textu. -->
+  <script src="https://apis.google.com/js/platform.js" async defer>
+  </script>
+  <!-- Umístěte tuto značku na místo, kde se má widget tlačítko +1 zobrazit. -->
+  <div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://edithosts.meitner.cz"></div>
+      </div>
+    </header>
+
+<div class="container">
+<article>
+<h3>
+<a id="man_edithosts" class="anchor" href="#man_edithosts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Manuál</h3>
+Upraveno <time datetime="2015-02-20">20. února 2015</time> 
+
+<p>Předpokládejme, že máte operační systém Linux, máte nainstalovaný git, jste superuživatel root nebo máte právo používat příkaz sudo.
+<p>Edithosts nemůžete v žádném případě používat na systému Windows (ne, opravdu ani na Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, ani na jakékoliv superbudoucí verzi Woken, snad jen kdyby společnost Microsoft začala své nové produkty dělat na linuxovém základě).</p>
+
+<div>
+<h4>Instalace:</h4>
+
+<pre><code>cd /tmp
+git clone https://github.com/jiri001meitner/edithosts.git
+edithosts/install.sh</code></pre>
+<blockquote>
+  Slouží k instalaci programu a zálohování aktuálního nastavení v /etc/hosts.
+</blockquote>
+</div>
+
+<div>  
+<h4>Odinstalace:</h4>
+
+<pre><code>/opt/edithosts/uninstall.sh</code></pre>
+<blockquote>
+  Slouží k odinstalaci programu a vrácení všech nastavení.
+</blockquote>
+</div>
+
+<p>S instalací a odinstalací si většina uživatelů vystačí.</p>
+
+<div>
+<h3>Pro pokročilejší</h3>
+
+<pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
+nebo
+<pre><code>temporarilydisableblocking</code></pre>
+
+<blockquote>
+  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut (pokud vám nastavená doba nevyhovuje, můžete jí změnit v souboru <span>/opt/edithosts/temporarilydisableblocking.sh</span>.
+  Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině.
+Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes příkaz <span>refreshblocking</span>.
+</blockquote>
+</div>
+
+<div>
+<pre><code>/opt/edithosts/refreshblocking.sh</code></pre>
+nebo
+<pre><code>refreshblocking</code></pre>
+
+<blockquote>
+  Slouží pro ruční aktivaci blokování, pokud jste deaktivovali prostřednictvím <span>temporarilydisableblocking</span>.
+</blockquote>
+</div>
+
+<div>
+<h4>Ruční úprava souboru /etc/hosts</h4>
+
+<pre><code>/opt/edithosts/edithosts.sh</code></pre>
+nebo stačí zadat do terminálu pouze
+<pre><code>edithosts</code></pre>
+
+<blockquote>
+  Slouží pro editaci uživatelské části <span>/etc/hosts</span> (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru. 
+  Přímá editace souboru /etc/hosts jiným způsobem - například přes <span>sudo nano /etc/hosts</span> se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
+</blockquote>
+</div>
+
+<div>
+<h4>Další příkazy, info o souborech</h4>
+
+<pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
+<blockquote>
+  Je symbolickým odkazem k <span>/opt/edithosts/autoupdate.sh</span> a slouží k automatické měsíční aktualizaci programu.
+</blockquote>
+</div>
+
+<div>
+<pre><code>/etc/cron.weekly/edithosts</code></pre>
+<blockquote>
+  Je symbolickým odkazem k <span>/opt/edithosts/cron.weekly-edithosts</span> a slouží k týdenní automatické aktualizaci černé listiny.
+</blockquote>
+</div>
+
+<div>
+<pre><code>/opt/edithosts/gethosts.sh</code></pre>
+nebo v terminálu postačí pouze zadat
+<pre><code>gethosts</code></pre>
+<blockquote>
+  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu, ručně ho není potřeba spouštět.
+  Můžete ho ale spustit, pokud nechcete čekat automatickou synchronizaci <span>blacklist</span>u.
+</blockquote>
+</div>
+
+<div>
+<pre><code>man edithosts</code></pre>
+<blockquote>
+  Slouží pro zobrazení nápovědy.
+</blockquote>
+</div>
+
+</article>
+</div> 
+
+<!-- spodek -->
+<div>
+<div class="container">
+    <nav>
+      <h4 id="navhdr">Navigace na tomto webu</h4>
+      <ul id="navmenu">
+        <li><a href="http://edithosts.meitner.cz" tabindex="1">O EditHosts</a></li>
+        <li><a href="http://edithosts.meitner.cz/instalace" tabindex="2">Instalace</a></li>
+        <li><a href="http://edithosts.meitner.cz/navod" tabindex="3">Návod</a></li>
+        <li><a href="http://edithosts.meitner.cz/prispevek" tabindex="4">Dobrovolný příspěvek</a></li>
+        <li><a href="http://edithosts.meitner.cz/kontakt" tabindex="5">Kontakt</a></li>
+      </ul>
+    </nav>
+</div>
+<div class="container">
+    <nav>
+      <h5 id="odkazyhdr">Kam dál?</h5>
+      <ul id="odkazymenu">
+        <li><a href="http://www.meitner.cz/index.html" tabindex="1">Meitner.cz</a></li>
+        <li><a href="http://www.meitner.cz/2014/08/odvirovani-pc-nebo-notebooku-praha-4.html" tabindex="2">Odvirování</a></li>
+        <li><a href="http://www.meitner.cz/2014/05/Instalace-a-konfigurace-linuxu-se-zaskolenim-v-Praze.html" tabindex="3">Instalace Linuxu</a></li>
+        <li><a href="http://www.meitner.cz/2014/07/ze-stareho-pc-nadupane-delo.html" tabindex="4">Zrychlení počítače</a></li>
+        <li><a href="http://galerie.meitner.cz" tabindex="5">Galerie Meitner</a></li>
+        <li><a href="http://www.centruminvestic.cz" tabindex="6">Centrum Investic</a></li>
+      </ul>
+    </nav>
+  </div>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-49376349-5', 'auto');
+ga('require', 'displayfeatures', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+</script>
+</div>
+</body>
+</html>
