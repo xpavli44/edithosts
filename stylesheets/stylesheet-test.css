@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #444444;
+  background-color: YellowGreen;
   color: #eaeaea;
   font-size: 100%;
   line-height: 1.5;
@@ -38,7 +38,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed CornflowerBlue;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -49,7 +49,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: CornflowerBlue;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -82,7 +82,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: CornflowerBlue;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -131,7 +131,7 @@ ul li:before {
   content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 100%;
-  color: #b5e853;
+  color: CornflowerBlue;
   margin-left: -37px;
   margin-right: 21px;
   line-height: 16px;
@@ -148,7 +148,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 100%;
-  color: #b5e853;
+  color: CornflowerBlue;
   border-radius: 2px;
   overflow: auto;
   overflow-y: hidden;
@@ -161,7 +161,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed CornflowerBlue;
   padding: 5px 10px;
 }
 
@@ -172,8 +172,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed CornflowerBlue;
+  color: CornflowerBlue;
 }
 
 /* Buttons
@@ -197,11 +197,11 @@ hr {
 
 .btn {
   background: #34d95d;
-  background-image: -webkit-linear-gradient(top, #444444, #b5e853);
-  background-image: -moz-linear-gradient(top, #444444, #b5e853);
-  background-image: -ms-linear-gradient(top, #444444, #b5e853);
-  background-image: -o-linear-gradient(top, #444444, #b5e853);
-  background-image: linear-gradient(to bottom, #444444, #b5e853);
+  background-image: -webkit-linear-gradient(top, YellowGreen, CornflowerBlue);
+  background-image: -moz-linear-gradient(top, YellowGreen, CornflowerBlue);
+  background-image: -ms-linear-gradient(top, YellowGreen, CornflowerBlue);
+  background-image: -o-linear-gradient(top, YellowGreen, CornflowerBlue);
+  background-image: linear-gradient(to bottom, YellowGreen, CornflowerBlue);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 50px;
@@ -219,11 +219,11 @@ hr {
 
 .btn:hover {
   background: #2fbd1c;
-  background-image: -webkit-linear-gradient(top, #b5e853, #444444);
-  background-image: -moz-linear-gradient(top, #b5e853, #444444);
-  background-image: -ms-linear-gradient(top, #b5e853, #444444);
-  background-image: -o-linear-gradient(top, #b5e853, #444444);
-  background-image: linear-gradient(to bottom, #b5e853, #444444);
+  background-image: -webkit-linear-gradient(top, CornflowerBlue, YellowGreen);
+  background-image: -moz-linear-gradient(top, CornflowerBlue, YellowGreen);
+  background-image: -ms-linear-gradient(top, CornflowerBlue, YellowGreen);
+  background-image: -o-linear-gradient(top, CornflowerBlue, YellowGreen);
+  background-image: linear-gradient(to bottom, CornflowerBlue, YellowGreen);
   text-decoration: none;
 }
 
