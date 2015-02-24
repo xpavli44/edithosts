@@ -197,11 +197,11 @@ hr {
 
 .btn {
   background: #34d95d;
-  background-image: -webkit-linear-gradient(top, CornflowerBlue, DimGray);
-  background-image: -moz-linear-gradient(top, CornflowerBlue, DimGray);
-  background-image: -ms-linear-gradient(top, CornflowerBlue, DimGray);
-  background-image: -o-linear-gradient(top, CornflowerBlue, DimGray);
-  background-image: linear-gradient(to bottom, CornflowerBlue, DimGray);
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 50px;
@@ -219,11 +219,11 @@ hr {
 
 .btn:hover {
   background: #2fbd1c;
-  background-image: -webkit-linear-gradient(top, DimGray, CornflowerBlue);
-  background-image: -moz-linear-gradient(top, DimGray, CornflowerBlue);
-  background-image: -ms-linear-gradient(top, DimGray, CornflowerBlue);
-  background-image: -o-linear-gradient(top, DimGray, CornflowerBlue);
-  background-image: linear-gradient(to bottom, DimGray, CornflowerBlue);
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
   text-decoration: none;
 }
 
