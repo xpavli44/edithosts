@@ -238,7 +238,7 @@ hr {
   text-decoration: none;
 }
 
-.btn .icon {
+/*.btn .icon {
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -249,7 +249,7 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
-}
+}*/
 
 /* Links
    a, a:hover, a:visited
