@@ -10,9 +10,24 @@ body {
 
 /* General & 'Reset' Stuff */
 
+/*responsive*/
+@media (min-width: 700px) {
 .container {
   width: 100%;
   max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 699px) {
+.container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+@media (max-width: 400px) {
+.container {
+  width: 100%;
   margin: 0 auto;
 }
 
