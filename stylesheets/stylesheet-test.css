@@ -18,7 +18,7 @@ body {
 
 section {
   display: block;
-  margin: 0 0 2% 0;
+  margin: 0 0 2px 0;
 }
 
 /*h1, h2, h3, h4, h5, h6 {
@@ -50,9 +50,9 @@ header h1 {
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
-  text-shadow: 0 1% 1% rgba(0, 0, 0, 0.1),
-               0 0 5% rgba(181, 232, 83, 0.1),
-               0 0 10% rgba(181, 232, 83, 0.1);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -0.03em;
 }
 
@@ -77,6 +77,12 @@ header h2 {
 
 section img {
   max-width: 100%
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box
 }
 
 h1, h2, h3, h4, h5, h6 {
