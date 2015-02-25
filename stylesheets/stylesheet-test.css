@@ -62,11 +62,11 @@ header h2 {
   color: #808000;
 }
 
-#downloads .btn {
+/*#downloads .btn {
   display: inline-block;
   text-align: center;
   margin: 0;
-}
+}*/
 
 /* Main Content
 */
@@ -82,7 +82,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: LimeGreen;
+  color: Green;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -207,7 +207,7 @@ hr {
 }*/
 
 .btn {
-  background: #34d95d;
+  background: DimGray;
   background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
   background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
   background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
@@ -229,7 +229,7 @@ hr {
 }
 
 .btn:hover {
-  background: #2fbd1c;
+  background: DimGray;
   background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
