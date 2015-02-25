@@ -16,20 +16,20 @@ body {
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
-}
+}}
 
 @media (max-width: 699px) {
 .container {
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
-}
+}}
 
 @media (max-width: 400px) {
 .container {
   width: 100%;
   margin: 0 auto;
-}
+}}
 
 section {
   display: block;
