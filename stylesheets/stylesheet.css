@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #444444;
+  background-color:  #444444;
   color: #eaeaea;
   font-size: 100%;
   line-height: 1.5;
@@ -10,15 +10,45 @@ body {
 
 /* General & 'Reset' Stuff */
 
+/*responsive*/
+@media (min-width: 700px) {
 .container {
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
-}
+}}
+
+@media (max-width: 699px) {
+.container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}}
+
+@media (max-width: 400px) {
+.container {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}}
+
+@media (max-width: 300px) {
+.container {
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+}}
+
+@media (max-width: 250px) {
+.container {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+}}
 
 section {
   display: block;
-  margin: 0 0 20px 0;
+  margin: 0 0 2px 0;
 }
 
 /*h1, h2, h3, h4, h5, h6 {
@@ -39,21 +69,21 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
+  padding: 2px 0;
+  margin: 0 0 4px 0;
 }
 
 header h1 {
   font-size: 175%;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  /*margin: 0 0 0 -40px;*/
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
+  letter-spacing: -0.03em;
 }
 
 header h2 {
@@ -62,11 +92,11 @@ header h2 {
   color: #808000;
 }
 
-#downloads .btn {
+/*#downloads .btn {
   display: inline-block;
   text-align: center;
   margin: 0;
-}
+}*/
 
 /* Main Content
 */
@@ -77,6 +107,12 @@ header h2 {
 
 section img {
   max-width: 100%
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -91,30 +127,31 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h1 {
   font-size: 175%;
+  margin: 0 0 5px 0;
 }
 
 #main_content h2 {
   font-size: 120%;
+  margin: 0 0 5px 0;
 }
 
 #main_content h3 {
   font-size: 115%;
+  margin: 0 0 5px 0;
 }
 
 #main_content h4 {
   font-size: 110%;
+  margin: 0 0 5px 0;  
 }
 
 #main_content h5 {
   font-size: 105%;
-  text-transform: uppercase;
   margin: 0 0 5px 0;
 }
 
 #main_content h6 {
   font-size: 103%;
-  text-transform: uppercase;
-  color: #999;
   margin: 0 0 5px 0;
 }
 
@@ -125,6 +162,10 @@ dt {
 
 ul li {
   list-style: none;
+}
+
+ul li:first-letter {
+  text-transform: capitalize;
 }
 
 ul li:before {
@@ -173,39 +214,41 @@ hr {
   height: 0;
   border: 0;
   border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  color: Yellow;
 }
 
-/* Buttons
-*/
+/* Buttons*/
 
 .btn {
-  display: inline-block;
-  padding: 8px 16px;
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
   border-radius: 50px;
-  border: 2px solid rgba(0, 0, 0, 0.7);
-  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
-  border-top: 2px solid rgba(0, 0, 0, 1);
-  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
   font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  color: #ffffff;
   font-size: 100%;
+  padding: 10px 20px 10px 20px;
+  border: solid #030003 2px;
   text-decoration: none;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
-.btn .icon {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  margin: 1px 8px 0 0;
-  float: left;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+.btn:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  text-decoration: none;
 }
 
 /* Links
@@ -214,6 +257,16 @@ hr {
 
 a {
   color: Yellow;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a:hover {
+  color: Lime;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a:active {
+  color:  #AAAAAA;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
