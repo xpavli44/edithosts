@@ -238,13 +238,13 @@ hr {
   text-decoration: none;
 }
 
-.btn .icon {
+/*.btn .icon {
   display: inline-block;
   width: 16px;
   height: 16px;
   margin: 1px 8px 0 0;
   float: left;
-}
+}*/
 
 .btn-github .icon {
   opacity: 0.6;
