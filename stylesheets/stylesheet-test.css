@@ -28,6 +28,21 @@ body {
 @media (max-width: 400px) {
 .container {
   width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}}
+
+@media (max-width: 300px) {
+.container {
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+}}
+
+@media (max-width: 250px) {
+.container {
+  width: 100%;
+  max-width: 200px;
   margin: 0 auto;
 }}
 
