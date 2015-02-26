@@ -278,7 +278,6 @@ a:active {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.03em;
 }
 
 .share:hover {
@@ -288,7 +287,6 @@ a:active {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.03em;
 }
 
 .share:active {
@@ -298,7 +296,6 @@ a:active {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.03em;
 }
 
 /* Clearfix */
