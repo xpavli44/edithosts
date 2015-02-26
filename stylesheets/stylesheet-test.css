@@ -271,7 +271,7 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-.share {
+/*.share {
   color: White;
   font-size: 105%;
   font-weight: bold;
@@ -293,18 +293,87 @@ a:active {
   font-weight: bold;
   text-decoration: none;
   letter-spacing: -0.1em
-}
+}*/
 
 .googleplus {
   background-color:  #DD4B39;
+  color: White;
+  font-size: 105%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
 }
 
 .facebook {
   background-color:  #4B67A1;
+  color: White;
+  font-size: 105%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
 }
 
 .twitter {
   background-color: #00ACEE;
+  color: White;
+  font-size: 105%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.googleplus:hover {
+  background-color:  #DD4B39;
+  color: White;
+  font-size: 107%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.facebook:hover {
+  background-color:  #4B67A1;
+  color: White;
+  font-size: 107%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.twitter:hover {
+  background-color: #00ACEE;
+  color: White;
+  font-size: 107%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.googleplus:active {
+  background-color:  #DD4B39;
+  color: White;
+  font-size: 110%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.facebook:active {
+  background-color:  #4B67A1;
+  color: White;
+  font-size: 110%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.twitter:active {
+  background-color: #00ACEE;
+  color: White;
+  font-size: 110%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
 }
 
 /* Clearfix */
