@@ -238,7 +238,7 @@ hr {
   box-shadow: 0px 1px 3px #666666;
   font-family: Helvetica, Arial, sans-serif;
   color: #ffffff;
-  font-size: 100%;
+  font-size: 110%;
   padding: 10px 20px 10px 20px;
   border: solid #030003 2px;
   text-decoration: none;
@@ -251,7 +251,7 @@ hr {
   background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
-  font-size: 125%;
+  font-size: 130%;
   text-decoration: none;
 }
 
