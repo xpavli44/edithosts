@@ -242,6 +242,7 @@ hr {
   padding: 10px 20px 10px 20px;
   border: solid #030003 2px;
   text-decoration: none;
+  line-height: 1.5;
 }
 
 .btn:hover {
@@ -283,6 +284,7 @@ a:active {
   font-size: 108%;
   /*font-weight: bold;*/
   letter-spacing: -0.2em
+  line-height: 1.5;
 }
 
 .facebook {
@@ -293,6 +295,7 @@ a:active {
   font-size: 108%;
   /*font-weight: bold;*/
   letter-spacing: -0.2em
+  line-height: 1.5;
 }
 
 .twitter {
@@ -303,6 +306,7 @@ a:active {
   font-size: 108%;
   /*font-weight: bold;*/
   letter-spacing: -0.2em
+  line-height: 1.5;
 }
 
 .googleplus:hover {
