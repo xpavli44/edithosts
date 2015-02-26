@@ -251,7 +251,7 @@ hr {
   background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
-  font-size: 120%;
+  font-size: 125%;
   text-decoration: none;
 }
 
