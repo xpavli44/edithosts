@@ -273,10 +273,8 @@ a:active {
 
 .share {
   color: White;
-  font-size: 175%;
-  line-height: 1.5;
+  font-size: 120%;
   font-weight: bold;
-  color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -285,10 +283,8 @@ a:active {
 
 .share:hover {
   color: Gray;
-  font-size: 175%;
-  line-height: 1.5;
+  font-size: 120%;
   font-weight: bold;
-  color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -297,10 +293,8 @@ a:active {
 
 .share:active {
   color: Red;
-  font-size: 175%;
-  line-height: 1.5;
+  font-size: 120%;
   font-weight: bold;
-  color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
