@@ -273,29 +273,38 @@ a:active {
 
 .share {
   color: White;
-  background-color:  #fff;
   font-size: 105%;
-  /*font-weight: bold;*/
+  font-weight: bold;
   text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .share:hover {
   color: Red;
-  background-color:  #4B67A1;  
   font-size: 107%;
-  /*font-weight: bold;*/
+  font-weight: bold;
   text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .share:active {
   color: Lime;
-  background-color:  #DD4B39;  
   font-size: 110%;
-  /*font-weight: bold;*/
+  font-weight: bold;
   text-decoration: none;
   letter-spacing: -0.1em
+}
+
+.googleplus {
+  background-color:  #DD4B39;
+}
+
+.facebook {
+  background-color:  #4B67A1;
+}
+
+.twitter {
+  background-color: #00ACEE;
 }
 
 /* Clearfix */
