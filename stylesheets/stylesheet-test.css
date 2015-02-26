@@ -268,36 +268,13 @@ a {
 a:hover {
   color: Lime;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
+  }
 
 a:active {
   color:  #AAAAAA;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: blink;
 }
-
-/*.share {
-  color: White;
-  font-size: 105%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}
-
-.share:hover {
-  color: Red;
-  font-size: 107%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}
-
-.share:active {
-  color: Lime;
-  font-size: 110%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}*/
 
 .googleplus {
   text-decoration: none;
@@ -306,7 +283,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .facebook {
@@ -316,7 +293,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .twitter {
@@ -326,7 +303,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .googleplus:hover {
