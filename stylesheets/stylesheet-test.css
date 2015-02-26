@@ -271,6 +271,42 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+share {
+  color: White;
+  font-size: 175%;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #b5e853;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+  letter-spacing: -0.03em;
+}
+
+share:hover {
+  color: Gray;
+  font-size: 175%;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #b5e853;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+  letter-spacing: -0.03em;
+}
+
+share:active {
+  color: Red;
+  font-size: 175%;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #b5e853;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+  letter-spacing: -0.03em;
+}
+
 /* Clearfix */
 
 .cf:before, .cf:after {
