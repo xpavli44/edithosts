@@ -271,7 +271,7 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-share {
+.share {
   color: White;
   font-size: 175%;
   line-height: 1.5;
@@ -283,7 +283,7 @@ share {
   letter-spacing: -0.03em;
 }
 
-share:hover {
+.share:hover {
   color: Gray;
   font-size: 175%;
   line-height: 1.5;
@@ -295,7 +295,7 @@ share:hover {
   letter-spacing: -0.03em;
 }
 
-share:active {
+.share:active {
   color: Red;
   font-size: 175%;
   line-height: 1.5;
