@@ -71,6 +71,7 @@ header {
   border-bottom: 1px dashed #b5e853;
   padding: 2px 0;
   margin: 0 0 4px 0;
+  text-align: justify;
 }
 
 header h1 {
