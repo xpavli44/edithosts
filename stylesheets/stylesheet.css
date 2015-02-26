@@ -159,6 +159,7 @@ p {
 dt {
   font-style: italic;
   font-weight: bold;
+  text-align: justify;
 }
 
 ul li {
@@ -183,6 +184,7 @@ blockquote {
   color: #aaa;
   padding-left: 10px;
   border-left: 1px dotted #666;
+  text-align: justify;
 }
 
 pre {
@@ -259,6 +261,7 @@ hr {
 a {
   color: Yellow;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: none;
 }
 
 a:hover {
@@ -269,6 +272,90 @@ a:hover {
 a:active {
   color:  #AAAAAA;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+/*.share {
+  color: White;
+  font-size: 105%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.share:hover {
+  color: Red;
+  font-size: 107%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}
+
+.share:active {
+  color: Lime;
+  font-size: 110%;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -0.1em
+}*/
+
+.googleplus {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  #DD4B39;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.facebook {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  #4B67A1;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.twitter {
+  text-decoration: none;
+  text-align: justify;
+  background-color: #00ACEE;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.googleplus:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  White;
+  color: #DD4B39;
+  font-size: 120%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.facebook:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  White;
+  color: #4B67A1;
+  font-size: 120%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.twitter:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color: White;
+  color: #00ACEE;
+  font-size: 120%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
 }
 
 /* Clearfix */
