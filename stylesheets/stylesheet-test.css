@@ -280,7 +280,7 @@ a:active {
 }
 
 .share:hover {
-  color: Gray;
+  color: Red;
   font-size: 100%;
   /*font-weight: bold;*/
   text-decoration: none;
@@ -288,7 +288,7 @@ a:active {
 }
 
 .share:active {
-  color: Red;
+  color: Lime;
   font-size: 100%;
   /*font-weight: bold;*/
   text-decoration: none;
