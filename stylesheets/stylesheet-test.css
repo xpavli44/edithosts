@@ -159,6 +159,7 @@ p {
 dt {
   font-style: italic;
   font-weight: bold;
+  text-align: justify;
 }
 
 ul li {
@@ -183,6 +184,7 @@ blockquote {
   color: #aaa;
   padding-left: 10px;
   border-left: 1px dotted #666;
+  text-align: justify;
 }
 
 pre {
