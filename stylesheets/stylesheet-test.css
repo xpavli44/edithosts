@@ -273,7 +273,7 @@ a:active {
 
 .share {
   color: White;
-  font-size: 103%;
+  font-size: 105%;
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
@@ -281,7 +281,7 @@ a:active {
 
 .share:hover {
   color: Red;
-  font-size: 103%;
+  font-size: 110%;
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
@@ -289,7 +289,7 @@ a:active {
 
 .share:active {
   color: Lime;
-  font-size: 103%;
+  font-size: 110%;
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
