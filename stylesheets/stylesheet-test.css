@@ -277,6 +277,7 @@ a:active {
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 .share:hover {
@@ -285,6 +286,7 @@ a:active {
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 .share:active {
@@ -293,6 +295,7 @@ a:active {
   /*font-weight: bold;*/
   text-decoration: none;
   letter-spacing: -0.1em
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
