@@ -251,6 +251,7 @@ hr {
   background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 125%;
   text-decoration: none;
 }
 
@@ -267,36 +268,12 @@ a {
 a:hover {
   color: Lime;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
+  }
 
 a:active {
   color:  #AAAAAA;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
-
-/*.share {
-  color: White;
-  font-size: 105%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}
-
-.share:hover {
-  color: Red;
-  font-size: 107%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}
-
-.share:active {
-  color: Lime;
-  font-size: 110%;
-  font-weight: bold;
-  text-decoration: none;
-  letter-spacing: -0.1em
-}*/
 
 .googleplus {
   text-decoration: none;
@@ -305,7 +282,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .facebook {
@@ -315,7 +292,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .twitter {
@@ -325,7 +302,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.1em
+  letter-spacing: -0.2em
 }
 
 .googleplus:hover {
@@ -333,7 +310,7 @@ a:active {
   text-align: justify;
   background-color:  White;
   color: #DD4B39;
-  font-size: 120%;
+  font-size: 125%;
   /*font-weight: bold;*/
   letter-spacing: -0.1em
 }
@@ -343,7 +320,7 @@ a:active {
   text-align: justify;
   background-color:  White;
   color: #4B67A1;
-  font-size: 120%;
+  font-size: 125%;
   /*font-weight: bold;*/
   letter-spacing: -0.1em
 }
@@ -353,7 +330,7 @@ a:active {
   text-align: justify;
   background-color: White;
   color: #00ACEE;
-  font-size: 120%;
+  font-size: 125%;
   /*font-weight: bold;*/
   letter-spacing: -0.1em
 }
