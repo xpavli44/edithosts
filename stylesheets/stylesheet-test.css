@@ -279,21 +279,11 @@ a:active {
 .shareon {
   text-decoration: none;
   text-align: justify;
-  background-color:  Yellow;
-  color: White;
+  background-color:  #eaeaea;
+  color: #444444;
   font-size: 108%;
-  /*font-weight: bold;*/
-  letter-spacing: -0.2em
-}
-
-.shareon:hover {
-  text-decoration: none;
-  text-align: justify;
-  background-color:  White;
-  color: Yellow;
-  font-size: 108%;
-  /*font-weight: bold;*/
-  letter-spacing: -0.2em
+  font-weight: bold;
+  letter-spacing: -0.1em
 }
 
 .googleplus {
