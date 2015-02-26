@@ -273,26 +273,26 @@ a:active {
 
 .share {
   color: White;
-  font-size: 105%;
+  font-size: 100%;
   /*font-weight: bold;*/
   text-decoration: none;
-  letter-spacing: -0.05em
+  letter-spacing: -0.1em
 }
 
 .share:hover {
   color: Red;
-  font-size: 105%;
+  font-size: 100%;
   /*font-weight: bold;*/
   text-decoration: none;
-  letter-spacing: -0.05em
+  letter-spacing: -0.1em
 }
 
 .share:active {
   color: Lime;
-  font-size: 105%;
+  font-size: 100%;
   /*font-weight: bold;*/
   text-decoration: none;
-  letter-spacing: -0.05em
+  letter-spacing: -0.1em
 }
 
 /* Clearfix */
