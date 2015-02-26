@@ -296,56 +296,56 @@ a:active {
 }*/
 
 .googleplus {
+  text-decoration: none;
   background-color:  #DD4B39;
   color: White;
   font-size: 107%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .facebook {
+  text-decoration: none;
   background-color:  #4B67A1;
   color: White;
   font-size: 107%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .twitter {
+  text-decoration: none;
   background-color: #00ACEE;
   color: White;
   font-size: 107%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .googleplus:hover {
+  text-decoration: none;
   background-color:  White;
   color: #DD4B39;
-  font-size: 110%;
+  font-size: 115%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .facebook:hover {
+  text-decoration: none;
   background-color:  White;
   color: #4B67A1;
-  font-size: 110%;
+  font-size: 115%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
 .twitter:hover {
+  text-decoration: none;
   background-color: White;
   color: #00ACEE;
-  font-size: 110%;
+  font-size: 115%;
   font-weight: bold;
-  text-decoration: none;
   letter-spacing: -0.1em
 }
 
