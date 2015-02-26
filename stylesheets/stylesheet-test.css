@@ -298,6 +298,7 @@ a:active {
 
 .googleplus {
   text-decoration: none;
+  text-align: justify;
   background-color:  #DD4B39;
   color: White;
   font-size: 108%;
@@ -307,6 +308,7 @@ a:active {
 
 .facebook {
   text-decoration: none;
+  text-align: justify;
   background-color:  #4B67A1;
   color: White;
   font-size: 108%;
@@ -316,6 +318,7 @@ a:active {
 
 .twitter {
   text-decoration: none;
+  text-align: justify;
   background-color: #00ACEE;
   color: White;
   font-size: 108%;
@@ -325,6 +328,7 @@ a:active {
 
 .googleplus:hover {
   text-decoration: none;
+  text-align: justify;
   background-color:  White;
   color: #DD4B39;
   font-size: 120%;
@@ -334,6 +338,7 @@ a:active {
 
 .facebook:hover {
   text-decoration: none;
+  text-align: justify;
   background-color:  White;
   color: #4B67A1;
   font-size: 120%;
@@ -343,6 +348,7 @@ a:active {
 
 .twitter:hover {
   text-decoration: none;
+  text-align: justify;
   background-color: White;
   color: #00ACEE;
   font-size: 120%;
