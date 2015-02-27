@@ -295,6 +295,10 @@ a:active {
   background-color: #222222;
 }
 
+.paypal:hover {
+  background-color: #eaeaea;
+}
+
 .googleplus {
   text-decoration: none;
   text-align: justify;
