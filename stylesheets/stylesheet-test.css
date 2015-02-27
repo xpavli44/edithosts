@@ -279,12 +279,10 @@ a:active {
 .shareon {
   text-decoration: none;
   text-align: justify;
-  /*background-color:  #eaeaea;*/
-  /*color: #444444;*/
   color: White;
   font-size: 109%;
-  /*font-weight: bold;*/
-  letter-spacing: -0.2em
+  letter-spacing: -0.15em
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 .googleplus {
