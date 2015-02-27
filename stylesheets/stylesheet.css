@@ -79,18 +79,18 @@ header h1 {
   line-height: 1.5;
   /*margin: 0 0 0 -40px;*/
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.04em;
+  letter-spacing: -0.1em;
 }
 
 header h2 {
   font-size: 120%;
   font-weight: 300;
   color: #808000;
+  letter-spacing: -0.15em;
 }
 
 /* Main Content
