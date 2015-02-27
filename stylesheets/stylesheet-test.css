@@ -283,7 +283,15 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-.shareon:hover {
+.bank {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.bank:hover {
   background-color: #222222;
 }
 
