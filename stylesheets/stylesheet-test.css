@@ -278,7 +278,8 @@ a:active {
 .shareon {
   text-decoration: none;
   text-align: justify;
-  background-color: #eaeaea;
+  color: #eaeaea;
+  background-color: Gray;
   font-size: 108%;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
