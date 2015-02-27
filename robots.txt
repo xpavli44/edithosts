@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /sandbox
 Disallow: /en/
+Disallow: /thx
 
 Allow: /
 
