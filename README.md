@@ -77,8 +77,6 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 ###Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 
-#![paypal logo](http://goo.gl/x7gkAc)
-
 [PayPal účet či platební karta online](http://l.meitner.cz/paypal-edithosts)
 
 
