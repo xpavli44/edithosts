@@ -275,6 +275,18 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.vcard {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.vcard:hover {
+  background-color: #222222;
+}
+
 .shareon {
   text-decoration: none;
   text-align: justify;
