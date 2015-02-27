@@ -284,7 +284,7 @@ a:active {
   letter-spacing: -0.1em
 }
 
-.url:hover, .email:hover, .tel:hover {
+.url:hover, .email:hover, .tel:hover, .adr:hover {
   color: CornflowerBlue;
 }
 
