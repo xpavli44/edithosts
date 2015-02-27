@@ -283,8 +283,8 @@ a:active {
   /*color: #444444;*/
   color: White;
   font-size: 109%;
-  font-weight: bold;
-  letter-spacing: -0.2em
+  /*font-weight: bold;*/
+  letter-spacing: -0.12em
 }
 
 .googleplus {
