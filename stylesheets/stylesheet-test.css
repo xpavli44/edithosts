@@ -281,7 +281,7 @@ a:active {
   text-align: justify;
   color: #eaeaea;
   font-size: 108%;
-  letter-spacing: -0.13em
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 .googleplus {
