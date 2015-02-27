@@ -284,6 +284,15 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.shareon:hover {
+  text-decoration: none;
+  text-align: justify;
+  color: #222222;
+  background-color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
 .googleplus {
   text-decoration: none;
   text-align: justify;
