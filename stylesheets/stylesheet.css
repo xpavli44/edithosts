@@ -84,7 +84,7 @@ header h1 {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
 }
 
 header h2 {
@@ -276,6 +276,14 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.shareon {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
 .googleplus {
   text-decoration: none;
   text-align: justify;
@@ -283,7 +291,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.2em
+  letter-spacing: -0.14em
 }
 
 .facebook {
@@ -293,7 +301,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.2em
+  letter-spacing: -0.14em
 }
 
 .twitter {
@@ -303,7 +311,7 @@ a:active {
   color: White;
   font-size: 108%;
   /*font-weight: bold;*/
-  letter-spacing: -0.2em
+  letter-spacing: -0.14em
 }
 
 .googleplus:hover {
