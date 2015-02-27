@@ -275,6 +275,19 @@ a:active {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.vcard, .url, .email {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  letter-spacing: -0.1em
+}
+
+.url:hover, .email:hover, .tel:hover, .adr:hover, .category:hover {
+  color: CornflowerBlue;
+}
+
 .shareon {
   text-decoration: none;
   text-align: justify;
