@@ -94,6 +94,32 @@
 <li>Bitcoins: 1L8dtEf1EZU1A6mjkaCf78q2mHE4JVuBLP</li>
 </p></ul>
 
+ <style>
+  .bitpay-donate { margin:20px 0;}
+  .bitpay-donate fieldset {border:0;}
+  .bitpay-donate input {padding:4px 10px;}
+  .bitpay-donate select {padding:3px 10px;}
+  .bitpay-donate ul, .bitpay-donate li {padding:0;margin:0;list-style:none;}
+  .bitpay-donate li {padding:10px 0;}
+  .bitpay-donate-field {clear:both;}
+  .bitpay-donate-field label {float:left;width:100px;}
+  .bitpay-donate-field div {float:left;}
+  .bitpay-donate-field-email {width:80%;}
+  .bitpay-donate-field-price {width:40%;}
+  .bitpay-donate-field-currency {width:40%;}
+  .bitpay-donate-button-wrapper {clear:both;margin:auto;text-align:center;}
+  input.bitpay-donate-error {border:2px solid red;}
+  </style>
+  <form class="bitpay-donate" action="https://bitpay.com/checkout" method="post" onsubmit="return checkRequiredFields(this);">
+    <input name="action" type="hidden" value="checkout">
+    <fieldset>
+      <ul>
+        
+        <li class="bitpay-donate-field">
+          <label>Email:</label>
+          <input class="bitpay-donate-field-email" name="orderID" type="email" placeholder="Email address (optional)" maxlength=50 autocapitalize=off autocorrect=off><br>
+        </li>
+
 </section> 
 </div> 
 
