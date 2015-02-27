@@ -83,14 +83,13 @@ header h1 {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -0.1em;
 }
 
 header h2 {
   font-size: 120%;
   font-weight: 300;
   color: #808000;
-  letter-spacing: -0.15em;
+  letter-spacing: -0.13em;
 }
 
 /* Main Content
