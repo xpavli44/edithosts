@@ -281,10 +281,7 @@ a:active {
   color: #eaeaea;
   font-size: 108%;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
-
-.vcard:hover {
-  background-color: #222222;
+  letter-spacing: -0.1em
 }
 
 .shareon {
