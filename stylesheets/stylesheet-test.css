@@ -8,6 +8,38 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+/* 
+  Fluid navigation item without wrapping.
+  Use case of text-overflow: ellipsis;
+*/
+
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  background: #999;
+  color: #fff;  
+  text-decoration: none;
+}
+
+.nav,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
+
+
 /* General & 'Reset' Stuff */
 
 /*responsive*/
