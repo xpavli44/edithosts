@@ -17,7 +17,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
-  .btn {
+.btn {
   background: DarkOliveGreen;
   background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
   background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
@@ -57,7 +57,7 @@ body {
   max-width: 400px;
   margin: 0 auto;
 }
-  .btn {
+.btn {
   background: DarkOliveGreen;
   background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
   background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
@@ -98,16 +98,14 @@ body {
   margin: 0 auto;
 }
 .btn  { 
-background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
-color: White;
-text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-border : #030003 solid 1px; 
-text-decoration : none; 
-text-align: justify;
-font-size: 110%;
-letter-spacing: -0.10em
-line-height : 1.5; 
+  background : darkolivegreen; 
+  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  border : #030003 solid 1px; 
+  text-decoration : none; 
+  text-align: justify;
+  font-size: 110%;
 }
 }
 
@@ -118,16 +116,14 @@ line-height : 1.5;
   margin: 0 auto;
 }
 .btn  { 
-background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
-color: White;
-text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-border : #030003 solid 1px; 
-text-decoration : none; 
-text-align: justify;
-font-size: 112%;
-letter-spacing: -0.12em
-line-height : 1.5; 
+  background : darkolivegreen; 
+  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  border : #030003 solid 1px; 
+  text-decoration : none; 
+  text-align: justify;
+  font-size: 112%;
 }
 }
 
@@ -138,16 +134,14 @@ line-height : 1.5;
   margin: 0 auto;
 }
 .btn  { 
-background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
-color: White;
-text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-border : #030003 solid 1px; 
-text-decoration : none; 
-text-align: justify;
-font-size: 113%;
-letter-spacing: -0.13em
-line-height : 1.5; 
+  background : darkolivegreen; 
+  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  border : #030003 solid 1px; 
+  text-decoration : none; 
+  text-align: justify;
+  font-size: 113%;
 }
 }
 
