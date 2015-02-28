@@ -75,6 +75,7 @@ body {
 }
 
 .nav,
+.navmenu,
 .nav li {
   list-style-type: none;
   margin: 0;
@@ -116,6 +117,7 @@ body {
 }
 
 .nav,
+.navmenu,
 .nav li {
   list-style-type: none;
   margin: 0;
@@ -157,6 +159,7 @@ body {
 }
 
 .nav,
+.navmenu,
 .nav li {
   list-style-type: none;
   margin: 0;
@@ -195,6 +198,7 @@ body {
 }
 
 .nav,
+.navmenu,
 .nav li {
   list-style-type: none;
   margin: 0;
