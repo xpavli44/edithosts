@@ -8,37 +8,6 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
-/* 
-  Fluid navigation item without wrapping.
-  Use case of text-overflow: ellipsis;
-*/
-
-.nav a {  
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap; 
-  display: block;
-  padding: 1em;
-  background: #999;
-  color: #fff;  
-  text-decoration: none;
-}
-
-.nav,
-.nav li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav li {
-  box-sizing: border-box;  
-  width: 20%;  
-  display: inline-block;
-  border-left: .25em solid #fff;     
-  margin-left: -4px;  
-}
-
 
 /* General & 'Reset' Stuff */
 
@@ -91,18 +60,33 @@ body {
 }
 .btn {
   background: DarkOliveGreen;
-  border-radius: 25px;
   text-shadow: 1px 1px 2px #666666;
   box-shadow: 0px 1px 2px #666666;
   color: #ffffff;
   font-size: 110%;
-  padding: 5px 10px 5px 10px;
-  border: solid #030003 1px;
-  text-decoration: none;
-  line-height: 1.5;
+}
+.nav a {  
   text-overflow: ellipsis;
   overflow: hidden;
-  white-space: nowrap;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
 }
 }
 
@@ -122,6 +106,29 @@ body {
   overflow: hidden;
   white-space: nowrap;
 }
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
 }
 
 @media (max-width: 300px) {
@@ -140,6 +147,29 @@ body {
   overflow: hidden;
   white-space: nowrap;
 }
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
 }
 
 @media (max-width: 250px) {
@@ -154,6 +184,29 @@ body {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   font-size: 105%;
   text-decoration: none;
+}
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
 }
 }
 
