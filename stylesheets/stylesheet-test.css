@@ -57,18 +57,38 @@ body {
   max-width: 400px;
   margin: 0 auto;
 }
-.btn  { 
-background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray); 
-border-radius : 30px; 
-text-shadow : 1px 1px 3px #666666; 
-box-shadow : 0 1px 3px #666666; 
-color : #ffffff; 
-font-size : 100%; 
-border : #030003 solid 2px; 
-text-decoration : none; 
-line-height : 1.5; 
-} 
+  .btn {
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 100%;
+  padding: 10px 20px 10px 20px;
+  border: solid #030003 2px;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.btn:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 125%;
+  text-decoration: none;
+}
 }
 
 @media (max-width: 400px) {
@@ -79,17 +99,16 @@ line-height : 1.5;
 }
 .btn  { 
 background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray); 
-border-radius : 20px; 
-text-shadow : 1px 1px 3px #666666; 
-box-shadow : 0 1px 3px #666666; 
-font-family : Helvetica, Arial, sans-serif; 
-color : #ffffff; 
-font-size : 100%; 
+background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+color: White;
+text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 border : #030003 solid 1px; 
 text-decoration : none; 
+text-align: justify;
+font-size: 110%;
+letter-spacing: -0.10em
 line-height : 1.5; 
-} 
+}
 }
 
 @media (max-width: 300px) {
@@ -100,17 +119,16 @@ line-height : 1.5;
 }
 .btn  { 
 background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray); 
-border-radius : 10px; 
-text-shadow : 1px 1px 3px #666666; 
-box-shadow : 0 1px 3px #666666; 
-font-family : Helvetica, Arial, sans-serif; 
-color : #ffffff; 
-font-size : 100%; 
-border : #030003 solid 2px; 
+background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+color: White;
+text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+border : #030003 solid 1px; 
 text-decoration : none; 
+text-align: justify;
+font-size: 112%;
+letter-spacing: -0.12em
 line-height : 1.5; 
-} 
+}
 }
 
 @media (max-width: 250px) {
@@ -121,17 +139,16 @@ line-height : 1.5;
 }
 .btn  { 
 background : darkolivegreen; 
-background-image : linear-gradient(to bottom, darkolivegreen, dimgray); 
-border-radius : 15px; 
-text-shadow : 1px 1px 3px #666666; 
-box-shadow : 0 1px 3px #666666; 
-font-family : Helvetica, Arial, sans-serif; 
-color : #ffffff; 
-font-size : 100%; 
-border : #030003 solid 2px; 
+background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+color: White;
+text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+border : #030003 solid 1px; 
 text-decoration : none; 
+text-align: justify;
+font-size: 113%;
+letter-spacing: -0.13em
 line-height : 1.5; 
-} 
+}
 }
 
 section {
