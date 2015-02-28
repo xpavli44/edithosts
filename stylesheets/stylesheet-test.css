@@ -98,14 +98,11 @@ body {
   margin: 0 auto;
 }
 .btn  { 
-  background : darkolivegreen; 
-  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  border : #030003 solid 1px; 
-  text-decoration : none; 
-  text-align: justify;
   font-size: 110%;
+  text-decoration: none;
 }
 }
 
@@ -116,14 +113,11 @@ body {
   margin: 0 auto;
 }
 .btn  { 
-  background : darkolivegreen; 
-  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  border : #030003 solid 1px; 
-  text-decoration : none; 
-  text-align: justify;
   font-size: 112%;
+  text-decoration: none;
 }
 }
 
@@ -134,14 +128,11 @@ body {
   margin: 0 auto;
 }
 .btn  { 
-  background : darkolivegreen; 
-  background-image : linear-gradient(to bottom, darkolivegreen, dimgray);
+  background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  border : #030003 solid 1px; 
-  text-decoration : none; 
-  text-align: justify;
   font-size: 113%;
+  text-decoration: none;
 }
 }
 
