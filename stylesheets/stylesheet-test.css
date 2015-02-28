@@ -68,6 +68,9 @@ body {
   border: solid #030003 1px;
   text-decoration: none;
   line-height: 1.5;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 }
 
@@ -83,6 +86,9 @@ body {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   font-size: 105%;
   text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 }
 
@@ -98,6 +104,9 @@ body {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   font-size: 105%;
   text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 }
 
