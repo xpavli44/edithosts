@@ -63,7 +63,7 @@ body {
   text-shadow: 1px 1px 2px #666666;
   box-shadow: 0px 1px 2px #666666;
   color: #ffffff;
-  font-size: 115%;
+  font-size: 110%;
   padding: 5px 10px 5px 10px;
   border: solid #030003 1px;
   text-decoration: none;
@@ -81,7 +81,7 @@ body {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  font-size: 110%;
+  font-size: 105%;
   text-decoration: none;
 }
 }
@@ -96,7 +96,7 @@ body {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  font-size: 112%;
+  font-size: 105%;
   text-decoration: none;
 }
 }
@@ -111,7 +111,7 @@ body {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  font-size: 113%;
+  font-size: 105%;
   text-decoration: none;
 }
 }
