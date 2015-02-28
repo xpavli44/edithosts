@@ -58,7 +58,7 @@ body {
   max-width: 400px;
   margin: 0 auto;
 }
-.btn {
+.btn, .btn2 {
   background: DarkOliveGreen;
   text-shadow: 1px 1px 2px #666666;
   box-shadow: 0px 1px 2px #666666;
@@ -97,7 +97,7 @@ body {
   max-width: 350px;
   margin: 0 auto;
 }
-.btn  { 
+.btn, .btn2 {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
@@ -139,7 +139,7 @@ body {
   max-width: 250px;
   margin: 0 auto;
 }
-.btn  { 
+.btn, .btn2 {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
@@ -181,7 +181,7 @@ body {
   max-width: 200px;
   margin: 0 auto;
 }
-.btn  { 
+.btn, .btn2 {
   background-color: #222222;
   color: White;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
