@@ -114,6 +114,30 @@ body {
 .btn:hover, .btn2:hover {
     font-size: 130%;
 }
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.navmenu,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
 }
 
 @media (max-width: 699px) {
