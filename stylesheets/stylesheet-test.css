@@ -61,14 +61,36 @@ body {
   margin: 0 auto;
 }
 .btn, .btn2 {
-  background-color: #222222;
-  color: White;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  font-size: 120%;
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 110%;
+  padding: 12px 22px 12px 22px;
+  border: solid #030003 2px;
   text-decoration: none;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
+  line-height: 1.5;
+}
+.btn:hover, .btn2:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 130%;
+  text-decoration: none;
 }
 }
 
@@ -89,6 +111,9 @@ body {
   overflow: hidden;
   white-space: nowrap;
 }
+.btn:hover, .btn2:hover {
+    font-size: 130%;
+}
 }
 
 @media (max-width: 699px) {
@@ -106,6 +131,9 @@ body {
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
+}
+.btn:hover, .btn2:hover {
+    font-size: 120%;
 }
 .nav a {  
   text-overflow: ellipsis;
