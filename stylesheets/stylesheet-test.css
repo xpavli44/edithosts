@@ -60,7 +60,7 @@ body {
   max-width: 700px;
   margin: 0 auto;
 }
-.btn, .btn2 {
+.btn {
   background: DarkOliveGreen;
   background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
   background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
@@ -82,7 +82,7 @@ body {
   text-decoration: none;
   line-height: 1.5;
 }
-.btn:hover, .btn2:hover {
+.btn:hover {
   background: DimGray;
   background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
   background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
@@ -91,6 +91,9 @@ body {
   background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
   font-size: 130%;
   text-decoration: none;
+}
+.btn2 {
+    display: none;
 }
 }
 
