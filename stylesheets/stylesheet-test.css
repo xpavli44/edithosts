@@ -32,7 +32,7 @@ body {
   -webkit-box-shadow: 0px 1px 3px #666666;
   -moz-box-shadow: 0px 1px 3px #666666;
   box-shadow: 0px 1px 3px #666666;
-  font-family: Ubuntu, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #ffffff;
   font-size: 110%;
   padding: 12px 22px 12px 22px;
@@ -148,11 +148,14 @@ body {
   margin: 0 auto;
 }
 .btn, .btn2 {
-  background: DarkOliveGreen;
-  text-shadow: 1px 1px 2px #666666;
-  box-shadow: 0px 1px 2px #666666;
-  color: #ffffff;
-  font-size: 110%;
+  background-color: #222222;
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  font-size: 105%;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
 .nav a {  
   text-overflow: ellipsis;
