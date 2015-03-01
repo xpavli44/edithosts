@@ -1,6 +1,617 @@
 <!DOCTYPE html>
 <html lang="cs" dir="ltr" prefix="og: http://ogp.me/ns#">
   <head>
+  <style>
+body {
+  margin: 0;
+  padding: 0;
+  background-color:  #444444;
+  color: #eaeaea;
+  font-size: 100%;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
+
+/* General & 'Reset' Stuff */
+
+/*responsive*/
+@media (min-width: 1024px) {
+.container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.btn {
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Ubuntu, Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 110%;
+  padding: 12px 22px 12px 22px;
+  border: solid #030003 2px;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.btn:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 130%;
+  text-decoration: none;
+}
+.btn2 {
+    display: none;
+}
+}
+@media (max-width: 1023px) {
+.container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.btn {
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 100%;
+  padding: 10px 20px 10px 20px;
+  border: solid #030003 2px;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.btn:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 125%;
+  text-decoration: none;
+}
+.btn2 {
+    display: none;
+}
+}
+
+
+@media (max-width: 800px) {
+.container {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+}
+.btn {
+  background: DarkOliveGreen;
+  background-image: -webkit-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -moz-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -ms-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: -o-linear-gradient(top, DarkOliveGreen, DimGray);
+  background-image: linear-gradient(to bottom, DarkOliveGreen, DimGray);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 50px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 100%;
+  padding: 10px 20px 10px 20px;
+  border: solid #030003 2px;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.btn:hover {
+  background: DimGray;
+  background-image: -webkit-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -moz-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -ms-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: -o-linear-gradient(top, DimGray, DarkOliveGreen);
+  background-image: linear-gradient(to bottom, DimGray, DarkOliveGreen);
+  font-size: 125%;
+  text-decoration: none;
+}
+.btn2 {
+    display: none;
+}
+}
+
+@media (max-width: 699px) {
+.container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.btn, .btn2 {
+  background: DarkOliveGreen;
+  text-shadow: 1px 1px 2px #666666;
+  box-shadow: 0px 1px 2px #666666;
+  color: #ffffff;
+  font-size: 110%;
+}
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.navmenu,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
+}
+
+@media (max-width: 400px) {
+.container {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+.btn, .btn2 {
+  background-color: #222222;
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  font-size: 105%;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.navmenu,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
+}
+
+@media (max-width: 300px) {
+.container {
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+}
+.btn, .btn2 {
+  background-color: #222222;
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  font-size: 105%;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.navmenu,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
+}
+
+@media (max-width: 250px) {
+.container {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.btn, .btn2 {
+  background-color: #222222;
+  color: White;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  font-size: 105%;
+  text-decoration: none;
+}
+.nav a {  
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; 
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.nav,
+.navmenu,
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  box-sizing: border-box;  
+  width: 20%;  
+  display: inline-block;
+  border-left: .25em solid #fff;     
+  margin-left: -4px;  
+}
+}
+
+section {
+  display: block;
+  margin: 0 0 2px 0;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 20px;
+}*/
+
+li {
+  line-height: 1.4 ;
+}
+
+/*Header, <header>
+   header   - container
+   h1       - project name
+   h2       - project description*/
+
+
+header {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-bottom: 1px dashed #b5e853;
+  padding: 2px 0;
+  margin: 0 0 4px 0;
+  text-align: justify;
+}
+
+header h1 {
+  font-size: 175%;
+  line-height: 1.5;
+  /*margin: 0 0 0 -40px;*/
+  font-weight: bold;
+  color: #b5e853;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+}
+
+header h2 {
+  font-size: 120%;
+  font-weight: 300;
+  color: #808000;
+  letter-spacing: -0.12em;
+}
+
+/* Main Content
+*/
+
+#main_content {
+  width: 100%;
+}
+
+section img {
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #b5e853;
+  letter-spacing: -0.03em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+}
+
+#main_content h1 {
+  font-size: 175%;
+  margin: 0 0 5px 0;
+}
+
+#main_content h2 {
+  font-size: 120%;
+  margin: 0 0 5px 0;
+}
+
+#main_content h3 {
+  font-size: 115%;
+  margin: 0 0 5px 0;
+}
+
+#main_content h4 {
+  font-size: 110%;
+  margin: 0 0 5px 0;  
+}
+
+#main_content h5 {
+  font-size: 105%;
+  margin: 0 0 5px 0;
+}
+
+#main_content h6 {
+  font-size: 103%;
+  margin: 0 0 5px 0;
+}
+
+p {
+  text-align: justify;
+}
+
+dt {
+  font-style: italic;
+  font-weight: bold;
+  text-align: justify;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li:first-letter {
+  text-transform: capitalize;
+}
+
+ul li:before {
+  content: ">>";
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 100%;
+  color: #b5e853;
+  margin-left: -37px;
+  margin-right: 21px;
+  line-height: 16px;
+}
+
+blockquote {
+  color: #aaa;
+  padding-left: 10px;
+  border-left: 1px dotted #666;
+  text-align: justify;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  font-size: 100%;
+  color: #b5e853;
+  border-radius: 2px;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+table {
+  width: 100%;
+  margin: 0 0 20px 0;
+}
+
+th {
+  text-align: left;
+  border-bottom: 1px dashed #b5e853;
+  padding: 5px 10px;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+hr {
+  height: 0;
+  border: 0;
+  border-bottom: 1px dashed #b5e853;
+  color: Yellow;
+}
+
+/* Links
+   a, a:hover, a:visited
+*/
+
+a {
+  color: Yellow;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: none;
+}
+
+a:hover {
+  color: Lime;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  }
+
+a:active {
+  color:  #AAAAAA;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.vcard, .url, .email {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  letter-spacing: -0.1em
+}
+
+.url:hover, .email:hover, .tel:hover, .adr:hover, .category:hover {
+  color: CornflowerBlue;
+}
+
+.shareon {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.bank {
+  text-decoration: none;
+  text-align: justify;
+  color: #eaeaea;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.bank:hover {
+  background-color: #222222;
+}
+
+.paypal:hover {
+  background-color: #eaeaea;
+}
+
+.googleplus {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  #DD4B39;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.14em
+}
+
+.facebook {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  #4B67A1;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.14em
+}
+
+.twitter {
+  text-decoration: none;
+  text-align: justify;
+  background-color: #00ACEE;
+  color: White;
+  font-size: 108%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.14em
+}
+
+.googleplus:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  White;
+  color: #DD4B39;
+  font-size: 125%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.facebook:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color:  White;
+  color: #4B67A1;
+  font-size: 125%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+.twitter:hover {
+  text-decoration: none;
+  text-align: justify;
+  background-color: White;
+  color: #00ACEE;
+  font-size: 125%;
+  /*font-weight: bold;*/
+  letter-spacing: -0.1em
+}
+
+/* Clearfix */
+
+.cf:before, .cf:after {
+  content:"";
+  display:table;
+}
+
+.cf:after {
+  clear:both;
+}
+
+.hidden {
+    display: none;
+}
+  </style>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -38,7 +649,6 @@
 <link href='https://plus.google.com/+JiříMeitner' rel='publisher'/>
 <link href='https://plus.google.com/+MeitnerCz' rel='publisher'/>
 <link rel="alternate" type="application/rss+xml" title="Meitner.cz" href="http://www.meitner.cz/rss.xml" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
         <!-- hreflang( 
     <link rel="alternate" href="http://edithosts.meitner.cz/en/sandbox.html" hreflang="en" />
