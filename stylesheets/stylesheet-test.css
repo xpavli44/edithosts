@@ -50,6 +50,9 @@ body {
   font-size: 125%;
   text-decoration: none;
 }
+.btn2 {
+    display: none;
+}
 }
 
 @media (max-width: 699px) {
@@ -513,4 +516,8 @@ a:active {
 
 .cf:after {
   clear:both;
+}
+
+.hidden {
+    display: none;
 }
