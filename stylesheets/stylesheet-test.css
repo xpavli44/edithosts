@@ -301,10 +301,6 @@ section {
   margin: 0 0 20px;
 }*/
 
-li {
-  line-height: 1.4 ;
-}
-
 /*Header, <header>
    header   - container
    h1       - project name
@@ -407,18 +403,25 @@ dt {
   text-align: justify;
 }
 
+li {
+  line-height: 1.5 ;
+  text-align: justify;
+  font-size: 103%;
+}
+
 ul li {
   list-style: none;
+  text-align: justify;
 }
 
 ul li:first-letter {
   text-transform: capitalize;
+  text-align: justify;
 }
 
 ul li:before {
   content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 100%;
+  font-size: 103%;
   color: #b5e853;
   margin-left: -37px;
   margin-right: 21px;
