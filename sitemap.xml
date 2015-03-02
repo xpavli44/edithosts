@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>http://edithosts.meitner.cz/</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>http://edithosts.meitner.cz/instalace</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
-    <url>
-    <loc>http://edithosts.meitner.cz/navod</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>http://edithosts.meitner.cz/kontakt</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>http://edithosts.meitner.cz/prispevek</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
-    <url>
-    <loc>http://www.meitner.cz/rss.xml</loc>
-    <lastmod>2015-02-19T09:05:12+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>http://edithosts.meitner.cz/;http://edithosts.meitner.cz/en/</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/;http://edithosts.meitner.cz/en/" />
+	</url>
+	<url>
+		<loc>http://edithosts.meitner.cz/instalace;http://edithosts.meitner.cz/en/install</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/instalace;http://edithosts.meitner.cz/en/install" />
+	</url>
+	<url>
+		<loc>http://edithosts.meitner.cz/navod;http://edithosts.meitner.cz/en/manual</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/navod;http://edithosts.meitner.cz/en/manual" />
+	</url>
+	<url>
+		<loc>http://edithosts.meitner.cz/kontakt;http://edithosts.meitner.cz/en/contact</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/kontakt;http://edithosts.meitner.cz/en/contact" />
+	</url>
+	<url>
+		<loc>http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate" />
+	</url>
 </urlset>
