@@ -20,4 +20,8 @@
 		<loc>http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate</loc>
 		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate" />
 	</url>
+	<url>
+		<loc>http://www.meitner.cz/rss.xml</loc>
+		<xhtml:link rel="alternate" hreflang="cs" href="http://www.meitner.cz/rss.xml" />
+	</url>
 </urlset>
