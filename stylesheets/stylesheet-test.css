@@ -404,9 +404,9 @@ dt {
 }
 
 li {
-  line-height: 1.5 ;
+  line-height: 2;
   text-align: justify;
-  font-size: 110%;
+  font-size: 107%;
 }
 
 ul li {
@@ -421,11 +421,11 @@ ul li:first-letter {
 
 ul li:before {
   content: ">>";
-  font-size: 110%;
+  font-size: 107%;
   color: #b5e853;
   margin-left: -37px;
   margin-right: 21px;
-  line-height: 16px;
+  line-height: 2;
 }
 
 blockquote {
