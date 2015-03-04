@@ -83,100 +83,97 @@
 <article>
 <h3>
 <a id="man_edithosts" class="anchor" href="#man_edithosts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Manuál</h3>
-Upraveno <time datetime="2015-02-20">20. února 2015</time> 
+<time datetime="2015-03-02">Modified 04. March 2015</time>
 
-<p>Předpokládejme, že máte operační systém Linux, máte nainstalovaný git, jste superuživatel root nebo máte právo používat příkaz sudo.
-<p>Edithosts nemůžete v žádném případě používat na systému Windows (ne, opravdu ani na Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, ani na jakékoliv superbudoucí verzi Woken, snad jen kdyby společnost Microsoft začala své nové produkty dělat na linuxovém základě).</p>
+<p>First, make sure that you have a Linux operating system (such as Ubuntu, Debian or Linux Mint, etc.), you have Git and sudo installed, you have the right root and right sudo.</p>
+<p>Edithosts can not in any case be used on Windows (not really even on Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, or any future version of Windows, perhaps only if the company Microsoft started its new products to make the Linux based).</p>
 
 <div>
-<h4>Instalace:</h4>
+<h4>Install:</h4>
 
 <pre><code>cd /tmp
 git clone https://github.com/jiri001meitner/edithosts.git
 edithosts/install.sh</code></pre>
 <blockquote>
-  Slouží k instalaci programu a zálohování aktuálního nastavení v /etc/hosts.
+  Used for program installation and backup current settings /etc/hosts file.
 </blockquote>
 </div>
 
 <div>  
-<h4>Odinstalace:</h4>
+<h4>Uninstall:</h4>
 
 <pre><code>/opt/edithosts/uninstall.sh</code></pre>
 <blockquote>
-  Slouží k odinstalaci programu a vrácení všech nastavení.
+  Used to uninstall the program and return all settings.
 </blockquote>
 </div>
 
-<p>S instalací a odinstalací si většina uživatelů vystačí.</p>
+<p>Installation and uninstallation most users enough.</p>
 
 <div>
-<h3>Pro pokročilejší</h3>
+<h3>For advanced users</h3>
 
 <pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
-nebo
+or
 <pre><code>temporarilydisableblocking</code></pre>
 
 <blockquote>
-  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut (pokud vám nastavená doba nevyhovuje, můžete jí změnit v souboru <span>/opt/edithosts/temporarilydisableblocking.sh</span>.
-  Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině.
-Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes příkaz <span>refreshblocking</span>.
+Used to temporarily deactivate blocking, that is set to 10 minutes (if you set time does not, you can change the file <span>/opt/edithosts/temporarilydisableblocking.sh</span>. When you do not eat any web, so that's how you can check whether it is not blacklisted.
+If you press Ctrl + C (^C) (in terminal) and Edithosts remains blocked until it manually not wake up through the command <span>refreshblocking</span>.
 </blockquote>
 </div>
 
 <div>
 <pre><code>/opt/edithosts/refreshblocking.sh</code></pre>
-nebo
+or
 <pre><code>refreshblocking</code></pre>
 
 <blockquote>
-  Slouží pro ruční aktivaci blokování, pokud jste deaktivovali prostřednictvím <span>temporarilydisableblocking</span>.
+Use to manually activate the blocking (if you have disabled via <span>temporarilydisableblocking</span>).
 </blockquote>
 </div>
 
 <div>
-<h4>Ruční úprava souboru /etc/hosts</h4>
+<h4>Manually editing the file <span>/etc/hosts</span></h4>
 
 <pre><code>/opt/edithosts/edithosts.sh</code></pre>
-nebo stačí zadat do terminálu pouze
+or just enter in the terminal only
 <pre><code>edithosts</code></pre>
 
 <blockquote>
-  Slouží pro editaci uživatelské části <span>/etc/hosts</span> (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru. 
-  Přímá editace souboru /etc/hosts jiným způsobem - například přes <span>sudo nano /etc/hosts</span> se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
+For editing <span>/etc/hosts</span> in your favorite text editor. Direct editing the file <span>/etc/hosts</span> another way - for example, via <span>sudo nano /etc/hosts</span> is not recommended because when you update would erase the changes.
 </blockquote>
 </div>
 
 <div>
-<h4>Další příkazy, info o souborech</h4>
+<h4>Additional commands, info about files</h4>
 
 <pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
 <blockquote>
-  Je symbolickým odkazem k <span>/opt/edithosts/autoupdate.sh</span> a slouží k automatické měsíční aktualizaci programu.
+It is a symbolic link to <span>/opt/edithosts/autoupdate.sh</span> and used for automatic monthly updates of the EditHosts tools.
 </blockquote>
 </div>
 
 <div>
 <pre><code>/etc/cron.weekly/edithosts</code></pre>
 <blockquote>
-  Je symbolickým odkazem k <span>/opt/edithosts/cron.weekly-edithosts</span> a slouží k týdenní automatické aktualizaci černé listiny.
+ It is a symbolic link to <span>/opt/edithosts/cron.weekly-edithosts</span> and is used to automatically updates (weekly) blacklist.
 </blockquote>
 </div>
 
 <div>
 <pre><code>/opt/edithosts/gethosts.sh</code></pre>
-nebo v terminálu postačí pouze zadat
+or in the terminal only need to enter
 <pre><code>gethosts</code></pre>
 <blockquote>
-  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu, ručně ho není potřeba spouštět.
-  Můžete ho ale spustit, pokud nechcete čekat automatickou synchronizaci <span>blacklist</span>u.
+Used to manually update the blacklist.
 </blockquote>
 </div>
 
 <div>
 <pre><code>man edithosts</code></pre>
 <blockquote>
-  Slouží pro zobrazení nápovědy.
+Used to display manual page.
 </blockquote>
 </div>
 
