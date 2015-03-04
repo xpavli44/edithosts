@@ -497,8 +497,17 @@ a:active {
   letter-spacing: -0.1em
 }
 
-.url:hover, .email:hover, .tel:hover, .adr:hover, .category:hover, .hosts:hover {
+.url:hover, .email:hover, .tel:hover, .adr:hover, .category:hover, .hosts:hover, .urlang:hover {
   color: CornflowerBlue;
+}
+
+.urlang
+  text-decoration: none;
+  text-align: justify;
+  color: #DD4B39;
+  font-size: 108%;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  letter-spacing: -0.2em
 }
 
 .shareon {
