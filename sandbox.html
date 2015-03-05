@@ -38,8 +38,8 @@
 <link href='https://plus.google.com/+JiříMeitner' rel='publisher'/>
 <link href='https://plus.google.com/+MeitnerCz' rel='publisher'/>
 <link rel="alternate" type="application/rss+xml" title="Meitner.cz" href="http://www.meitner.cz/rss.xml" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+ <!--<link rel="stylesheet" type="text/css" href="http://edithosts.meitner.cz/stylesheets/style.min.css" media="screen">-->
+     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
  <!-- výše uvedené stejné na všech stránkách -->
     <!-- hreflang↓ -->
     <link rel="alternate" href="http://edithosts.meitner.cz/en/sandbox" hreflang="en" />
@@ -60,7 +60,19 @@
 	</h2>
         </div>
    <!-- cztittle+h2↑ --> 
-   
+<!-- csstest↓ --> 
+<script>
+      var cb = function() {
+        var l = document.createElement('link'); l.rel = 'stylesheet';
+        l.href = 'http://edithosts.meitner.cz/stylesheets/style.min.css';
+        var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(cb);
+      else window.addEventListener('load', cb);
+    </script>
+<!-- csstest↑ -->    
    <!-- czmenu↓ -->
         <div class="container">   
 <nav class="nav" role="navigation"><p>
