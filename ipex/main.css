@@ -142,13 +142,13 @@ height : 100%;
 } 
  .upstin  { 
 
-height : 20px; 
+height : auto; 
 
 background-image : url(http://www.ipexpraha.cz/obrazky/upstin.jpg); 
 } 
  .downstin  { 
 
-height : 35px; 
+height : auto; 
 
 background-image : url(http://www.ipexpraha.cz/obrazky/downstin.jpg); 
 } 
@@ -158,7 +158,7 @@ width : 100%;
 } 
  .logo  { 
 
-height : 171px; 
+height : auto; 
 
 text-align : center; 
 
@@ -370,4 +370,7 @@ padding : 15px 0 0 10px;
 } 
 .maintable  {
 padding: 0;
+}
+.prodejna  {
+vertical-align: right;
 }
