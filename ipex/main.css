@@ -100,7 +100,7 @@ height : 100%;
 } 
  .stredtd  { 
 
-width : 685px; 
+width : auto; 
 } 
  .font  { 
 
@@ -108,7 +108,7 @@ font-size : 70%;
 } 
  .okrajup  { 
 
-height : 45px; 
+height : auto; 
 
 border-bottom : 1px solid #E1E1E1; 
 
@@ -168,9 +168,9 @@ background-image : url(http://www.ipexpraha.cz/obrazky/logobcgr.png);
 } 
  .motivimg  { 
 
-width : 428px; 
+width : auto; 
 
-height : 171px; 
+height : auto; 
 
 background-image : url(http://www.ipexpraha.cz/obrazky/motiv01.jpg); 
 } 
