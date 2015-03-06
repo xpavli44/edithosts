@@ -317,6 +317,5 @@ text-align : center;
 padding : 15px 0 0 10px; 
 } 
 .maintable  {
-cellSpacing=0
-cellPadding=0
+padding: 0;
 }
