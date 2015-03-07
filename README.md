@@ -77,11 +77,12 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 ###Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 
-#![paypal logo](http://goo.gl/x7gkAc)
-
 [PayPal účet či platební karta online](http://l.meitner.cz/paypal-edithosts)
 
 
-Fio banka: 2100068351/2010
+>Fio banka: 2100068351/2010
 
-mBank: 670100-2201542227/6210
+>mBank: 670100-2201542227/6210
+
+>Bitcoiny: 1L8dtEf1EZU1A6mjkaCf78q2mHE4JVuBLP
+
