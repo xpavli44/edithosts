@@ -3,3 +3,5 @@
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.idnes.bbelements.com
 0.0.0.0 go.ihned.bbelements.com
+0.0.0.0 ac3.msn.com
+0.0.0.0 live.rads.msn.com
