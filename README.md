@@ -1,5 +1,9 @@
 ![edithosts logo](http://l.meitner.cz/edithosts.logo.png)
 
+#[English]	(http://edithosts.meitner.cz/en)
+
+#[Czech]	(http://edithosts.meitner.cz/)
+
 ##O projektu
 
 Zde bych Vás rád seznámil s projektem Edithosts na blokování reklamy a malware webů na systému GNU/Linux.
