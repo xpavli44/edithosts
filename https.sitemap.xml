@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
-		<loc>http://edithosts.meitner.cz/;http://edithosts.meitner.cz/en/</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/;http://edithosts.meitner.cz/en/" />
+		<loc>https://jiri001meitner.github.io/edithosts/;https://jiri001meitner.github.io/edithosts/en/</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="https://jiri001meitner.github.io/edithosts/;https://jiri001meitner.github.io/edithosts/en/" />
 	</url>
 	<url>
-		<loc>http://edithosts.meitner.cz/instalace;http://edithosts.meitner.cz/en/install</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/instalace;http://edithosts.meitner.cz/en/install" />
+		<loc>https://jiri001meitner.github.io/edithosts/instalace;https://jiri001meitner.github.io/edithosts/en/install</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="https://jiri001meitner.github.io/edithosts/instalace;https://jiri001meitner.github.io/edithosts/en/install" />
 	</url>
 	<url>
-		<loc>http://edithosts.meitner.cz/navod;http://edithosts.meitner.cz/en/manual</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/navod;http://edithosts.meitner.cz/en/manual" />
+		<loc>https://jiri001meitner.github.io/edithosts/navod;https://jiri001meitner.github.io/edithosts/en/manual</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="https://jiri001meitner.github.io/edithosts/navod;https://jiri001meitner.github.io/edithosts/en/manual" />
 	</url>
 	<url>
-		<loc>http://edithosts.meitner.cz/kontakt;http://edithosts.meitner.cz/en/contact</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/kontakt;http://edithosts.meitner.cz/en/contact" />
+		<loc>https://jiri001meitner.github.io/edithosts/kontakt;https://jiri001meitner.github.io/edithosts/en/contact</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="https://jiri001meitner.github.io/edithosts/kontakt;https://jiri001meitner.github.io/edithosts/en/contact" />
 	</url>
 	<url>
-		<loc>http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate" />
+		<loc>https://jiri001meitner.github.io/edithosts/prispevek;https://jiri001meitner.github.io/edithosts/en/donate</loc>
+		<xhtml:link rel="alternate" hreflang="cs;en" href="https://jiri001meitner.github.io/edithosts/prispevek;https://jiri001meitner.github.io/edithosts/en/donate" />
 	</url>
 	<url>
 		<loc>http://www.meitner.cz/rss.xml</loc>
