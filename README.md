@@ -1,6 +1,6 @@
 ![edithosts logo](http://l.meitner.cz/edithosts.logo.png)
 
-EditHosts  [![Buy me a coffee](//farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
+EditHosts  [![Buy me a coffee](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
 
 #[English]	(http://edithosts.meitner.cz/en)
 
