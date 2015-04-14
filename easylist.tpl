@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 14 Apr 2015 14:01 UTC
+# Last modified: 14 Apr 2015 23:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -14304,6 +14304,7 @@ msFilterList
 -d cnetwidget.creativemark.co.uk
 -d cnn.com /ad-
 -d cnn.com /cnn_adspaces/
+# ||cnn.com^*/ad_policy.xml$object-subrequest,domain=cnn.com
 -d cnn.com /banner.html?&csiid=
 -d cnn.net /lawyers.com/
 -d cntv.cn /Library/js/js_ad_gb.js
@@ -20067,8 +20068,7 @@ msFilterList
 # @@||adscale.de/getads.js$domain=filmovizija.com
 # @@||adscendmedia.com/gwjs.php?$script,domain=civilization5cheats.com|kzupload.com
 # @@||adserver.adtech.de/?adrawdata/3.0/$script,domain=entertainment.ie
-# @@||adserver.adtech.de/multiad/$script,domain=hardware.no
-# @@||adserver.adtech.de/multiad/3.0/*/-1/$script,domain=vg.no
+# @@||adserver.adtech.de/multiad/$script,domain=hardware.no|vg.no
 +d adserver.liverc.com /getBannerVerify.js
 # @@||adshost2.com/js/show_ads.js$domain=bitcoinker.com
 # @@||adv.wp.pl/RM/Box/*.mp4$object-subrequest,domain=wp.tv
