@@ -1,7 +1,5 @@
 User-agent: *
 Disallow: /sandbox
-Disallow: /thx
-Disallow: /ipex
 Disallow: /un
 Disallow: /en/un
 
