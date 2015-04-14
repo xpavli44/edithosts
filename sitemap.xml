@@ -86,16 +86,30 @@
 	</url>
 
 	<url>
-		<loc>http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html</loc>
+		<loc>http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim</loc>
 		<xhtml:link
 		rel="alternate"
 		hreflang="cs"
-		href="http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html"
+		href="http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim"
 		/>
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		href="http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html"
+		href="http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists"
+		/>
+	</url>
+	
+	<url>
+		<loc>http://edithosts.meitner.cz/thx</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/thx"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		href="http://edithosts.meitner.cz/en/thx"
 		/>
 	</url>
 
