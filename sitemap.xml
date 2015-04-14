@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-	<url>
+  <url>
 		<loc>http://edithosts.meitner.cz/</loc>
 		<xhtml:link
 		rel="alternate"
@@ -12,7 +11,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/"
+		href="http://edithosts.meitner.cz/en/"
 		/>
 	</url>
 
@@ -26,7 +25,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/install"
+		href="http://edithosts.meitner.cz/en/install"
 		/>
 	</url>
 
@@ -40,7 +39,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/manual"
+		href="http://edithosts.meitner.cz/en/manual"
 		/>
 	</url>
 
@@ -54,7 +53,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/contact"
+		href="http://edithosts.meitner.cz/en/contact"
 		/>
 	</url>
 
@@ -68,7 +67,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/donate"
+		href="http://edithosts.meitner.cz/en/donate"
 		/>
 	</url>
 
@@ -82,7 +81,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/easylist.tpl"
+		href="http://edithosts.meitner.cz/easylist.tpl"
 		/>
 	</url>
 
@@ -96,7 +95,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html"
+		href="http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html"
 		/>
 	</url>
 
