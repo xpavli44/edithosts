@@ -1,36 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
 	<url>
-		<loc>http://edithosts.meitner.cz/;http://edithosts.meitner.cz/en/</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/ ; http://edithosts.meitner.cz/en/" />
+		<loc>http://edithosts.meitner.cz/</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/"
+		/>
 	</url>
+
 	<url>
-		<loc>http://edithosts.meitner.cz/instalace;http://edithosts.meitner.cz/en/install</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/instalace ; http://edithosts.meitner.cz/en/install" />
+		<loc>http://edithosts.meitner.cz/instalace</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/instalace"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/install"
+		/>
 	</url>
+
 	<url>
-		<loc>http://edithosts.meitner.cz/navod;http://edithosts.meitner.cz/en/manual</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/navod ; http://edithosts.meitner.cz/en/manual" />
+		<loc>http://edithosts.meitner.cz/navod</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/navod"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/manual"
+		/>
 	</url>
+
 	<url>
-		<loc>http://edithosts.meitner.cz/kontakt;http://edithosts.meitner.cz/en/contact</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/kontakt ; http://edithosts.meitner.cz/en/contact" />
+		<loc>http://edithosts.meitner.cz/kontakt</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/kontakt"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/contact"
+		/>
 	</url>
+
 	<url>
-		<loc>http://edithosts.meitner.cz/prispevek;http://edithosts.meitner.cz/en/donate</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/prispevek ; http://edithosts.meitner.cz/en/donate" />
+		<loc>http://edithosts.meitner.cz/prispevek</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/prispevekt"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/donate"
+		/>
 	</url>
+
 	<url>
-		<loc>http://www.meitner.cz/rss.xml</loc>
-		<xhtml:link rel="alternate" hreflang="cs" href="http://www.meitner.cz/rss.xml" />
+		<loc>http://edithosts.meitner.cz/easylist.tpl</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/easylist.tpl"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/easylist.tpl"
+		/>
 	</url>
-		<url>
-		<loc>http://edithosts.meitner.cz/easylist.tpl;http://edithosts.meitner.cz/easylist.tpl</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/easylist.tpl ; http://edithosts.meitner.cz/easylist.tpl" />
+
+	<url>
+		<loc>http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html"
+		/>
 	</url>
-		</url>
-		<url>
-		<loc>http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html;http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html</loc>
-		<xhtml:link rel="alternate" hreflang="cs;en" href="http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim.html ; http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists.html" />
-	</url>
+
 </urlset>
