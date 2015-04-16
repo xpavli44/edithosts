@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 15 Apr 2015 07:31 UTC
+# Last modified: 16 Apr 2015 05:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -6415,6 +6415,7 @@ msFilterList
 - _footer_ad_
 - _framed_ad/
 - _friendlyduck.
+- _fullscreen_ad.
 - _gads_bottom.
 - _gads_footer.
 - _gads_top.
@@ -11351,6 +11352,7 @@ msFilterList
 -d tracelive.ru
 -d tracker2kss.eu
 -d trackerodss.eu
+-d traffbiz.ru
 -d traffic-in.com
 -d traffic.ru
 -d trafficholder.com
@@ -12907,7 +12909,7 @@ msFilterList
 -d trialpay.com &dw-ptid=
 -d tribktla.files.wordpress.com -639x125-sponsorship.jpg?
 -d tribwgnam.files.wordpress.com reskin2.
-# ||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=rbth.co.uk|rbth.com
+# ||tripadvisor.com/WidgetEmbed-*&partnerId=$domain=rbth.co.uk|rbth.com
 -d tritondigital.com /lt?sid*&hasads=
 -d tritondigital.com /ltflash.php?
 -d trivago.co.uk /uk/srv/
@@ -16129,6 +16131,8 @@ msFilterList
 -d publicservice.co.uk /spons_
 -d pulsetv.com /banner/
 -d pumasrugbyunion.com /images/sponsors/
+-d punch.cdn.ng /wp-banners/
+-d punchng.com /wp-banners/
 -d punksbusted.com /images/ventrilo/
 -d punksbusted.com /clanwarz-portal.jpg
 -d pushsquare.com /wp-content/themes/pushsquare/skins/
@@ -18489,7 +18493,7 @@ msFilterList
 +d ads.yimg.com /any/yahoologo
 +d ads.yimg.com /search/b/syc_logo_2.gif
 +d ads.yimg.com videoadmodule*.swf
-# @@||ads1.msads.net/library/dapmsn.js$domain=msn.com
+# @@||ads1.msads.net^*/dapmsn.js$domain=msn.com
 +d ads1.msn.com /ads/pronws/
 # @@||ads1.msn.com/library/dap.js$domain=entertainment.msn.co.nz|msn.foxsports.com
 # @@||adsbox.com.sg^$~third-party
@@ -19875,6 +19879,7 @@ msFilterList
 +d vizanime.com /ad/get_ads?
 # @@||vk.com/ads?act=$~third-party
 # @@||vk.com/ads_rotate.php$domain=vk.com
++d vmagazine.com /web/css/ads.css
 +d voip-info.org /www/delivery/ai.php?filename=
 +d vombasavers.com .swf?clickTAG=
 # @@||vswebapp.com^$~third-party
@@ -20130,7 +20135,7 @@ msFilterList
 +d blinkboxmusic.com /advertisement.js
 +d boincstats.com /js/adframe.js
 +d boxxod.net /advertisement.js
-# @@||brightcove.com^*/AdvertisingModule.swf$object-subrequest,domain=channel5.com|dave.uktv.co.uk|player.stv.tv
+# @@||brightcove.com^*/AdvertisingModule.swf$object-subrequest,domain=channel5.com|dave.uktv.co.uk|player.stv.tv|wwe.com
 +d btspread.com /eroex.js
 # @@||budget101.com^$elemhide
 # @@||buysellads.com/ac/bsa.js$domain=jc-mp.com
@@ -20988,6 +20993,7 @@ msFilterList
 # @@||amazonaws.com^*/300x250_$image,domain=snapapp.com
 +d anitasrecipes.com /Content/Images/*160x500
 +d arnhemland-safaris.com /images/*_480_80_
++d artserieshotels.com.au /images/*_460_60.
 +d assets.vice.com _120x60.jpg
 +d assets1.plinxmedia.net _300x250.
 +d assets2.plinxmedia.net _300x250.
