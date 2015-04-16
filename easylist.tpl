@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 16 Apr 2015 05:41 UTC
+# Last modified: 16 Apr 2015 17:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10362,6 +10362,7 @@ msFilterList
 -d domri.net
 -d draugonda.net
 -d drfflt.info
+-d dutolats.net
 -d edabl.net
 -d elepheny.com
 -d entru.co
@@ -17360,7 +17361,7 @@ msFilterList
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
 # Yavli.com
-# /http://[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{20}/$script,third-party,xmlhttprequest,domain=247wallst.com|activistpost.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|americanlivewire.com|askmefast.com|barbwire.com|blacklistednews.com|breathecast.com|brosome.com|bulletsfirst.net|chacha.com|cheezburger.com|christianpost.com|christiantoday.com|cinemablend.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailysurge.com|dccrimestories.com|dealbreaker.com|designntrend.com|digitaljournal.com|drhotze.com|gamerant.com|genfringe.com|girlsjustwannahaveguns.com|hallels.com|hellou.co.uk|hngn.com|infowars.com|instigatornews.com|investmentwatchblog.com|joblo.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinpost.com|libertyunyielding.com|listverse.com|makeuseof.com|mensfitness.com|minutemennews.com|moddb.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|opposingviews.com|patriotoutdoornews.com|patriotupdate.com|pitgrit.com|politicususa.com|product-reviews.net|radaronline.com|realfarmacy.com|redmaryland.com|screenrant.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|theblaze.com|thefreedictionary.com|thegatewaypundit.com|theladbible.com|thelibertarianrepublic.com|themattwalshblog.com|townhall.com|unilad.co.uk|uniladmag.com|unitrending.co.uk|valuewalk.com|vcpost.com|victoriajackson.com|viralnova.com|whatculture.com|wimp.com|wwitv.com
+# /http://[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{7}/$script,third-party,domain=247wallst.com|activistpost.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|americanlivewire.com|askmefast.com|barbwire.com|blacklistednews.com|breathecast.com|brosome.com|bulletsfirst.net|chacha.com|cheezburger.com|christianpost.com|christiantoday.com|cinemablend.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailysurge.com|dccrimestories.com|dealbreaker.com|designntrend.com|digitaljournal.com|drhotze.com|gamerant.com|genfringe.com|girlsjustwannahaveguns.com|hallels.com|hellou.co.uk|hngn.com|infowars.com|instigatornews.com|investmentwatchblog.com|joblo.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinpost.com|libertyunyielding.com|listverse.com|makeuseof.com|mensfitness.com|minutemennews.com|moddb.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|opposingviews.com|patriotoutdoornews.com|patriotupdate.com|pitgrit.com|politicususa.com|product-reviews.net|radaronline.com|realfarmacy.com|redmaryland.com|screenrant.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|theblaze.com|thefreedictionary.com|thegatewaypundit.com|theladbible.com|thelibertarianrepublic.com|themattwalshblog.com|townhall.com|unilad.co.uk|uniladmag.com|unitrending.co.uk|valuewalk.com|vcpost.com|victoriajackson.com|viralnova.com|whatculture.com|wimp.com|wwitv.com
 # @@/wp-content/plugins/akismet/*$script
 # @@||cdn.api.twitter.com*http%$script,third-party
 +d hwcdn.net .js?*.js
