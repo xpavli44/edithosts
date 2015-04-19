@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Apr 2015 01:10 UTC
+# Last modified: 19 Apr 2015 13:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -7183,6 +7183,7 @@ msFilterList
 # /adclick.$popup
 # /AdHandler.aspx?$popup
 # /ads.htm$popup
+# /adServe/sa?cid=$popup
 # /adserver.$popup
 # /adstream_sx.ads/*$popup
 # /advlink.$popup
@@ -9636,6 +9637,7 @@ msFilterList
 -d revenuemax.de
 -d revfusion.net
 -d revmob.com
+-d revokinets.com
 -d revresda.com
 -d revresponse.com
 -d revsci.net
@@ -13137,6 +13139,7 @@ msFilterList
 # ||itunes.apple.com^$popup,domain=fillinn.com
 # ||liutilities.com^*/affiliate/$popup
 # ||lovefilm.com/partners/$popup,third-party
+# ||lovepoker.de^*/?pid=$popup
 # ||lp.ilivid.com/?$popup,third-party
 # ||lp.imesh.com/?$popup,third-party
 # ||lp.titanpoker.com^$popup,third-party
@@ -18525,6 +18528,7 @@ msFilterList
 +d adserver.tvcatchup.com
 +d adserver.vidcoin.com /get_campaigns?
 # @@||adserver.yahoo.com/a?*&l=head&$script,domain=yahoo.com
+# @@||adserver.yahoo.com/a?*&l=VID&$xmlhttprequest,domain=yahoo.com
 # @@||adserver.yahoo.com/a?*=headr$script,domain=mail.yahoo.com
 +d adserver.yahoo.com /crossdomain.xml
 # @@||adserver.yahoo.com^*=weather&$domain=ca.weather.yahoo.com
@@ -19898,7 +19902,6 @@ msFilterList
 # @@||vk.com/ads?act=$~third-party
 # @@||vk.com/ads_rotate.php$domain=vk.com
 +d vmagazine.com /web/css/ads.css
-+d voip-info.org /www/delivery/ai.php?filename=
 +d vombasavers.com .swf?clickTAG=
 # @@||vswebapp.com^$~third-party
 +d vtstage.cbsinteractive.com /plugins/*_adplugin.swf
@@ -20482,6 +20485,7 @@ msFilterList
 # @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=cleodesktop.com
 # @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=majorleaguegaming.com
 # @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=360haven.com|9bis.net|9tutorials.com|afreesms.com|atlanticcitywebcam.com|bbc.com|bitcoiner.net|budget101.com|bullywiihacks.com|carsfromitaly.info|codeasily.com|darkreloaded.com|dreamscene.org|drivearabia.com|dsero.com|everythingon.tv|fcportables.com|ffiles.com|file4go.com|filmovizija.com|filmovizija.net|free.smsmarkaz.urdupoint.com|freecoins4.me|freewaregenius.com|ftlauderdalebeachcam.com|ftlauderdalewebcam.com|full-ngage-games.blogspot.com|gamespowerita.com|gifmagic.com|hackintosh.zone|hostyd.com|ibmmainframeforum.com|ilix.in|keywestharborwebcam.com|kingofgames.net|korean-candy.com|litecoiner.net|livenewschat.eu|lordpyrak.net|mangakaka.com|megaallday.com|misheel.net|morganhillwebcam.com|moviemistakes.com|needrom.com|newsok.com|ninjaraider.com|nonags.com|numberempire.com|nx8.com|nyharborwebcam.com|omegadrivers.net|photos.essence.com|portarubawebcam.com|portbermudawebcam.com|portcanaveralwebcam.com|portevergladeswebcam.com|portmiamiwebcam.com|portnywebcam.com|preemlinks.com|priva.us|puromarketing.com|radioaficion.com|rapid8.com|readersdigest.com.au|seeingwithsound.com|smashgamez.com|spoilertv.com|tech-blog.net|techydoor.com|thememypc.com|themes.themaxdavis.com|tipstank.com|top100clans.com|trutower.com|tv-kino.net|upfordown.com|uploadlw.com|urlink.at|virginmedia.com|warp2search.net|washington.edu|winterrowd.com|wtf-teen.com|yellowbridge.com
+# @@||pagead2.googlesyndication.com/pub-config/ca-pub-$script,domain=iphone-tv.eu
 # @@||pagead2.googlesyndication.com/simgad/573912609820809|$image,domain=hardocp.com
 +d pandora.com /static/ads/
 # @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=baseball-reference.com|basketball-reference.com|hockey-reference.com|pro-football-reference.com|sports-reference.com
