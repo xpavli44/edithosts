@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Apr 2015 13:21 UTC
+# Last modified: 20 Apr 2015 00:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -899,6 +899,7 @@ msFilterList
 - .ke/ads/
 - .lazyload-ad-
 - .lazyload-ad.
+- .link/ads/
 - .lk/ads/
 - .me/ads-
 - .me/ads/
@@ -2076,6 +2077,7 @@ msFilterList
 - /adometry.
 - /adometry?
 - /adonline.
+- /adonly468.
 - /adops.
 - /adops/
 - /adoptionicon.
@@ -8632,6 +8634,7 @@ msFilterList
 -d freepaidsurveyz.com
 -d freerotator.com
 -d freeskreen.com
+-d freesoftwarelive.com
 -d friendlyduck.com
 -d fruitkings.com
 -d ftjcfx.com
@@ -11806,6 +11809,7 @@ msFilterList
 # ||bigpond.com/specials/$subdocument,third-party
 -d bigrock.in /affiliate/
 -d bijk.com /banners/
+-d binbox.io /public/img/promo/
 -d binopt.net /banners/
 # ||bit.ly^$subdocument,domain=adf.ly
 -d bitcoindice.com /img/bitcoindice_
@@ -16472,7 +16476,9 @@ msFilterList
 -d solvater.com /images/hd.jpg
 -d someecards.com /images/skin/
 -d songs.pk /textlinks/
+-d songspk.link /textlinks/
 # ||songspk.name/fidelity.html$domain=songs.pk|songspk.name
+-d songspk.name /imagepk.gif
 -d songspk.name /textlinks/
 -d sootoday.com /uploads/banners/
 -d sorcerers.net /images/aff/
@@ -17511,6 +17517,7 @@ msFilterList
 # ||vibeo.to^$popup,domain=flashx.tv
 # ||vidhog.com/ilivid-redirect.php$popup
 # ||vidspot.net^*http$popup
+# ||vidzi.tv^*.html$popup
 # ||virtualtourist.com/commerce/popunder/$popup
 # ||vodu.ch/play_video.php$popup
 # ||watch-movies.net.in/popup.php$popup
