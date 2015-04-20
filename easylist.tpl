@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 20 Apr 2015 06:11 UTC
+# Last modified: 20 Apr 2015 16:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -12803,6 +12803,7 @@ msFilterList
 -d slickdeals.meritline.com
 -d slot.union.ucweb.com
 -d slysoft.com /img/banner/
+-d smart.styria-digital.com
 -d smartdestinations.com /ai/
 -d smartlinks.dianomi.com
 -d smilepk.com /bnrsbtns/
@@ -17529,9 +17530,9 @@ msFilterList
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
-# /[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{5}/$third-party,xmlhttprequest,domain=pornhub.com|redtube.com|youporn.com
+# /[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{5}/$third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com
-# /http://.*[a-zA-Z0-9]{9}/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|youporn.com
+# /http://.*[a-zA-Z0-9]{9}/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # |http://pornhub.*/?$xmlhttprequest
 # |http://redtube.*/?$xmlhttprequest
 # |http://rt.*/?$xmlhttprequest
@@ -18875,6 +18876,7 @@ msFilterList
 +d delvenetworks.com /player/*_ad_
 # @@||demo.inskinmedia.com^$object-subrequest,domain=tvcatchup.com
 # @@||deviantart.net/fs*/20*_by_$image,domain=deviantart.com
++d deviantart.net /minish/advertising/downloadad_splash_close.png
 +d digiads.com.au /images/shared/misc/ad-disclaimer.gif
 +d digsby.com /affiliate/banners/
 +d direct.fairfax.com.au /hserver/*/site=vid.*/adtype=embedded/*.js
@@ -20386,7 +20388,6 @@ msFilterList
 +d juzupload.com /advert*.js
 +d katsomo.fi /advert.js
 +d katsomo.fi /advertisement.js
-# @@||keezmovies.com^$elemhide
 +d kissanime.com /ads/
 # @@||kissanime.com^$elemhide
 # @@||lag10.net^$elemhide
@@ -20500,7 +20501,6 @@ msFilterList
 # @@||pastes.binbox.io^$elemhide
 +d perkuinternete.lt /modules/mod_jpayday/js/advertisement.js
 # @@||pes-patch.com^$elemhide
-# @@||phncdn.com/v2/js/adblockdetect.js$domain=keezmovies.com
 +d pipocas.tv /js/advertisement.js
 # @@||pirlotv.tv^$elemhide
 # @@||play-old-pc-games.com^$elemhide
@@ -21171,6 +21171,7 @@ msFilterList
 # @@||n4mo.org^$elemhide
 +d nightchan.com /advertisement.js
 +d phncdn.com /js/advertisement.js
+# @@||phncdn.com/v2/js/adblockdetect.js$domain=keezmovies.com
 +d phncdn.com /ads.js
 +d phncdn.com /fuckadblock.js
 # @@||pornomovies.com/js/1/ads-1.js$domain=submityourflicks.com
