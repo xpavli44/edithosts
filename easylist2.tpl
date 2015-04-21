@@ -1869,7 +1869,6 @@ msFilterList
 - /adlesse.
 - /adlift4.
 - /adlift4_
-- /adline.
 - /adlink-
 - /adlink.
 - /adlink/
@@ -10035,7 +10034,6 @@ msFilterList
 -d adbuddiz.com
 -d adcolony.com
 -d adiquity.com
--d admarvel.com
 -d admob.com
 -d adwhirl.com
 -d adwired.mobi
@@ -10080,6 +10078,7 @@ msFilterList
 -d blazwuatr.com
 -d blipi.net
 -d bluazard.net
+-d buhafr.net
 -d casiours.com
 -d chansiar.net
 -d chiuawa.net
@@ -12241,8 +12240,6 @@ msFilterList
 -d web-jp.ad-v.jp
 -d web2feel.com /images/
 -d webdev.co.zw /images/banners/
--d weberotic.net /banners/
--d webhostingpad.com /idevaffiliate/banners/
 -d webmasterrock.com /cpxt_pab
 -d website.ws /banners/
 -d whistleout.s3.amazonaws.com
@@ -14829,7 +14826,6 @@ msFilterList
 -d piratefm.co.uk /resources/creative/
 -d pirateproxy.nl /inc/ex.js
 -d pitchero.com /toolstation.gif
--d pitchfork.com /ads.css
 -d pittnews.com /modules/mod_novarp/
 -d pixhost.org /image/fik1.jpg
 -d planecrashinfo.com /images/advertize1.gif
@@ -15873,7 +15869,6 @@ msFilterList
 -d widih.org /banners/
 -d wiilovemario.com /images/fc-twin-play-nes-snes-cartridges.png
 -d wikia.com /__varnish_
--d wikifeet.com /mgid.html
 -d wikinvest.com /wikinvest/ads/
 -d wikinvest.com /wikinvest/images/zap_trade_
 -d wildtangent.com /leaderboard?
@@ -16393,7 +16388,6 @@ msFilterList
 -d live-porn.tv /adds/
 -d liveandchat.tv /bana-/
 -d livedoor.jp /bnr/bnr-
--d lolhappens.com /mgid.html
 -d lubetube.com /js/cspop.js
 -d lucidsponge.pl /pop_
 -d lukeisback.com /images/boxes/

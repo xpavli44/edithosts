@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 21 Apr 2015 05:51 UTC
+# Last modified: 21 Apr 2015 16:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1981,7 +1981,7 @@ msFilterList
 - /adlesse.
 - /adlift4.
 - /adlift4_
-- /adline.
+# /adline.$domain=~adline.co.il
 - /adlink-
 - /adlink.
 - /adlink/
@@ -10314,7 +10314,6 @@ msFilterList
 -d adbuddiz.com
 -d adcolony.com
 -d adiquity.com
--d admarvel.com
 -d admob.com
 -d adwhirl.com
 -d adwired.mobi
@@ -10361,6 +10360,7 @@ msFilterList
 -d blazwuatr.com
 -d blipi.net
 -d bluazard.net
+-d buhafr.net
 -d casiours.com
 -d chansiar.net
 -d chiuawa.net
@@ -13007,8 +13007,6 @@ msFilterList
 -d web-jp.ad-v.jp
 -d web2feel.com /images/
 -d webdev.co.zw /images/banners/
--d weberotic.net /banners/
--d webhostingpad.com /idevaffiliate/banners/
 -d webmasterrock.com /cpxt_pab
 -d website.ws /banners/
 -d whistleout.s3.amazonaws.com
@@ -16045,7 +16043,6 @@ msFilterList
 -d piratefm.co.uk /resources/creative/
 -d pirateproxy.nl /inc/ex.js
 -d pitchero.com /toolstation.gif
--d pitchfork.com /ads.css
 -d pittnews.com /modules/mod_novarp/
 -d pixhost.org /image/fik1.jpg
 -d planecrashinfo.com /images/advertize1.gif
@@ -17162,7 +17159,6 @@ msFilterList
 -d widih.org /banners/
 -d wiilovemario.com /images/fc-twin-play-nes-snes-cartridges.png
 -d wikia.com /__varnish_
--d wikifeet.com /mgid.html
 -d wikinvest.com /wikinvest/ads/
 -d wikinvest.com /wikinvest/images/zap_trade_
 -d wildtangent.com /leaderboard?
@@ -17386,7 +17382,7 @@ msFilterList
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
 # Yavli.com
-# /http://[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{7}/$script,third-party,domain=247wallst.com|activistpost.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|americanlivewire.com|askmefast.com|barbwire.com|blacklistednews.com|breathecast.com|brosome.com|bulletsfirst.net|chacha.com|cheezburger.com|christianpost.com|christiantoday.com|cinemablend.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailysurge.com|dccrimestories.com|dealbreaker.com|designntrend.com|digitaljournal.com|drhotze.com|gamerant.com|genfringe.com|girlsjustwannahaveguns.com|hallels.com|hellou.co.uk|hngn.com|infowars.com|instigatornews.com|investmentwatchblog.com|joblo.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinpost.com|libertyunyielding.com|listverse.com|makeuseof.com|mensfitness.com|minutemennews.com|moddb.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|opposingviews.com|patriotoutdoornews.com|patriotupdate.com|pitgrit.com|politicususa.com|product-reviews.net|radaronline.com|realfarmacy.com|redmaryland.com|screenrant.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|theblaze.com|thefreedictionary.com|thegatewaypundit.com|theladbible.com|thelibertarianrepublic.com|themattwalshblog.com|townhall.com|unilad.co.uk|uniladmag.com|unitrending.co.uk|valuewalk.com|vcpost.com|victoriajackson.com|viralnova.com|whatculture.com|wimp.com|wwitv.com
+# /http://[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]+/$script,third-party,domain=247wallst.com|activistpost.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|americanlivewire.com|askmefast.com|barbwire.com|blacklistednews.com|breathecast.com|brosome.com|bulletsfirst.net|chacha.com|cheezburger.com|christianpost.com|christiantoday.com|cinemablend.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailysurge.com|dccrimestories.com|dealbreaker.com|designntrend.com|digitaljournal.com|drhotze.com|gamerant.com|genfringe.com|girlsjustwannahaveguns.com|hallels.com|hellou.co.uk|hngn.com|infowars.com|instigatornews.com|investmentwatchblog.com|joblo.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinpost.com|libertyunyielding.com|listverse.com|makeuseof.com|mensfitness.com|minutemennews.com|moddb.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|opposingviews.com|patriotoutdoornews.com|patriotupdate.com|pitgrit.com|politicususa.com|product-reviews.net|radaronline.com|realfarmacy.com|redmaryland.com|screenrant.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|theblaze.com|thefreedictionary.com|thegatewaypundit.com|theladbible.com|thelibertarianrepublic.com|themattwalshblog.com|townhall.com|unilad.co.uk|uniladmag.com|unitrending.co.uk|valuewalk.com|vcpost.com|victoriajackson.com|viralnova.com|whatculture.com|wimp.com|wwitv.com
 # @@/wp-content/plugins/akismet/*$script
 # @@||cdn.api.twitter.com*http%$script,third-party
 +d hwcdn.net .js?*.js
@@ -17532,7 +17528,7 @@ msFilterList
 # .info^$script,domain=pornhub.com
 # /[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{5}/$third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com
-# /http://.*[a-zA-Z0-9]{9}/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
+# /http://.*[a-zA-Z0-9]{6}.*/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # |http://pornhub.*/?$xmlhttprequest
 # |http://redtube.*/?$xmlhttprequest
 # |http://rt.*/?$xmlhttprequest
@@ -17880,7 +17876,6 @@ msFilterList
 -d live-porn.tv /adds/
 -d liveandchat.tv /bana-/
 -d livedoor.jp /bnr/bnr-
--d lolhappens.com /mgid.html
 -d lubetube.com /js/cspop.js
 -d lucidsponge.pl /pop_
 -d lukeisback.com /images/boxes/
@@ -18426,6 +18421,8 @@ msFilterList
 # @@||ad4.liverail.com/|$object-subrequest,domain=bizu.tv|foxsports.com.au|majorleaguegaming.com|pbs.org|wikihow.com
 # @@||ad4.liverail.com/|$xmlhttprequest,domain=c.brightcove.com
 # @@||ad4.liverail.com^*LR_VIDEO_ID=$object-subrequest,domain=bizu.tv
+# @@||ad4game.com/ima3_preloader_*.swf$object,domain=escapefan.com
+# @@||ad4game.com/www/delivery/video.php?zoneid=$script,domain=escapefan.com
 +d adap.tv /control?
 +d adap.tv /crossdomain.xml
 +d adap.tv /redir/client/adplayer.swf
@@ -19952,6 +19949,7 @@ msFilterList
 +d wortech.ac.uk /publishingimages/adverts/
 +d wp.com /_static/*/criteo.js
 +d wp.com /ads-pd.universalsports.com/media/
+# @@||wp.com/www.noobpreneur.com/wp-content/uploads/*-ad.jpg?resize=$domain=noobpreneur.com
 # @@||wpthemedetector.com/ad/$~third-party
 +d wrapper.teamxbox.com /a?size=headermainad
 # @@||wsj.net^*/images/adv-$image,domain=marketwatch.com
