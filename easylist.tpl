@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 22 Apr 2015 05:51 UTC
+# Last modified: 22 Apr 2015 17:31 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -3185,7 +3185,7 @@ msFilterList
 - /adwizard.
 - /adwizard_
 - /adwolf.
-- /adwords.
+# /adwords.$domain=~ppc.ee
 - /adwords/
 - /adwordstracking.js
 - /adWorking/
@@ -11288,7 +11288,6 @@ msFilterList
 -d runetki.com
 -d russianlovematch.com
 -d safelinktracker.com
--d sailplay.ru
 -d sancdn.net
 -d sascentral.com
 -d sbs-ad.com
@@ -15260,6 +15259,7 @@ msFilterList
 -d iphone-tv.eu /src/player/bla123.mp4
 -d ipinfodb.com /img/adds/
 -d iptools.com /sky.php
+-d irctctourism.com /ttrs/railtourism/Designs/html/images/tourism_right_banners/*DealsBanner_
 -d irishamericannews.com /images/banners/
 -d irishdev.com /files/banners/
 -d irishdictionary.ie /view/images/ispaces-makes-any-computer.jpg

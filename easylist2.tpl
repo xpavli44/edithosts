@@ -3059,7 +3059,6 @@ msFilterList
 - /adwizard.
 - /adwizard_
 - /adwolf.
-- /adwords.
 - /adwords/
 - /adwordstracking.js
 - /adWorking/
@@ -10744,7 +10743,6 @@ msFilterList
 -d runetki.com
 -d russianlovematch.com
 -d safelinktracker.com
--d sailplay.ru
 -d sancdn.net
 -d sascentral.com
 -d sbs-ad.com
@@ -14096,6 +14094,7 @@ msFilterList
 -d iphone-tv.eu /src/player/bla123.mp4
 -d ipinfodb.com /img/adds/
 -d iptools.com /sky.php
+-d irctctourism.com /ttrs/railtourism/Designs/html/images/tourism_right_banners/*DealsBanner_
 -d irishamericannews.com /images/banners/
 -d irishdev.com /files/banners/
 -d irishdictionary.ie /view/images/ispaces-makes-any-computer.jpg
