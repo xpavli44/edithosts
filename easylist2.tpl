@@ -8078,6 +8078,7 @@ msFilterList
 -d dinclinx.com
 -d directaclick.com
 -d directile.info
+-d directile.net
 -d directleads.com
 -d directoral.info
 -d directorym.com
