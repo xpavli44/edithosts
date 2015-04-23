@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 22 Apr 2015 17:31 UTC
+# Last modified: 23 Apr 2015 00:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -11007,6 +11007,7 @@ msFilterList
 -d ganardineroreal.com
 -d gayadpros.com
 -d gayxperience.com
+-d gefnaro.com
 -d genialradio.com
 -d geoaddicted.net
 -d geofamily.ru

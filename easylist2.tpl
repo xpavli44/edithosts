@@ -10463,6 +10463,7 @@ msFilterList
 -d ganardineroreal.com
 -d gayadpros.com
 -d gayxperience.com
+-d gefnaro.com
 -d genialradio.com
 -d geoaddicted.net
 -d geofamily.ru
