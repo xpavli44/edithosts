@@ -2378,7 +2378,6 @@ msFilterList
 - /ads300X2502.
 - /ads300x250_
 - /ads300x250px.
-- /ads4.
 - /ads4/
 - /ads468.
 - /ads468x60.
@@ -13902,6 +13901,8 @@ msFilterList
 -d hawkesbaytoday.co.nz /nz_regionals/marketplace/
 -d hd-bb.org /dl4fbanner.gif
 -d hdtvtest.co.uk /pricerunner.php
+-d headlineplanet.com /home/box.html
+-d headlineplanet.com /home/burstbox.html
 -d healthfreedoms.org /assets/swf/320x320_
 -d heatworld.com /images/*_83x76_
 -d heatworld.com /upload/takeovers/
@@ -17214,6 +17215,7 @@ msFilterList
 +d healthline.com /resources/base/js/responsive-ads.js?
 +d healthline.com /v2/ad-leaderboard-iframe?
 +d healthline.com /v2/ad-mr2-iframe?useAdsHost=*&dfpAdSite=
++d hebdenbridge.co.uk /ads/images/smallads.png
 +d hentai-foundry.com /themes/default/images/buttons/add_comment_icon.png
 +d hillvue.com /banners/
 +d hipsterhitler.com /hhcomic/wp-content/uploads/2011/10/20_advertisement.jpg
