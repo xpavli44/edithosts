@@ -1,3 +1,3 @@
 msFilterList
 # Title: Optimalizovaný český a slovenský filtr EasyList
-# Aktualizováno: So dub 25 07:21:29 CEST 2015
+# Aktualizováno: So dub 25 15:41:35 CEST 2015
