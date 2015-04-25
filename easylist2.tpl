@@ -1,6 +1,6 @@
 msFilterList
 # Title: Optimalizovaný český a slovenský filtr EasyList
-# Aktualizováno: So dub 25 05:30:17 CEST 2015
+# Aktualizováno: So dub 25 05:38:39 CEST 2015
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
