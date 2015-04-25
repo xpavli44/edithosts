@@ -1,4 +1,6 @@
 msFilterList
+# Title: Optimalizovaný český a slovenský filtr EasyList
+# Aktualizováno: So dub 25 05:16:12 CEST 2015
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10114,6 +10116,7 @@ msFilterList
 -d gusufrs.me
 -d hapnr.net
 -d havnr.com
+-d heizuanubr.net
 -d hobri.net
 -d hoppr.co
 -d ignup.com
@@ -18293,6 +18296,8 @@ msFilterList
 +d mrstiff.com /view/textad/
 +d nonktube.com /img/adyea.jpg
 +d panicporn.com /Bannerads/player/player_flv_multi.swf
++d pornhub.com /comment/add?
++d pornhub.com /svvt/add?
 +d skimtube.com /advertisements.php?
 +d starcelebs.com /logos/logo10.jpg
 +d sundaysportclassifieds.co.uk /ads/

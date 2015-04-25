@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 24 Apr 2015 16:51 UTC
+# Last modified: 25 Apr 2015 03:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10398,6 +10398,7 @@ msFilterList
 -d gusufrs.me
 -d hapnr.net
 -d havnr.com
+-d heizuanubr.net
 -d hobri.net
 -d hoppr.co
 -d ignup.com
@@ -17518,7 +17519,6 @@ msFilterList
 # ||vibeo.to^$popup,domain=flashx.tv
 # ||vidhog.com/ilivid-redirect.php$popup
 # ||vidspot.net^*http$popup
-# ||vidzi.tv^*.html$popup
 # ||virtualtourist.com/commerce/popunder/$popup
 # ||vodu.ch/play_video.php$popup
 # ||watch-movies.net.in/popup.php$popup
@@ -17530,9 +17530,9 @@ msFilterList
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
-# /[a-zA-Z0-9]+\.[a-z]+\/.*[a-zA-Z0-9]{5}/$third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com
 # /http://.*[a-zA-Z0-9]{6}.*/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
+# /http://.*[a-zA-Z0-9]{7}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
 # |http://pornhub.*/?$xmlhttprequest
 # |http://redtube.*/?$xmlhttprequest
 # |http://rt.*/?$xmlhttprequest
@@ -21146,6 +21146,8 @@ msFilterList
 +d nonktube.com /img/adyea.jpg
 +d panicporn.com /Bannerads/player/player_flv_multi.swf
 # @@||pop6.com/banners/$domain=horny.net|xmatch.com
++d pornhub.com /comment/add?
++d pornhub.com /svvt/add?
 # @@||promo.cdn.homepornbay.com/key=*.mp4$object-subrequest,domain=hiddencamsvideo.com
 # @@||sextoyfun.com/admin/aff_files/BannerManager/$~third-party
 # @@||sextoyfun.com/control/aff_banners/$~third-party
