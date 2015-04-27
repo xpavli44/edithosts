@@ -1,7 +1,7 @@
 msFilterList
 #Optimalizovaný český a slovenský filtr EasyList
 #V linuxu používejte EditHosts: http://edithosts.meitner.cz/
-# Aktualizováno: Po dub 27 02:33:07 CEST 2015
+# Aktualizováno: Po dub 27 03:47:58 CEST 2015
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10151,6 +10151,7 @@ msFilterList
 -d selectr.net
 -d simusangr.com
 -d splazards.com
+-d spoa-soard.com
 -d sxrrxa.net
 -d t3sort.com
 -d th4wwe.net
