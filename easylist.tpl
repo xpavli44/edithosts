@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 27 Apr 2015 01:40 UTC
+# Last modified: 27 Apr 2015 19:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -18625,6 +18625,7 @@ msFilterList
 # @@||amazon.com/widgets/$domain=sotumblry.com
 # @@||amazonaws.com/adplayer/player/newas3player.swf?$object,domain=india.com
 # @@||amazonaws.com/banners/$image,domain=livefromdarylshouse.com|pandasecurity.com
+# @@||amazonaws.com/bt-dashboard-logos/$domain=signal.co
 # @@||amazonaws.com^*/sponsorbanners/$image,domain=members.portalbuzz.com
 +d amctv.com /commons/advertisement/js/AdFrame.js
 +d amiblood.com /Images/ad.jpg
