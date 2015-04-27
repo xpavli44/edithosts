@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 26 Apr 2015 00:41 UTC
+# Last modified: 27 Apr 2015 00:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -13104,6 +13104,7 @@ msFilterList
 # ||bet365.com^*affiliate=$popup
 # ||binaryoptions24h.com^$popup,third-party
 # ||bovada.lv^$popup,third-party
+# ||casino.com^*?*=$popup,third-party
 # ||casinoadviser.net^$popup
 # ||cdn.optmd.com^$popup,third-party
 # ||chatlivejasmin.net^$popup
@@ -17530,13 +17531,8 @@ msFilterList
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
-# /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com
-# /http://.*[a-zA-Z0-9]{6}.*/$~third-party,xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
-# /http://.*[a-zA-Z0-9]{7}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|youporn.com
-# |http://pornhub.*/?$xmlhttprequest
-# |http://redtube.*/?$xmlhttprequest
-# |http://rt.*/?$xmlhttprequest
-# |http://youporn.*/?$xmlhttprequest
+# /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
+# /http://.*[a-zA-Z0-9]{20}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 # ||109.201.146.142^$domain=xxxbunker.com
 -d 213.174.140.38 /bftv/js/msn-
 # ||213.174.140.38^*/msn-*.js$domain=boyfriendtv.com|pornoxo.com
@@ -18323,9 +18319,8 @@ msFilterList
 -d zazzybabes.com /misc/virtuagirl-skin.js
 # *** easylist:easylist_adult/adult_specific_block_popup.txt ***
 # ^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
-# |http://*?*=*&$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
+# |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
 # |http://*?*^id^$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
-# |http://*?id=$popup,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
 # ||ad.userporn.com^$popup
 # ||eporner.com/pop.php$popup
 # ||fantasti.cc^*?ad=$popup
@@ -18856,6 +18851,7 @@ msFilterList
 # @@||d1sp6mwzi1jpx1.cloudfront.net^*/advertisement_min.js$domain=reelkandi.com
 +d d3con.org /data1/
 # @@||d3pkae9owd2lcf.cloudfront.net/mb102.js$domain=wowhead.com
+# @@||da-ads.com/truex.html?$domain=deviantart.com
 +d dailycaller.com /wp-content/plugins/advertisements/*.js
 +d dailyhiit.com /sites/*/ad-images/
 +d dailymail.co.uk /googleads--.js
