@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 27 Apr 2015 21:20 UTC
+# Last modified: 27 Apr 2015 23:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -4083,6 +4083,7 @@ msFilterList
 - /friendfinder_
 - /frnads.
 - /frontend/ads/
+- /frontpagead/
 - /ftp/adv/
 - /full/ads/
 - /fullad.
@@ -5597,6 +5598,7 @@ msFilterList
 - /templateadvimages/
 - /templates/ad.
 - /templates/ads/
+- /templates/adv_
 - /testads/
 - /testingad.
 - /text_ad.
@@ -6412,6 +6414,7 @@ msFilterList
 - _english/adv/
 - _externalad.
 - _fach_ad.
+- _fbadbookingsystem&
 - _feast_ad.
 - _files/ad.
 - _fixed_ad.
@@ -7739,6 +7742,7 @@ msFilterList
 -d advertserve.com
 -d advertstatic.com
 -d advertstream.com
+-d advertur.ru
 -d advertxi.com
 -d advg.jp
 -d advgoogle.com
@@ -8982,6 +8986,7 @@ msFilterList
 -d l3op.info
 -d ladbrokesaffiliates.com.au
 -d lakequincy.com
+-d lakidar.net
 -d lanistaconcepts.com
 -d largestable.com
 -d laserhairremovalstore.com
@@ -9284,6 +9289,7 @@ msFilterList
 -d ngecity.com
 -d nicheadgenerator.com
 -d nicheads.com
+-d nighter.club
 -d nkredir.com
 -d nmcdn.us
 -d nmwrdr.net
@@ -9579,6 +9585,7 @@ msFilterList
 -d qnsr.com
 -d qservz.com
 -d quantumads.com
+-d quensillo.com
 -d questionmarket.com
 -d questus.com
 -d quickcash500.com
@@ -9723,6 +9730,7 @@ msFilterList
 -d servali.net
 -d serve-sys.com
 -d servebom.com
+-d servedbyadbutler.com
 -d servedbyopenx.com
 -d servemeads.com
 -d serving-sys.com
@@ -10108,6 +10116,7 @@ msFilterList
 -d vibrant.co
 -d vibrantmedia.com
 -d video-loader.com
+-d video1404.info
 -d videoadex.com
 -d videoclick.ru
 -d videodeals.com
@@ -11593,6 +11602,7 @@ msFilterList
 -d a.livesportmedia.eu
 -d a.ucoz.net
 -d a.watershed-publishing.com
+-d a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 -d a1channel.net /img/downloadbtn2.png
 -d a1channel.net /img/watch_now.gif
 -d abacast.com /banner/
@@ -11701,6 +11711,7 @@ msFilterList
 - http://algart.net*_banner_
 -d allposters.com /banners/
 -d allsend.com /public/assets/images/
+-d alluremedia.com.au /campaigns/
 -d alpsat.com /banner/
 -d altushost.com /docs/
 -d amazon.com /?_encoding*&linkcode
@@ -13036,6 +13047,7 @@ msFilterList
 -d widgets.realestate.com.au
 -d wildamaginations.com /mdm/banner/
 -d winpalace.com /?affid=
+-d winsms.co.za /banner/
 -d wishlistproducts.com /affiliatetools/
 -d wm.co.za /24com.php?
 -d wm.co.za /wmjs.php?
@@ -13067,6 +13079,7 @@ msFilterList
 -d yeas.yahoo.co.jp
 -d yieldmanager.edgesuite.net
 -d yimg.com /gs/apex/mediastore/
+# ||yimg.com^*/dianominewwidget2.html$domain=yahoo.com
 -d yimg.com /quickplay_maxwellhouse.png
 -d yimg.com /sponsored.js
 # ||yimg.com^*_skin_$domain=yahoo.com
@@ -14022,6 +14035,7 @@ msFilterList
 -d astalavista.com /avtng/
 -d astalavista.com /sponsor-
 -d astronomy.com /sitefiles/overlays/overlaygenerator.aspx?
+-d astronomynow.com /wp-content/promos/
 -d atdhe.ws /pp.js
 -d atimes.com /banner/
 -d atimes.com /ahm728x90.swf
@@ -14687,6 +14701,7 @@ msFilterList
 -d eweek.com /sponsored-
 -d ewrc-results.com /images/horni_ewrc_result_banner3.jpg
 # ||ex1.gamecopyworld.com^$subdocument
+-d exashare.com /player_file.jpg
 -d exceluser.com /pub/rotate_
 -d exchangerates.org.uk /images-NEW/tor.gif
 -d exchangerates.org.uk /images/150_60_
@@ -15120,6 +15135,7 @@ msFilterList
 -d hwbot.org /banner.img
 -d hwinfo.com /images/lansweeper.jpg
 -d hwinfo.com /images/se2banner.png
+-d hypemagazine.co.za /assets/bg/
 -d i-sgcm.com /pagetakeover/
 -d i-tech.com.au /banner/
 -d i.com.com /vendor_bg_
@@ -15436,6 +15452,7 @@ msFilterList
 -d lagacetanewspaper.com /banners/
 -d lancasteronline.com /done_deal/
 -d lancasteronline.com /weather_sponsor.gif
+-d lankabusinessonline.com /images/banners/
 -d laobserved.com /tch-ad.jpg
 -d laptopmag.com /images/sponsorships/
 -d laredodaily.com /images/banners/
@@ -16213,6 +16230,7 @@ msFilterList
 -d rapidlibrary.com /banner_*.png
 -d rapidsafe.de /eislogo.gif
 # ||rapidshare.com/promo/$image
+-d rapidtvnews.com BannerAd.
 -d rapidvideo.org /images/pl_box_rapid.jpg
 -d rapidvideo.tv /images/pl.jpg
 -d ratio-magazine.com /images/banners/
@@ -16782,6 +16800,7 @@ msFilterList
 -d times-herald.com /pubfiles/
 -d times.co.sz /files/banners/
 -d timesnow.tv /googlehome.cms
+-d timesofoman.com /FrontInc/top.aspx
 -d timesofoman.com /siteImages/MyBannerImages/
 -d timesofoman.com /banner/
 -d timestalks.com /images/sponsor-
@@ -17448,6 +17467,7 @@ msFilterList
 # ||damoh.muzu.tv^$popup
 # ||deb.gs^*?ref=$popup
 # ||edomz.com/re.php?mid=$popup
+# ||f-picture.net/Misc/JumpClick?$popup
 # ||fashionsaga.com^$popup,domain=putlocker.is
 # ||filepost.com/default_popup.html$popup
 # ||filmon.com^*&adn=$popup
@@ -17652,6 +17672,8 @@ msFilterList
 # ||coolmovs.com/rec/$subdocument
 -d crackwhoreconfessions.com /images/banners/
 -d crazyshit.com /p0pzIn.js
+-d creampietubeporn.com /ctp.html
+-d creampietubeporn.com /porn.html
 -d creatives.cliphunter.com
 -d creatives.pichunter.com
 -d creepshots.com /250x250_
@@ -17754,6 +17776,7 @@ msFilterList
 -d hanksgalleries.com /galleryimgs/
 -d hanksgalleries.com /stxt_
 -d hanksgalleries.com /vg_ad_
+# ||hardsextube.com/pornstars/$xmlhttprequest
 -d hardsextube.com /preroll/getiton/
 -d hardsextube.com /testxml.php
 -d hardsextube.com /zone.php
@@ -17914,6 +17937,7 @@ msFilterList
 -d mrstiff.com /view/movie/bar/
 -d mrstiff.com /view/movie/finished/
 -d my-pornbase.com /banner/
+-d mydailytube.com /nothing/
 -d mygirlfriendvids.net /js/popall1.js
 -d myhentai.tv /popsstuff.
 -d myslavegirl.org /follow/go.js
