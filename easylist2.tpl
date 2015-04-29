@@ -1,11 +1,7 @@
 msFilterList
 #Optimalizovaný český a slovenský filtr EasyList
 #V linuxu používejte EditHosts: http://edithosts.meitner.cz/
-<<<<<<< HEAD
-# Aktualizováno: St dub 29 05:05:35 CEST 2015
-=======
-# Aktualizováno: Út dub 28 01:09:16 CEST 2015
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
+# Aktualizováno: St dub 29 05:08:00 CEST 2015
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -481,10 +477,7 @@ msFilterList
 - -ad-util.
 - -ad-vertical-
 - -ad-zone.
-<<<<<<< HEAD
 - -ad.jpg.pagespeed.
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - -ad.jpg?
 - -ad.jsp
 - -ad.php?
@@ -1217,10 +1210,7 @@ msFilterList
 - /ad0.
 - /ad000/
 - /ad02/background_
-<<<<<<< HEAD
 - /ad1-728-
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - /ad1.
 - /ad1/index.
 - /ad12.
@@ -1239,13 +1229,9 @@ msFilterList
 - /ad160x600.
 - /ad1_
 - /ad1place.
-<<<<<<< HEAD
 - /ad1r.
 - /ad1x1home.
 - /ad2-728-
-=======
-- /ad1x1home.
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - /ad2.
 - /ad2/index.
 - /ad2/res/
@@ -2012,10 +1998,6 @@ msFilterList
 - /adpeeps/
 - /adperf_
 - /adperfdemo.
-<<<<<<< HEAD
-=======
-- /adphoto.
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - /adpic.
 - /adpic/
 - /adpicture.
@@ -4662,10 +4644,7 @@ msFilterList
 - /n4403ad.
 - /n_ads/
 - /namediaad.
-<<<<<<< HEAD
 - /nativeads-
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - /nativeads/
 - /navad/
 - /navads/
@@ -5370,10 +5349,7 @@ msFilterList
 - /sponsored_title.
 - /sponsored_top.
 - /sponsoredads/
-<<<<<<< HEAD
 - /sponsoredbanner/
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - /sponsoredcontent.
 - /sponsoredheadline.
 - /sponsoredlinks.
@@ -6330,10 +6306,7 @@ msFilterList
 - _inlineads.
 - _js/ads.js
 - _jtads/
-<<<<<<< HEAD
 - _juiceadv.
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - _juicyads.
 - _layerad.
 - _leaderboard_ad_
@@ -7550,10 +7523,7 @@ msFilterList
 -d adxpower.com
 -d adyoulike.com
 -d adyoz.com
-<<<<<<< HEAD
 -d adz.co.zw
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d adzerk.net
 -d adzhub.com
 -d adzonk.com
@@ -7920,10 +7890,7 @@ msFilterList
 -d cherytso.com
 -d chicbuy.info
 -d china-netwave.com
-<<<<<<< HEAD
 -d chinagrad.ru
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d chipleader.com
 -d chitika.com
 -d chitika.net
@@ -8531,10 +8498,7 @@ msFilterList
 -d gururevenue.com
 -d gwallet.com
 -d gx101.com
-<<<<<<< HEAD
 -d h-images.net
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d h12-media.com
 -d halfpriceozarks.com
 -d halogennetwork.com
@@ -9031,10 +8995,7 @@ msFilterList
 -d nagrande.com
 -d nanigans.com
 -d nativead.co
-<<<<<<< HEAD
 -d nativeads.com
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d nbjmp.com
 -d nbstatic.com
 -d ncrjsserver.com
@@ -9461,10 +9422,6 @@ msFilterList
 -d rtbmedia.org
 -d rtbpop.com
 -d rtbpops.com
-<<<<<<< HEAD
-=======
--d ru4.com
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d rubiconproject.com
 -d rummyaffiliates.com
 -d runadtag.com
@@ -9725,10 +9682,7 @@ msFilterList
 -d tinbuadserv.com
 -d tisadama.com
 -d tiser.com
-<<<<<<< HEAD
 -d tissage-extension.com
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d tkqlhce.com
 -d tldadserv.com
 -d tlvmedia.com
@@ -12770,10 +12724,6 @@ msFilterList
 -d zubehost.com ?zoneid=
 - .com/jquery/*.js?_t=*.js
 - .info/*.js?guid=*.js
-<<<<<<< HEAD
-=======
-- /sponsoredbanner/
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 - http://creative.*/smart.js*.js
 -d j.gs /omnigy*.swf
 -d 0-60mag.com /js/takeover-2.0/
@@ -13439,10 +13389,7 @@ msFilterList
 -d dailymotion.com /images/ie.png
 -d dailymotion.com masscast/
 -d dailynews.co.tz /images/banners/
-<<<<<<< HEAD
 -d dailynews.co.zw -takeover.
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 -d dailynews.gov.bw /banner_
 -d dailynews.lk /webadz/
 -d dailypioneer.com /images/banners/
@@ -17218,10 +17165,7 @@ msFilterList
 +d englishanimes.com /wp-content/themes/englishanimes/js/pop.js
 +d engrish.com /wp-content/uploads/*/advertisement-
 +d epicgameads.com /crossdomain.xml
-<<<<<<< HEAD
 +d eplayerhtml5.performgroup.com /js/tsEplayerHtml5/js/Eplayer/js/modules/bannerview/bannerview.main.js?
-=======
->>>>>>> ead034dc086f3a54d5a18e6bdc550858de922dbd
 +d equippers.com /abm.aspx?*.js
 +d equippers.com /absolutebm.aspx?*.js
 +d espn.co.uk /ads/gamemodule_v0.2.swf
