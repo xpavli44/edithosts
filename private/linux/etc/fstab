@@ -1,0 +1,41 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/sda2 during installation
+# /home was on /dev/sda5 during installation
+UUID=4a5eb6a2-b032-46a6-b68e-27368639539f /home           ext4    discard,defaults        0       2
+
+none    /tmp    tmpfs   nodev,nosuid,size=512M,mode=1777 0 0
+
+##UUID=50D084DD22E50ED9 /media/data     ntfs    defaults,uid=1000,guid=46,umask=007,windows_names,locale=cs_CZ.utf8,x-gvfs-name=DATA,x-gvfs-show						 0	 0
+
+
+# /mnt/.debian/root was on /dev/sdb2 during installation
+UUID=da60b60e-9b3d-41a6-901c-2d20065ba8f4 /mnt/debian	 ext4    noauto,users,defaults        0       2
+
+# /mnt/ext4 was on /dev/sdb4 during installation
+UUID=0c2ffb4f-5c08-481f-9b11-235a30a4fe39 /mnt/ext4       ext4    defaults        0       2
+
+# /tmp/TMP was on /dev/sdb7 during installation
+UUID=30522812-d674-49f0-9190-e8217fb337b6 /tmp/TMP        ext2    auto,users,defaults        0       2
+
+# /windows was on /dev/sda1 during installation
+UUID=B6EC93E0EC9398E7 /windows     ntfs    discard,defaults,uid=1000,guid=46,umask=007,windows_names,locale=cs_CZ.utf8,noauto,x-gvfs-name=WINDOWS 0       0
+
+# swap was on /dev/sda3 during installation SSD
+UUID=41ce8979-78a7-419e-b941-677e08ed1431 none            swap    sw,pri=1              0       0
+
+# swap was on /dev/sdb5 during installation
+UUID=54e8b3b6-cdee-4e3f-b780-c7d76a0496a7 none            swap    sw,pri=0              0       0
+
+#
+#
+/dev/disk/by-id/usb-Sony_Camcorder_66F52030877B-0:0-part1		/mnt/usb-sony	auto 	users,nosuid,nodev,nofail,noauto 0 0
+/dev/disk/by-label/homeSD /mnt/homeSD ext4 users,nosuid,nodev,nofail,noauto 0 0
+#/dev/disk/by-id/ata-KINGSTON_SH103S3120G_50026B7229027EC0-part2 /mnt/ata-KINGSTON_SH103S3120G_50026B7229027EC0-part2 ext4 discard,errors=remount-ro 0 1
+/dev/disk/by-id/usb-Generic_STORAGE_DEVICE_000000000553-0:2-part2 /mnt/usb-Generic_STORAGE_DEVICE_000000000553-0:2-part2 ext2 nosuid,nodev,nofail,noauto 0 0
+/dev/disk/by-id/ata-ST1500DL003-9VT16L_5YD14Z2X-part6 /media/data ntfs defaults,uid=1000,guid=46,umask=077,x-gvfs-name=DATA,x-gvfs-show,nls=utf8 0 0

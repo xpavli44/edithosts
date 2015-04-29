@@ -1,0 +1,45 @@
+#!/bin/sh -e
+#
+# rc.local
+#
+# This script is executed at the end of each multiuser runlevel.
+# Make sure that the script will "exit 0" on success or any other
+# value on error.
+#
+# In order to enable or disable this script just change the execution
+# bits.
+#
+# By default this script does nothing.
+
+#wlan1 down
+ifconfig wlan1 down
+
+## echo noop > /sys/block/sda/queue/scheduler ##je zapsáno v /etc/default/grub
+echo cfq > /sys/block/sdb/queue/scheduler
+
+##update
+#apt-fast update &> /dev/null &
+
+## n2n:
+
+#edge -d rodina -a 10.3.3.1 -c kladruby -k linux4u -l service.meitner.cz:82 -f
+#edge -d service -a 10.2.4.2 -c service007 -k 007sErvice -l service.meitner.cz:82 -f
+
+## n2n supernode
+#supernode -l 82 &
+
+
+## /tmp/TMP mount
+mount /tmp/TMP &> /dev/null &
+
+## cache
+pkexec --user medved mkdir /tmp/TMP/cache -p -m 0700 &> /dev/null &
+
+##Dropbox Galerie
+# /root/dropbox-oprava-synchronizace.sh &
+# pkexec --user galerie dropbox start -y &
+
+## Google Chrome "profil nejde otevřít" fix
+rm /home/*/.config/google-chrome/*/Web\ Dat* -rf
+
+exit 0

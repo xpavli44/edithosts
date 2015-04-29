@@ -1,0 +1,55 @@
+deb http://cz.archive.ubuntu.com/ubuntu/ saucy main restricted universe multiverse
+deb http://cz.archive.ubuntu.com/ubuntu/ saucy-security main restricted universe multiverse
+deb http://cz.archive.ubuntu.com/ubuntu/ saucy-updates main restricted universe multiverse
+deb http://cz.archive.ubuntu.com/ubuntu/ saucy-backports main restricted universe multiverse
+deb http://extras.ubuntu.com/ubuntu saucy main restricted universe multiverse
+
+##############################################################
+##################### UNOFFICIAL  REPOS ######################
+##############################################################
+
+###### 3rd Party Binary Repos
+
+#### Gimp PPA - https://launchpad.net/~otto-kesselgulasch/+archive/gimp
+## Run this command: sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 614C4B38
+deb http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu saucy main
+
+#### LibreOffice - http://www.documentfoundation.org/download/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 1378B444
+deb http://ppa.launchpad.net/libreoffice/ppa/ubuntu saucy main
+
+#### Ubuntu Tweak PPA - http://ubuntu-tweak.com/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0624A220
+deb http://ppa.launchpad.net/tualatrix/ubuntu saucy main
+
+#### Unsettings PPA - http://www.florian-diesch.de/software/unsettings/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0FEB6DD9
+deb http://ppa.launchpad.net/diesch/testing/ubuntu saucy main
+
+
+#### Wine - https://launchpad.net/~ubuntu-wine/+archive/ppa/
+## Run this command:  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F9CB8DB0
+deb http://ppa.launchpad.net/ubuntu-wine/ppa/ubuntu saucy main
+
+#### X Updates - https://launchpad.net/~ubuntu-x-swat/+archive/x-updates/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AF1CDFA9
+deb http://ppa.launchpad.net/ubuntu-x-swat/x-updates/ubuntu saucy main
+
+#### Xorg Edgers PPA - https://launchpad.net/~xorg-edgers
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8844C542  
+deb http://ppa.launchpad.net/xorg-edgers/ppa/ubuntu saucy main
+
+### Google Drive Insynchq
+## https://www.insynchq.com/linux
+deb http://apt.insynchq.com/ubuntu saucy non-free
+
+deb http://apt.tvheadend.org/stable saucy main
+# deb-src http://apt.tvheadend.org/stable saucy main
+
+
+# Videolan libdvd css
+deb ftp://ftp.videolan.org/pub/debian/ stable 
+
+#
+deb http://ppa.launchpad.net/cz.nic-labs/datove-schranky/ubuntu saucy main
+

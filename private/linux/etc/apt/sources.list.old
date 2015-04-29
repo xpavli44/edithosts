@@ -1,0 +1,76 @@
+# deb cdrom:[Xubuntu 13.04 _Raring Ringtail_ - Release amd64 (20130423.1)]/ raring main multiverse restricted universe
+
+# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
+# newer versions of the distribution.
+# deb http://cz.archive.ubuntu.com/ubuntu/ raring main restricted
+deb http://cz.archive.ubuntu.com/ubuntu/ raring main restricted universe multiverse
+# deb-src http://cz.archive.ubuntu.com/ubuntu/ raring main restricted
+deb-src http://cz.archive.ubuntu.com/ubuntu/ raring main restricted universe multiverse
+
+###### Ubuntu Update Repos
+deb http://cz.archive.ubuntu.com/ubuntu/ raring-security main restricted universe multiverse
+deb http://cz.archive.ubuntu.com/ubuntu/ raring-updates main restricted universe multiverse
+deb http://cz.archive.ubuntu.com/ubuntu/ raring-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu raring-security main restricted
+deb http://security.ubuntu.com/ubuntu raring-security universe
+deb http://security.ubuntu.com/ubuntu raring-security multiverse
+
+
+###### Ubuntu Extras Repos
+## This software is not part of Ubuntu, but is offered by third-party
+## developers who want to ship their latest software.
+deb http://extras.ubuntu.com/ubuntu raring main
+deb http://archive.canonical.com/ubuntu raring partner
+# deb-src http://extras.ubuntu.com/ubuntu raring main
+
+
+##############################################################
+##################### UNOFFICIAL  REPOS ######################
+##############################################################
+
+###### 3rd Party Binary Repos
+
+#### Gimp PPA - https://launchpad.net/~otto-kesselgulasch/+archive/gimp
+## Run this command: sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 614C4B38
+deb http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu raring main
+
+#### LibreOffice - http://www.documentfoundation.org/download/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 1378B444
+deb http://ppa.launchpad.net/libreoffice/ppa/ubuntu raring main
+
+#### Ubuntu Tweak PPA - http://ubuntu-tweak.com/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0624A220
+deb http://ppa.launchpad.net/tualatrix/ubuntu raring main
+
+#### Unsettings PPA - http://www.florian-diesch.de/software/unsettings/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0FEB6DD9
+deb http://ppa.launchpad.net/diesch/testing/ubuntu raring main
+
+#### WebUpd8 PPA - http://www.webupd8.org/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4C9D234C
+deb http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu raring main
+
+#### Wine - https://launchpad.net/~ubuntu-wine/+archive/ppa/
+## Run this command:  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F9CB8DB0
+deb http://ppa.launchpad.net/ubuntu-wine/ppa/ubuntu raring main
+
+#### X Updates - https://launchpad.net/~ubuntu-x-swat/+archive/x-updates/
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AF1CDFA9
+deb http://ppa.launchpad.net/ubuntu-x-swat/x-updates/ubuntu raring main
+
+#### Xorg Edgers PPA - https://launchpad.net/~xorg-edgers
+## Run this command: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8844C542  
+deb http://ppa.launchpad.net/xorg-edgers/ppa/ubuntu raring main
+
+### Google Drive Insynchq
+## https://www.insynchq.com/linux
+deb http://apt.insynchq.com/ubuntu raring non-free
+# deb http://apt.insynchq.com/ubuntu quantal non-free
+
+deb http://apt.tvheadend.org/stable raring main
+# deb-src http://apt.tvheadend.org/stable raring main
+deb http://cz.archive.ubuntu.com/ubuntu/ raring-proposed universe multiverse restricted main
+
+# Videolan libdvd css
+deb ftp://ftp.videolan.org/pub/debian/stable stable main
+

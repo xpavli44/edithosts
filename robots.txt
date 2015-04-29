@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /sandbox
 Disallow: /un
-Disallow: /en/un
+Disallow: /privat
 
 Allow: /
 
