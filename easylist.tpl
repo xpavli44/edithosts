@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 29 Apr 2015 03:11 UTC
+# Last modified: 30 Apr 2015 06:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10371,6 +10371,7 @@ msFilterList
 -d atresadvertising.com
 # Yavli.com
 -d accmndtion.org
+-d addo-mnton.com
 -d allianrd.net
 -d anomiely.com
 -d appr8.net
@@ -17415,6 +17416,8 @@ msFilterList
 -d zpag.es /b/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
+# extratorrentlive
+# /[a-zA-Z0-9]{10}/$script,third-party,domain=extratorrentlive.com
 # Filenuke/sharesix
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
