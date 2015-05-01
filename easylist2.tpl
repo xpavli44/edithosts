@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt dub 30 08:26:07 CEST 2015 ##################
+##### Aktualizováno: Pá kvě 1 09:47:52 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12845,7 +12845,6 @@ msFilterList
 -d adpost.com /skyserver.g.
 -d adpost.com .g.html
 - http://ads-*.hulu.com/
--d ads-grooveshark.com
 -d ads-rolandgarros.com
 -d ads.pof.com
 -d ads.zynga.com
