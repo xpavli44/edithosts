@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 01 May 2015 07:41 UTC
+# Last modified: 01 May 2015 11:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -19243,6 +19243,7 @@ msFilterList
 +d inspire.net.nz /adverts/
 # @@||intellitext.co^$~third-party
 +d intellitxt.com /ast/js/nbcuni/*.js
+# @@||intentmedia.net/javascripts/$script,domain=travelzoo.com
 +d interadcorp.com /script/interad.
 +d investors.com /Scripts/AdScript.js?
 +d inviziads.com /crossdomain.xml
