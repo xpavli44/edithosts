@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 01 May 2015 16:11 UTC
+# Last modified: 02 May 2015 01:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -17566,7 +17566,7 @@ msFilterList
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
-# /http://.*[a-zA-Z0-9]{20}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
+# /http://.*[a-zA-Z0-9]{7}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 # ||109.201.146.142^$domain=xxxbunker.com
 -d 213.174.140.38 /bftv/js/msn-
 # ||213.174.140.38^*/msn-*.js$domain=boyfriendtv.com|pornoxo.com
@@ -21204,6 +21204,14 @@ msFilterList
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 # @@||widget.plugrush.com^$subdocument,domain=amateursexy.net
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
+# You Porn
++d youporn.com /change/rate/
++d youporn.com /change/user/
++d youporn.com /change/videos/
++d youporn.com /esi_home/subscriptions/
++d youporn.com /mycollections.json
++d youporn.com /notifications/
++d youporn.com /subscriptions/
 # Anti-Adblock
 +d adultadworld.com /adhandler/
 # @@||fapxl.com^$elemhide

@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá kvě 1 18:15:25 CEST 2015 ##################
+##### Aktualizováno: So kvě 2 03:29:31 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -18338,6 +18338,13 @@ msFilterList
 +d tnaflix.com /ad/
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
++d youporn.com /change/rate/
++d youporn.com /change/user/
++d youporn.com /change/videos/
++d youporn.com /esi_home/subscriptions/
++d youporn.com /mycollections.json
++d youporn.com /notifications/
++d youporn.com /subscriptions/
 +d adultadworld.com /adhandler/
 +d fuqer.com /advertisement.js
 +d hentaimoe.com /js/advertisement.js
