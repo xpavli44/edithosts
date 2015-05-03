@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 May 2015 00:01 UTC
+# Last modified: 03 May 2015 07:31 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10436,6 +10436,7 @@ msFilterList
 -d kioshow.com
 -d kuangard.net
 -d lesuard.com
+-d lia-ndr.com
 -d lirte.org
 -d loopr.co
 -d oplo.org
@@ -10545,6 +10546,7 @@ msFilterList
 # ||ar.voicefive.com^$popup,third-party
 # ||awempire.com^$popup,third-party
 # ||awsclic.com^$popup,third-party
+# ||bannerflow.com^$popup,third-party
 # ||baypops.com^$popup,third-party
 # ||becoquin.com^$popup,third-party
 # ||becoquins.net^$popup,third-party
@@ -17422,7 +17424,7 @@ msFilterList
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
 # extratorrentlive
-# /[a-zA-Z0-9]{10}/$script,third-party,domain=extratorrent.cc|extratorrentlive.com
+# /\/[a-zA-Z0-9]{10}/$script,third-party,domain=extratorrent.cc|extratorrentlive.com
 # Filenuke/sharesix
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
@@ -18833,7 +18835,6 @@ msFilterList
 +d cdn.travidia.com /rop-sub/
 +d cdn.turner.com /video/336x280_ad.gif
 # @@||cdn.vdopia.com^$object,object-subrequest,script,domain=indiatvnews.com|intoday.in|moneycontrol.com
-# @@||cdnslate.com^*/loader.min.js$domain=slate.com
 +d cellc.co.za /adserv/
 +d cerebral.s4.bizhat.com /banners/
 +d channel4.com /media/scripts/oasconfig/siteads.js
@@ -20721,6 +20722,7 @@ msFilterList
 +d vidup.me /adlayer.js
 +d vietvbb.vn /up/clientscript/google_ads.js
 +d viki.com .js*.js
++d vipbox.tv /js/ads.js
 +d vipleague.se /js/ads.js
 +d vodu.ch .js
 +d wallpapermania.eu /assets/js/advertisement.js

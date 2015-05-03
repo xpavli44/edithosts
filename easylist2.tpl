@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 3 02:11:04 CEST 2015 ##################
+##### Aktualizováno: Ne kvě 3 09:40:37 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10153,6 +10153,7 @@ msFilterList
 -d kioshow.com
 -d kuangard.net
 -d lesuard.com
+-d lia-ndr.com
 -d lirte.org
 -d loopr.co
 -d oplo.org
@@ -18109,6 +18110,7 @@ msFilterList
 +d vidup.me /adlayer.js
 +d vietvbb.vn /up/clientscript/google_ads.js
 +d viki.com .js*.js
++d vipbox.tv /js/ads.js
 +d vipleague.se /js/ads.js
 +d vodu.ch .js
 +d wallpapermania.eu /assets/js/advertisement.js
