@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So kvě 2 03:29:31 CEST 2015 ##################
+##### Aktualizováno: Ne kvě 3 02:11:04 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -4077,6 +4077,7 @@ msFilterList
 - /google-ads/
 - /google-adsense-
 - /google-adsense.
+- /google-adverts-
 - /google-adwords
 - /google-afc-
 - /google-afc.
@@ -4752,6 +4753,7 @@ msFilterList
 - /orbitads.
 - /origin-ad-
 - /other/ads/
+- /outbrain-min.
 - /overlay-ad.
 - /overlay_ad_
 - /overlayad.
@@ -11053,6 +11055,7 @@ msFilterList
 -d affiliates.homestead.com
 -d affiliates.lynda.com
 -d affiliates.picaboocorp.com
+-d affiliatesmedia.sbobet.com
 -d affiliation.filestube.com
 -d affiliation.fotovista.com
 -d affutdmedia.com
@@ -17049,6 +17052,7 @@ msFilterList
 +d cellc.co.za /adserv/
 +d cerebral.s4.bizhat.com /banners/
 +d channel4.com /media/scripts/oasconfig/siteads.js
++d chase.com /content/*/ads/
 +d chase.com /adserving/
 +d cheapoair.ca /desktopmodules/adsales/adsaleshandle.ashx?
 +d cheapoair.com /desktopmodules/adsales/adsaleshandle.ashx?

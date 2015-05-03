@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 02 May 2015 01:21 UTC
+# Last modified: 03 May 2015 00:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -4205,6 +4205,7 @@ msFilterList
 - /google-ads/
 - /google-adsense-
 - /google-adsense.
+- /google-adverts-
 - /google-adwords
 - /google-afc-
 - /google-afc.
@@ -4885,6 +4886,7 @@ msFilterList
 - /orbitads.
 - /origin-ad-
 - /other/ads/
+- /outbrain-min.
 - /overlay-ad.
 - /overlay_ad_
 - /overlayad.
@@ -7219,6 +7221,7 @@ msFilterList
 # =popunders&$popup
 # ?AdUrl=$popup
 # ?bannerid=*&punder=$popup
+# ?utm_source=*&utm_$popup,third-party
 # ?zoneid=*_bannerid=$popup
 # _popunder+$popup
 #------------------------General element hiding rules-------------------------#
@@ -10552,6 +10555,7 @@ msFilterList
 # ||binaryoptionsgame.com^$popup,third-party
 # ||blinko.es^$popup,third-party
 # ||blinkogold.es^$popup,third-party
+# ||blockthis.es^$popup,third-party
 # ||blogscash.info^$popup,third-party
 # ||bongacams.com^$popup,third-party
 # ||bonzuna.com^$popup,third-party
@@ -10721,6 +10725,7 @@ msFilterList
 # ||trw12.com^$popup,third-party
 # ||tutvp.com^$popup,third-party
 # ||updater-checker.net^$popup,third-party
+# ||vgsgaming-ads.com^$popup,third-party
 # ||vprmnwbskk.com^$popup,third-party
 # ||w4statistics.info^$popup,third-party
 # ||wahoha.com^$popup,third-party
@@ -11702,6 +11707,7 @@ msFilterList
 -d affiliates.homestead.com
 -d affiliates.lynda.com
 -d affiliates.picaboocorp.com
+-d affiliatesmedia.sbobet.com
 -d affiliation.filestube.com
 -d affiliation.fotovista.com
 -d affutdmedia.com
@@ -17473,6 +17479,7 @@ msFilterList
 # ||avalanchers.com/out/$popup
 # ||bangstage.com^$popup,domain=datacloud.to
 # ||bit.ly^$popup,domain=fastvideo.eu|rapidvideo.org
+# ||casino-x.com^*&promo$popup
 # ||channel4.com/ad/$popup
 # ||cloudzilla.to/cam/wpop.php$popup
 # ||comicbookmovie.com/plugins/ads/$popup
@@ -18831,6 +18838,7 @@ msFilterList
 +d cerebral.s4.bizhat.com /banners/
 +d channel4.com /media/scripts/oasconfig/siteads.js
 # @@||charlieandmekids.com/www/delivery/$script,domain=charlieandmekids.co.nz|charlieandmekids.com.au
++d chase.com /content/*/ads/
 +d chase.com /adserving/
 +d cheapoair.ca /desktopmodules/adsales/adsaleshandle.ashx?
 +d cheapoair.com /desktopmodules/adsales/adsaleshandle.ashx?
@@ -20264,6 +20272,7 @@ msFilterList
 # @@||debridit.com^$elemhide
 # @@||debridx.com^$elemhide
 +d decomaniacos.es /advertisement.js
+# @@||demonoid.ph^$script,domain=demonoid.ph
 # @@||demonoid.pw^$script,domain=demonoid.pw
 # @@||desionlinetheater.com^$elemhide
 # @@||destinationamerica.com^$elemhide
@@ -21216,6 +21225,7 @@ msFilterList
 +d adultadworld.com /adhandler/
 # @@||fapxl.com^$elemhide
 +d fuqer.com /advertisement.js
+# @@||gaybeeg.info/wp-content/plugins/blockalyzer-adblock-counter/$image,domain=gaybeeg.info
 # @@||google.com/ads/$domain=hinduladies.com
 +d hentaimoe.com /js/advertisement.js
 +d imgadult.com /js/advertisement.js
