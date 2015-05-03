@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 3 09:40:37 CEST 2015 ##################
+##### Aktualizováno: Ne kvě 3 18:04:18 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -46,7 +46,10 @@ msFilterList
 -d ab-forum.info /animation.swf
 -d ab-forum.info /astrasat.gif
 -d ab-forum.info banner*.gif
+-d ab-forum.info /bannery/
 -d ab-forum.info /Ferguson_NEW.jpg
+-d ab-forum.info /lx3-maly.jpg
+-d ab-forum.info /odbojna.sk.jpg
 -d ab-forum.info /xpeed.jpg
 -d abecedaher.cz /index_banner_
 -d adx.fotoaparat.cz /www/images/
@@ -356,6 +359,7 @@ msFilterList
 +d i.imedia.cz /js/im3.js
 +d moviezone.cz /js/
 +d ocko.tv /content/adv/flash/
++d openload.io /assets/js/advertisement.js
 +d smartmania.cz /advertisment.js
 +d sokolov.cz /images/reklama/
 +d static.cz.prg.cmestatic.com /static/cz/shared/js/adtrack.nova.js

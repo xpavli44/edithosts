@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 May 2015 07:31 UTC
+# Last modified: 03 May 2015 16:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 10/04/2015
+# Last change: 03/05/2015
 # List maintainers: Fanboy, Moskoe, tomasko126
 # License: CC-BY-SA v4.0
 # Email: tomastaro@adblock.sk
@@ -70,7 +70,10 @@ msFilterList
 -d ab-forum.info /animation.swf
 -d ab-forum.info /astrasat.gif
 -d ab-forum.info banner*.gif
+-d ab-forum.info /bannery/
 -d ab-forum.info /Ferguson_NEW.jpg
+-d ab-forum.info /lx3-maly.jpg
+-d ab-forum.info /odbojna.sk.jpg
 -d ab-forum.info /xpeed.jpg
 -d abecedaher.cz /index_banner_
 -d adx.fotoaparat.cz /www/images/
@@ -416,6 +419,7 @@ msFilterList
 # @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
 # @@||*.nova.cz/static/shared/app/videojs/plugins/ads/
 +d ocko.tv /content/adv/flash/
++d openload.io /assets/js/advertisement.js
 # @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 # @@||reklama-*.cz
 +d smartmania.cz /advertisment.js
@@ -437,6 +441,7 @@ msFilterList
 # @@||pcforum.sk$elemhide
 +d pcforum.sk /styles/*/advertisement.js
 +d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
+# @@||spusti.net/data/advertisement.js$domain=spusti.net
 +d tpd.sk /ads/rotator/
 # @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 #
