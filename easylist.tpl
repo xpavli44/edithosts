@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 May 2015 16:01 UTC
+# Last modified: 04 May 2015 06:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10640,6 +10640,7 @@ msFilterList
 # ||ligatus.com^$popup,third-party
 # ||livechatflirt.com^$popup,third-party
 # ||livepromotools.com^$popup,third-party
+# ||liversely.net^$popup,third-party
 # ||lmebxwbsno.com^$popup,third-party
 # ||lnkgt.com^$popup,third-party
 # ||m57ku6sm.com^$popup,third-party
