@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po kvě 4 08:14:31 CEST 2015 ##################
+##### Aktualizováno: Út kvě 5 03:08:36 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -14132,7 +14132,6 @@ msFilterList
 -d ip-adress.com /i/ewa/
 -d ip-adress.com /superb/
 -d ipaddress.com /banner/
--d iphone-tv.eu /src/player/bla123.mp4
 -d ipinfodb.com /img/adds/
 -d iptools.com /sky.php
 -d irctctourism.com /ttrs/railtourism/Designs/html/images/tourism_right_banners/*DealsBanner_
@@ -17896,6 +17895,7 @@ msFilterList
 +d eventhubs.com .*.js
 +d exrapidleech.info /templates/
 +d exrapidleech.info .js
++d exsite.pl /advert.js
 +d ezcast.tv /static/scripts/adscript.js
 +d fastcocreate.com /js/advertisement.js
 +d fastcodesign.com /js/advertisement.js
@@ -17913,6 +17913,7 @@ msFilterList
 +d filmovizija.net /js/advertisement.js
 +d filmux.net /ads/banner.jpg?
 +d filmweb.pl /adbanner/*.js
++d firstonetv.com /ads_advertisement.js
 +d fitshr.net
 +d fm.tuba.pl /tuba3/_js/advert.js
 +d freebitco.in .js
@@ -17953,7 +17954,6 @@ msFilterList
 +d inskinmedia.com /crossdomain.xml
 +d install.wtf /advertisement/advertisement.js
 +d investigationdiscovery.com /shared/ad-enablers/
-+d iphone-tv.eu /adframe.js
 +d iriptv.com /player/ads.js
 +d jkanime.net /assets/js/advertisement.js
 +d jkanime.net /advertisement2.js
