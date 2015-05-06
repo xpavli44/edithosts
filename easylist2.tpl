@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 6 21:00:45 CEST 2015 ##################
+##### Aktualizováno: Čt kvě 7 00:15:25 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -251,6 +251,7 @@ msFilterList
 -d static.itnews.sk /branding/
 -d tailormysuit.sk /wp-content/uploads/banner*.jpg
 -d techbox.sk colorbox
+-d img.teevee.sk /img/comm/
 -d totalpozicky.sk /images/banners/
 -d tu-ke.com /certovskezlavy.jpg
 -d tu-ke.com /jozko.png
@@ -368,6 +369,7 @@ msFilterList
 +d stream.cz /static/swf/advert-nextEpisode.swf
 +d ta3.com /advert-async-system/load-items.html?
 +d img.aaaauto.eu /thumb/
++d openload.io /deliverad/2
 +d pcforum.sk /styles/*/advertisement.js
 +d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
 +d tpd.sk /ads/rotator/

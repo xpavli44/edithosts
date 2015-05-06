@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 06 May 2015 18:51 UTC
+# Last modified: 06 May 2015 22:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 03/05/2015
+# Last change: 06/05/2015
 # List maintainers: Fanboy, Moskoe, tomasko126
 # License: CC-BY-SA v4.0
 # Email: tomastaro@adblock.sk
@@ -283,6 +283,7 @@ msFilterList
 -d static.itnews.sk /branding/
 -d tailormysuit.sk /wp-content/uploads/banner*.jpg
 -d techbox.sk colorbox
+-d img.teevee.sk /img/comm/
 -d totalpozicky.sk /images/banners/
 -d tu-ke.com /certovskezlavy.jpg
 -d tu-ke.com /jozko.png
@@ -438,6 +439,7 @@ msFilterList
 +d img.aaaauto.eu /thumb/
 # @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 # @@/moje-konto/inzeraty/
++d openload.io /deliverad/2
 # @@||pcforum.sk$elemhide
 +d pcforum.sk /styles/*/advertisement.js
 +d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
