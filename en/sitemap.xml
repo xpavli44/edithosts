@@ -86,6 +86,20 @@
 	</url>
 
 	<url>
+		<loc>http://edithosts.meitner.cz/easylist2.tpl</loc>
+		<xhtml:link
+		rel="alternate"
+		hreflang="cs"
+		href="http://edithosts.meitner.cz/easylist2.tpl"
+		/>
+		<xhtml:link
+		rel="alternate"
+		hreflang="en"
+		href="http://edithosts.meitner.cz/easylist2.tpl"
+		/>
+	</url>
+	
+	<url>
 		<loc>http://edithosts.meitner.cz/edithosts-pro-windows-easy-list-ochrana-pred-sledovanim</loc>
 		<xhtml:link
 		rel="alternate"
@@ -95,7 +109,7 @@
 		<xhtml:link
 		rel="alternate"
 		hreflang="en"
-		href="http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-lists"
+		href="http://edithosts.meitner.cz/en/edithosts-for-windows-easy-list-tracking-protection-list"
 		/>
 	</url>
 	
