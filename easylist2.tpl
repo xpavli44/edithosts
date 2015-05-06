@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út kvě 5 08:16:19 CEST 2015 ##################
+##### Aktualizováno: St kvě 6 02:42:49 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -17983,6 +17983,7 @@ msFilterList
 +d mangahost.com /ads.js?
 +d mangakaka.com /ad/
 +d mangakaka.com /advertiser.js
++d marketmilitia.org /advertisement.js
 +d maxcheaters.com /public/js/jsLoader.js
 +d megadown.us /advertisement.js
 +d megahd.me /advertisement.js

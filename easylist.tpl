@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 May 2015 06:11 UTC
+# Last modified: 06 May 2015 00:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -20477,6 +20477,7 @@ msFilterList
 +d mangahost.com /ads.js?
 +d mangakaka.com /ad/
 +d mangakaka.com /advertiser.js
++d marketmilitia.org /advertisement.js
 # @@||marketmilitia.org^$elemhide
 # @@||masfuertequeelhierro.com^$elemhide
 # @@||mastertoons.com^$elemhide
@@ -20612,6 +20613,7 @@ msFilterList
 +d saikoanimes.net /advertisement.js
 +d sankakucomplex.com .js
 +d sankakustatic.com .js
+# @@||sascdn.com/diff/js/smart.js$domain=onvasortir.com
 # @@||sascdn.com/diff/video/$script,domain=eskago.pl
 # @@||sascdn.com/video/$script,domain=eskago.pl
 +d savevideo.me /images/banner_ads.gif
@@ -20633,6 +20635,7 @@ msFilterList
 +d skidrowcrack.com /advertisement.js
 # @@||smartadserver.com/call/pubj/*/M/*/?$domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 # @@||smartadserver.com/call/pubj/*/S/*/?$domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
+# @@||smartadserver.com/config.js?nwid=$domain=onvasortir.com
 # @@||sms-mmm.com/pads.js$domain=hqq.tv
 # @@||sms-mmm.com/script.php|$script,domain=hqq.tv
 +d sockshare.com /js/*.js
