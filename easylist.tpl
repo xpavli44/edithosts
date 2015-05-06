@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 06 May 2015 06:21 UTC
+# Last modified: 06 May 2015 18:51 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -5831,6 +5831,7 @@ msFilterList
 - /wallpaper_ads/
 - /wallpaperads/
 - /watchit_ad.
+- /wave-ad-
 - /wbadvert/
 - /weather-sponsor/
 - /weather/ads/
@@ -16537,6 +16538,8 @@ msFilterList
 -d space.com /promo/
 # ||spaceweather.com/abdfeeter/$image
 -d spartoo.eu /footer_tag_iframe_
+# ||speedtest.net/flash/59rvvrpc-$object-subrequest
+# ||speedtest.net/flash/60speedify1-$object-subrequest
 -d speedtv.com.edgesuite.net /img/monthly/takeovers/
 -d speedtv.com /js/interstitial.js
 -d speedtv.com /tissot-logo.png

@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 6 08:31:13 CEST 2015 ##################
+##### Aktualizováno: St kvě 6 21:00:32 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5683,6 +5683,7 @@ msFilterList
 - /wallpaper_ads/
 - /wallpaperads/
 - /watchit_ad.
+- /wave-ad-
 - /wbadvert/
 - /weather-sponsor/
 - /weather/ads/
