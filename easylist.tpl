@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 06 May 2015 05:51 UTC
+# Last modified: 06 May 2015 06:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -17577,7 +17577,6 @@ msFilterList
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
-# /http://.*[a-zA-Z0-9]{7}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 # ||109.201.146.142^$domain=xxxbunker.com
 -d 213.174.140.38 /bftv/js/msn-
 # ||213.174.140.38^*/msn-*.js$domain=boyfriendtv.com|pornoxo.com
