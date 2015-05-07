@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 06 May 2015 22:21 UTC
+# Last modified: 07 May 2015 17:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9481,6 +9481,7 @@ msFilterList
 -d picsti.com
 -d pictela.net
 -d pinballpublishernetwork.com
+-d pioneeringad.com
 -d pivotalmedialabs.com
 -d pivotrunner.com
 -d pixazza.com

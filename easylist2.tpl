@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 7 00:25:37 CEST 2015 ##################
+##### Aktualizováno: Čt kvě 7 19:29:48 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9209,6 +9209,7 @@ msFilterList
 -d picsti.com
 -d pictela.net
 -d pinballpublishernetwork.com
+-d pioneeringad.com
 -d pivotalmedialabs.com
 -d pivotrunner.com
 -d pixazza.com
