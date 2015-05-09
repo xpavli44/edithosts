@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 7 19:29:48 CEST 2015 ##################
+##### Aktualizováno: So kvě 9 09:22:21 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -627,10 +627,12 @@ msFilterList
 - -popunder.
 - -popup-ad.
 - -popup-ads-
+- -printhousead-
 - -publicidad.
 - -rectangle/ad-
 - -Results-Sponsored.
 - -right-ad.
+- -rightrailad-
 - -rollout-ad-
 - -scrollads.
 - -seasonal-ad.
@@ -671,6 +673,7 @@ msFilterList
 - .ad1.nspace
 - .adbanner.
 - .adbutler-
+- .adcenter.
 - .adforge.
 - .adframesrc.
 - .admarvel.
@@ -982,6 +985,7 @@ msFilterList
 - /ad%20images/
 - /ad-125.
 - /ad-300topleft.
+- /ad-300x250.
 - /ad-300x254.
 - /ad-350x350-
 - /ad-468-
@@ -2163,6 +2167,7 @@ msFilterList
 - /ads/ads.
 - /ads/ads/
 - /ads/ads_
+- /ads/adv/
 - /ads/afc/
 - /ads/aff-
 - /ads/as_header.
@@ -3629,6 +3634,7 @@ msFilterList
 - /ctamlive160x160.
 - /cube_ads/
 - /cubead.
+- /cubeads/
 - /cubeads_
 - /curlad.
 - /curveball/ads/
@@ -4303,6 +4309,7 @@ msFilterList
 - /img/_ad.
 - /img/ad-
 - /img/ad.
+- /img/ad/
 - /img/ad_
 - /img/ads/
 - /img/adv.
@@ -4328,6 +4335,7 @@ msFilterList
 - /impop.
 - /impopup/
 - /inad.
+- /inc/ad-
 - /inc/ad.
 - /inc/ads/
 - /inc_ad.
@@ -4371,6 +4379,7 @@ msFilterList
 - /internetad/
 - /interstitial-ad.
 - /interstitial-ad/
+- /interstitial_ad.
 - /intextadd/
 - /intextads.
 - /introduction_ad.
@@ -4477,7 +4486,9 @@ msFilterList
 - /leadads/
 - /leader_ad.
 - /leaderad.
+- /leaderboard-advert.
 - /leaderboard_ad/
+- /leaderboard_adv/
 - /leaderboardad.
 - /leaderboardadblock.
 - /leaderboardads.
@@ -6180,6 +6191,7 @@ msFilterList
 - _adtxt.
 - _adunit.
 - _adv/300.
+- _adv/leaderboard_
 - _adv/overlay/
 - _Adv_Banner_
 - _advert.
@@ -8063,6 +8075,7 @@ msFilterList
 -d d2ship.com
 -d da-ads.com
 -d dadegid.ru
+-d danitabedtick.net
 -d dapper.net
 -d darwarvid.com
 -d dashboardad.net
@@ -8090,6 +8103,7 @@ msFilterList
 -d destinationurl.com
 -d detroposal.com
 -d developermedia.com
+-d deximedia.com
 -d dexplatform.com
 -d dgmatix.com
 -d dgmaustralia.com
@@ -8740,7 +8754,6 @@ msFilterList
 -d kqzyfj.com
 -d kr3vinsx.com
 -d kromeleta.ru
--d krxd.net
 -d kumpulblogger.com
 -d l3op.info
 -d ladbrokesaffiliates.com.au
@@ -8890,6 +8903,7 @@ msFilterList
 -d medialand.ru
 -d medialation.net
 -d mediaonenetwork.net
+-d mediaonpro.com
 -d mediapeo.com
 -d mediatarget.com
 -d mediative.ca
@@ -9307,7 +9321,6 @@ msFilterList
 -d ptp22.com
 -d ptp24.com
 -d pub-fit.com
--d pubexchange.com
 -d pubgears.com
 -d publicidad.net
 -d publicidees.com
@@ -10106,6 +10119,7 @@ msFilterList
 -d appr8.net
 -d artbr.net
 -d baordrid.com
+-d batarsur.com
 -d baungarnr.com
 -d biankord.net
 -d blazwuatr.com
@@ -10809,6 +10823,7 @@ msFilterList
 -d siccash.com
 -d sixsigmatraffic.com
 -d sjosteras.com
+-d skeettools.com
 -d slendastic.com
 -d smartbn.ru
 -d sms-xxx.com
@@ -11250,6 +11265,7 @@ msFilterList
 -d cdn.cdncomputer.com /js/main.js
 -d cdn.ndparking.com /js/init.min.js
 -d cdn.offcloud.com
+-d cdn.pubexchange.com /modules/display/*.js
 -d cdn.sweeva.com /images/
 -d cdnpark.com /scripts/js3.js
 -d cdnprk.com /scripts/js3.js
@@ -12747,6 +12763,7 @@ msFilterList
 -d 100best-free-web-space.com /images/ipage.gif
 -d 1023xlc.com /upload/*_background_
 -d 1043thefan.com _Sponsors/
+-d 1071radio.com //wp-content/banners/
 -d 1077thebone.com /banners/
 -d 11points.com /images/slack100.jpg
 -d 1320wils.com /assets/images/promo%20banner/
@@ -14302,6 +14319,7 @@ msFilterList
 -d l4dmaps.com /img/right_gameservers.gif
 -d labtimes.org /banner/
 -d lagacetanewspaper.com /banners/
+-d lake-link.com /images/sponsorLogos/
 -d lancasteronline.com /done_deal/
 -d lancasteronline.com /weather_sponsor.gif
 -d lankabusinessonline.com /images/banners/
@@ -15354,6 +15372,7 @@ msFilterList
 -d stuff.co.nz /stuff/*banner
 -d stuff.co.nz /stuff/misc/flying-flowers/
 -d stuff.co.nz /stuff/tom/mags-widget/
+-d stuff.co.nz /stuff/widgets/lifedirect/
 -d stuff.tv /client/skinning/
 -d stv.tv /img/player/stvplayer-sponsorstrip-
 -d subs4free.com /wh4_s4f_*.js
@@ -15555,6 +15574,7 @@ msFilterList
 -d thinkingwithportals.com -skyscraper.swf
 -d thirdage.com _banner.php
 -d thisisanfield.com takeover
+-d thunder106.com //wp-content/banners/
 -d ticketnetwork.com /images/affiliates/
 -d tigerdroppings.com &adcode=
 -d time4tv.com /tlv.
@@ -16768,6 +16788,7 @@ msFilterList
 -d unoxxx.com /pages/en_player_video_right.html
 -d updatetube.com /js/adpupdatetube
 -d vibraporn.com /vg/
+-d vid2c.com /js/atxpp.js?
 -d vid2c.com /js/pp.js
 -d vid2c.com /pap.js
 -d vid2c.com /pp.js
@@ -18346,14 +18367,22 @@ msFilterList
 +d mrstiff.com /view/textad/
 +d nonktube.com /img/adyea.jpg
 +d panicporn.com /Bannerads/player/player_flv_multi.swf
-+d pornhub.com /comment/add?
-+d pornhub.com /svvt/add?
 +d skimtube.com /advertisements.php?
 +d starcelebs.com /logos/logo10.jpg
 +d sundaysportclassifieds.co.uk /ads/
 +d tnaflix.com /ad/
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
++d pornhub.com /channel/
++d pornhub.com /comment/
++d pornhub.com /front/
++d pornhub.com /pornstar/
++d pornhub.com /svvt/add?
++d pornhub.com /video/
++d redtube.com /message/
++d redtube.com /rate
++d redtube.com /starsuggestion/
++d tube8.com /ajax/
 +d youporn.com /change/rate/
 +d youporn.com /change/user/
 +d youporn.com /change/videos/

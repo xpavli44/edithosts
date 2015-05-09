@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 07 May 2015 17:21 UTC
+# Last modified: 09 May 2015 07:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -723,10 +723,12 @@ msFilterList
 - -popunder.
 - -popup-ad.
 - -popup-ads-
+- -printhousead-
 - -publicidad.
 - -rectangle/ad-
 - -Results-Sponsored.
 - -right-ad.
+- -rightrailad-
 - -rollout-ad-
 - -scrollads.
 - -seasonal-ad.
@@ -767,6 +769,7 @@ msFilterList
 - .ad1.nspace
 - .adbanner.
 - .adbutler-
+- .adcenter.
 - .adforge.
 - .adframesrc.
 # .adlabs.$domain=~adlabs.ru
@@ -1087,6 +1090,7 @@ msFilterList
 - /ad%20images/
 - /ad-125.
 - /ad-300topleft.
+- /ad-300x250.
 - /ad-300x254.
 - /ad-350x350-
 - /ad-468-
@@ -2282,6 +2286,7 @@ msFilterList
 - /ads/ads.
 - /ads/ads/
 - /ads/ads_
+- /ads/adv/
 - /ads/afc/
 - /ads/aff-
 - /ads/as_header.
@@ -3757,6 +3762,7 @@ msFilterList
 - /ctamlive160x160.
 - /cube_ads/
 - /cubead.
+- /cubeads/
 - /cubeads_
 - /curlad.
 - /curveball/ads/
@@ -4434,6 +4440,7 @@ msFilterList
 - /img/_ad.
 - /img/ad-
 - /img/ad.
+- /img/ad/
 - /img/ad_
 - /img/ads/
 - /img/adv.
@@ -4459,6 +4466,7 @@ msFilterList
 - /impop.
 - /impopup/
 - /inad.
+- /inc/ad-
 - /inc/ad.
 - /inc/ads/
 - /inc_ad.
@@ -4502,6 +4510,7 @@ msFilterList
 - /internetad/
 - /interstitial-ad.
 - /interstitial-ad/
+- /interstitial_ad.
 - /intextadd/
 - /intextads.
 - /introduction_ad.
@@ -4608,7 +4617,9 @@ msFilterList
 - /leadads/
 - /leader_ad.
 - /leaderad.
+- /leaderboard-advert.
 - /leaderboard_ad/
+- /leaderboard_adv/
 - /leaderboardad.
 - /leaderboardadblock.
 - /leaderboardads.
@@ -6336,6 +6347,7 @@ msFilterList
 - _adtxt.
 - _adunit.
 - _adv/300.
+- _adv/leaderboard_
 - _adv/overlay/
 - _Adv_Banner_
 - _advert.
@@ -8312,6 +8324,7 @@ msFilterList
 -d d2ship.com
 -d da-ads.com
 -d dadegid.ru
+-d danitabedtick.net
 -d dapper.net
 -d darwarvid.com
 -d dashboardad.net
@@ -8339,6 +8352,7 @@ msFilterList
 -d destinationurl.com
 -d detroposal.com
 -d developermedia.com
+-d deximedia.com
 -d dexplatform.com
 -d dgmatix.com
 -d dgmaustralia.com
@@ -9002,7 +9016,6 @@ msFilterList
 -d kqzyfj.com
 -d kr3vinsx.com
 -d kromeleta.ru
--d krxd.net
 -d kumpulblogger.com
 -d l3op.info
 -d ladbrokesaffiliates.com.au
@@ -9155,6 +9168,7 @@ msFilterList
 -d medialand.ru
 -d medialation.net
 -d mediaonenetwork.net
+-d mediaonpro.com
 -d mediapeo.com
 # ||mediaplex.com^$third-party,domain=~watchever.de
 -d mediatarget.com
@@ -9580,7 +9594,6 @@ msFilterList
 -d ptp24.com
 -d pub-fit.com
 # ||pubdirecte.com^$third-party,domain=~debrideurstream.fr
--d pubexchange.com
 -d pubgears.com
 -d publicidad.net
 -d publicidees.com
@@ -10389,6 +10402,7 @@ msFilterList
 -d appr8.net
 -d artbr.net
 -d baordrid.com
+-d batarsur.com
 -d baungarnr.com
 -d biankord.net
 -d blazwuatr.com
@@ -10648,6 +10662,7 @@ msFilterList
 # ||lmebxwbsno.com^$popup,third-party
 # ||lnkgt.com^$popup,third-party
 # ||m57ku6sm.com^$popup,third-party
+# ||marketresearchglobal.com^$popup,third-party
 # ||media-app.com^$popup,third-party
 # ||media-servers.net^$popup,third-party
 # ||mediaseeding.com^$popup,third-party
@@ -10738,6 +10753,7 @@ msFilterList
 # ||tutvp.com^$popup,third-party
 # ||updater-checker.net^$popup,third-party
 # ||vgsgaming-ads.com^$popup,third-party
+# ||vipcpms.com^$popup,third-party
 # ||vprmnwbskk.com^$popup,third-party
 # ||w4statistics.info^$popup,third-party
 # ||wahoha.com^$popup,third-party
@@ -11358,6 +11374,7 @@ msFilterList
 -d siccash.com
 -d sixsigmatraffic.com
 -d sjosteras.com
+-d skeettools.com
 -d slendastic.com
 -d smartbn.ru
 -d sms-xxx.com
@@ -11926,6 +11943,7 @@ msFilterList
 -d cdn.cdncomputer.com /js/main.js
 -d cdn.ndparking.com /js/init.min.js
 -d cdn.offcloud.com
+-d cdn.pubexchange.com /modules/display/*.js
 -d cdn.sweeva.com /images/
 -d cdnpark.com /scripts/js3.js
 -d cdnprk.com /scripts/js3.js
@@ -12852,6 +12870,7 @@ msFilterList
 -d smartlinks.dianomi.com
 -d smilepk.com /bnrsbtns/
 -d snacktools.net /bannersnack/
+# ||snapapp.com^$third-party,domain=bostonmagazine.com
 -d snapdeal.com .php
 -d sndkorea.nowcdn.co.kr
 -d socialmonkee.com /images/
@@ -13779,6 +13798,7 @@ msFilterList
 -d 100best-free-web-space.com /images/ipage.gif
 -d 1023xlc.com /upload/*_background_
 -d 1043thefan.com _Sponsors/
+-d 1071radio.com //wp-content/banners/
 -d 1077thebone.com /banners/
 # ||109.236.82.94^$domain=fileforever.net
 -d 11points.com /images/slack100.jpg
@@ -15477,6 +15497,7 @@ msFilterList
 -d l4dmaps.com /img/right_gameservers.gif
 -d labtimes.org /banner/
 -d lagacetanewspaper.com /banners/
+-d lake-link.com /images/sponsorLogos/
 -d lancasteronline.com /done_deal/
 -d lancasteronline.com /weather_sponsor.gif
 -d lankabusinessonline.com /images/banners/
@@ -16541,6 +16562,7 @@ msFilterList
 -d space.com /promo/
 # ||spaceweather.com/abdfeeter/$image
 -d spartoo.eu /footer_tag_iframe_
+# ||spcontentcdn.net^$domain=sporcle.com
 # ||speedtest.net/flash/59rvvrpc-$object-subrequest
 # ||speedtest.net/flash/60speedify1-$object-subrequest
 -d speedtv.com.edgesuite.net /img/monthly/takeovers/
@@ -16613,6 +16635,7 @@ msFilterList
 -d stuff.co.nz /stuff/*banner
 -d stuff.co.nz /stuff/misc/flying-flowers/
 -d stuff.co.nz /stuff/tom/mags-widget/
+-d stuff.co.nz /stuff/widgets/lifedirect/
 # ||stuff.priceme.co.nz^$domain=stuff.co.nz
 -d stuff.tv /client/skinning/
 -d stv.tv /img/player/stvplayer-sponsorstrip-
@@ -16820,6 +16843,7 @@ msFilterList
 -d thinkingwithportals.com -skyscraper.swf
 -d thirdage.com _banner.php
 -d thisisanfield.com takeover
+-d thunder106.com //wp-content/banners/
 -d ticketnetwork.com /images/affiliates/
 -d tigerdroppings.com &adcode=
 -d time4tv.com /tlv.
@@ -17433,7 +17457,7 @@ msFilterList
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
 # extratorrentlive
-# /\/[a-zA-Z0-9]{10}/$script,third-party,domain=extratorrent.cc|extratorrentlive.com
+# /\/[a-zA-Z0-9]{3}/$script,third-party,domain=extratorrent.cc|extratorrentlive.com
 # Filenuke/sharesix
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
@@ -17543,6 +17567,7 @@ msFilterList
 # ||nosteam.ro/pma/$popup
 # ||oddschecker.com/clickout.htm?type=takeover-$popup
 # ||pamaradio.com^$popup,domain=secureupload.eu
+# ||park.above.com^$popup
 # ||photo4sell.com^$popup,domain=filmovizija.com
 # ||plarium.com/play/*adCampaign=$popup
 # ||playhd.eu/test$popup
@@ -17583,6 +17608,7 @@ msFilterList
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
 # *** easylist:easylist_adult/adult_specific_block.txt ***
 # .info^$script,domain=pornhub.com
+# /[a-z0-9A-Z]{6}/$xmlhttprequest,domain=pornhub.com|redtube.com|tube8.com|tube8.es|tube8.fr|youporn.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
 # ||109.201.146.142^$domain=xxxbunker.com
 -d 213.174.140.38 /bftv/js/msn-
@@ -18283,6 +18309,7 @@ msFilterList
 -d unoxxx.com /pages/en_player_video_right.html
 -d updatetube.com /js/adpupdatetube
 -d vibraporn.com /vg/
+-d vid2c.com /js/atxpp.js?
 -d vid2c.com /js/pp.js
 -d vid2c.com /pap.js
 -d vid2c.com /pp.js
@@ -19100,8 +19127,9 @@ msFilterList
 +d funiaste.net /obrazki/*&adtype=
 # @@||g.doubleclick.net/aclk?$subdocument,domain=nedbank.co.za
 +d g.doubleclick.net /crossdomain.xml
-# @@||g.doubleclick.net/gampad/ads?$object-subrequest,domain=ensonhaber.com|majorleaguegaming.com|nfl.com|player.rogersradio.ca|rte.ie|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
+# @@||g.doubleclick.net/gampad/ads?$object-subrequest,domain=ensonhaber.com|majorleaguegaming.com|nfl.com|player.rogersradio.ca|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
 # @@||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|escapegames.com|fdlreporter.com|floridatoday.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|nedbank.co.za|nedbankgreen.co.za|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|orbitz.com|pal-item.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|rgj.com|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|wausaudailyherald.com|weddingspot.co.uk|wisconsinrapidstribune.com|wlj.net|zanesvilletimesrecorder.com|zavvi.com|zui.com
+# @@||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
 # @@||g.doubleclick.net/gampad/google_ads.js$domain=nedbank.co.za|nitrome.com|ticketek.com.ar
 # @@||g.doubleclick.net/pagead/ads?ad_type=image_text^$object-subrequest,domain=ebog.com|gameark.com
 +d g.doubleclick.net /pagead/ads?ad_type=text_dynamicimage_flash/
@@ -19298,7 +19326,6 @@ msFilterList
 # @@||kongcdn.com/game_icons/*-300x250_$domain=kongregate.com
 +d kotak.com /banners/
 +d krispykreme.com /content/images/ads/
-# @@||krxd.net^$script,domain=nbcnews.com
 +d ksl.com /resources/classifieds/graphics/ad_
 +d l.yimg.com /adservice/
 +d l.yimg.com /zz/combo?*/advertising.
@@ -20377,6 +20404,7 @@ msFilterList
 # @@||fwmrm.net/p/*/admanager.js$domain=adultswim.com|animalist.com|revision3.com|testtube.com
 # @@||g.doubleclick.net/gampad/ad?iu=*/Leaderboard&sz=728x90$image,domain=magicseaweed.com
 # @@||g.doubleclick.net/gampad/ads?*^slotname=NormalLeaderboard^$script,domain=drivearabia.com
+# @@||g.doubleclick.net/gampad/ads?ad_rule=1&adk=*&ciu_szs=300x250&*&gdfp_req=1&*&output=xml_vast2&$object-subrequest,domain=rte.ie
 # @@||g.doubleclick.net/gampad/adx?$object-subrequest,domain=player.muzu.tv
 # @@||g.doubleclick.net/|$object-subrequest,domain=cbs.com
 +d gallery.aethereality.net /advertisement.js
@@ -20814,6 +20842,7 @@ msFilterList
 # @@||amazon-adsystem.com/e/ir?$image,domain=kasi-time.com
 # @@||amazon-adsystem.com/widgets/q?$image,domain=kasi-time.com
 +d americateve.com /mediaplayer_ads/new_config_openx.xml
+# @@||analytics.disneyinternational.com/ads/tagsv2/video/$xmlhttprequest,domain=disney.no
 # @@||annonser.dagbladet.no/eas?$script,domain=se.no
 # @@||annonser.dagbladet.no/EAS_tag.1.0.js$domain=se.no
 # @@||app.medyanetads.com/ad.js$domain=fanatik.com.tr
@@ -21176,14 +21205,17 @@ msFilterList
 +d zorza-polarna.pl /environment/cache/images/300_250_
 # *** easylist:easylist/easylist_whitelist_popup.txt ***
 # @@/redirect.aspx?pid=*&bid=$popup,domain=betbeaver.com
+# @@||adfarm.mediaplex.com/ad/ck/$popup,domain=betwonga.com
+# @@||ads.betfair.com/redirect.aspx?pid=$popup,domain=betwonga.com
 # @@||ads.flipkart.com/delivery/ck.php?$popup,domain=flipkart.com
 +d ads.pinterest.com
 # @@||ads.reempresa.org^$popup,domain=reempresa.org
 # @@||ads.sudpresse.be^$popup,domain=sudinfo.be
 +d ads.twitter.com
 # @@||ads.williamhillcasino.com/redirect.aspx?*=internal&$popup,domain=williamhillcasino.com
+# @@||adserving.unibet.com/redirect.aspx?pid=$popup,domain=betwonga.com
 +d adv.blogupp.com
-# @@||bet365.com/home/?affiliate=$popup,domain=betbeaver.com
+# @@||bet365.com/home/?affiliate=$popup,domain=betbeaver.com|betwonga.com
 # @@||doubleclick.net/click%$popup,domain=people.com|time.com
 # @@||doubleclick.net/clk;$popup,domain=hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com
 # @@||doubleclick.net/ddm/clk/$popup,domain=couponcodeswap.com
@@ -21213,8 +21245,6 @@ msFilterList
 +d nonktube.com /img/adyea.jpg
 +d panicporn.com /Bannerads/player/player_flv_multi.swf
 # @@||pop6.com/banners/$domain=horny.net|xmatch.com
-+d pornhub.com /comment/add?
-+d pornhub.com /svvt/add?
 # @@||promo.cdn.homepornbay.com/key=*.mp4$object-subrequest,domain=hiddencamsvideo.com
 # @@||sextoyfun.com/admin/aff_files/BannerManager/$~third-party
 # @@||sextoyfun.com/control/aff_banners/$~third-party
@@ -21228,7 +21258,17 @@ msFilterList
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 # @@||widget.plugrush.com^$subdocument,domain=amateursexy.net
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
-# You Porn
+# Pornhub network
++d pornhub.com /channel/
++d pornhub.com /comment/
++d pornhub.com /front/
++d pornhub.com /pornstar/
++d pornhub.com /svvt/add?
++d pornhub.com /video/
++d redtube.com /message/
++d redtube.com /rate
++d redtube.com /starsuggestion/
++d tube8.com /ajax/
 +d youporn.com /change/rate/
 +d youporn.com /change/user/
 +d youporn.com /change/videos/
