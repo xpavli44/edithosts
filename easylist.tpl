@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 May 2015 07:11 UTC
+# Last modified: 10 May 2015 06:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -11435,6 +11435,7 @@ msFilterList
 -d trafficlearn.com
 -d trafficpimps.com
 -d trafficshop.com
+-d trafficstars.com
 -d trafficundercontrol.com
 -d traficmax.fr
 -d trafogon.net

@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So kvě 9 09:22:21 CEST 2015 ##################
+##### Aktualizováno: Ne kvě 10 08:03:53 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10884,6 +10884,7 @@ msFilterList
 -d trafficlearn.com
 -d trafficpimps.com
 -d trafficshop.com
+-d trafficstars.com
 -d trafficundercontrol.com
 -d traficmax.fr
 -d trafogon.net
