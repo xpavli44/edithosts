@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 10 19:59:35 CEST 2015 ##################
+##### Aktualizováno: Čt kvě 14 03:09:38 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -565,6 +565,7 @@ msFilterList
 - -affiliates/img_
 - -article-ads-
 - -article-advert-
+- -banner-ad-
 - -banner-ad.
 - -banner-ads-
 - -banner.swf?
@@ -831,6 +832,7 @@ msFilterList
 - .net/adv/
 - .net/affiliate/
 - .net/bnr/
+- .net/flashads
 - .net/gads/
 - .net/noidadx/
 - .net/pfadj/
@@ -3061,6 +3063,8 @@ msFilterList
 - /advt.
 - /advt/
 - /advt2.
+- /advtemplate/
+- /advtemplate_
 - /advweb.
 - /advzones/
 - /adw.shtml
@@ -4352,6 +4356,7 @@ msFilterList
 - /includes/ads/
 - /includes/ads_
 - /incmpuad.
+- /index-ad-
 - /index-ad.
 - /index_ads.
 - /inhouse_ads/
@@ -4401,6 +4406,7 @@ msFilterList
 - /ispy/ads/
 - /iwadsense.
 - /j/ads.js
+- /jamnboad.
 - /javascript/ads.
 - /javascript/ads/
 - /javascript/oas.
@@ -4932,6 +4938,7 @@ msFilterList
 - /popupads.
 - /popupdfp.
 - /popupunder.
+- /post-ad-
 - /post_ads_
 - /postad.
 - /postprocad.
@@ -5212,8 +5219,11 @@ msFilterList
 - /showbanner.
 - /showcasead/
 - /showflashad.
+- /showindex-ad-
 - /showJsAd/
 - /showmarketingmaterial.
+- /showpost-ad-
+- /showsidebar-ad-
 - /side-ad-
 - /side-ad.
 - /side-ads-
@@ -5226,6 +5236,7 @@ msFilterList
 - /sideadiframe.
 - /sideads/
 - /sideads
+- /sideadvtmp.
 - /sidebar-ad-
 - /sidebar-ads/
 - /sidebar_ad.
@@ -8579,7 +8590,6 @@ msFilterList
 -d hyperwebads.com
 -d i-media.co.nz
 -d i.skimresources.com
--d i2i.jp
 -d iamediaserve.com
 -d iasbetaffiliates.com
 -d iasrv.com
@@ -10179,6 +10189,7 @@ msFilterList
 -d lia-ndr.com
 -d lirte.org
 -d loopr.co
+-d nuaknamg.net
 -d oplo.org
 -d opner.co
 -d pikkr.net
@@ -11220,6 +11231,7 @@ msFilterList
 -d bluhostedbanners.blucigs.com
 -d bo-videos.s3.amazonaws.com
 -d boago.com _Takeover_
+-d bollyrulez.net /media/adz/
 -d booking.com ;tmpl=banner_
 -d bordernode.com /images/
 -d borrowlenses.com /affiliate/
@@ -12149,7 +12161,6 @@ msFilterList
 -d stats.hosting24.com
 -d stats.sitesuite.org
 -d storage.to /affiliate/
--d store.lavasoft.com
 -d streamtheworld.com /ondemand/creative?
 -d strikeadcdn.s3.amazonaws.com
 -d structuredchannel.com /sw/swchannel/images/MarketingAssets/*/BannerAd
@@ -14179,6 +14190,7 @@ msFilterList
 -d israeltoday.co.il /promo/
 -d isup.me /images/dotbiz_banner.jpg
 -d isxdead.com /images/showbox.png
+-d italiangenealogy.com /images/banners/
 -d itpro.co.uk /images/skins/
 -d itv.com /adexplore/*/config.xml
 -d itweb.co.za /banners/
@@ -15468,6 +15480,9 @@ msFilterList
 -d thebulls.co.za /sponsors/
 -d theburningplatform.com /wp-content/uploads/*_180x150.gif
 -d thebusinessdesk.com /assets/_files/banners/
+-d thecatholicuniverse.com -ad.
+-d thecatholicuniverse.com -advert-
+-d thecatholicuniverse.com -banner-
 -d thecenturion.co.za /banners/
 -d thecharlottepost.com /cache/sql/fba/
 -d thechive.files.wordpress.com -wallpaper-
@@ -16117,11 +16132,14 @@ msFilterList
 -d zurrieqfc.com /images/banners/
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
++d c.gnli.com .js
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
 +d launch.newsinc.com /js/embed.js*.js
 +d lps.newsinc.com /player/show/*.js
 +d p.jwpcdn.com /jwpsrv.js*.js
++d p.jwpcdn.com .js
++d s.gravatar.com .js
 - http://http.anno.channel4.com*-
 - http://http.anno.channel4.com*_*_*_
 -d vapingunderground.com /js/vapingunderground/fucking_adblock.js
@@ -17288,6 +17306,7 @@ msFilterList
 +d healthline.com /v2/ad-leaderboard-iframe?
 +d healthline.com /v2/ad-mr2-iframe?useAdsHost=*&dfpAdSite=
 +d hebdenbridge.co.uk /ads/images/smallads.png
++d hellotv.in /livetv/advertisements.xml
 +d hentai-foundry.com /themes/default/images/buttons/add_comment_icon.png
 +d hillvue.com /banners/
 +d hipsterhitler.com /hhcomic/wp-content/uploads/2011/10/20_advertisement.jpg
@@ -17950,6 +17969,7 @@ msFilterList
 +d freesportsbet.com /js/advertisement.js
 +d freshdown.net /templates/Blaster/img/*/ads/
 +d funniermoments.com /adframe.js
++d funniermoments.com
 +d gallery.aethereality.net /advertisement.js
 +d gamecopyworld.com /games/*.js
 +d gamecopyworld.eu /games/*.js
