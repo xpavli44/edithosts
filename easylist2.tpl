@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá kvě 15 01:34:00 CEST 2015 ##################
+##### Aktualizováno: Pá kvě 15 20:08:53 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9433,7 +9433,6 @@ msFilterList
 -d ricead.com
 -d richmedia247.com
 -d richwebmedia.com
--d ringrevenue.com
 -d ringtonematcher.com
 -d ringtonepartner.com
 -d ripplead.com

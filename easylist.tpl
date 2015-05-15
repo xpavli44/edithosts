@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 14 May 2015 23:31 UTC
+# Last modified: 15 May 2015 18:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9706,7 +9706,6 @@ msFilterList
 -d ricead.com
 -d richmedia247.com
 -d richwebmedia.com
--d ringrevenue.com
 -d ringtonematcher.com
 -d ringtonepartner.com
 -d ripplead.com
@@ -18688,6 +18687,7 @@ msFilterList
 +d adverts.cdn.tvcatchup.com
 # @@||adverts.we7c.net/config/live/newusertraffickingconfig.json?$script,domain=we7.com
 +d advisory.mtanyct.info /outsideWidget/widget.html?*.adPlacement=
+# @@||advweb.ua.cmu.edu^$~third-party
 # @@||adweb.cis.mcmaster.ca^$~third-party
 # @@||adweb.pl^$~third-party
 # @@||adworks.com.co^$~third-party
@@ -20171,6 +20171,7 @@ msFilterList
 # @@|http://*.xyz^$script,third-party,domain=cbs.com
 # @@|http://*/pubads.$object-subrequest,domain=cbs.com
 # @@|http://*?_$image,domain=cbs.com
+# @@|http://d.$script,domain=cbs.com
 # @@|http://l.$script,third-party,domain=cbs.com
 # @@|http://popsads.com^$script,domain=filmovizija.com
 # @@|https://$script,domain=kissanime.com
