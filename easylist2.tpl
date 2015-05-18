@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá kvě 15 20:08:53 CEST 2015 ##################
+##### Aktualizováno: Po kvě 18 07:46:19 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -508,6 +508,7 @@ msFilterList
 - -adhere2.
 - -adimage-
 - -admarvel/
+- -adnow.
 - -adrotation.
 - -ads-180x
 - -ads-728x
@@ -628,6 +629,7 @@ msFilterList
 - -popunder.
 - -popup-ad.
 - -popup-ads-
+- -pri/adv-
 - -printhousead-
 - -publicidad.
 - -rectangle/ad-
@@ -691,6 +693,7 @@ msFilterList
 - .ads.darla.
 - .ads.loader-
 - .ads.zones.
+- .ads2-
 - .ads_clickthru.
 - .adsbox.
 - .adsense.
@@ -2850,6 +2853,7 @@ msFilterList
 - /adv-1.
 - /adv-2.
 - /adv-banner.
+- /adv-bannerize-
 - /adv-banners/
 - /adv-div-
 - /adv-expand/
@@ -2913,9 +2917,11 @@ msFilterList
 - /adv_library3.
 - /adv_link.
 - /adv_manager_
+- /adv_out.
 - /adv_player_
 - /adv_script_
 - /adv_server.
+- /adv_teasers.
 - /adv_top.
 - /adv_vert.
 - /adv_vertical.
@@ -4606,6 +4612,7 @@ msFilterList
 - /mini_ads.
 - /miniadbar/
 - /miniads?
+- /miniadvert.
 - /minify/ads-
 - /minpagead/
 - /mint/ads/
@@ -7337,7 +7344,9 @@ msFilterList
 -d adnext.fr
 -d adngin.com
 -d adnimation.com
+-d adnium.com
 -d adnoble.com
+-d adnow.com
 -d adnxs.com
 -d adnxs.net
 -d adnxs1.com
@@ -7403,6 +7412,7 @@ msFilterList
 -d adserver-fx.com
 -d adserverplus.com
 -d adserverpub.com
+-d adservingfactory.com
 -d adservinginternational.com
 -d adservpi.com
 -d adservr.de
@@ -7754,6 +7764,7 @@ msFilterList
 -d bbelements.com
 -d beaconads.com
 -d beatchucknorris.com
+-d bebi.com
 -d beead.co.uk
 -d beead.net
 -d beforescence.com
@@ -8357,6 +8368,7 @@ msFilterList
 -d ezadserver.net
 -d ezmob.com
 -d ezoic.net
+-d faggrim.com
 -d fairadsnetwork.com
 -d falkag.net
 -d fast2earn.com
@@ -8612,6 +8624,7 @@ msFilterList
 -d img-giganto.net
 -d imgfeedget.com
 -d imglt.com
+-d imgsniper.com
 -d imgwebfeed.com
 -d imho.ru
 -d imiclk.com
@@ -8892,6 +8905,7 @@ msFilterList
 -d mdadvertising.net
 -d mdialog.com
 -d mdn2015x1.com
+-d mdn2015x2.com
 -d meadigital.com
 -d media-general.com
 -d media-ks.net
@@ -9344,6 +9358,7 @@ msFilterList
 -d pulsemgr.com
 -d purpleflag.net
 -d push2check.com
+-d pxl2015x1.com
 -d pxlad.io
 -d pzaasocba.com
 -d pzuwqncdai.com
@@ -9519,6 +9534,7 @@ msFilterList
 -d shoogloonetwork.com
 -d shopalyst.com
 -d shoppingads.com
+-d shopzyapp.com
 -d showyoursite.com
 -d siamzone.com
 -d silence-ads.com
@@ -9542,6 +9558,7 @@ msFilterList
 -d slimspots.com
 -d slimtrade.com
 -d slinse.com
+-d smaclick.com
 -d smart-feed-online.com
 -d smart.allocine.fr
 -d smart2.allocine.fr
@@ -9899,6 +9916,7 @@ msFilterList
 -d viedeo2k.tv
 -d view-ads.de
 -d view.atdmt.com /iview/
+-d view.atdmt.com /view/
 -d viewablemedia.net
 -d viewclc.com
 -d viewex.co.uk
@@ -10158,6 +10176,7 @@ msFilterList
 -d exciliburn.com
 -d excolobar.com
 -d exernala.com
+-d exlpor.com
 -d extonsuan.com
 -d faunsts.me
 -d flaudnrs.me
@@ -10188,6 +10207,7 @@ msFilterList
 -d lia-ndr.com
 -d lirte.org
 -d loopr.co
+-d maningrs.com
 -d nuaknamg.net
 -d oplo.org
 -d opner.co
@@ -10347,6 +10367,7 @@ msFilterList
 -d antaraimedia.com
 -d antoball.com
 -d apromoweb.com
+-d are-ter.com
 -d asiafriendfinder.com
 -d augrenso.com
 -d awmcenter.eu
@@ -12814,6 +12835,7 @@ msFilterList
 -d 88.80.16.183 /streams/counters/
 -d 8a.nu /site2/sponsors/
 -d 8a.nu /sponsors/
+-d 8ch.net /proxy.php?
 -d 911tabs.com /img/bgd_911tabs_
 -d 911tabs.com /img/takeover_app_
 -d 911tabs.com /ringtones_overlay.js
@@ -14133,6 +14155,7 @@ msFilterList
 -d infobetting.com /bookmaker/
 -d infoq.com /banners/
 -d informe.com /img/banner_
+-d informer.com /js/onexit*.js
 -d infosecisland.com /ajax/viewbanner/
 -d infoseek.co.jp /isweb/clip.html
 -d ingdirect.com /adwizard/
@@ -15232,6 +15255,7 @@ msFilterList
 -d shoutmeloud.com /hostgator-
 -d show-links.tv /layer.php
 -d showbusinessweekly.com /imgs/hed/
+-d showsport-tv.com /images/xtreamfile.jpg
 -d showstreet.com /banner.
 -d shroomery.org /bimg/
 -d shroomery.org /bnr/
@@ -15512,6 +15536,7 @@ msFilterList
 -d thehealthcareblog.com /files/*/THCB-Validic-jpg-opt.jpg
 -d thehighstreetweb.com /banners/
 -d thehindu.com /multimedia/*/sivananda_sponsorch_
+-d thehubsa.co.za /sponsor_
 -d theispguide.com /premiumisp.html
 -d theispguide.com /topbanner.asp?
 -d thejesperbay.com
@@ -16293,6 +16318,8 @@ msFilterList
 -d empireamateurs.com /images/*banner
 -d entensity.net /crap/
 -d epicwank.com /social/jquery.stp.min.js
+-d eporner.com /cppb/
+-d eporner.com /dot/*.js
 -d eporner.com /pjsall-*.js
 -d eroprofile.com /js/pu*.js
 -d eskimotube.com /kellyban.gif
@@ -18107,6 +18134,7 @@ msFilterList
 +d series-cravings.info /wp-content/plugins/wordpress-adblock-blocker/*.js
 +d sheepskinproxy.com /js/advertisement.js
 +d shimory.com /js/show_ads.js
++d showsport-tv.com /adv*.js
 +d siamfishing.com /advert.js
 +d skidrowcrack.com /advertisement.js
 +d sockshare.com /js/*.js
@@ -18393,16 +18421,21 @@ msFilterList
 +d tnaflix.com /ad/
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
++d pornhub.com /album/
 +d pornhub.com /channel/
 +d pornhub.com /comment/
 +d pornhub.com /front/
 +d pornhub.com /pornstar/
 +d pornhub.com /svvt/add?
 +d pornhub.com /video/
++d redtube.com /addfavorite/
 +d redtube.com /message/
 +d redtube.com /rate
 +d redtube.com /starsuggestion/
++d redtube.com /subscribe/
++d tube8.com /ajax-
 +d tube8.com /ajax/
++d tube8.com /ajax2/
 +d youporn.com /change/rate/
 +d youporn.com /change/user/
 +d youporn.com /change/videos/
