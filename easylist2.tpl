@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po kvě 18 07:46:19 CEST 2015 ##################
+##### Aktualizováno: Čt kvě 21 03:11:10 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -680,7 +680,6 @@ msFilterList
 - .adforge.
 - .adframesrc.
 - .admarvel.
-- .adnetwork.
 - .adpartner.
 - .adplacement=
 - .adru.
@@ -10252,8 +10251,10 @@ msFilterList
 -d yodr.net
 -d yomri.net
 -d yopdi.com
+-d ypppdc.com
 -d ypprr.com
 -d yrrrbn.me
+-d yuasaghn.com
 -d z4pick.com
 -d zomri.net
 -d zrfrornn.net
@@ -11634,6 +11635,7 @@ msFilterList
 -d gamingjobsonline.com /images/banner/
 -d gateway.fortunelounge.com
 -d gateways.s3.amazonaws.com
+-d gemini.yahoo.com /syndication/
 -d generic4all.com ?refid=
 -d geo.connexionsecure.com
 -d geobanner.friendfinder.com
@@ -13544,6 +13546,7 @@ msFilterList
 -d downforeveryoneorjustme.com /images/dotbiz_banner.jpg
 -d downloadbox.to /Leadertop.html
 -d downloadian.com /assets/banner.jpg
+-d downloadmoreram.com /images/thumbnail.gif
 -d dprogram.net /rightsprites.png
 -d dpstatic.com /banner.png?
 -d dpstatic.com /s/ad.js
@@ -13968,6 +13971,7 @@ msFilterList
 -d gulf-daily-news.com /180x150.htm
 -d gulfnews.com /channelSponsorImage/
 -d gumtree.com /dart_wrapper_
+-d gunfreezone.net _ad.jpg
 -d guns.ru /banner/
 -d guns.ru /banners/
 -d gurgle.com /modules/mod_m10banners/
@@ -16156,6 +16160,7 @@ msFilterList
 -d zurrieqfc.com /images/banners/
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
++d a.disquscdn.com .js
 +d c.gnli.com .js
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
@@ -17899,7 +17904,6 @@ msFilterList
 +d ads.uptobox.com /www/images/*.png
 +d adserver.liverc.com /getBannerVerify.js
 +d afdah.com .js
-+d afreesms.com /ad*.js
 +d afterburnerleech.com /js/show_ads.js
 +d alcohoin-faucet.tk /advertisement.js
 +d allkpop.com /ads.js
@@ -17925,6 +17929,7 @@ msFilterList
 +d avforums.com ad*.js
 +d bdrip.ws /web_data/*/ad
 +d bestofmedia.com /advertisement.js
++d bestream.tv /advertisement.js
 +d bitcoiner.net /advertisement.js
 +d blinkboxmusic.com /advertisement.js
 +d boincstats.com /js/adframe.js
@@ -18046,6 +18051,7 @@ msFilterList
 +d litecoin-faucet.tk /advertisement.js
 +d litecoiner.net /advertisement.js
 +d lpg-forum.pl /advertise.js
++d lpmanager.com /fuckadblock.js
 +d macobserver.com /js/adlink.js
 +d majorleaguegaming.com /live/assets/advertisement-*.js
 +d majorleaguegaming.com .png?*=
@@ -18158,7 +18164,6 @@ msFilterList
 +d thelordofstreaming.it /wp-content/uploads/*/ad_
 +d thememypc.com /wp-content/*/ads/
 +d thesilverforum.com /public/js/jsLoader.js?adType=*.js
-+d thesimsresource.com /js/ads.js
 +d thesominaltv.com /advertisement.js
 +d thevideos.tv /js/ads.js
 +d theweatherspace.com /advertisement.js
@@ -18454,6 +18459,7 @@ msFilterList
 +d phncdn.com /js/advertisement.js
 +d phncdn.com /ads.js
 +d phncdn.com /fuckadblock.js
++d sexvidx.tv /js/eroex.js
 +d submityourflicks.com /player/player-ads.swf
 +d trafficjunky.net /js/ad*.js
 +d tube8.com /js/advertisement.js
