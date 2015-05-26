@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 21 20:34:10 CEST 2015 ##################
+##### Aktualizováno: Út kvě 26 07:53:37 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -430,6 +430,7 @@ msFilterList
 - &showad=
 - &simple_ad_
 - &smallad=
+- &smart_ad_
 - &strategy=adsense&
 - &type=ad&
 - &UrlAdParam=
@@ -682,6 +683,7 @@ msFilterList
 - .admarvel.
 - .adpartner.
 - .adplacement=
+- .adrotate.
 - .adru.
 - .ads-and-tracking.
 - .ads-lazy.
@@ -2107,6 +2109,7 @@ msFilterList
 - /ads-common.
 - /ads-foot.
 - /ads-footer.
+- /ads-gpt.
 - /ads-header-
 - /ads-holder.
 - /ads-leader
@@ -4236,7 +4239,7 @@ msFilterList
 - /icon_ad.
 - /icon_ads_
 - /icon_advertising_
-- /idevaffiliate/
+- /idevaffiliate/banners/
 - /ifolder-ads.
 - /iframe-ad.
 - /iframe-ads/
@@ -4323,6 +4326,7 @@ msFilterList
 - /img/ads/
 - /img/adv.
 - /img/adv/
+- /img/aff/
 - /img2/ad/
 - /img3/ads/
 - /img_ad/
@@ -5316,6 +5320,7 @@ msFilterList
 - /smalladblockbg-
 - /smalltopl.
 - /smart-ad-server.
+- /smart_ad/
 - /smartad-
 - /smartad.
 - /smartAd?
@@ -5747,6 +5752,7 @@ msFilterList
 - /widgetad.
 - /widgetadsense.
 - /widgets/ads.
+- /widgets/sponsored/
 - /wipeads/
 - /wire/ads/
 - /wired/ads/
@@ -5898,6 +5904,7 @@ msFilterList
 - =dynamicads&
 - =GetSponsorAds&
 - =half-page-ad&
+- =iframe_adv&
 - =js_ads&
 - =searchadslider
 - =showsearchgoogleads&
@@ -5985,6 +5992,7 @@ msFilterList
 - _ad.jsp?
 - _ad.php?
 - _ad.png?
+- _ad/display?
 - _ad/full_
 - _ad/public/
 - _ad/section_
@@ -7445,6 +7453,7 @@ msFilterList
 -d adsmoon.com
 -d adsmws.cloudapp.net
 -d adsnative.com
+-d adsnetworkserver.com
 -d adsnext.net
 -d adsniper.ru
 -d adsonar.com
@@ -9388,6 +9397,7 @@ msFilterList
 -d rainwealth.com
 -d rampanel.com
 -d rapt.com
+-d rateaccept.net
 -d rawasy.com
 -d rbnt.org
 -d rcads.net
@@ -10206,6 +10216,7 @@ msFilterList
 -d lia-ndr.com
 -d lirte.org
 -d loopr.co
+-d luadcik.com
 -d maningrs.com
 -d nuaknamg.net
 -d oplo.org
@@ -12298,6 +12309,7 @@ msFilterList
 -d viagogo.co.uk /feeds/widget.ashx?
 -d videoweed.es /js/aff.js
 -d videozr.com
+-d vidible.tv /jsonp/pid=*.js
 -d vidible.tv /placement/vast/
 -d vidible.tv /prod/tags/
 -d vidyoda.com /fambaa/chnls/ADSgmts.ashx?
@@ -12848,11 +12860,10 @@ msFilterList
 -d a.cdngeek.net
 -d a.giantrealm.com
 -d a.i-sgcm.com
--d a.kat.ph
-- http://a.kickass.
+-d a.kat.cr
 -d a.kickasstorrent.me
--d a.kickassunblock.info
 -d a.kickassunblock.net
+-d a.lolwot.com
 -d a7.org /info/
 -d aaugh.com /images/dreamhostad.gif
 -d abduzeedo.com /mt-banner.jpg
@@ -14119,6 +14130,7 @@ msFilterList
 -d images-amazon.com /marqueepushdown/
 -d images.bitreactor.to /designs/
 -d images.globes.co.il /fixedpromoright.
+-d images.mmorpg.com /images/*skin
 -d images.sharkscope.com /acr/*_Ad-
 -d images.sharkscope.com /everest/twister.jpg
 -d imageshack.us /images/contests/*/lp-bg.jpg
@@ -15581,7 +15593,6 @@ msFilterList
 -d thepeak.fm /images/banners/
 -d thepeninsulaqatar.com /banners/
 -d thephuketnews.com /photo/banner/
--d thepiratebay.se /poptest.js
 -d theplanetweekly.com /images/banners/
 -d theportugalnews.com /uploads/banner/
 -d thepreparednessreview.com /wp-content/uploads/*/250x125-
@@ -16900,6 +16911,7 @@ msFilterList
 -d yobt.tv /js/ttu.js
 -d yobt.tv /rec/
 -d youaresogay.com .html
+-d youjizz.com /_special/
 -d youjizz.com /vivid/
 -d youngpornvideos.com /images/bangbros/
 -d youngpornvideos.com /images/glamglam/
@@ -17193,6 +17205,7 @@ msFilterList
 +d delish.com /cm/shared/scripts/refreshads-*.js
 +d delvenetworks.com /player/*_ad_
 +d deviantart.net /minish/advertising/downloadad_splash_close.png
++d digiads.com.au /css/24032006/adstyle.css
 +d digiads.com.au /images/shared/misc/ad-disclaimer.gif
 +d digsby.com /affiliate/banners/
 +d direct.fairfax.com.au /hserver/*/site=vid.*/adtype=embedded/*.js
@@ -17903,7 +17916,9 @@ msFilterList
 +d ads.uptobox.com /www/delivery/ajs.php?zoneid=*.js
 +d ads.uptobox.com /www/images/*.png
 +d adserver.liverc.com /getBannerVerify.js
++d afdah.co /show_ads.js
 +d afdah.com .js
++d afdah.tv /show_ad.js
 +d afterburnerleech.com /js/show_ads.js
 +d alcohoin-faucet.tk /advertisement.js
 +d allkpop.com /ads.js
@@ -18427,11 +18442,17 @@ msFilterList
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
 +d pornhub.com /album/
++d pornhub.com /album_upload
 +d pornhub.com /channel/
++d pornhub.com /chat/
 +d pornhub.com /comment/
 +d pornhub.com /front/
++d pornhub.com /insights/
 +d pornhub.com /pornstar/
 +d pornhub.com /svvt/add?
++d pornhub.com /uploading/
++d pornhub.com /user/
++d pornhub.com /users/
 +d pornhub.com /video/
 +d redtube.com /addfavorite/
 +d redtube.com /message/
@@ -18441,10 +18462,9 @@ msFilterList
 +d tube8.com /ajax-
 +d tube8.com /ajax/
 +d tube8.com /ajax2/
-+d youporn.com /change/rate/
-+d youporn.com /change/user/
-+d youporn.com /change/videos/
-+d youporn.com /esi_home/subscriptions/
++d youporn.com /ajax/
++d youporn.com /change/
++d youporn.com /esi_home/
 +d youporn.com /mycollections.json
 +d youporn.com /notifications/
 +d youporn.com /subscriptions/
