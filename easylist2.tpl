@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út kvě 26 07:53:37 CEST 2015 ##################
+##### Aktualizováno: St kvě 27 08:24:40 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3574,6 +3574,7 @@ msFilterList
 - /common/ads/
 - /common/adv_
 - /common/dart_wrapper_
+- /common/js/caf.js
 - /common_ad.
 - /commons/ad/
 - /commspace_ad.
@@ -10221,6 +10222,7 @@ msFilterList
 -d nuaknamg.net
 -d oplo.org
 -d opner.co
+-d p7vortex.com
 -d pikkr.net
 -d polawrg.com
 -d prfffc.info
@@ -14863,6 +14865,7 @@ msFilterList
 -d ourmanga.com /funklicks
 -d outlookindia.com /image/banner_
 -d overclock3d.net /img/pcp.jpg
+-d overclockers.co.uk /background/
 -d ow.ly /hootsuite_promo.jpg
 -d own3d.tv /lr/*.flv
 -d ox-d.sbnation.com
@@ -17467,6 +17470,7 @@ msFilterList
 +d manoramaonline.com /advt/cricbuzz/
 +d maps-static.chitika.net
 +d maps.chitika.net
++d maps.gstatic.com /maps-api-*/adsense.js
 +d marca.com /deporte/css/*/publicidad.css
 +d marciglesias.com /publicidad/
 +d marcs.com /AdViewer.js
@@ -17910,11 +17914,8 @@ msFilterList
 +d 9xbuddy.com /js/ads.js
 +d ad.filmweb.pl .js
 +d ad.leadbolt.net /show_cu.js
-+d ad.uptobox.com /www/delivery/ajs.php?*.js
 +d adexprt.com /cdn3/*&m=magnet
 +d ads.clubedohardware.com.br /www/delivery/*.js
-+d ads.uptobox.com /www/delivery/ajs.php?zoneid=*.js
-+d ads.uptobox.com /www/images/*.png
 +d adserver.liverc.com /getBannerVerify.js
 +d afdah.co /show_ads.js
 +d afdah.com .js
@@ -18194,7 +18195,6 @@ msFilterList
 +d up-flow.org /advertisement.js
 +d uploadlw.com /getbanner.cfm?*.js
 +d upshare.org /advertisement.js
-+d uptobox.com .js?
 +d urbeez.com /adver*.js
 +d urdupoint.com /js/advertisement.js
 +d urlgalleries.net /adhandler/
