@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá kvě 29 21:49:41 CEST 2015 ##################
+##### Aktualizováno: Út čen 2 08:04:56 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -6469,6 +6469,7 @@ msFilterList
 - http://ox-d.*/auid=
 - http://serve.*/promoload?
 - /webservices/jsparselinks.aspx?*.js
+- /cdn-cgi/pe/bag2?*adblade.com
 - /mediahosting.engine*.js
 - /Tag.engine*.js
 - /sl/assetlisting/?
@@ -7660,6 +7661,7 @@ msFilterList
 -d andohs.net
 -d andomedia.com
 -d andomediagroup.com
+- http://anet*.tradedoubler.com/
 -d angege.com
 -d anonymousads.com
 -d anrdoezrs.net
@@ -8637,6 +8639,7 @@ msFilterList
 -d imgwebfeed.com
 -d imho.ru
 -d imiclk.com
+- http://imp*.tradedoubler.com/
 -d impact-ad.jp
 -d impactradius.com
 -d implix.com
@@ -9787,7 +9790,6 @@ msFilterList
 -d tracktor.co.uk
 -d trackword.net
 -d trackyourlinks.com
--d tradedoubler.com
 -d tradeexpert.net
 -d tradepopups.com
 -d traff-advertazer.com
@@ -10183,6 +10185,7 @@ msFilterList
 -d ergers.net
 -d ershgrst.com
 -d esults.net
+-d exactly0r.com
 -d exciliburn.com
 -d excolobar.com
 -d exernala.com
@@ -13676,6 +13679,7 @@ msFilterList
 -d eweek.com /sponsored-
 -d ewrc-results.com /images/horni_ewrc_result_banner3.jpg
 -d exashare.com /player_file.jpg
+-d exashare.com /playerexa.jpg
 -d exceluser.com /pub/rotate_
 -d exchangerates.org.uk /images-NEW/tor.gif
 -d exchangerates.org.uk /images/150_60_
@@ -16181,7 +16185,9 @@ msFilterList
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
 +d launch.newsinc.com /js/embed.js*.js
++d lc.livefyre.com
 +d lps.newsinc.com /player/show/*.js
++d my.hellobar.com .js
 +d p.jwpcdn.com /jwpsrv.js*.js
 +d p.jwpcdn.com .js
 +d s.gravatar.com .js
@@ -17573,6 +17579,7 @@ msFilterList
 +d omnikool.discovery.com /realmedia/ads/adstream_mjx.ads/dsc.discovery.com/*.js
 +d onetravel.com /desktopmodules/adsales/adsaleshandle.ashx?
 +d onionstatic.com /videoads.js
++d openload.io /deliverad/
 +d openx.nobelprize.org /openx/www/delivery/*.js
 +d oregonlive.com /static/common/js/ads/ads.js
 +d osdir.com /ml/dateindex*&num=
@@ -17877,6 +17884,7 @@ msFilterList
 +d widget.slide.com /ads/*/preroll.swf
 +d widgets.cbslocal.com /player/embed?affiliate=
 +d widgetserver.com /syndication/get_widget.html?*&widget.adplacement=
++d wikia.nocookie.net /images/
 +d wired.com /cn-fe-ads/cn.dart.js
 +d wirefly.com /_images/ads/
 +d wisegeek.com /res/contentad/
@@ -17919,9 +17927,9 @@ msFilterList
 +d adexprt.com /cdn3/*&m=magnet
 +d ads.clubedohardware.com.br /www/delivery/*.js
 +d adserver.liverc.com /getBannerVerify.js
-+d afdah.co /show_ads.js
++d afdah.co .js
 +d afdah.com .js
-+d afdah.tv /show_ad.js
++d afdah.tv .js
 +d afterburnerleech.com /js/show_ads.js
 +d alcohoin-faucet.tk /advertisement.js
 +d allkpop.com /ads.js
@@ -17957,6 +17965,7 @@ msFilterList
 +d captchme.net /js/advertisement.js
 +d casadossegredos.tv /ads/ads_
 +d catchvideo.net /adframe.js
++d cdn-seekingalpha.com /ads.js
 +d cdnco.us .js
 +d celogeek.com /stylesheets/blogads.css
 +d channel4.com /ad/l/1?
