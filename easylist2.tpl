@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út čen 2 08:04:56 CEST 2015 ##################
+##### Aktualizováno: St čen 3 03:04:32 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1814,7 +1814,6 @@ msFilterList
 - /adhomepage.
 - /adhomepage2.
 - /adhood.
-- /adhost.
 - /adhref.
 - /adhtml/
 - /adhub.
@@ -9028,6 +9027,7 @@ msFilterList
 -d mpression.net
 -d mprezchc.com
 -d msads.net
+-d mtagmonetizationb.com
 -d mtrcss.com
 -d mujap.com
 -d multiadserv.com
@@ -11657,6 +11657,7 @@ msFilterList
 -d geo.connexionsecure.com
 -d geobanner.friendfinder.com
 -d geobanner.passion.com
+- http://get.*.website/static/get-js?stid=
 -d get.2leep.com
 -d get.box24casino.com
 -d get.davincisgold.com
@@ -13146,6 +13147,7 @@ msFilterList
 -d bettingsports.com /top_bonuses
 -d bettingsports.com /where_to_bet
 -d bettyconfidential.com /media/fmads/
+-d bibme.org /images/grammarly/
 -d bigeddieradio.com /uploads/sponsors/
 -d bigpoint.com /xml/recommender.swf?
 -d bigsports.tv /live/ado.php
@@ -13321,6 +13323,7 @@ msFilterList
 -d ciao.com /price_link/
 -d cineplex.com /skins/
 -d ciol.com /zedotags/
+-d citationmachine.net /images/grammarly/
 -d citeulike.org /static/campaigns/
 -d citizen-usa.com /images/banners/
 -d cityam.com /pageskin/
@@ -14393,6 +14396,7 @@ msFilterList
 -d lazygirls.info /click.php
 -d leader.co.za /leadership/banners/
 -d leagueunlimited.com /images/rooty/
+-d learnphotoediting.net /banners/
 -d learnspanishtoday.com /aff/img/banners/
 -d lecydre.com /proxy.png
 -d legalbusinessonline.com /popup/albpartners.aspx
@@ -14619,6 +14623,7 @@ msFilterList
 -d mlb.com /images/*_videoskin_*.jpg
 -d mlb.com /sponsorship/
 -d mmoculture.com /wp-content/uploads/*-background-
+-d mmorpg.com /images/*_hots_r0.jpg
 -d mmorpg.com /images/skins/
 -d mmosite.com /sponsor/
 -d mnn.com /sites/*/popups/AllstatePopup*.js
@@ -15992,6 +15997,7 @@ msFilterList
 -d whitepages.ae /images/UI/WS/
 -d who.is /images/domain-transfer2.jpg
 -d whoer.net /images/pb/
+-d whoer.net /images/vlab50_
 -d whoer.net /images/vpnlab20_
 -d whois.net /dombot.php?
 -d whois.net /images/banners/
@@ -18173,7 +18179,9 @@ msFilterList
 +d sockshare.com /js/*.js
 +d sominaltvfilms.com /wp-content/*/adbanner/
 +d sounddrain.net /advertisement.js
++d sparkylinux.org /images/ad/
 +d spaste.com .js
++d speedpremium.info .js
 +d springstreetads.com /scripts/advertising.js
 +d stackexchange.com /affiliate/
 +d stooq.com.br
