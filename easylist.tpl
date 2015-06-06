@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 Jun 2015 01:01 UTC
+# Last modified: 06 Jun 2015 10:31 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -543,6 +543,7 @@ msFilterList
 - -ad-24x24.
 - -ad-300x250.
 - -ad-313x232.
+- -ad-336x280-
 - -ad-340x400-
 - -ad-400.
 - -ad-banner.
@@ -976,6 +977,7 @@ msFilterList
 - .php?ad_
 - .php?adsid=
 - .php?adv=
+- .php?adv_
 - .php?affid=
 - .php?clicktag=
 - .php?nats=
@@ -5044,6 +5046,7 @@ msFilterList
 - /plus/ad_
 - /poker-ad.
 - /poll-ad-
+- /polopoly_fs/ad-
 - /pool.ads.
 - /pool/ad/
 - /pop-under.
@@ -5855,6 +5858,7 @@ msFilterList
 - /virtual_girl_
 - /virtualgirl/
 - /virtualgirlhd-
+- /vision/ads/
 - /visitoursponsors.
 - /vnads.
 - /vnads/
@@ -7611,6 +7615,7 @@ msFilterList
 -d adnxs.net
 -d adnxs1.com
 -d adocean.pl
+-d adohana.com
 -d adonion.com
 -d adonly.com
 -d adonweb.ru
@@ -7633,6 +7638,7 @@ msFilterList
 -d adplans.info
 -d adplxmd.com
 -d adppv.com
+-d adpredictive.com
 -d adpremo.com
 -d adprofit2share.com
 -d adproper.info
@@ -7967,6 +7973,7 @@ msFilterList
 -d audiencefuel.com
 -d audienceprofiler.com
 -d auditude.com
+-d augmentad.net
 -d aunmdhxrco.com
 -d auspipe.com
 -d auto-im.com
@@ -8603,6 +8610,7 @@ msFilterList
 -d epnredirect.ru
 -d eptord.com
 -d eptum.com
+-d eqads.com
 -d erado.org
 -d erendri.com
 -d ergerww.net
@@ -8746,6 +8754,7 @@ msFilterList
 -d gate-ru.com
 -d gatikus.com
 -d gayadnetwork.com
+-d geede.info
 -d geek2us.net
 -d gefhasio.com
 -d geld-internet-verdienen.net
@@ -8810,6 +8819,8 @@ msFilterList
 -d grllopa.com
 -d groovinads.com
 -d groupcommerce.com
+-d grt02.com
+-d grt03.com
 -d gscontxt.net
 -d gscsystemwithdarren.com
 -d guardiandigitalcomparison.co.uk
@@ -9036,6 +9047,7 @@ msFilterList
 -d kintokup.com
 -d kiosked.com
 -d kitnmedia.com
+-d kjgh5o.com
 -d klikadvertising.com
 -d kliksaya.com
 -d klikvip.com
@@ -9148,6 +9160,7 @@ msFilterList
 -d m4pub.com
 -d m57ku6sm.com
 -d m5prod.net
+-d mabirol.com
 -d madadsmedia.com
 -d madserving.com
 -d madsone.com
@@ -9496,6 +9509,7 @@ msFilterList
 -d partycasino.com
 -d partypartners.com
 -d partypoker.com
+-d pas-rahav.com
 -d passionfruitads.com
 -d pautaspr.com
 -d pay-click.ru
@@ -9642,6 +9656,7 @@ msFilterList
 -d pubmatic.com
 -d pubserve.net
 -d pubted.com
+-d puhtml.com
 -d pulse360.com
 -d pulsemgr.com
 -d purpleflag.net
@@ -9692,6 +9707,7 @@ msFilterList
 -d realmedia.com
 -d realsecuredredirect.com
 -d realvu.net
+-d reate.info
 -d recomendedsite.com
 -d redcourtside.com
 -d redintelligence.net
@@ -9734,6 +9750,7 @@ msFilterList
 -d rewardstyle.com
 -d rfihub.net
 -d rhown.com
+-d rhythmxchange.com
 -d ricead.com
 -d richmedia247.com
 -d richwebmedia.com
@@ -9859,6 +9876,7 @@ msFilterList
 -d smarttargetting.com
 -d smarttargetting.net
 -d smarttds.ru
+-d smartyads.com
 -d smileycentral.com
 -d smilyes4u.com
 -d smowtion.com
@@ -10040,6 +10058,7 @@ msFilterList
 -d tophotoffers.com
 -d torads.me
 -d torconpro.com
+-d torerolumiere.net
 -d toroadvertising.com
 -d torrida.net
 -d torrpedoads.net
@@ -10272,6 +10291,7 @@ msFilterList
 -d wgreatdream.com
 -d wh5kb0u4.com
 -d where.com
+-d whoads.net
 -d whtsrv9.com
 -d why-outsource.net
 -d widget.yavli.com
@@ -10532,6 +10552,7 @@ msFilterList
 -d spoa-soard.com
 -d sxrrxa.net
 -d t3sort.com
+-d t7row.com
 -d th4wwe.net
 -d thrilamd.net
 -d topdi.net
@@ -10667,6 +10688,7 @@ msFilterList
 # ||easykits.org^$popup,third-party
 # ||ebzkswbs78.com^$popup,third-party
 # ||epicgameads.com^$popup,third-party
+# ||eroanalysis.com^$popup,third-party
 # ||euromillionairesystem.me^$popup,third-party
 # ||ewebse.com^$popup,third-party
 # ||exoclick.com^$popup,third-party
@@ -10764,6 +10786,7 @@ msFilterList
 # ||ratari.ru^$popup,third-party
 # ||rdsrv.com^$popup,third-party
 # ||rehok.km.ua^$popup,third-party
+# ||retkow.com^$popup,third-party
 # ||rgadvert.com^$popup,third-party
 # ||rikhov.ru^$popup,third-party
 # ||ringtonepartner.com^$popup,third-party
@@ -12224,6 +12247,7 @@ msFilterList
 -d droidnetwork.net /img/vendors/
 # ||dropbox.com^*/aff-resources/$domain=gramfeed.com
 -d dttek.com /sponsors/
+-d duct5ntjian71.cloudfront.net
 -d dvdfab.com /images/fabnewbanner/
 -d dvf2u7vwmkr5w.cloudfront.net
 -d dx.com /affiliate/
@@ -15217,6 +15241,7 @@ msFilterList
 -d horriblesubs.info /playasia
 -d hostingbulk.com /aad.html
 -d hostingbulk.com /zad.html
+-d hostingfailov.com /image/2.gif
 -d hostratings.co.uk /zeepeel.
 -d hostsearch.com /creative/
 -d hot-scene.com /cpop.js
@@ -16344,6 +16369,7 @@ msFilterList
 -d radiozindagi.com /sponsors/
 # ||ragezone.com/index.php/$subdocument
 -d ragezone.com /output.php/
+-d rainbowpages.lk /images/banners/
 -d rapidfiledownload.com /btn-input-download.png
 -d rapidgamez.com /images/
 -d rapidgator.net /images/banners/
@@ -16441,6 +16467,7 @@ msFilterList
 -d saf.org /wp-content/uploads/*/women_guns192x50.png
 -d safelinks.eu /open.js
 -d sagoodnews.co.za /templates/ubuntu-deals/
+-d sail-world.com /rotate/
 -d salfordonline.com /sponsors/
 -d salfordonline.com /sponsors2/
 -d sameip.org /images/froghost.gif
@@ -17213,6 +17240,7 @@ msFilterList
 -d vortez.co.uk 120x600.swf
 -d vortez.co.uk skyscraper.jpg
 -d vosizneias.com /perms/
+-d vox-cdn.com /campaigns_images/
 -d vpsboard.com /display/
 -d w.homes.yahoo.net
 -d waamradio.com /images/sponsors/
@@ -17597,7 +17625,7 @@ msFilterList
 # Mobile
 # *** easylist:easylist/easylist_specific_block_popup.txt ***
 # /sendspace-pop.$popup,domain=sendspace.com
-# ^utm_source=$popup,domain=|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
+# ^utm_source=$popup,domain=sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
 # |http:$popup,third-party,domain=allmyvideos.net|embed.videoweed.es|extreme-board.com|filepost.com|filmovizija.com|go4up.com|imagebam.com|imageporter.com|imgbox.com|imgmade.com|imgspice.com|load.to|mofunzone.com|putlocker.is|vidspot.net|watchcartoononline.com|xtshare.com
 # ||4fuckr.com/api.php$popup
 # ||adf.ly^$popup,domain=uploadcore.com|urgrove.com
@@ -17726,6 +17754,7 @@ msFilterList
 -d 3xupdate.com /ryushare2.gif
 -d 3xupdate.com /ryusharepremium.gif
 -d 3yen.com /wfn_
+-d 4ufrom.me /xpw.gif
 -d 5ilthy.com /porn.php
 -d 64.62.202.124 /cumlouder.jpg
 -d a.eporner.com
@@ -18434,6 +18463,7 @@ msFilterList
 -d wiki-stars.com /thumb_if.php?
 -d wiki-stars.com /trade/
 -d wikiporno.org /header2.html
+-d wikiporno.org /header21.html
 -d worldsex.com /c/
 -d wowomg.com .html
 -d wrenchtube.com /poppt.js
@@ -19047,6 +19077,7 @@ msFilterList
 +d dart.clearchannel.com /crossdomain.xml
 +d data.panachetech.com /crossdomain.xml
 # @@||data.panachetech.com/|$object-subrequest,domain=southpark.nl
++d dataknet.com /s.axd?
 +d davescomputertips.com /images/ads/paypal.png
 # @@||dawanda.com^*/ad_center.css$~third-party
 # @@||dawanda.com^*/adcenter.js$~third-party
@@ -19360,7 +19391,7 @@ msFilterList
 # @@||imagesbn.com/resources?*/googlead.$stylesheet,domain=barnesandnoble.com
 +d imasdk.googleapis.com /flash/core/3.*/adsapi.swf
 +d imasdk.googleapis.com /flash/sdkloader/adsapi_3.swf
-# @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=blinkboxmusic.com|cbc.ca|eboundservices.com|gamejolt.com|live.geo.tv|news.sky.com|softgames.de|thestreet.com|video.foxnews.com|waywire.com
+# @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=blinkboxmusic.com|cbc.ca|eboundservices.com|gamejolt.com|live.geo.tv|news.sky.com|softgames.de|thestreet.com|video.foxnews.com|waywire.com|wibbitz.com
 # @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blinkboxmusic.com|cbc.ca|gamejolt.com|news.sky.com|theverge.com
 # @@||img-cdn.mediaplex.com^$image,domain=betfair.com
 # @@||img.espngp.com/ads/$image,domain=espnf1.com
@@ -20188,6 +20219,7 @@ msFilterList
 # @@||yttalk.com/threads/*/add-reply$domain=yttalk.com
 # @@||yumenetworks.com/content/static/$domain=dailygames.com
 +d yumenetworks.com /crossdomain.xml
+# @@||yumenetworks.com/dynamic_preroll_playlist.vast2xml$domain=contv.com
 # @@||zamimg.com/modelviewer/*/doodads/$object-subrequest,domain=wowhead.com
 +d zap2it.com /ads/newsletter/
 +d zattoo.com /?advideo/*;vidAS=PRE_ROLL;
@@ -21314,6 +21346,7 @@ msFilterList
 +d opposingviews.com /300x250/
 # @@||player.grabnetworks.com^*/vox_300x250_inline.xml$domain=mavrixonline.com
 +d quisqualis.com /QBanner_760x100.jpg
++d roofandfloor.com /listing_
 +d static-origin.openedition.org -120x240.jpg
 +d stickam.com /wb/www/category/300x250/
 # @@||target.122.2o7.net/b/ss/*_300x250_$image,domain=target.com
