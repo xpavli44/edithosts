@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čen 14 07:20:50 CEST 2015 ##################
+##### Aktualizováno: Ne čen 14 17:52:04 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3083,6 +3083,7 @@ msFilterList
 - /adw2.shtml
 - /adweb.
 - /adweb2.
+- /adwidget/
 - /adwidgets/
 - /adwise/
 - /adWiseShopPlus1.
@@ -4172,6 +4173,7 @@ msFilterList
 - /guardianleader.
 - /guardrailad_
 - /gujAd.
+- /gutterAd.
 - /hads-
 - /Handlers/Ads.
 - /hcm_ads/
@@ -4204,6 +4206,7 @@ msFilterList
 - /homepageadvertright.
 - /homeslideadtop/
 - /HomeStaticAds/
+- /HompageStickyAd.
 - /horizontal_advert_
 - /horizontalAd.
 - /hostedads.
@@ -5909,6 +5912,7 @@ msFilterList
 - =DisplayAd&
 - =displayAds&
 - =dynamicads&
+- =dynamicwebad&
 - =GetSponsorAds&
 - =half-page-ad&
 - =iframe_adv&
@@ -8950,6 +8954,7 @@ msFilterList
 -d mdialog.com
 -d mdn2015x1.com
 -d mdn2015x2.com
+-d mdn2015x4.com
 -d meadigital.com
 -d media-general.com
 -d media-ks.net
@@ -11342,6 +11347,7 @@ msFilterList
 -d buy.com /affiliate/
 -d buzznet.com /showpping-banner-
 -d byzoo.org /script/tu*.js
+-d cachefly.net /cricad.html
 -d cal-one.net /ellington/deals_widget.php?
 -d cal-one.net /ellington/search_form.php?
 -d camelmedia.net /banners/
@@ -12389,6 +12395,7 @@ msFilterList
 -d vpnxs.nl /images/vpnxs_banner
 -d vrvm.com /t?
 -d vxite.com /banner/
+-d wagital.com /Wagital-Ads.html
 -d walmartimages.com /HealthPartner_
 -d warezhaven.org /warezhavenbann.jpg
 -d warrantydirect.co.uk /widgets/
@@ -14685,7 +14692,6 @@ msFilterList
 -d mob.org /banner/
 -d mobilephonetalk.com /eurovps.swf
 -d mochiads.com /srv/
--d moneycontrol.co.in /mcjs/10promo/
 -d moneymakerdiscussion.com /mmd-banners/
 -d moneymedics.biz /upload/banners/
 -d monitor.co.ug /image/view/*/120/

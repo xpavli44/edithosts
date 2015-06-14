@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 14 Jun 2015 05:11 UTC
+# Last modified: 14 Jun 2015 15:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -3212,6 +3212,7 @@ msFilterList
 - /adw2.shtml
 - /adweb.
 - /adweb2.
+- /adwidget/
 - /adwidgets/
 - /adwise/
 - /adWiseShopPlus1.
@@ -4305,6 +4306,7 @@ msFilterList
 - /guardianleader.
 - /guardrailad_
 - /gujAd.
+- /gutterAd.
 - /hads-
 - /Handlers/Ads.
 - /hcm_ads/
@@ -4338,6 +4340,7 @@ msFilterList
 - /homepageadvertright.
 - /homeslideadtop/
 - /HomeStaticAds/
+- /HompageStickyAd.
 - /horizontal_advert_
 - /horizontalAd.
 - /hostedads.
@@ -6065,6 +6068,7 @@ msFilterList
 - =DisplayAd&
 - =displayAds&
 - =dynamicads&
+- =dynamicwebad&
 - =GetSponsorAds&
 - =half-page-ad&
 - =iframe_adv&
@@ -9220,6 +9224,7 @@ msFilterList
 -d mdialog.com
 -d mdn2015x1.com
 -d mdn2015x2.com
+-d mdn2015x4.com
 -d meadigital.com
 -d media-general.com
 -d media-ks.net
@@ -12031,6 +12036,7 @@ msFilterList
 -d buy.com /affiliate/
 -d buzznet.com /showpping-banner-
 -d byzoo.org /script/tu*.js
+-d cachefly.net /cricad.html
 -d cal-one.net /ellington/deals_widget.php?
 -d cal-one.net /ellington/search_form.php?
 -d camelmedia.net /banners/
@@ -13175,6 +13181,7 @@ msFilterList
 # ||vuvuplaza.com^$subdocument,third-party
 -d vxite.com /banner/
 # ||vze.com^$domain=uploadlw.com
+-d wagital.com /Wagital-Ads.html
 -d walmartimages.com /HealthPartner_
 -d warezhaven.org /warezhavenbann.jpg
 -d warrantydirect.co.uk /widgets/
@@ -15896,7 +15903,6 @@ msFilterList
 -d mobilephonetalk.com /eurovps.swf
 -d mochiads.com /srv/
 # ||moevideo.net/getit/$object-subrequest,domain=videochart.net
--d moneycontrol.co.in /mcjs/10promo/
 -d moneymakerdiscussion.com /mmd-banners/
 -d moneymedics.biz /upload/banners/
 -d monitor.co.ug /image/view/*/120/
