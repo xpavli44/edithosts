@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po čen 15 02:09:10 CEST 2015 ##################
+##### Aktualizováno: Po čen 15 19:15:46 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -14834,6 +14834,7 @@ msFilterList
 -d nfl.com /assets/images/hp-poweredby-
 -d nfl.com /page-background-image.jpg
 -d ngrguardiannews.com /images/banners/
+-d nichepursuits.com /wp-content/uploads/*/long-tail-pro-banner.gif
 -d nigeriafootball.com /img/affiliate_
 -d nigerianyellowpages.com /images/banners/
 -d niggasbelike.com /wp-content/themes/zeecorporate/images/b.jpg
@@ -18138,6 +18139,7 @@ msFilterList
 +d inskinmedia.com /crossdomain.xml
 +d install.wtf /advertisement/advertisement.js
 +d investigationdiscovery.com /shared/ad-enablers/
++d investopedia.com /public/js/ads.js
 +d iriptv.com /player/ads.js
 +d jkanime.net /assets/js/advertisement.js
 +d jkanime.net /advertisement2.js
