@@ -1,12 +1,12 @@
+0.0.0.0 ac3.msn.com
 0.0.0.0 bbcdn.go.cz.bbelements.com
+0.0.0.0 cdn.dreamnetworld.com
+0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.idnes.bbelements.com
 0.0.0.0 go.ihned.bbelements.com
-0.0.0.0 ac3.msn.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 rt.quagodex.com
 0.0.0.0 youporn.quexotac.com
 0.0.0.0 yp.uxernab.com
-0.0.0.0 cdn.dreamnetworld.com
-0.0.0.0 fbexternal-a.akamaihd.net
