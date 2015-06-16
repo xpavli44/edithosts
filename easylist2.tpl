@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po čen 15 19:15:46 CEST 2015 ##################
+##### Aktualizováno: St čen 17 00:46:56 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3773,7 +3773,6 @@ msFilterList
 - /dns_ad/
 - /dnsads.
 - /domainads/
-- /doodads/
 - /door/ads/
 - /doors/ads/
 - /doubleclick.aspx
@@ -12678,6 +12677,7 @@ msFilterList
 -d ihookup.com /configcreatives/
 -d image.cecash.com
 -d image.nsk-sys.com
+-d images.elenasmodels.com /Upload/
 -d imageteam.org /upload/big/2014/06/22/53a7181b378cb.png
 -d interracialbangblog.info /banner.jpg
 -d interracialbangblog.info -ban.png
@@ -17567,7 +17567,6 @@ msFilterList
 +d masslive.com /static/common/js/ads/ads.js
 +d maxim.com /advert*/countdown/
 +d mcfc.co.uk /js/core/adtracking.js
-+d media-azeroth.cursecdn.com /Assets/*/DOODADS/
 +d media.avclub.com /onion/js/videoads.js*.js
 +d media.cargocollective.com
 +d media.expedia.com /ads/
