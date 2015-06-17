@@ -7637,7 +7637,7 @@ msFilterList
 -d affiliproducts.com
 -d affiliserve.com
 -d affimo.de
--d adv.forpsi.com/
+-d adv.forpsi.com
 -d affinitad.com
 -d affinity.com
 -d affiz.net
