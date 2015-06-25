@@ -127,6 +127,7 @@ msFilterList
 -d mp3s.nadruhou.net /avony_square.gif
 -d mp3s.nadruhou.net /js/bastard_*.js
 -d mrk.cz /images/baners/
+-d advantage.as
 -d naseadresa.cz /flash/baner
 -d novinky.cz /static/css/xmas.css
 -d old.disk.cz /disk/Lib.adv.Server.cls
@@ -7639,6 +7640,7 @@ msFilterList
 -d affiliproducts.com
 -d affiliserve.com
 -d affimo.de
+-d adv.forpsi.com
 -d affinitad.com
 -d affinity.com
 -d affiz.net
