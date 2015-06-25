@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt čen 25 02:43:04 CEST 2015 ##################
+##### Aktualizováno: Čt čen 25 19:57:04 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -17951,6 +17951,7 @@ msFilterList
 +d video.nbcuni.com /ad_engine_extension_nbc.swf
 +d video.nbcuni.com /inext_ad_engine/ad_engine_extension.swf
 +d videosxml.mobileads.indiatimes.com
++d vidible.tv /stage/
 +d vidspot.net /blank.html
 +d vidspot.net /builtin-
 +d vidspot.net /cgi-bin/upload.cgi?upload_id=*&X-Progress-ID=*&js_on=*&utype=*&upload_type=

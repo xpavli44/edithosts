@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 Jun 2015 00:41 UTC
+# Last modified: 25 Jun 2015 17:51 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -13895,6 +13895,7 @@ msFilterList
 # ||porno-onlain.info/top.php$popup
 # ||pornoh.info^$popup
 # ||pornslash.com/cbp.php$popup
+# ||porntrex.com^$popup,third-party
 # ||postselfies.com^*?nats=$popup,third-party
 # ||redtube.com/bid/$popup
 # ||rudefinder.com/?$popup,third-party
@@ -18646,7 +18647,6 @@ msFilterList
 # ||pop.mrstiff.com^$popup
 # ||porn101.com^$popup,domain=lexsteele.com
 # ||porn4free.tv^$popup,domain=redtube.cc
-# ||porntrex.com^$popup,domain=imgcandy.net
 # ||pornuppz.info/out.php$popup
 # ||publicagent.com/bigzpup.php$popup
 # ||rackcdn.com^$popup,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
@@ -20225,6 +20225,7 @@ msFilterList
 # @@||video.unrulymedia.com/wildfire_$script,domain=theemptynestexpress.com
 # @@||videoads.washingtonpost.com^$object-subrequest,domain=slatev.com
 +d videosxml.mobileads.indiatimes.com
++d vidible.tv /stage/
 +d vidspot.net /blank.html
 +d vidspot.net /builtin-
 +d vidspot.net /cgi-bin/upload.cgi?upload_id=*&X-Progress-ID=*&js_on=*&utype=*&upload_type=
