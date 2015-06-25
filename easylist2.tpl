@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čen 17 19:15:52 CEST 2015 ##################
+##### Aktualizováno: Čt čen 25 02:43:04 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -62,6 +62,7 @@ msFilterList
 -d blbosti.cz /sites/www.blbosti.cz/files/banner/
 -d blisty.cz /ad/
 -d centrum.cz /design/akt3/o/ads/
+-d cn130.com /wp-content/uploads/an-temp/
 -d cviceni-doma.cz /images/*banner
 -d cztorrent.net /images/bannery/
 -d d.lookit.cz /vv.js
@@ -110,6 +111,7 @@ msFilterList
 -d lamer.cz /images/bg*.jpg
 -d kurzy.sfinance.cz /img/front/sfinance/*banner
 -d libise.eu /r/
+-d linkbucks.com /visitScript/
 - http://liveagent.mobilbonus.cz
 -d logobox.cz /images/banners/
 -d lphard.cz /images/banners/
@@ -246,6 +248,7 @@ msFilterList
 -d priznaj.sk /images/*_banner.png
 -d pricemania.sk /pictures/banners/
 -d pricemania.sk /pictures/campaigns/
+-d recycle-static.zoznam.sk /*branding*.jpg
 -d spartak.sk /pics-new2/reklamy/
 -d sport.aktuality.sk /css/skins/
 -d static.itnews.sk /branding/
@@ -347,6 +350,7 @@ msFilterList
 -d top-sk.mconet.biz
 -d uspech.sk
 - http://zachej.sk
++d adserver.adtech.de /?advideo/3.0/
 +d ads2.czc.cz /www/
 +d alfacomp.cz /reklama/
 +d autotube.cz /ui/player/ad.php
@@ -529,6 +533,7 @@ msFilterList
 - -ads.php?
 - -ads.swf
 - -ads/728x
+- -ads/ad-
 - -ads/oas/
 - -Ads_728x902.
 - -ads_9_3.
@@ -1067,6 +1072,7 @@ msFilterList
 - /ad-nytimes.
 - /ad-offer1.
 - /ad-openx.
+- /ad-page/
 - /ad-plate/
 - /ad-point/
 - /ad-position-
@@ -1227,11 +1233,9 @@ msFilterList
 - /ad/top3.
 - /ad/top_
 - /ad/view/
-- /ad0.
 - /ad000/
 - /ad02/background_
 - /ad1-728-
-- /ad1.
 - /ad1/index.
 - /ad12.
 - /ad120x60.
@@ -1252,7 +1256,6 @@ msFilterList
 - /ad1r.
 - /ad1x1home.
 - /ad2-728-
-- /ad2.
 - /ad2/index.
 - /ad2/res/
 - /ad2010.
@@ -1267,7 +1270,6 @@ msFilterList
 - /ad2gather.
 - /ad2push.
 - /ad2you/
-- /ad3.
 - /ad300.
 - /ad300f.
 - /ad300f2.
@@ -1281,7 +1283,6 @@ msFilterList
 - /ad350.
 - /ad3_ima.
 - /ad3i.
-- /ad4.
 - /ad41_
 - /ad468.
 - /ad468x60.
@@ -2532,6 +2533,7 @@ msFilterList
 - /adsdaqbanner_
 - /adsdaqbox_
 - /adsdaqsky_
+- /adsDeferredDfp.
 - /adsdelivery.
 - /adsdm.
 - /adsdyn160x160.
@@ -4847,6 +4849,7 @@ msFilterList
 - /parts/ad/
 - /pauseadextension.
 - /payperpost.
+- /pb-ads/
 - /pc/ads.
 - /pcad.js?
 - /peel.js
@@ -5849,7 +5852,6 @@ msFilterList
 - /z/ads/
 - /zagcookie_
 - /zalando-ad-
-- /zanox.js
 - /zanox/banner/
 - /zanox_ad/
 - /zedo_
@@ -6854,7 +6856,6 @@ msFilterList
 - 750x80.swf
 - 750x90.gif
 - 760x90.jpg
-- 80x468.jpg
 - =120x600,
 - =120x600;
 - =160x160;
@@ -7400,6 +7401,7 @@ msFilterList
 -d adpinion.com
 -d adpionier.de
 -d adplans.info
+-d adplex.media
 -d adplxmd.com
 -d adppv.com
 -d adpredictive.com
@@ -7418,6 +7420,7 @@ msFilterList
 -d adrise.de
 -d adrocket.com
 -d adroll.com
+-d ads-4u.com
 -d ads-elsevier.net
 -d ads-stats.com
 -d ads01.com
@@ -8071,6 +8074,7 @@ msFilterList
 -d coolerads.com
 -d coolmirage.com
 -d copacet.com
+-d cor-natty.com
 -d coretarget.co.uk
 -d cornflip.com
 -d coull.com
@@ -8138,6 +8142,7 @@ msFilterList
 -d dashboardad.net
 -d dating-banners.com
 -d datinggold.com
+-d datumreact.com
 -d dbbsrv.com
 -d dbclix.com
 -d dealcurrent.com
@@ -8179,6 +8184,7 @@ msFilterList
 -d directorym.com
 -d directrev.com
 -d directtrack.com
+-d directtrk.com
 -d dispop.com
 -d districtm.ca
 -d dl-rms.com
@@ -8592,6 +8598,7 @@ msFilterList
 -d halfpriceozarks.com
 -d halogennetwork.com
 -d hanaprop.com
+-d happilyswitching.net
 -d harrenmedianetwork.com
 -d havamedia.net
 -d havetohave.com
@@ -8949,6 +8956,7 @@ msFilterList
 -d mb38.com
 -d mb57.com
 -d mbn.com.ua
+-d mcdomainalot.com
 -d mcdstorage.com
 -d mdadvertising.net
 -d mdialog.com
@@ -9228,6 +9236,7 @@ msFilterList
 -d othersonline.com
 -d ourunlimitedleads.com
 -d oveld.com
+-d overhaps.com
 -d overture.com
 -d overturs.com
 -d oxado.com
@@ -9336,6 +9345,7 @@ msFilterList
 -d popcpm.com
 -d popcpv.com
 -d popearn.com
+-d popmajor.com
 -d popmarker.com
 -d popmyad.com
 -d popmyads.com
@@ -9456,6 +9466,7 @@ msFilterList
 -d realclick.co.kr
 -d realmatch.com
 -d realmedia.com
+-d realsecuredredir.com
 -d realsecuredredirect.com
 -d realvu.net
 -d reate.info
@@ -9612,6 +9623,7 @@ msFilterList
 -d skoovyads.com
 -d skyactivate.com
 -d skyscrpr.com
+-d slikslik.com
 -d slimspots.com
 -d slimtrade.com
 -d slinse.com
@@ -9840,6 +9852,7 @@ msFilterList
 -d trackyourlinks.com
 -d tradeexpert.net
 -d tradepopups.com
+-d tradetracker.net
 -d traff-advertazer.com
 -d traffboost.net
 -d traffic-supremacy.com
@@ -9971,6 +9984,7 @@ msFilterList
 -d videoegg.com
 -d videohub.com
 -d videolansoftware.com
+-d videoliver.com
 -d videologygroup.com
 -d vidpay.com
 -d viedeo2k.tv
@@ -10009,6 +10023,7 @@ msFilterList
 -d w5statistics.info
 -d w9statistics.info
 -d wafmedia5.com
+-d waframedia3.com
 -d wagershare.com
 -d wahoha.com
 -d wamnetwork.com
@@ -10138,8 +10153,8 @@ msFilterList
 -d yzus09by.com
 -d z5x.net
 -d zangocash.com
--d zanox-affiliate.de
--d zanox.com
+-d zanox-affiliate.de /ppv/
+-d zanox.com /ppv/
 -d zaparena.com
 -d zappy.co.za
 -d zapunited.com
@@ -10273,6 +10288,7 @@ msFilterList
 -d loopr.co
 -d luadcik.com
 -d maningrs.com
+-d nrfort.com
 -d nuaknamg.net
 -d oplo.org
 -d opner.co
@@ -10299,11 +10315,14 @@ msFilterList
 -d t3sort.com
 -d t7row.com
 -d th4wwe.net
+-d thiscdn.com
 -d thrilamd.net
 -d topdi.net
 -d trllxv.co
 -d trndi.net
+-d tualipoly.net
 -d uppo.co
+-d v8bridge.link
 -d viewscout.com
 -d vopdi.com
 -d waddr.com
@@ -10466,7 +10485,6 @@ msFilterList
 -d brqvld0p.com
 -d bumblecash.com
 -d bumskontakte.ch
--d cache.imagehost123.com
 -d cam-lolita.net
 -d cam4flat.com
 -d camads.net
@@ -11070,6 +11088,7 @@ msFilterList
 -d yu0123456.com
 -d yuppads.com
 -d yx0banners.com
+-d zenkreka.com
 -d zinzimo.info
 -d ziphentai.com
 -d reporo.net
@@ -11817,6 +11836,7 @@ msFilterList
 -d img.servint.net
 -d imgdino.com /gsmpop.js
 -d imgehost.com /banners/
+-d imgpop.googlecode.com
 -d imptestrm.com /rg-main.php?
 -d indeed.fr /ads/
 -d indian-forex.com /banners/
@@ -12170,6 +12190,7 @@ msFilterList
 -d s3.amazonaws.com /draftset/banners/
 -d safarinow.com /affiliate-zone/
 -d sailthru.com /horizon.js
+-d salefile.googlecode.com
 -d salemwebnetwork.com /Stations/images/SiteWrapper/
 -d sat-shop.co.uk /images/
 -d satshop.tv /images/banner/
@@ -12303,7 +12324,6 @@ msFilterList
 -d theselfdefenseco.com /?affid=
 -d thetechnologyblog.net /bp_internet/
 -d thirdpartycdn.lumovies.com
--d ti.tradetracker.net
 -d ticketkai.com /banner/
 -d ticketmaster.com /promotionalcontent/
 -d tigerdirect.com /affiliate_
@@ -13222,6 +13242,7 @@ msFilterList
 -d bitminter.com /images/info/spondoolies
 -d bitreactor.to /sponsor/
 -d bittorrent.am /banners/
+-d bizanti.youwatch.org
 -d bizarremag.com /images/skin_
 -d bizhub.vn /agoda-for-bizhub.jpg
 -d bkmag.com /binary/*/1380x800_
@@ -14086,6 +14107,7 @@ msFilterList
 -d heatworld.com /images/*_83x76_
 -d heatworld.com /upload/takeovers/
 -d heatworld.com _300x160.jpg
+-d hejban.youwatch.org
 -d helsinkitimes.fi /banners/
 -d hentai2read.com /ios/swf/
 -d heraldm.com /hb/imad/
@@ -16213,6 +16235,7 @@ msFilterList
 -d youtubeproxy.pk /images/Lahore.fm.jpg
 -d youtubeproxy.pk /images/lahore.jpg
 -d youwatch.org /iframe1.html
+-d youwatch.org /vod-str.html
 -d yp.mo /ads/
 -d ytmnd.com /ugh
 -d yudu.com _intro_ads
@@ -18122,6 +18145,7 @@ msFilterList
 +d hardware.no /ads/
 +d hardware.no /artikler/
 +d hardware.no .js
++d hdmovie14.net /js/ad*.js
 +d hentai-foundry.com /ads.js
 +d hexawebhosting.com /adcode.js
 +d hpfanficarchive.com /advertisement.js
@@ -18211,6 +18235,7 @@ msFilterList
 +d own3d.tv /templates/*adsense
 +d own3d.tv _adsense.
 +d pandora.com /static/ads/
++d paste.org /style/adframe.js
 +d perkuinternete.lt /modules/mod_jpayday/js/advertisement.js
 +d photofacefun.com /adblock.js
 +d pipocas.tv /js/advertisement.js
@@ -18558,6 +18583,7 @@ msFilterList
 +d redtube.com /message/
 +d redtube.com /rate
 +d redtube.com /recommended/
++d redtube.com /relatedvideos/
 +d redtube.com /starsuggestion/
 +d redtube.com /subscribe/
 +d redtube.com /videodetails/
