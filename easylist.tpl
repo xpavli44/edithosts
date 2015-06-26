@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 Jun 2015 17:51 UTC
+# Last modified: 26 Jun 2015 18:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1161,7 +1161,7 @@ msFilterList
 - /ad-label-
 - /ad-label.
 - /ad-layering-
-- /ad-layout/
+# /ad-layout/*$~script,~stylesheet
 - /ad-leaderboard.
 - /ad-left.
 - /ad-letter.
@@ -14633,7 +14633,6 @@ msFilterList
 -d cryptocoinsnews.com /wp-content/uploads/*/cloudbet_
 -d cryptocoinsnews.com /wp-content/uploads/*/xbt-social.png
 -d cryptocoinsnews.com /wp-content/uploads/*/xbt.jpg
--d cryptocoinsnews.com /wp-content/uploads/*takeover
 -d crystalmedianetworks.com -180x150.jpg
 -d cship.org /w/skins/monobook/uns.gif
 -d ctmirror.org /randomsupporter/

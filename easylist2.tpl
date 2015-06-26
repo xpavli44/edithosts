@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt čen 25 19:57:42 CEST 2015 ##################
+##### Aktualizováno: Pá čen 26 20:09:44 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1052,7 +1052,6 @@ msFilterList
 - /ad-label-
 - /ad-label.
 - /ad-layering-
-- /ad-layout/
 - /ad-leaderboard.
 - /ad-left.
 - /ad-letter.
@@ -13506,7 +13505,6 @@ msFilterList
 -d cryptocoinsnews.com /wp-content/uploads/*/cloudbet_
 -d cryptocoinsnews.com /wp-content/uploads/*/xbt-social.png
 -d cryptocoinsnews.com /wp-content/uploads/*/xbt.jpg
--d cryptocoinsnews.com /wp-content/uploads/*takeover
 -d crystalmedianetworks.com -180x150.jpg
 -d cship.org /w/skins/monobook/uns.gif
 -d ctmirror.org /randomsupporter/
