@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá čen 26 20:37:14 CEST 2015 ##################
+##### Aktualizováno: So čen 27 07:39:48 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2532,7 +2532,6 @@ msFilterList
 - /adsdaqbanner_
 - /adsdaqbox_
 - /adsdaqsky_
-- /adsDeferredDfp.
 - /adsdelivery.
 - /adsdm.
 - /adsdyn160x160.
@@ -9191,6 +9190,7 @@ msFilterList
 -d omg2.com
 -d omgpm.com
 -d omguk.com
+-d omni-ads.com
 -d onad.eu
 -d onads.com
 -d onclickads.net
@@ -11098,6 +11098,7 @@ msFilterList
 -d 110.45.173.103 /ad/
 -d 110mb.com /images/banners/
 -d 12dayswidget.com /widgets/
+-d 178.17.164.58 .js
 -d 178.238.233.242 /open.js
 -d 1page.co.za /affiliate/
 -d 1stag.com /main/img/banners/
@@ -12211,6 +12212,7 @@ msFilterList
 -d server4.pro /images/banner.jpg
 -d service.smscoin.com /js/sendpic.js
 -d settleships.com
+-d sfcdn.in /sailfish/*.js
 -d sfimg.com /images/banners/
 -d sfimg.com /SFIBanners/
 -d sfm-offshore.com /images/banners/
@@ -12496,6 +12498,7 @@ msFilterList
 -d zip2save.com /widget.php?
 -d zmh.zope.net
 -d iadc.qwapi.com
+-d chronophotographie.science
 -d 193.34.134.18 /banners/
 -d 193.34.134.74 /banners/
 -d 204.140.25.247 /ads/
@@ -14124,6 +14127,8 @@ msFilterList
 -d hipforums.com /newforums/calendarcolumn.php?cquery=bush
 -d hitechlegion.com /images/banners/
 -d hkclubbing.com /images/banners/
+-d hltv.org //images/csgofastsky.png
+-d hltv.org /images/csLucky.swf
 -d hockeybuzz.com /mb/b?
 -d hollywoodbackwash.com /glam/
 -d holyfamilyradio.org /banners/
@@ -15105,7 +15110,10 @@ msFilterList
 -d prerollads.ign.com
 -d pressrepublican.com /wallpaper/
 -d primenews.com.bd /add/
+-d primewire.ag /load_link.php?
+-d primewire.guru /load_link.php?
 -d primewire.guru /pagetop.php
+-d primewire.in /load_link.php?
 -d printfriendly.com /a/lijit/
 -d prisonplanet.com banner
 -d pro-clockers.com /images/banners/
@@ -17147,6 +17155,7 @@ msFilterList
 +d albumartexchange.com /gallery/images/public/ad/
 +d allot.com /Banners/*.swf
 +d allulook4.com /min/?
++d amazon-adsystem.com /widgets/q?
 +d amctv.com /commons/advertisement/js/AdFrame.js
 +d amiblood.com /Images/ad.jpg
 +d andcorp.com.au .swf?clicktag=
@@ -17438,6 +17447,7 @@ msFilterList
 +d godlessnightsfilm.co.uk /scripts/ad-gallery/
 +d godtube.com /resource/mediaplayer/*&adzone=
 +d goember.com /ad/*.xml?
++d goodyhoo.com /banners/
 +d google.com /_/apps-static/*/socialads/
 +d google.com /_static/images/*/ads.png
 +d google.com /search?q=
@@ -17552,8 +17562,7 @@ msFilterList
 +d libraryjournal.com /wp-content/plugins/wp-intern-ads/
 +d lightningcast.net /servlets/getplaylist?*&responsetype=asx&
 +d linkbucks.com /tmpl/mint/css/ads.css
-+d linkbucks.com /tmpl/mint/img/int_skip_ad.gif
-+d linkbucks.com /tmpl/mint/img/int_skip_ad_disabled.gif
++d linkbucks.com /tmpl/mint/img/*_skip_
 +d linksave.in /img/usercp/ads.png
 +d lipsum.com /images/banners/
 +d listings.brokersweb.com /JsonSearchSb.aspx?*&maxAds=*.js
@@ -18055,7 +18064,7 @@ msFilterList
 +d avforums.com ad*.js
 +d bdrip.ws /web_data/*/ad
 +d bestofmedia.com /advertisement.js
-+d bestream.tv /advertisement.js
++d bestream.tv /advert*.js
 +d binbox.io /ad/
 +d bitcoiner.net /advertisement.js
 +d blinkboxmusic.com /advertisement.js
@@ -18092,12 +18101,14 @@ msFilterList
 +d dutplanet.net /ajax/reclamecheck.php?
 +d ebkimg.com /banners/
 +d elrellano.com /ad/ad.js
++d eosads.com /advertisement.
 +d eska.pl bbelements.js
 +d eskago.pl /html/js/ads-banner.js
 +d eskago.pl /html/js/adv.bbelements.js
 +d eskago.pl /html/js/advertisement.js
 +d eu5.org /advert.js
 +d eventhubs.com .*.js
++d exoclick.com /wp-content/
 +d exrapidleech.info /templates/
 +d exrapidleech.info .js
 +d exsite.pl /advert.js
@@ -18246,6 +18257,7 @@ msFilterList
 +d primeshare.tv /advertisement.js
 +d primewire.ag /js/advertisement.js
 +d psarips.com .js
++d pubdirecte.com /advertisement.js
 +d puromarketing.com /js/advertisement.js
 +d qrrro.com /adhandler/
 +d racedepartment.com /advertisement.js
