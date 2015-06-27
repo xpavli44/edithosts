@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So čen 27 07:39:48 CEST 2015 ##################
+##### Aktualizováno: So čen 27 17:56:00 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -17561,8 +17561,8 @@ msFilterList
 +d lemon-ads.com
 +d libraryjournal.com /wp-content/plugins/wp-intern-ads/
 +d lightningcast.net /servlets/getplaylist?*&responsetype=asx&
++d linkbucks.com /tmpl/
 +d linkbucks.com /tmpl/mint/css/ads.css
-+d linkbucks.com /tmpl/mint/img/*_skip_
 +d linksave.in /img/usercp/ads.png
 +d lipsum.com /images/banners/
 +d listings.brokersweb.com /JsonSearchSb.aspx?*&maxAds=*.js

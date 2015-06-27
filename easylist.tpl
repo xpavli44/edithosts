@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 27 Jun 2015 05:31 UTC
+# Last modified: 27 Jun 2015 15:51 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -19595,8 +19595,8 @@ msFilterList
 +d lightningcast.net /servlets/getplaylist?*&responsetype=asx&
 # @@||lijit.com///www/delivery/fpi.js?*&width=728&height=90$script,domain=hypeseek.com
 # @@||limecellular.com/resources/images/adv/$~third-party
++d linkbucks.com /tmpl/
 +d linkbucks.com /tmpl/mint/css/ads.css
-+d linkbucks.com /tmpl/mint/img/*_skip_
 # @@||linkconnector.com/traffic_record.php?lc=$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 +d linksave.in /img/usercp/ads.png
 # @@||linkshare.iregdev.com/images/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
@@ -20525,7 +20525,6 @@ msFilterList
 # @@||budget101.com^$elemhide
 # @@||buysellads.com/ac/bsa.js$domain=jc-mp.com
 # @@||bywarrior.com^$elemhide
-# @@||c1.popads.net/pop.js$domain=filmovizija.in|go4up.com
 +d captchme.net /js/advertisement-min.js
 +d captchme.net /js/advertisement.js
 +d casadossegredos.tv /ads/ads_
@@ -20898,7 +20897,7 @@ msFilterList
 # @@||play-old-pc-games.com^$elemhide
 +d playhd.eu /advertisement.js
 +d playindiafilms.com /advertisement.js
-# @@||popads.net/pop.js$domain=filmovizija.com|hqq.tv
+# @@||popads.net/pop.js$domain=filmovizija.com|filmovizija.in|go4up.com|hqq.tv
 # @@||popsads.com/adhandler/$script,domain=filmovizija.com
 # @@||poreil.com^$domain=cbs.com
 # @@||prad.de/en/$elemhide
@@ -20970,6 +20969,7 @@ msFilterList
 +d siamfishing.com /advert.js
 # @@||sixpool.me^$image,domain=majorleaguegaming.com
 +d skidrowcrack.com /advertisement.js
+# @@||skidrowcrack.com^$elemhide
 # @@||smartadserver.com/call/pubj/*/M/*/?$domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 # @@||smartadserver.com/call/pubj/*/S/*/?$domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 # @@||smartadserver.com/config.js?nwid=$domain=onvasortir.com
@@ -21647,6 +21647,7 @@ msFilterList
 +d tube8.com /js/advertisement.js
 +d xibitnet.com /check/advertisement.js
 +d xibitnet.com /check/advertisements.js
+# @@||youngmodelsclub.net^$elemhide
 # Non-English
 # @@||ads.b10f.jp/flv/$~third-party
 # *** easylist:easylist_adult/adult_whitelist_popup.txt ***
