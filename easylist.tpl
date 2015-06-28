@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 28 Jun 2015 01:51 UTC
+# Last modified: 28 Jun 2015 07:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9225,6 +9225,7 @@ msFilterList
 -d marketoring.com
 -d marsads.com
 -d martiniadnetwork.com
+-d masterads.org
 -d masternal.com
 -d mastertraffic.cn
 -d matiro.com
@@ -10443,6 +10444,7 @@ msFilterList
 -d yuarth.com
 -d yucce.com
 -d yumenetworks.com
+-d yupfiles.net
 -d yvoria.com
 -d yz56lywd.com
 -d yzrnur.com
@@ -12057,7 +12059,6 @@ msFilterList
 -d broadbandgenie.co.uk /widget?
 -d bruteforceseo.com /affiliates/
 -d bruteforcesocialmedia.com /affiliates/
--d bsrv.adohana.com
 -d btguard.com /images/
 -d btr.domywife.com
 -d btrd.net /assets/interstitial*.js
@@ -12599,7 +12600,6 @@ msFilterList
 -d jalbum.net /widgetapi/js/dlbutton.js?
 -d jenningsforddirect.co.uk /sitewide/extras/
 # ||jeysearch.com^$subdocument,third-party
--d jimdo.com /s/img/aff/
 -d jinx.com /content/banner/
 # ||jivox.com/jivox/serverapis/getcampaignbyid.php?$object-subrequest
 -d joblet.jp /javascripts/
@@ -15215,7 +15215,6 @@ msFilterList
 -d golf365.co.za /site-bg-
 -d golf365.com /site-bg-
 -d gomlab.com /img/banner/
--d gomtv.net /img/ad/
 -d gonzagamer.com /uci/popover.js
 # ||goo.gl^$subdocument,domain=backin.net|uploadlw.com
 -d goodanime.net /images/crazy*.jpg
@@ -21154,7 +21153,6 @@ msFilterList
 +d amarillas.cl /advertise.do?
 +d amarillas.cl /js/advertise/*.js
 # @@||amazon-adsystem.com/e/ir?$image,domain=kasi-time.com
-# @@||amazon-adsystem.com/widgets/q?$image,domain=kasi-time.com
 # @@||amazonaws.com/affiliates/banners/logo/$image,domain=betyper.com
 +d americateve.com /mediaplayer_ads/new_config_openx.xml
 # @@||analytics.disneyinternational.com/ads/tagsv2/video/$xmlhttprequest,domain=disney.no

@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čen 28 03:52:42 CEST 2015 ##################
+##### Aktualizováno: Ne čen 28 09:25:18 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8944,6 +8944,7 @@ msFilterList
 -d marketoring.com
 -d marsads.com
 -d martiniadnetwork.com
+-d masterads.org
 -d masternal.com
 -d mastertraffic.cn
 -d matiro.com
@@ -10147,6 +10148,7 @@ msFilterList
 -d yuarth.com
 -d yucce.com
 -d yumenetworks.com
+-d yupfiles.net
 -d yvoria.com
 -d yz56lywd.com
 -d yzrnur.com
@@ -11356,7 +11358,6 @@ msFilterList
 -d broadbandgenie.co.uk /widget?
 -d bruteforceseo.com /affiliates/
 -d bruteforcesocialmedia.com /affiliates/
--d bsrv.adohana.com
 -d btguard.com /images/
 -d btr.domywife.com
 -d btrd.net /assets/interstitial*.js
@@ -11867,7 +11868,6 @@ msFilterList
 -d iypcdn.com /ypbanners/
 -d jalbum.net /widgetapi/js/dlbutton.js?
 -d jenningsforddirect.co.uk /sitewide/extras/
--d jimdo.com /s/img/aff/
 -d jinx.com /content/banner/
 -d joblet.jp /javascripts/
 -d jobs-affiliates.ws /images/
@@ -14045,7 +14045,6 @@ msFilterList
 -d golf365.co.za /site-bg-
 -d golf365.com /site-bg-
 -d gomlab.com /img/banner/
--d gomtv.net /img/ad/
 -d gonzagamer.com /uci/popover.js
 -d goodanime.net /images/crazy*.jpg
 -d goodgearguide.com.au /files/skins/
