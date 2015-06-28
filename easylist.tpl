@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 28 Jun 2015 10:01 UTC
+# Last modified: 28 Jun 2015 10:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
