@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čen 28 12:13:29 CEST 2015 ##################
+##### Aktualizováno: Ne čen 28 15:50:46 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -535,6 +535,7 @@ msFilterList
 - -ads/728x
 - -ads/ad-
 - -ads/oas/
+- -ads/static-
 - -Ads_728x902.
 - -ads_9_3.
 - -Ads_Billboard_
@@ -577,6 +578,7 @@ msFilterList
 - -banner-ad-
 - -banner-ad.
 - -banner-ads-
+- -banner-ads/
 - -banner.swf?
 - -banner468x60.
 - -bannerads/
@@ -3084,6 +3086,7 @@ msFilterList
 - /adw2.shtml
 - /adweb.
 - /adweb2.
+- /adweb33.
 - /adwidget/
 - /adwidgets/
 - /adwise/
@@ -5691,7 +5694,9 @@ msFilterList
 - /video_ad_
 - /video_ads.
 - /videoad.
+- /VideoAd/
 - /videoad_new.
+- /VideoAdContent?
 - /videoadrenderer.
 - /videoads.
 - /videoads/
@@ -5955,6 +5960,7 @@ msFilterList
 - ?adunitid=
 - ?adunitname=
 - ?adv/id=
+- ?adv_type=
 - ?adversion=
 - ?advertisement=
 - ?advertiser=
@@ -7350,6 +7356,7 @@ msFilterList
 -d admaya.in
 -d admedia.com
 -d admedias.net
+-d admedo.com
 -d admeld.com
 -d admeta.com
 -d admission.net
@@ -8318,6 +8325,7 @@ msFilterList
 -d duggiads.com
 -d dumedia.ru
 -d durnowar.com
+-d durokuro.com
 -d durtz.com
 -d dvaminusodin.net
 -d dyino.com
@@ -10901,6 +10909,7 @@ msFilterList
 -d retargetpro.net
 -d retoxo.com
 -d rexbucks.com
+-d ripbwing.com
 -d rivcash.com
 -d rmbn.net
 -d rmkflouh.com

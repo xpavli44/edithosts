@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 28 Jun 2015 10:11 UTC
+# Last modified: 28 Jun 2015 13:41 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -633,6 +633,7 @@ msFilterList
 - -ads/728x
 - -ads/ad-
 - -ads/oas/
+- -ads/static-
 - -Ads_728x902.
 - -ads_9_3.
 - -Ads_Billboard_
@@ -675,6 +676,7 @@ msFilterList
 - -banner-ad-
 - -banner-ad.
 - -banner-ads-
+- -banner-ads/
 - -banner.swf?
 - -banner468x60.
 - -bannerads/
@@ -3221,6 +3223,7 @@ msFilterList
 - /adw2.shtml
 - /adweb.
 - /adweb2.
+- /adweb33.
 - /adwidget/
 - /adwidgets/
 - /adwise/
@@ -5851,7 +5854,9 @@ msFilterList
 - /video_ad_
 - /video_ads.
 - /videoad.
+- /VideoAd/
 - /videoad_new.
+- /VideoAdContent?
 - /videoadrenderer.
 - /videoads.
 - /videoads/
@@ -5938,6 +5943,7 @@ msFilterList
 - /wp-content/plugins/banner-manager/
 - /wp-content/plugins/bhcb/lock.js
 - /wp-content/plugins/fasterim-optin/
+# /wp-content/plugins/m-wp-popup/*$~stylesheet
 - /wp-content/plugins/platinumpopup/
 - /wp-content/plugins/useful-banner-manager/
 - /wp-content/plugins/wp-bannerize/
@@ -6119,6 +6125,7 @@ msFilterList
 - ?adunitid=
 - ?adunitname=
 - ?adv/id=
+- ?adv_type=
 - ?adversion=
 - ?advertisement=
 - ?advertiser=
@@ -7615,6 +7622,7 @@ msFilterList
 -d admaya.in
 -d admedia.com
 -d admedias.net
+-d admedo.com
 -d admeld.com
 -d admeta.com
 -d admission.net
@@ -8594,6 +8602,7 @@ msFilterList
 -d duggiads.com
 -d dumedia.ru
 -d durnowar.com
+-d durokuro.com
 -d durtz.com
 -d dvaminusodin.net
 -d dyino.com
@@ -10749,6 +10758,7 @@ msFilterList
 # ||down1oads.com^$popup,third-party
 # ||downloadboutique.com^$popup,third-party
 # ||downloadthesefile.com^$popup,third-party
+# ||durokuro.com^$popup,third-party
 # ||easydownloadnow.com^$popup,third-party
 # ||easykits.org^$popup,third-party
 # ||ebzkswbs78.com^$popup,third-party
@@ -11477,6 +11487,7 @@ msFilterList
 -d retargetpro.net
 -d retoxo.com
 -d rexbucks.com
+-d ripbwing.com
 -d rivcash.com
 -d rmbn.net
 -d rmkflouh.com
