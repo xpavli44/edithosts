@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So čen 27 20:56:02 CEST 2015 ##################
+##### Aktualizováno: Ne čen 28 03:17:42 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -17184,6 +17184,7 @@ msFilterList
 +d asterisk.org /sites/asterisk/files/mce_files/graphics/ads/ad-training.png
 +d athena365.com /web/components/ads/rma.html
 +d att.com /images/*/admanager/
++d auctionzip.com /cgi-bin/showimage.cgi?
 +d auditude.com /crossdomain.xml
 +d auditude.com /AuditudeAdUnit.swf
 +d autogespot.info /upload/ads/
