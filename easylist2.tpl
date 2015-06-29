@@ -120,7 +120,7 @@ msFilterList
 -d mamincinyrecepty.cz /images/banner
 -d matematika.cz /content/files/*/background*.jpg
 -d matematika.cz /content/files/snapbacks/
-- http://mfad*.advantage.as
+- d advantage.as
 -d mluveneslovo.chaves.cz /images/banners/castor_745x150.jpg
 -d mluveneslovo.chaves.cz /images/banners/palace.gif
 -d mluveneslovo.chaves.cz /images/user/pokourenicko.jpg
