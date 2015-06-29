@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čen 28 15:53:17 CEST 2015 ##################
+##### Aktualizováno: Po čen 29 14:05:55 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -7157,6 +7157,7 @@ msFilterList
 -d 9ts3tpia.com
 -d a-ads.com
 -d a-static.com
+-d a.adroll.com
 -d a.raasnet.com
 -d a2dfp.net
 -d a2pub.com
@@ -7425,7 +7426,6 @@ msFilterList
 -d adrich.cash
 -d adrise.de
 -d adrocket.com
--d adroll.com
 -d ads-4u.com
 -d ads-elsevier.net
 -d ads-stats.com
@@ -8136,6 +8136,7 @@ msFilterList
 -d curtisfrierson.com
 -d cybmas.com
 -d cygnus.com
+-d d.adroll.com
 -d d.m3.net
 -d d03x2011.com
 -d d1110e4.se
@@ -8146,6 +8147,7 @@ msFilterList
 -d dapper.net
 -d darwarvid.com
 -d dashboardad.net
+-d data.adroll.com
 -d dating-banners.com
 -d datinggold.com
 -d datumreact.com
@@ -9552,6 +9554,7 @@ msFilterList
 -d runadtag.com
 -d rwpads.com
 -d ryminos.com
+-d s.adroll.com
 -d s2d6.com
 -d sa.entireweb.com
 -d safeadnetworkdata.net
