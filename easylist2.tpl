@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po čen 29 14:44:15 CEST 2015 ##################
+##### Aktualizováno: Út čen 30 11:19:19 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8453,6 +8453,7 @@ msFilterList
 -d firstadsolution.com
 -d firstimpression.io
 -d firstlightera.com
+-d fisari.com
 -d fixionmedia.com
 -d fl-ads.com
 -d flagads.net
@@ -9253,6 +9254,7 @@ msFilterList
 -d oxado.com
 -d oxsng.com
 -d oxtracking.com
+-d oxybe.com
 -d ozertesa.com
 -d ozonemedia.com
 -d p-advg.com
@@ -14831,6 +14833,7 @@ msFilterList
 -d nesn.com /img/nesn-nation/bg-
 -d nesn.com /img/nesn-nation/header-dunkin.jpg
 -d nesn.com /img/sponsors/
+-d nest.youwatch.org
 -d netindian.in /frontsquare*.php
 -d netspidermm.indiatimes.com
 -d netsplit.de /links/rootado.gif

@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 29 Jun 2015 12:41 UTC
+# Last modified: 30 Jun 2015 09:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -8730,6 +8730,7 @@ msFilterList
 -d firstadsolution.com
 -d firstimpression.io
 -d firstlightera.com
+-d fisari.com
 -d fixionmedia.com
 -d fl-ads.com
 -d flagads.net
@@ -9541,6 +9542,7 @@ msFilterList
 -d oxado.com
 -d oxsng.com
 -d oxtracking.com
+-d oxybe.com
 -d ozertesa.com
 -d ozonemedia.com
 -d p-advg.com
@@ -10796,6 +10798,7 @@ msFilterList
 # ||hornygirlsexposed.com^$popup,third-party
 # ||hotchatdirect.com^$popup,third-party
 # ||hstpnetwork.com^$popup,third-party
+# ||ifilez.org^$popup,third-party
 # ||iiasdomk1m9812m4z3.com^$popup,third-party
 # ||ilividnewtab.com^$popup,third-party
 # ||inbinaryoption.com^$popup,third-party
@@ -16064,6 +16067,7 @@ msFilterList
 -d nesn.com /img/nesn-nation/bg-
 -d nesn.com /img/nesn-nation/header-dunkin.jpg
 -d nesn.com /img/sponsors/
+-d nest.youwatch.org
 # ||netdna-cdn.com^$domain=modovideo.com|mooshare.biz
 # ||netdna-cdn.com^*/tiwib-lootr-ad.png$domain=thisiswhyimbroke.com
 -d netindian.in /frontsquare*.php
@@ -17836,6 +17840,7 @@ msFilterList
 # ||torrentz.*/wgmpop/$popup
 # ||torrentz.eu/p/$popup
 # ||tozer.youwatch.org^$popup
+# ||trans.youwatch.org^$popup
 # ||tripadvisor.*/rulebasedpopunder?$popup
 # ||tripadvisor.*/SimilarHotelsPopunder?$popup
 # ||vibeo.to^$popup,domain=flashx.tv
@@ -17847,6 +17852,9 @@ msFilterList
 # ||watchclip.tv^$popup,domain=hipfile.com
 # ||wegrin.com^$popup,domain=watchfreemovies.ch
 # ||yasni.ca/ad_pop.php$popup
+# ||youwatch.org/vids*.html$popup
+# ||youwatch.org^*^ban^$popup
+# ||youwatch.org^*^crr^$popup
 # ||zanox.com^$popup,domain=pregen.net
 # ||ziddu.com/onclickpop.php$popup
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
