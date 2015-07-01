@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 30 Jun 2015 09:11 UTC
+# Last modified: 01 Jul 2015 10:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -20373,7 +20373,7 @@ msFilterList
 # @@.gif?ad_banner=$domain=majorleaguegaming.com
 # @@.gif|$object-subrequest,domain=cbs.com
 # @@.info^$image,script,third-party,domain=cbs.com
-# @@.javascript?$script,third-party,domain=cbsnews.com
+# @@.javascript?$script,third-party,domain=cbsnews.com|colbertlateshow.com
 # @@.javascript|$domain=cbsnews.com
 # @@.jpeg|$object-subrequest,domain=cbs.com
 # @@.jpg|$object-subrequest,domain=cbs.com
@@ -20435,6 +20435,7 @@ msFilterList
 +d 4fuckr.com /adframe.js
 +d 4shared.com
 +d 4sysops.com /adframe.js
+# @@||5.189.144.107^$script,domain=afdah.tv
 # @@||94.23.147.101^$script,domain=filmovizija.com
 +d 95.211.184.210 /js/advertisement.js
 # @@||95.211.194.229^$script,domain=slickvid.com
@@ -20684,6 +20685,7 @@ msFilterList
 # @@||firsttube.co^$elemhide
 +d fitshr.net
 +d fm.tuba.pl /tuba3/_js/advert.js
+# @@||forbesimg.com/scripts/advertisement.js$domain=forbes.com
 # @@||fragflix.com^*.png?*=$image,domain=majorleaguegaming.com
 # @@||free.smsmarkaz.urdupoint.com^$elemhide
 +d freebitco.in .js
