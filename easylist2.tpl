@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 1 12:05:21 CEST 2015 ##################
+##### Aktualizováno: Čt čec 2 15:26:18 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -103,6 +103,9 @@ msFilterList
 -d im9.cz aukro
 -d img.blesk.cz /static/data/blesk/*bg.jpg
 -d img.mimiaukce.cz /h/ac/b/
+-d in-pocasi.cz /img/left*.jpg
+-d in-pocasi.cz /img/right*.jpg
+-d in-pocasi.cz /img/zahlavi*.jpg
 -d itnetwork.cz /images/banners/
 -d itnetwork.cz /script/abc/
 -d jpg.assets-finance-media.cz /newsimg/brand/
@@ -110,6 +113,7 @@ msFilterList
 -d kurzy.cz /e/adv?
 -d lamer.cz /images/bg*.jpg
 -d kurzy.sfinance.cz /img/front/sfinance/*banner
+-d letemsvetemapplem.eu /rklm/
 -d libise.eu /r/
 -d linkbucks.com /visitScript/
 - http://liveagent.mobilbonus.cz
@@ -376,6 +380,8 @@ msFilterList
 +d openload.io /deliverad/2
 +d pcforum.sk /styles/*/advertisement.js
 +d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
++d spusti.net /data/advertisement.js
++d spusti.net /advertisement.js
 +d tpd.sk /ads/rotator/
 - pocasie.pozri.sk/nba2.gif
 +d titulky.com /bannery/
@@ -1734,7 +1740,6 @@ msFilterList
 - /adfactor/
 - /adfactor_
 - /adfactory-
-- /adfactory.
 - /adfactory_
 - /adfeed.
 - /adfeedback/
@@ -2280,6 +2285,7 @@ msFilterList
 - /ads/marketing/
 - /ads/masthead_
 - /ads/menu_
+- /ads/middle/
 - /ads/motherless.
 - /ads/mpu/
 - /ads/mpu2?
@@ -2939,6 +2945,7 @@ msFilterList
 - /advaluewriter.
 - /advault.
 - /advbanner/
+- /advbanners/
 - /advcontents.
 - /advcounter.
 - /advdoc/
@@ -3211,7 +3218,6 @@ msFilterList
 - /amazon/widget/
 - /amzn_omakase.
 - /anchorad.
-- /annonse.
 - /annonse/
 - /annonser.
 - /annonser/
@@ -5473,7 +5479,6 @@ msFilterList
 - /sugarads-
 - /superads_
 - /supernorthroomad.
-- /survey_monkey.
 - /svnad/
 - /swf/ad-
 - /swf/ads/
@@ -6290,6 +6295,7 @@ msFilterList
 - _banner_ad_
 - _banner_ads.
 - _Banner_Ads_
+- _banner_adv300x250px.
 - _banner_adv_
 - _bannerad.
 - _BannerAd_
@@ -7101,6 +7107,7 @@ msFilterList
 -d 18clicks.com
 -d 194.71.107.25
 -d 1clickdownloads.com
+-d 1e0y.xyz
 -d 1phads.com
 -d 1sadx.net
 -d 1yk851od.com
@@ -10255,6 +10262,7 @@ msFilterList
 -d contentr.net
 -d crhikay.me
 -d d3lens.com
+-d deuskex.link
 -d dilpy.org
 -d domri.net
 -d draugonda.net
@@ -13879,6 +13887,7 @@ msFilterList
 -d flashscore.com /res/image/bookmaker-list.png
 -d flashtv.co /adds/
 -d flashtv.co /class/adjsxxs.js
+-d flashx.tv /img/download_
 -d flashx.tv /nuevo/player/js/anya.js
 -d flashx.tv /counterck.html
 -d flashy8.com /banner/
@@ -16472,6 +16481,7 @@ msFilterList
 -d exit.macandbumble.com
 -d extreme-board.com /bannrs/
 -d extremetube.com /player_related?
+-d fantasti.cc /_special/
 -d fapdick.com /uploads/fap_
 -d fastpic.ru /js_f2.jpg
 -d fastpic.ru /js_h2.jpg
@@ -16848,6 +16858,7 @@ msFilterList
 -d porntube.com /ads
 -d pornup.me /js/pp.js
 -d pornwikileaks.com /adultdvd.com.jpg
+-d pornxs.com /js/files/jasminNew
 -d pr-static.empflix.com
 -d pr-static.tnaflix.com
 -d pureandsexy.org /banner/
@@ -17120,6 +17131,7 @@ msFilterList
 +d ads.intergi.com /crossdomain.xml
 +d ads.mefeedia.com /flash/flowplayer-3.1.2.min.js
 +d ads.mefeedia.com /flash/flowplayer.controls-3.0.2.min.js
++d ads.memo2.nl
 +d ads.nyootv.com /crossdomain.xml
 +d ads.nyootv.com /crossdomain.xml
 +d ads.pandora.tv /netinsight/text/pandora_global/channel/icf@
@@ -18231,6 +18243,7 @@ msFilterList
 +d mix.dj /advertisement.js
 +d mma-core.com /Scripts/adscript.js
 +d mmatko.com /images/ad/
++d mobinozer.com /advert.js
 +d moje-dzialdowo.pl /delivery/ajs.php?zoneid=*.js
 +d moje-dzialdowo.pl /images/*.swf
 +d moneyinpjs.com /advertisement.js
@@ -18311,10 +18324,6 @@ msFilterList
 +d speedpremium.info .js
 +d springstreetads.com /scripts/advertising.js
 +d stackexchange.com /affiliate/
-+d stooq.com.br
-+d stooq.com
-+d stooq.pl
-+d stooq.sk
 +d streamcloud.eu
 +d streamin.to /adblock/advert.js
 +d streamlive.to /js/ads.js
@@ -18364,6 +18373,7 @@ msFilterList
 +d webfirstrow.eu /advertisement.js
 +d webfirstrow.eu /advertisement.js
 +d webtv.rs /media/blic/advertisement.jpg
++d welovebtc.com /show_ads.js
 +d world-of-hentai.to /advertisement.js
 +d writing.com .js
 +d yellowbridge.com /ad/show_ads.js
@@ -18625,6 +18635,7 @@ msFilterList
 +d youporn.com /notifications/
 +d youporn.com /subscriptions/
 +d adultadworld.com /adhandler/
++d desihoes.com /advertisement.js
 +d fuqer.com /advertisement.js
 +d hentaimoe.com /js/advertisement.js
 +d imgadult.com /js/advertisement.js
