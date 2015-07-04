@@ -11,3 +11,6 @@
 0.0.0.0 youporn.quexotac.com
 0.0.0.0 yp.uxernab.com
 0.0.0.0 engine.phn.doublepimp.com
+0.0.0.0 cz.adocean.pl
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
+0.0.0.0 gdecz.hit.gemius.pl
