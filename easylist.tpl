@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 Jul 2015 09:11 UTC
+# Last modified: 05 Jul 2015 14:51 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -13968,6 +13968,7 @@ msFilterList
 # ||wantlive.com/landing/$popup
 # ||webcams.com^$popup,third-party
 # ||xdating.com/search/$popup,third-party
+# ||xrounds.com/?lmid=$popup,third-party
 # ||xvideoslive.com/?AFNO$popup,third-party
 # ||xvideoslive.com/landing/$popup,third-party
 # ||yuvutu.com^$popup,third-party
