@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čec 5 19:16:33 CEST 2015 ##################
+##### Aktualizováno: Po čec 6 10:27:19 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -966,6 +966,7 @@ msFilterList
 - /250x250_advert_
 - /300-ad-
 - /300250_ad-
+- /300ad.
 - /300by250ad.
 - /300x250ad.
 - /300x250adbg.
@@ -3027,6 +3028,7 @@ msFilterList
 - /advertisingbanner1.
 - /advertisingbanner_
 - /advertisingcontent/
+- /advertisingimageexte/
 - /AdvertisingIsPresent6?
 - /advertisinglinks_
 - /advertisingmanual.
@@ -3242,6 +3244,7 @@ msFilterList
 - /article_ad.
 - /articleSponsorDeriv_
 - /artimediatargetads.
+- /as/gb?stid=
 - /as3overstreamplatformadapter.
 - /as_u/ads/
 - /aseadnshow.
@@ -3698,6 +3701,7 @@ msFilterList
 - /dartcall.
 - /dartfunctions.
 - /data/ads/
+- /data/init?site_id=
 - /dateads.
 - /dblclick.
 - /dblclickad.
@@ -6171,6 +6175,7 @@ msFilterList
 - _admarking_
 - _admin/ads/
 - _adminka/
+- _adnetwork.
 - _adobjects.
 - _adpage=
 - _adpartner.
@@ -9056,7 +9061,6 @@ msFilterList
 -d mixpo.com
 -d mktseek.com
 -d mlnadvertising.com
--d mm1x.nl
 -d mmadsgadget.com
 -d mmgads.com
 -d mmismm.com
@@ -10571,6 +10575,7 @@ msFilterList
 -d cybernetentertainment.com
 -d d0main.ru
 -d d29gqcij.com
+-d d3b3e6340.website
 -d daffaite.com
 -d dallavel.com
 -d dana123.com
@@ -13818,6 +13823,7 @@ msFilterList
 -d extratorrent.cc /scripts/pp_
 -d extremeoverclocking.com /template_images/it120x240.gif
 -d ezmoviestv.com /ad-for-ezmovies.png
+-d f1today.net /sponsors/
 -d faadooengineers.com /ads/
 -d facenfacts.com /ads/
 -d fallout3nexus.com /300x600.php
@@ -16325,7 +16331,9 @@ msFilterList
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
 +d a.disquscdn.com .js
++d ak.sail-horizon.com .js
 +d c.gnli.com .js
++d c.theblazestatic.com .js
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
 +d launch.newsinc.com /js/embed.js*.js
@@ -16334,6 +16342,7 @@ msFilterList
 +d my.hellobar.com .js
 +d p.jwpcdn.com .js
 +d s.gravatar.com .js
++d ui.bamstatic.com .js
 - http://http.anno.channel4.com*-
 - http://http.anno.channel4.com*_*_*_
 -d vapingunderground.com /js/vapingunderground/fucking_adblock.js
@@ -16458,6 +16467,7 @@ msFilterList
 -d creatives.cliphunter.com
 -d creatives.pichunter.com
 -d creepshots.com /250x250_
+-d damimage.com /DocaWedrOJPPx.png
 -d data18.com /banners/
 -d definebabe.com /db/images/leftnav/webcams2.png
 -d definebabe.com /db/js/pcme.js

@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 Jul 2015 17:11 UTC
+# Last modified: 06 Jul 2015 08:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1073,6 +1073,7 @@ msFilterList
 - /250x250_advert_
 - /300-ad-
 - /300250_ad-
+- /300ad.
 - /300by250ad.
 - /300x250ad.
 - /300x250adbg.
@@ -3164,6 +3165,7 @@ msFilterList
 - /advertisingbanner1.
 - /advertisingbanner_
 - /advertisingcontent/
+- /advertisingimageexte/
 - /AdvertisingIsPresent6?
 - /advertisinglinks_
 - /advertisingmanual.
@@ -3382,6 +3384,7 @@ msFilterList
 - /article_ad.
 - /articleSponsorDeriv_
 - /artimediatargetads.
+- /as/gb?stid=
 - /as3overstreamplatformadapter.
 - /as_u/ads/
 - /aseadnshow.
@@ -3839,6 +3842,7 @@ msFilterList
 - /dartcall.
 - /dartfunctions.
 - /data/ads/
+- /data/init?site_id=
 - /dateads.
 - /dblclick.
 - /dblclickad.
@@ -6340,6 +6344,7 @@ msFilterList
 - _admarking_
 - _admin/ads/
 - _adminka/
+- _adnetwork.
 - _adobjects.
 - _adpage=
 - _adpartner.
@@ -9343,7 +9348,6 @@ msFilterList
 -d mixpo.com
 -d mktseek.com
 -d mlnadvertising.com
--d mm1x.nl
 -d mmadsgadget.com
 -d mmgads.com
 -d mmismm.com
@@ -10925,6 +10929,7 @@ msFilterList
 # ||textsrv.com^$popup,third-party
 # ||the-consumer-reporter.org^$popup,third-party
 # ||therewardsurvey.com^$popup,third-party
+# ||tjoomo.com^$popup,third-party
 # ||topshelftraffic.com^$popup,third-party
 # ||toroadvertisingmedia.com^$popup,third-party
 # ||totaladperformance.com^$popup,third-party
@@ -11153,6 +11158,7 @@ msFilterList
 -d cybernetentertainment.com
 -d d0main.ru
 -d d29gqcij.com
+-d d3b3e6340.website
 -d daffaite.com
 -d dallavel.com
 -d dana123.com
@@ -13604,7 +13610,6 @@ msFilterList
 -d cs.celebbusters.com
 -d cs.exposedontape.com
 -d dailyvideo.securejoin.com
-# ||damimage.com^$domain=imgstudio.org
 # ||daredorm.com^$subdocument,third-party
 -d datefree.com
 -d ddfcash.com /iframes/
@@ -14982,6 +14987,7 @@ msFilterList
 -d extratorrent.cc /scripts/pp_
 -d extremeoverclocking.com /template_images/it120x240.gif
 -d ezmoviestv.com /ad-for-ezmovies.png
+-d f1today.net /sponsors/
 -d faadooengineers.com /ads/
 -d facenfacts.com /ads/
 # ||fakku.net/static/seele-$subdocument
@@ -17731,7 +17737,9 @@ msFilterList
 # /http://[a-zA-Z0-9-]+\.[a-z]+\/.*[a-zA-Z0-9]+/$script,third-party,domain=247wallst.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|americanlivewire.com|askmefast.com|barbwire.com|blacklistednews.com|breathecast.com|brosome.com|bulletsfirst.net|chacha.com|cheezburger.com|christianpost.com|christiantoday.com|cinemablend.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailysurge.com|dccrimestories.com|dealbreaker.com|designntrend.com|digitaljournal.com|drhotze.com|explosm.net|gamerant.com|genfringe.com|girlsjustwannahaveguns.com|gospelherald.com|hallels.com|hellou.co.uk|hngn.com|infowars.com|inquisitr.com|instigatornews.com|investmentwatchblog.com|joblo.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinpost.com|libertyunyielding.com|listverse.com|makeuseof.com|mensfitness.com|minutemennews.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalblaze.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|opposingviews.com|patriotoutdoornews.com|patriotupdate.com|pitgrit.com|politicususa.com|product-reviews.net|radaronline.com|realfarmacy.com|redmaryland.com|screenrant.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|theblaze.com|thefreedictionary.com|thegatewaypundit.com|theladbible.com|thelibertarianrepublic.com|themattwalshblog.com|townhall.com|unilad.co.uk|uniladmag.com|unitrending.co.uk|valuewalk.com|vcpost.com|victoriajackson.com|viralnova.com|whatculture.com|wimp.com|wwitv.com|youngcons.com
 # @@/wp-content/plugins/akismet/*$script
 +d a.disquscdn.com .js
++d ak.sail-horizon.com .js
 +d c.gnli.com .js
++d c.theblazestatic.com .js
 # @@||cdn.api.twitter.com*http%$script,third-party
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
@@ -17742,6 +17750,7 @@ msFilterList
 +d p.jwpcdn.com .js
 +d s.gravatar.com .js
 # @@||trc.taboola.com*http%$script,third-party
++d ui.bamstatic.com .js
 # Firefox freezes if not blocked on reuters.com (http://forums.lanik.us/viewtopic.php?f=64&t=16854)
 # ||static.crowdscience.com/max-*.js?callback=crowdScienceCallback$domain=reuters.com
 # Anti-Adblock
@@ -18018,6 +18027,7 @@ msFilterList
 -d creatives.cliphunter.com
 -d creatives.pichunter.com
 -d creepshots.com /250x250_
+-d damimage.com /DocaWedrOJPPx.png
 -d data18.com /banners/
 -d definebabe.com /db/images/leftnav/webcams2.png
 -d definebabe.com /db/js/pcme.js
@@ -19892,7 +19902,8 @@ msFilterList
 # @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=flashgames247.com|freeonlinegames.com|gameitnow.com|play181.com|toongames.com
 # @@||pagead2.googlesyndication.com/pagead/imgad?$image,domain=kingofgames.net|nedbank.co.za|nedbankgreen.co.za|virginaustralia.com
 # @@||pagead2.googlesyndication.com/pagead/imgad?id=$object-subrequest,domain=bn0.com|ebog.com|gameark.com|yepi.com
-# @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=oldapps.com
+# @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=oldapps.com|pattayaone.net
+# @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pattayaone.net
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=flashgames247.com|freeonlinegames.com|gameitnow.com|play181.com|toongames.com
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
@@ -20918,6 +20929,7 @@ msFilterList
 # @@||mp3clan.audio^$elemhide
 # @@||mp3clan.com^$elemhide
 +d mp3clan.com /advertisement.js
+# @@||mp3clan.net^$elemhide
 +d mrtzcmp3.net /advertisement.js
 # @@||msecnd.net/scripts/compressed.pop.lib.v2.5.js$domain=filmovizija.com
 +d multiup.org /img/theme/*?
