@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po čec 6 10:53:25 CEST 2015 ##################
+##### Aktualizováno: Út čec 7 16:18:15 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3013,7 +3013,6 @@ msFilterList
 - /advertisements_
 - /AdvertisementShare.
 - /advertisementview/
-- /advertisers/
 - /advertiserwidget.
 - /advertises/
 - /advertisewithus_
@@ -5980,7 +5979,6 @@ msFilterList
 - ?adversion=
 - ?advertisement=
 - ?advertiser=
-- ?advertiser_id=
 - ?advertising=
 - ?advideo_
 - ?advsystem=
@@ -10308,6 +10306,7 @@ msFilterList
 -d havnr.com
 -d heizuanubr.net
 -d hobri.net
+-d holmgard.link
 -d hoppr.co
 -d ignup.com
 -d iunbrudy.net
@@ -12278,6 +12277,7 @@ msFilterList
 -d sisters-magazine.com /iframebanners/
 -d site5.com /creative/
 -d site5.com /creative/*/234x60.gif
+-d sitegiant.my /affiliate/
 -d sitegrip.com /swagbucks-
 -d sitescout-video-cdn.edgesuite.net
 -d skydsl.eu /banner/
@@ -18353,6 +18353,7 @@ msFilterList
 +d shimory.com /js/show_ads.js
 +d showsport-tv.com /adv*.js
 +d siamfishing.com /advert.js
++d sizedrive.com /js/fuckadblock.js
 +d skidrowcrack.com /advertisement.js
 +d sockshare.com /js/*.js
 +d sominaltvfilms.com /wp-content/*/adbanner/
@@ -18681,6 +18682,7 @@ msFilterList
 +d hentaimoe.com /js/advertisement.js
 +d imgadult.com /js/advertisement.js
 +d javpee.com /eroex.js
++d jporn4u.com /js/ads.js
 +d mongoporn.com /adframe/
 +d n4mo.org /wp-content/*/ads/
 +d nightchan.com /advertisement.js
