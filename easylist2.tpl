@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 8 09:41:07 CEST 2015 ##################
+##### Aktualizováno: St čec 8 17:25:23 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -826,6 +826,8 @@ msFilterList
 - .info/ads-
 - .info/ads/
 - .initdoubleclickadselementcontent?
+- .intad.
+- .intad/
 - .internads.
 - .is/ads/
 - .jp/ads/
@@ -1287,6 +1289,7 @@ msFilterList
 - /ad300.
 - /ad300f.
 - /ad300f2.
+- /ad300home.
 - /ad300s.
 - /ad300ws.
 - /ad300x.
@@ -1311,6 +1314,7 @@ msFilterList
 - /ad728.
 - /ad728f.
 - /ad728f2.
+- /ad728home.
 - /ad728s.
 - /ad728t.
 - /ad728w.
@@ -7908,6 +7912,7 @@ msFilterList
 -d brandaffinity.net
 -d brandclik.com
 -d brandreachsys.com
+-d braside.ru
 -d bravenetmedianetwork.com
 -d breadpro.com
 -d brealtime.com
@@ -9354,6 +9359,7 @@ msFilterList
 -d playertraffic.com
 -d pleeko.com
 -d plenomedia.com
+-d plexop.net
 -d pllddc.com
 -d plocap.com
 -d plugerr.com
@@ -11876,6 +11882,7 @@ msFilterList
 -d imgehost.com /banners/
 -d imgpop.googlecode.com
 -d imptestrm.com /rg-main.php?
+-d imshopping.com /nimblebuy/
 -d indeed.fr /ads/
 -d indian-forex.com /banners/
 -d indieclick.3janecdn.com
@@ -14393,9 +14400,7 @@ msFilterList
 -d jdownloader.org /smbanner.png
 -d jebril.com /sites/default/files/images/top-banners/
 -d jewishexponent.com /banners/
--d jewishnews.co.uk -banner-
--d jewishnews.co.uk -banner.
--d jewishnews.co.uk /banner
+-d jewishnews.co.uk banner
 -d jewishtimes-sj.com /rop/
 -d jewishtribune.ca /banners/
 -d jewishvoiceny.com /ban2/
@@ -14525,6 +14530,7 @@ msFilterList
 -d lazygamer.net /kalahari.gif
 -d lazygirls.info /click.php
 -d leader.co.za /leadership/banners/
+-d leadership.ng /cheki-
 -d leagueunlimited.com /images/rooty/
 -d learnphotoediting.net /banners/
 -d learnspanishtoday.com /aff/img/banners/
@@ -14533,6 +14539,7 @@ msFilterList
 -d lens101.com /images/banner.jpg
 -d lespagesjaunesafrique.com /bandeaux/
 -d letitbit.net /images/other/inst_forex_
+-d letour.fr /img/v6/sprite_partners_2x.png
 -d letswatchsomething.com /images/filestreet_banner.jpg
 -d lfcimages.com /partner-
 -d lfcimages.com /sponsor-
@@ -16383,6 +16390,7 @@ msFilterList
 -d ads.xxxbunker.com
 -d adult-profit-files.com /banner
 -d adult-sex-games.com /images/promo/
+-d adultdvdtalk.com /studios/
 -d adultfilmdatabase.com /graphics/banners/
 -d adultfyi.com /images/banners/
 -d adultwork.com /images/AWBanners/
@@ -17081,8 +17089,8 @@ msFilterList
 -d yobt.tv /js/ttu.js
 -d yobt.tv /rec/
 -d youaresogay.com .html
--d youjizz.com /_special/
 -d youjizz.com /vivid/
+-d youjizz.com /LiveWebCams.php?
 -d youngpornvideos.com /images/bangbros/
 -d youngpornvideos.com /images/glamglam/
 -d youngpornvideos.com /images/mofoscash/
@@ -18305,7 +18313,6 @@ msFilterList
 +d nosteam.ro /advertisement.js
 +d onlinevideoconverter.com ad*.js
 +d onvasortir.com /advert*.js
-+d openload.io /assets/js/markpop.js
 +d openrunner.com /js/advertisement.js
 +d openspeedtest.com /advertisement.js
 +d openx.gamereactor.dk /multi.php?*.js
