@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 8 07:33:59 CEST 2015 ##################
+##### Aktualizováno: St čec 8 09:41:07 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -16325,19 +16325,20 @@ msFilterList
 -d zpag.es /b/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
--d speedtest.net .com/*.js
--d speedtest.net .net/*.js
--d speedtest.net cloudfront*.js
++d speedtest.net /javascript/extMouseWheel.js
++d speedtest.net /javascript/functions.js
++d speedtest.net /javascript/highcharts.js
++d speedtest.net /javascript/jquery*.js
++d speedtest.net /javascript/speedtest-main.js
++d speedtest.net /javascript/swfobject.js
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
-+d a.disquscdn.com .js
 +d ak.sail-horizon.com .js
 +d c.gnli.com .js
 +d c.theblazestatic.com .js
 +d hwcdn.net .js?*.js
 +d intensedebate.com /js/*.js
 +d launch.newsinc.com /js/embed.js*.js
-+d lc.livefyre.com
 +d lps.newsinc.com /player/show/*.js
 +d my.hellobar.com .js
 +d p.jwpcdn.com .js
