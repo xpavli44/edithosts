@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 07 Jul 2015 14:11 UTC
+# Last modified: 08 Jul 2015 05:31 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -20427,12 +20427,13 @@ msFilterList
 # @@.bmp^$image,domain=cbs.com
 # @@.click/$script,third-party,domain=cbs.com
 # @@.gif?ad_banner=$domain=majorleaguegaming.com
+# @@.gif^$image,third-party,domain=kissanime.com
 # @@.gif|$object-subrequest,domain=cbs.com
 # @@.info^$image,script,third-party,domain=cbs.com
 # @@.javascript?$script,third-party,domain=cbsnews.com|colbertlateshow.com
 # @@.javascript|$domain=cbsnews.com
 # @@.jpeg|$object-subrequest,domain=cbs.com
-# @@.jpg^$image,third-party,domain=kisscartoon.me
+# @@.jpg^$image,third-party,domain=kissanime.com|kisscartoon.me
 # @@.jpg|$object-subrequest,domain=cbs.com
 # @@.jscript|$script,third-party,domain=cbs.com
 # @@.link/$script,domain=cbs.com
@@ -20441,7 +20442,7 @@ msFilterList
 # @@.png?ad_banner=$domain=majorleaguegaming.com
 # @@.png?advertisement_$domain=majorleaguegaming.com
 # @@.png^$image,domain=cbs.com
-# @@.png^$image,third-party,domain=kisscartoon.me
+# @@.png^$image,third-party,domain=kissanime.com|kisscartoon.me
 # @@.streamads.js$third-party,domain=cbs.com
 # @@.xzn.ir/$script,third-party,domain=psarips.com
 # @@/adBlockDetector/*
