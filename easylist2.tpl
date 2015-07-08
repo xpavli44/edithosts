@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 8 17:37:27 CEST 2015 ##################
+##### Aktualizováno: Čt čec 9 01:25:53 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12442,7 +12442,6 @@ msFilterList
 -d viagogo.co.uk /feeds/widget.ashx?
 -d videoweed.es /js/aff.js
 -d videozr.com
--d vidible.tv /jsonp/pid=*.js
 -d vidible.tv /placement/vast/
 -d vidible.tv /prod/tags/
 -d vidyoda.com /fambaa/chnls/ADSgmts.ashx?
@@ -18131,6 +18130,7 @@ msFilterList
 +d bestofmedia.com /advertisement.js
 +d bestream.tv /advert*.js
 +d binbox.io /ad/
++d binbox.io /adblock.js
 +d bitcoiner.net /advertisement.js
 +d blinkboxmusic.com /advertisement.js
 +d boincstats.com /js/adframe.js
