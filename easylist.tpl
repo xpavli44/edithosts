@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Jul 2015 13:21 UTC
+# Last modified: 09 Jul 2015 13:31 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -21796,11 +21796,14 @@ msFilterList
 +d fuqer.com /advertisement.js
 # @@||gaybeeg.info/wp-content/plugins/blockalyzer-adblock-counter/$image,domain=gaybeeg.info
 # @@||google.com/ads/$domain=hinduladies.com
+# @@||hentaienespañol.net^$elemhide
 +d hentaimoe.com /js/advertisement.js
 +d imgadult.com /js/advertisement.js
 # @@||indiangilma.com^$elemhide
 # @@||jamo.tv^$script,domain=jamo.tv
+# @@||javfee.com^$script,domain=javfee.com
 +d javpee.com /eroex.js
+# @@||jkhentai.tv^$script,domain=jkhentai.tv
 +d jporn4u.com /js/ads.js
 # @@||lfporn.com^$elemhide
 +d mongoporn.com /adframe/
