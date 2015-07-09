@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt čec 9 01:25:53 CEST 2015 ##################
+##### Aktualizováno: Čt čec 9 13:33:13 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11938,6 +11938,7 @@ msFilterList
 -d ladbrokes.com &aff_id=
 -d lapi.ebay.com
 -d lastlocation.com /images/banner
+-d lawdepot.com /affiliate/
 -d leadintelligence.co.uk /in-text.js
 -d leadsleap.com /images/banner_
 -d leadsleap.com /widget/
@@ -13694,7 +13695,6 @@ msFilterList
 -d downforeveryoneorjustme.com /images/dotbiz_banner.jpg
 -d downloadbox.to /Leadertop.html
 -d downloadian.com /assets/banner.jpg
--d downloadmoreram.com /images/thumbnail.gif
 -d dprogram.net /rightsprites.png
 -d dpstatic.com /banner.png?
 -d dpstatic.com /s/ad.js
@@ -14057,6 +14057,7 @@ msFilterList
 -d gestetnerupdates.com /eagle-sewer.gif
 -d gestetnerupdates.com /Gestetner-Miles.gif
 -d gestetnerupdates.com /perfect-auto-collision_banner.gif
+-d get-bitcoins-free.eu /img/blackred728smallsize.gif
 -d get.thefile.me
 -d getfoxyproxy.org /images/abine/
 -d getreading.co.uk /static/img/bg_takeover_
@@ -14525,7 +14526,6 @@ msFilterList
 -d lastminute.com /universal.html?
 -d lasttorrents.org /pcmadd.swf
 -d latex-community.org /images/banners/
--d lawdepot.com /affiliate/
 -d lazygamer.net /kalahari.gif
 -d lazygirls.info /click.php
 -d leader.co.za /leadership/banners/
@@ -15259,6 +15259,7 @@ msFilterList
 -d rawstory.com .php?code=bottom
 -d rawstory.com /ads/
 -d raysindex.com /wp-content/uploads/*/dolmansept2012flash.swf
+-d rc.feedsportal.com /r/*/rc.img
 -d readingeagle.com /lib/dailysponser.js
 -d realitytvworld.com /burst.js
 -d realitytvworld.com /includes/rtvw-jscript.js
@@ -18381,6 +18382,7 @@ msFilterList
 +d team-vitality.fr /assets/images/advert.png
 +d teknogods.com /advert.js
 +d telemetryverification.net /crossdomain.xml
++d televall.com.mx /fuckadblock.js
 +d thelordofstreaming.it /wp-content/uploads/*/ad_
 +d thememypc.com /wp-content/*/ads/
 +d thesilverforum.com /public/js/jsLoader.js?adType=*.js
@@ -18630,6 +18632,7 @@ msFilterList
 +d ads.twitter.com
 +d adv.blogupp.com
 +d gsmarena.com /adclick.php?bannerid=
++d ad.thisav.com /player/config.xml
 +d ad.thisav.com /player/jw.swf
 +d ads.fuckingmachines.com
 +d ads.ultimatesurrender.com
