@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Jul 2015 11:41 UTC
+# Last modified: 09 Jul 2015 12:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -21188,6 +21188,7 @@ msFilterList
 # @@||tribalfusion.com/displayAd.js?$domain=clubedohardware.com.br
 # @@||tribalfusion.com/j.ad?$script,domain=clubedohardware.com.br
 # @@||trizone91.com^$elemhide
+# @@||turbogenerator.info^$script,domain=turbogenerator.info
 # @@||turkdown.com^$elemhide
 +d turkdown.com .js
 # @@||turktorrent.cc^$elemhide
