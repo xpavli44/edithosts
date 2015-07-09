@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Jul 2015 12:01 UTC
+# Last modified: 09 Jul 2015 13:21 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -20727,6 +20727,7 @@ msFilterList
 # @@||dnswatch.info^$script,domain=dnswatch.info
 # @@||docpaste.com^$elemhide
 +d doge-faucet.tk /advertisement.js
+# @@||dogecoinpuddle.com^$script,domain=dogecoinpuddle.com
 +d dogefaucet.com /advertisement.js
 # @@||dollarade.com/overlay_gateway.php?oid=$script,domain=dubs.me|filestore123.info|myfilestore.com|portable77download.blogspot.com|pspmaniaonline.com
 +d dontdrinkandroot.net /js/adframe.js
@@ -20839,6 +20840,7 @@ msFilterList
 # @@||go4up.com^$elemhide
 +d gofirstrow.eu /advertisement.js
 +d gofirstrow.eu /advertisement.js
+# @@||goldsday.com^$elemhide
 # @@||google-it.info^$script,domain=hqq.tv
 # @@||google.com/ads/popudner/banner.jpg?$domain=magesy.be
 # @@||googlecode.com/files/google_ads.js$domain=turkdown.com
@@ -21255,6 +21257,7 @@ msFilterList
 # @@||winwords.adhood.com^$script,domain=dizi-mag.com
 +d world-of-hentai.to /advertisement.js
 # @@||worldofapk.tk^$elemhide
+# @@||wowebook.org^$elemhide
 # @@||wowhq.eu^$elemhide
 +d writing.com .js
 # @@||www.vg.no^$elemhide
