@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt čec 9 15:39:16 CEST 2015 ##################
+##### Aktualizováno: Pá čec 10 20:07:22 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1012,6 +1012,7 @@ msFilterList
 - /about-these-ads.
 - /absolutebm.aspx?
 - /acc_random=
+- /active-ad-
 - /ad%20banners/
 - /ad%20images/
 - /ad-125.
@@ -1984,7 +1985,6 @@ msFilterList
 - /ADNet/
 - /adnet2.
 - /adnetmedia.
-- /adnetwork.
 - /adnetwork/
 - /adnetwork300.
 - /adnetwork468.
@@ -7850,6 +7850,7 @@ msFilterList
 -d bet3000partners.com
 -d bet365affiliates.com
 -d betaffs.com
+-d betoga.com
 -d betrad.com
 -d bettingpartners.com
 -d bfast.com
@@ -9328,6 +9329,7 @@ msFilterList
 -d performancetrack.info
 -d performancingads.com
 -d permutive.com
+-d persevered.com
 -d pezrphjl.com
 -d pgmediaserve.com
 -d pgpartner.com
@@ -9396,6 +9398,7 @@ msFilterList
 -d populis.com
 -d populisengage.com
 -d popunder.ru
+-d popundertotal.com
 -d popunderz.com
 -d popuptraffic.com
 -d popupvia.com
@@ -9452,6 +9455,7 @@ msFilterList
 -d publisher.to
 -d publisheradnetwork.com
 -d pubmatic.com
+-d pubmine.com
 -d pubserve.net
 -d pubted.com
 -d puhtml.com
@@ -13274,6 +13278,9 @@ msFilterList
 -d bestlistonline.info /link/ad.js
 -d bestvpn.com /wp-content/uploads/*/mosttrustedname_260x300_
 -d bets4free.co.uk /content/5481b452d9ce40.09507031.jpg
+-d better-explorer.com /wp-content/uploads/2012/09/credits.png
+-d better-explorer.com /wp-content/uploads/2013/07/hf.5.png
+-d better-explorer.com /wp-content/uploads/2013/10/PoweredByNDepend.png
 -d bettingsports.com /top_bonuses
 -d bettingsports.com /where_to_bet
 -d bettyconfidential.com /media/fmads/
@@ -18256,6 +18263,7 @@ msFilterList
 +d katsomo.fi /advert.js
 +d katsomo.fi /advertisement.js
 +d kissanime.com /ads/
++d kisscartoon.me /Ads/
 +d lasexta.com /adsxml/
 +d leaguesecretary.com /advertisement.js
 +d leecher.us /assets/img/*/ads/
