@@ -1,3 +1,4 @@
 img.blesk.cz
 www.googleadservices.com
 yoast.com
+fbexternal-a.akamaihd.net
