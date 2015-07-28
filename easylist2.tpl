@@ -201,10 +201,12 @@ msFilterList
 -d zbynekmlcoch.cz /info/images/banners/banner_
 -d zvraceny.cz /data/upload/
 -d www.zvraceny.cz /data/upload/
--d www.zvraceny.cz /data/upload/*_banner.gif
--d www.zvraceny.cz /data/upload/banner*.jpg
--d www.zvraceny.cz /data/upload/*.swf
+-d www.zvraceny.cz /data/upload/velkypenis_banner.gif
+-d www.zvraceny.cz /data/upload/nep750x100_banner.gif
+-d www.zvraceny.cz /data/upload/banner%20zakulisi%20novy.jpg
 -d www.zvraceny.cz /data/upload/sexchat-skyscraper.png
+-d www.zvraceny.cz /data/upload/4%20%281%29.swf
+-d www.zvraceny.cz /js/swfobject.js
 -d zvukarina.cz /forum/images/ostatni/
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
