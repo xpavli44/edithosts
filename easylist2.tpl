@@ -7,7 +7,6 @@ msFilterList
 - .cz/BAN/
 - .cz/bannery_
 - .cz/img/banery/
-- http://*.zvraceny.cz/data/upload/
 - .cz/o/poutani/
 - .cz/rs/get-iframe.php?
 - .etargetnet.
@@ -201,6 +200,7 @@ msFilterList
 -d zbynekmlcoch.cz /info/images/banners/*.swf
 -d zbynekmlcoch.cz /info/images/banners/banner_
 -d zvraceny.cz /data/upload/
+-d www.zvraceny.cz /data/upload/
 -d zvukarina.cz /forum/images/ostatni/
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
