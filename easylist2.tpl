@@ -199,8 +199,12 @@ msFilterList
 -d youradio.cz /api/triton/preroll
 -d zbynekmlcoch.cz /info/images/banners/*.swf
 -d zbynekmlcoch.cz /info/images/banners/banner_
--d zvraceny.cz /data/upload/*
--d www.zvraceny.cz /data/upload/*
+-d zvraceny.cz /data/upload/
+-d www.zvraceny.cz /data/upload/
+-d www.zvraceny.cz /data/upload/*_banner.gif
+-d www.zvraceny.cz /data/upload/banner*.jpg
+-d www.zvraceny.cz /data/upload/*.swf
+-d www.zvraceny.cz /data/upload/sexchat-skyscraper.png
 -d zvukarina.cz /forum/images/ostatni/
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
