@@ -7,7 +7,7 @@ msFilterList
 - .cz/BAN/
 - .cz/bannery_
 - .cz/img/banery/
-- .zvraceny.cz/data/upload/*banner*.gif
+- .zvraceny.cz/data/upload/*banner*
 - .zvraceny.cz/data/upload/*swf
 - .cz/o/poutani/
 - .cz/rs/get-iframe.php?
