@@ -200,9 +200,9 @@ msFilterList
 -d zbynekmlcoch.cz /info/images/banners/*.swf
 -d zbynekmlcoch.cz /info/images/banners/banner_
 -d zvraceny.cz /data/upload/
--d www.zvraceny.cz /data/upload/
-- */velkypenis_banner.gif
-- */nep750x100_banner.gif
+-d *.zvraceny.cz /data/upload/*
+-d *.zvraceny.cz */velkypenis_banner.gif
+-d *.zvraceny.cz *banner*
 - */banner%20zakulisi%20novy.jpg
 - */sexchat-skyscraper.png
 - */4%20%281%29.swf
