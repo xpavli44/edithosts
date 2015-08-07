@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt srp 6 12:59:27 CEST 2015 ##################
+##### Aktualizováno: Pá srp 7 16:05:49 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -201,13 +201,6 @@ msFilterList
 -d zbynekmlcoch.cz /info/images/banners/*.swf
 -d zbynekmlcoch.cz /info/images/banners/banner_
 -d zvraceny.cz /data/upload/
--d *.zvraceny.cz /data/upload/*
--d *.zvraceny.cz */velkypenis_banner.gif
--d *.zvraceny.cz *banner*
-- */banner%20zakulisi%20novy.jpg
-- */sexchat-skyscraper.png
-- */4%20%281%29.swf
-- www.zvraceny.cz/js/ swfobject.js
 -d zvukarina.cz /forum/images/ostatni/
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
@@ -10199,7 +10192,6 @@ msFilterList
 -d winbuyer.com
 -d wingads.com
 -d winsspeeder.info
--d wishloop.com
 -d wlmarketing.com
 -d wmmediacorp.com
 -d wonclick.com
@@ -12350,7 +12342,6 @@ msFilterList
 -d salemwebnetwork.com /Stations/images/SiteWrapper/
 -d sat-shop.co.uk /images/
 -d satshop.tv /images/banner/
--d sc.tradetracker.net
 -d schenkelklopfer.org pop.js
 -d schurzdigital.com /deals/widget/
 -d sciencecareers.org /widget/
@@ -15467,6 +15458,7 @@ msFilterList
 -d sameip.org /images/froghost.gif
 -d samoaobserver.ws /banner/
 -d samoatimes.co.nz /banner468x60/
+-d samsung.com /ph/nextisnow/files/javascript.js
 -d sapeople.com /wp-content/uploads/wp-banners/
 -d sarasotatalkradio.com -200x200.jpg
 -d sarugbymag.co.za -wallpaper2.
@@ -18285,6 +18277,7 @@ msFilterList
 +d bdrip.ws /web_data/*/ad
 +d bestofmedia.com /advertisement.js
 +d bestream.tv /advert*.js
++d bilzonen.dk /scripts/ads.js
 +d binbox.io /ad/
 +d binbox.io /adblock.js
 +d bitcoiner.net /advertisement.js
@@ -18590,6 +18583,7 @@ msFilterList
 +d webfirstrow.eu /advertisement.js
 +d webtv.rs /media/blic/advertisement.jpg
 +d welovebtc.com /show_ads.js
++d weshare.me /fuckadblock.js
 +d world-of-hentai.to /advertisement.js
 +d writing.com .js
 +d yellowbridge.com /ad/show_ads.js
