@@ -79,6 +79,7 @@ msFilterList
 -d eserial.cz /trikator/
 -d espoluprace.cz /affiliate/
 -d fdb.cz /ad/
+-d img.fdb.cz /mobilniaplikace/
 -d filmporno.cz /media/banners/
 -d filmy.kinotip.cz /pop.php
 -d flash.stream.cz /get_sklik/
