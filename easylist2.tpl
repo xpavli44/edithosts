@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne říj 11 10:31:01 CEST 2015 ##################
+##### Aktualizováno: Pá říj 16 13:37:38 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -619,7 +619,6 @@ msFilterList
 - -contest-ad.
 - -cpm-ad.
 - -cpm-ads.
-- -criteo.
 - -dfp-ads/
 - -euads.
 - -fe-ads/
@@ -3456,6 +3455,7 @@ msFilterList
 - /banneradviva.
 - /bannercode.php
 - /bannerconduit.
+- /bannerdeliver.php
 - /bannerexchange/
 - /bannerfarm.
 - /bannerfarm/
@@ -3750,10 +3750,6 @@ msFilterList
 - /cpx_ads.
 - /cpxads.
 - /cramitin/ads_
-- /criteo.
-- /Criteo/
-- /criteo_
-- /criteoRTA.
 - /crossoverad-
 - /csp/ads?
 - /css/ad.
@@ -4778,6 +4774,7 @@ msFilterList
 - /mobile_ad.
 - /mobile_ad/
 - /mobileads.
+- /mobileads/
 - /mobilephonesad/
 - /mod_ad/
 - /mod_pagepeel_banner/
@@ -8361,8 +8358,6 @@ msFilterList
 -d creative-serving.com
 -d creditcards15x.tk
 -d crispads.com
--d criteo.com
--d criteo.net
 -d crossrider.com
 -d crowdgatheradnetwork.com
 -d crowdgravity.com
@@ -8455,9 +8450,9 @@ msFilterList
 -d domdex.com
 -d dooc.info
 -d doogleonduty.com
+-d doomail.org
 -d dorenga.com
 -d dotandad.com
--d dotomi.com
 -d double.net
 -d doubleclick.com
 -d doubleclick.net /ch_news.com/
@@ -8717,6 +8712,7 @@ msFilterList
 -d flagads.net
 -d flappybadger.net
 -d flappyhamster.net
+-d flappysquid.net
 -d flashclicks.com
 -d flashtalking.com
 -d fliionos.co.uk
@@ -9325,6 +9321,7 @@ msFilterList
 -d minimumpay.info
 -d mirago.com
 -d mirrorpersonalinjury.co.uk
+-d mistands.com
 -d miva.com
 -d mixmarket.biz
 -d mixpo.com
@@ -9691,6 +9688,7 @@ msFilterList
 -d ppctrck.com
 -d ppcwebspy.com
 -d ppsearcher.ru
+-d prebid.org
 -d precisionclick.com
 -d predictad.com
 -d prestadsng.com
@@ -10394,6 +10392,7 @@ msFilterList
 -d wcpanalytics.com
 -d weadrevenue.com
 -d web-adservice.com
+-d web-bird.jp
 -d webads.co.nz
 -d webads.nl
 -d webadvertise123.com
@@ -10405,6 +10404,7 @@ msFilterList
 -d webusersurvey.com
 -d wegetpaid.net
 -d wegotmedia.com
+-d wellturnedpenne.info
 -d werbe-sponsor.de
 -d wfnetwork.com
 -d wgreatdream.com
@@ -10649,6 +10649,7 @@ msFilterList
 -d jellr.net
 -d juruasikr.net
 -d jusukrs.com
+-d kilomonj.net
 -d kioshow.com
 -d kuangard.net
 -d lesuard.com
@@ -11789,13 +11790,17 @@ msFilterList
 -d careerjunction.co.za /widgets/
 -d careerjunction.co.za /widget?
 -d carfax.com /img_myap/
+- http://cas.*.criteo.com/third-party
 -d cas.clickability.com
+-d cas.criteo.com /third-party
 -d cash.neweramediaworks.com
 -d cashmakingpowersites.com /banners/
 -d cashmyvideo.com /images/cashmyvideo_banner.gif
 -d castasap.com /publi2.html
 -d casti.tv /adds/
 -d catholicweb.com /banners/
+- http://caw.*.criteo.com/third-party
+-d caw.criteo.com /third-party
 -d cbpirate.com /getimg.php?
 -d cccam.co /banner_big.gif
 -d cdn.assets.gorillanation.com
@@ -12252,6 +12257,8 @@ msFilterList
 -d images-amazon.com /images/*/associates/widgets/
 -d images-amazon.com /images/*/banner/
 -d images-pw.secureserver.net /images/100yearsofchevy.gif
+- http://images.*.criteo.net/third-party
+-d images.criteo.net /third-party
 -d images.dreamhost.com
 -d images.mylot.com
 -d images.youbuy.it /images/
@@ -12719,6 +12726,18 @@ msFilterList
 -d stacksocial.com ?aid=
 -d stalliongold.com /images/*x
 -d stargames.com /bridge.asp?
+- http://static.*.criteo.net/design/third-party
+- http://static.*.criteo.net/flash/third-party
+- http://static.*.criteo.net/images/third-party
+- http://static.*.criteo.net/js/duplo/third-party
+-d static.criteo.com /design/third-party
+-d static.criteo.com /flash/third-party
+-d static.criteo.com /images/third-party
+-d static.criteo.com /js/duplo/third-party
+-d static.criteo.net /design/third-party
+-d static.criteo.net /flash/third-party
+-d static.criteo.net /images/third-party
+-d static.criteo.net /js/duplo/third-party
 -d static.multiplayuk.com /images/w/w-
 -d static.tradetracker.net
 -d static.tumblr.com /dhqhfum/WgAn39721/cfh_header_banner_v2.jpg
@@ -12944,6 +12963,7 @@ msFilterList
 -d zeusfiles.com /promo/
 -d ziffdavisenterprise.com /contextclicks/
 -d ziffprod.com /CSE/BestPrice?
+-d ziffstatic.com /jst/zdsticky.
 -d ziffstatic.com /jst/zdvtools.
 -d zip2save.com /widget.php?
 -d zmh.zope.net
@@ -14052,7 +14072,6 @@ msFilterList
 -d datpiff.com /skins/misc/
 -d davesite.com /aff/
 -d dayport.com /ads/
--d dayt.se /bottombannerkw.
 -d dbstalk.com /sponsors/
 -d dcad.watersoul.com
 -d dcourier.com /SiteImages/Banner/
@@ -14546,6 +14565,7 @@ msFilterList
 -d gov-auctions.org /banner/
 -d gowilkes.com /cj/
 -d gowilkes.com /other/
+-d gp3series.com /Partners/
 -d gq.co.za /sitetakeover/
 -d grapevine.is /media/flash/*.swf
 -d graphic.com.gh /images/banners/
@@ -15417,6 +15437,7 @@ msFilterList
 -d nyaa.se /ah
 -d nyaa.se /ai
 -d nyaa.se /aj
+-d nyaa.se /al
 -d nydailynews.com /img/sponsor/
 -d nydailynews.com /PCRichards/
 -d nydailynews.com -reskin-
@@ -15862,6 +15883,7 @@ msFilterList
 -d searchignited.com
 -d searchtempest.com /clhimages/aocbanner.jpg
 -d seatguru.com /deals?
+-d sebar.thand.info
 -d secureupload.eu /gfx/dlbtn.png
 -d secureupload.eu /gfx/freedl.png
 -d secureupload.eu /js/poad.js
@@ -15979,6 +16001,9 @@ msFilterList
 -d softpedia-static.com /images/*.png?v
 -d softpedia-static.com /images/aff/
 -d softpedia-static.com /images/afg/
+-d softpedia.com _longrect.
+-d softpedia.com _rect.
+-d softpedia.com _square.
 -d soldierx.com /system/files/images/sx-mini-1.jpg
 -d solomonstarnews.com /images/banners/
 -d solvater.com /images/hd.jpg
@@ -16061,6 +16086,9 @@ msFilterList
 -d stream2watch.me /yield.html
 -d streamcloud.eu /deliver.php
 -d streamguys.com /amazon.png
+-d streams.tv /js/bn5.js
+-d streams.tv /js/pu.js
+-d streams.tv /js/slidingbanner.js
 -d student-jobs.co.uk /banner.
 -d stuff.co.nz /1319769787/395/5871395.jpg
 -d stuff.co.nz /1361239022/107/8323107.jpg
@@ -16526,6 +16554,7 @@ msFilterList
 -d vinaora.com /xmedia/hosting/
 -d vipbox.co /js/bn.js
 -d vipbox.co /pu.js
+-d vipbox.eu /pu/
 -d vipbox.tv /js/layer-
 -d vipbox.tv /js/layer.js
 -d vipi.tv /ad.php
@@ -16863,16 +16892,22 @@ msFilterList
 +d speedtest.net /javascript/swfobject.js
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
++d activistpost.com /wp-content/uploads/
 +d ajax.cloudflare.com /cdn-cgi/nexp/*.js
 +d assets.newsinc.com
 +d bigcommerce.com
 +d c.gnli.com
 +d cdn.shopify.com .js
++d cheatsheet.com /wp-content/themes/
++d cheatsheet.com /wp-content/uploads/
++d conservativevideos.com
 +d content-img.newsinc.com
 +d explosm.net /favicons/favicon
-+d explosm.net /img/logo.png
-+d explosm.net /img/nav-button_
++d explosm.net /img/
++d explosm.net /show/thumbnails/
 +d files.explosm.net /avatars/
++d files.explosm.net /rcg/
++d files.explosm.net /thumbs/
 +d google.com /js/th/*.js
 +d google.com /jsapi*.js
 +d google.com /recaptcha/*.js
@@ -16883,9 +16918,13 @@ msFilterList
 +d images.sportsworldnews.com
 +d imgur.com /min/*.js
 +d intensedebate.com /js/*.js
++d loggly.cheatsheet.com /inputs/
 +d lps.newsinc.com /player/show/*.js
 +d lpsimage.newsinc.com /player/show/*.js
 +d my.hellobar.com .js
++d netdna-cdn.com /wp-includes/js/*.js
++d oddee.com /_media/imgs/
++d oddee.com /imgs/
 +d p.jwpcdn.com .js
 +d platform.vine.co .js
 +d playbuzz.com /widget/*.js
@@ -18236,6 +18275,7 @@ msFilterList
 +d manoramaonline.com /advt/cricbuzz/
 +d maps-static.chitika.net
 +d maps.chitika.net
++d maps.googleapis.com /maps-api-*/adsense.js
 +d maps.gstatic.com /maps-api-*/adsense.js
 +d marca.com /deporte/css/*/publicidad.css
 +d marciglesias.com /publicidad/
@@ -19313,6 +19353,7 @@ msFilterList
 +d phncdn.com /js/general_tablet-min.js*.js
 +d phncdn.com /js/home_setUp-min.js*.js
 +d phncdn.com /js/home_setUp_tablet-min.js*.js
++d phncdn.com /js/html5player.js?*.js
 +d phncdn.com /js/infinite.*.js
 +d phncdn.com /js/ipad/*.js
 +d phncdn.com /js/is_online/*.js
