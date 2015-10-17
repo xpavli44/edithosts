@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá říj 16 13:37:38 CEST 2015 ##################
+##### Aktualizováno: Ne říj 18 01:24:41 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12203,6 +12203,7 @@ msFilterList
 -d graboid.com /affiliates/
 -d graduateinjapan.com /affiliates/
 -d grammar.coursekey.com /inter/
+-d gravity.com &ad=
 -d grindabuck.com /img/skyscraper.jpg
 -d groupon.com /javascripts/common/affiliate_widget/
 -d grouponcdn.com /affiliate_widget/
@@ -13393,6 +13394,7 @@ msFilterList
 -d 24hourwristbands.com .googleadservices.com/
 -d 2flashgames.com /img/nfs.gif
 -d 2gb.com /backgrounds/
+-d 2merkato.com /images/banners/
 -d 2mfm.org /images/banners/
 -d 2oceansvibe.com /?custom=takeover
 -d 2pass.co.uk /img/avanquest2013.gif
@@ -15309,6 +15311,7 @@ msFilterList
 -d myiplayer.eu /ad
 -d mypbrand.com /wp-content/uploads/*banner
 -d mypremium.tv /bpad.htm
+-d myproperty.co.za /banners/
 -d myretrotv.com _horbnr.jpg
 -d myretrotv.com _vertbnr.jpg
 -d myrls.me /open.js
@@ -16365,6 +16368,7 @@ msFilterList
 - http://torrentz.*/mgid/
 -d toshiba.com /bookingpromowidget/
 -d toshiba.com /toshibapromowidget/
+-d total-croatia-news.com /images/banners/
 -d totalcmd.pl /img/billboard_
 -d totalcmd.pl /img/nucom.
 -d totalcmd.pl /img/olszak.
@@ -16934,6 +16938,8 @@ msFilterList
 +d thegatewaypundit.com /wp-includes/images/rss.png
 +d twimg.com
 +d ui.bamstatic.com .js
++d wccftech.com /wp-content/themes/
++d wccftech.com /wp-content/uploads/
 +d widget.clipix.com .js
 +d youtube.com /iframe_api*.js
 +d youtube.com /player_api*.js
@@ -18586,6 +18592,7 @@ msFilterList
 +d thomsonlocal.com /js/adsense-min.js
 +d thrifty.co.uk /bannerads/
 +d thunderheadeng.com /wp-content/uploads/*300x250
++d tiads.timeinc.net /ads/tgx.js
 +d tidaltv.com /crossdomain.xml
 +d timeinc.net /tii_ads.js
 +d timeout.com /images/ads/weather/
@@ -19328,6 +19335,7 @@ msFilterList
 +d xhcdn.com /images/flag/AD.gif
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
 +d blog.tube8.com /wp-content/
++d google.com /recaptcha/
 +d phncdn.com /cb/assets/*.js
 +d phncdn.com /cb/bundles/*.js
 +d phncdn.com /head/*.js
@@ -19502,6 +19510,7 @@ msFilterList
 +d redtube.com /upload/
 +d redtube.com /videodetails/
 +d redtube.com /watched/
++d tube8.com /_Incapsula_Resource?
 +d tube8.com /ajax-
 +d tube8.com /ajax/
 +d tube8.com /ajax2/
