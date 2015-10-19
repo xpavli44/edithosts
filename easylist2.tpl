@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne říj 18 01:24:41 CEST 2015 ##################
+##### Aktualizováno: Po říj 19 16:56:03 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -6517,6 +6517,7 @@ msFilterList
 - _gads_footer.
 - _gads_top.
 - _gallery_ads.
+- _genads/
 - _generic_ad.
 - _geobanner.
 - _google_ad.
@@ -16938,8 +16939,6 @@ msFilterList
 +d thegatewaypundit.com /wp-includes/images/rss.png
 +d twimg.com
 +d ui.bamstatic.com .js
-+d wccftech.com /wp-content/themes/
-+d wccftech.com /wp-content/uploads/
 +d widget.clipix.com .js
 +d youtube.com /iframe_api*.js
 +d youtube.com /player_api*.js
@@ -19464,6 +19463,7 @@ msFilterList
 +d phncdn.com /www-static/js/vtablet/video/*.js
 +d phncdn.com /zeroclipboard-*.js
 +d phncdn.com /html5Uploader/*.js
++d pornhub.com /_Incapsula_Resource?
 +d pornhub.com /album/
 +d pornhub.com /album_upload
 +d pornhub.com /channel/
@@ -19484,6 +19484,8 @@ msFilterList
 +d pornhub.com /video/
 +d pornhub.com /videouploading3/
 +d pornhubcommunity.com /cdn_files/images/
++d redtube.com.br /_Incapsula_Resource?
++d redtube.com /_Incapsula_Resource?
 +d redtube.com /_thumbs/
 +d redtube.com /addfavorite/
 +d redtube.com /addfriend/
@@ -19517,7 +19519,10 @@ msFilterList
 +d tube8.com /embed/
 +d tube8.com /favicon.ico
 +d tube8.com /images/
++d tube8.es /_Incapsula_Resource?
++d tube8.fr /_Incapsula_Resource?
 +d upload.tube8.com
++d youporn.com /_Incapsula_Resource?
 +d youporn.com /ajax/
 +d youporn.com /change/
 +d youporn.com /esi_home/
@@ -19525,6 +19530,7 @@ msFilterList
 +d youporn.com /notifications/
 +d youporn.com /subscriptions/
 +d youporn.com /watch_postroll/
++d youporngay.com /_Incapsula_Resource?
 +d ad.thisav.com /player/swfobject.js
 +d adultadworld.com /adhandler/
 +d desihoes.com /advertisement.js
