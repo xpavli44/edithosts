@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po říj 19 16:56:03 CEST 2015 ##################
+##### Aktualizováno: Út říj 20 11:15:15 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -558,6 +558,7 @@ msFilterList
 - -ads.swf
 - -ads/728x
 - -ads/ad-
+- -ads/img/
 - -ads/oas/
 - -ads/static-
 - -Ads_728x902.
@@ -959,6 +960,7 @@ msFilterList
 - .uk/ads/
 - .uk/adv/
 - .us/ads/
+- .utils.ads.
 - .vert.ad.
 - .widgets.ad?
 - .ws/ads/
@@ -4324,6 +4326,7 @@ msFilterList
 - /home30/ad.
 - /home_adv.
 - /homeoutside/ads/
+- /homepage-ads/
 - /homepage/ads/
 - /homepage_ad_
 - /homepageadvertright.
@@ -5644,6 +5647,7 @@ msFilterList
 - /tableadnorth.
 - /tag-adv.
 - /tag_adv/
+- /tag_sys.
 - /tagadv_
 - /talkads/
 - /taxonomy-ads.
@@ -6699,6 +6703,7 @@ msFilterList
 - /anti_ab.
 - /antiadblock.
 - /blockblock/blockblock.jquery.js
+- /detect-blocked-ads.
 - /Disable%2BAdblock.
 - /fuckadb.js
 - /FuckAdBlock-*.js
@@ -8801,6 +8806,7 @@ msFilterList
 -d geo-idm.fr
 -d geoipads.com
 -d geopromos.com
+-d georiot.com
 -d geovisite.com
 -d gestionpub.com
 -d getgamers.eu
@@ -9798,6 +9804,7 @@ msFilterList
 -d recomendedsite.com
 -d redcourtside.com
 -d redintelligence.net
+-d redpeepers.com
 -d reduxmediagroup.com
 -d reelcentric.com
 -d refban.com
@@ -13548,8 +13555,6 @@ msFilterList
 -d allmyvideos.net /player/ova-jw.swf
 -d allmyvideos.net /pu.js
 -d allthelyrics.com /popup.js
--d allthingsd.com /sponsor-
--d allthingsd.com _ad_
 -d altdaily.com /images/banners/
 -d alternet.org /givememygfp.
 -d amazingmoneymagnet.com //upload/banners/
@@ -15506,7 +15511,6 @@ msFilterList
 -d overclock3d.net /img/pcp.jpg
 -d overclockers.co.uk /background/
 -d ow.ly /hootsuite_promo.jpg
--d own3d.tv /lr/*.flv
 -d ox-d.rantsports.com
 -d ox-d.sbnation.com
 -d ox-d.wetransfer.com
@@ -15958,6 +15962,7 @@ msFilterList
 -d siteslike.com /js/fpa.js
 -d sk-gaming.com /image/acersocialw.gif
 -d sk-gaming.com /image/pts/
+-d sk-gaming.com /image/takeover_
 -d sk-gaming.com /www/skdelivery/
 -d skynews.com.au /elements/img/sponsor/
 -d skysports.com /images/skybet.png
@@ -16097,6 +16102,8 @@ msFilterList
 -d stuff.co.nz /1319769787/395/5871395.jpg
 -d stuff.co.nz /1361239022/107/8323107.jpg
 -d stuff.co.nz /clientdev/production/iframes/
+-d stuff.co.nz /files/NZBoatM4Gwidget.html
+-d stuff.co.nz /interactives/stuff-bayleys/
 -d stuff.co.nz /stuff/*banner
 -d stuff.co.nz /stuff/misc/flying-flowers/
 -d stuff.co.nz /stuff/tom/mags-widget/
@@ -18643,7 +18650,6 @@ msFilterList
 +d upload.wikimedia.org /wikipedia/
 +d uploaded.net /affiliate/
 +d urbanog.com /banners/
-+d usairways.com /doubleclick.js
 +d usanetwork.com /usanetwork_ads.s_code.js?
 +d usps.com /adserver/
 +d utarget.co.uk /crossdomain.xml
@@ -18981,8 +18987,6 @@ msFilterList
 +d openspeedtest.com /advertisement.js
 +d openx.gamereactor.dk /multi.php?*.js
 +d overclock3d.net /js/advert.js
-+d own3d.tv /templates/*adsense
-+d own3d.tv _adsense.
 +d pandora.com /static/ads/
 +d paste.org /style/adframe.js
 +d perkuinternete.lt /modules/mod_jpayday/js/advertisement.js
@@ -19346,12 +19350,16 @@ msFilterList
 +d phncdn.com /js/*_disclaimer/*_disclaimer_controller-min.js?*.js
 +d phncdn.com /js/achievement-*.js
 +d phncdn.com /js/avatar_*.js
++d phncdn.com /js/badgeSelector/*.js
 +d phncdn.com /js/browser-*.js
 +d phncdn.com /js/carousellite.*.js
 +d phncdn.com /js/categorylist_setUp-min.js?*.js
 +d phncdn.com /js/comments/*.js
 +d phncdn.com /js/common_jq-min.js*.js
++d phncdn.com /js/cover_tutorial/*.js
 +d phncdn.com /js/deleteComment/*.js
++d phncdn.com /js/deleteVideo/*.js
++d phncdn.com /js/editUserDropDown/*.js
 +d phncdn.com /js/et.ready.*.js
 +d phncdn.com /js/filters_menu/*.js
 +d phncdn.com /js/flipbook/*.js
@@ -19366,6 +19374,7 @@ msFilterList
 +d phncdn.com /js/is_online/*.js
 +d phncdn.com /js/jqbrowser-compressed.js*.js
 +d phncdn.com /js/jquery.*.js
++d phncdn.com /js/karmaInfo/*.js
 +d phncdn.com /js/language_*.js
 +d phncdn.com /js/levelUp/*.js
 +d phncdn.com /js/libs/ProfileCommentsAction-min.js*.js
@@ -19391,10 +19400,12 @@ msFilterList
 +d phncdn.com /js/translator/*.js
 +d phncdn.com /js/translatorWatchPageController-min.js*.js
 +d phncdn.com /js/underPlayer/*.js
++d phncdn.com /js/uploaded_video_thumbnail_select/*.js
 +d phncdn.com /js/userComments-min.js*.js
 +d phncdn.com /js/userFavorites-*.js
 +d phncdn.com /js/userInc-min.js*.js
 +d phncdn.com /js/userMiniProfile/*.js
++d phncdn.com /js/userVideos_setUp-min.js?*.js
 +d phncdn.com /js/video_setUp-min.js*.js
 +d phncdn.com /js/video_setUp_tablet-min.js*.js
 +d phncdn.com /js/videoDetection.js?*.js
