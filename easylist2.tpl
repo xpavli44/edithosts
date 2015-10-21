@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út říj 20 11:45:41 CEST 2015 ##################
+##### Aktualizováno: St říj 21 11:55:36 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2116,6 +2116,7 @@ msFilterList
 - /adprovider.
 - /adproxy.
 - /adproxy/
+- /AdPub/
 - /adratio.
 - /adrawdata/
 - /adreactor/
@@ -6158,7 +6159,7 @@ msFilterList
 - ?wm=*&prm=rev&
 - ?wpproadszoneid=
 - ?ZoneID=*&PageID=*&SiteID=
-- ?ZoneID=*&Task=*&SiteID=
+- ?ZoneID=*&SiteID=*&PageID=
 - /fp=*&prvtof=
 - /mod=wms&do=view_*&zone=
 - /pid=Ads/
@@ -8260,6 +8261,7 @@ msFilterList
 -d clicksor.com
 -d clicksor.net
 -d clicksurvey.mobi
+-d clickterra.net
 -d clickthrucash.com
 -d clicktripz.co
 -d clicktripz.com
@@ -8906,6 +8908,7 @@ msFilterList
 -d hlads.com
 -d hokaybo.com
 -d holidaytravelguide.org
+-d hoomezip.biz
 -d hopfeed.com
 -d horse-racing-affiliate-program.co.uk
 -d horsered.com
@@ -9391,6 +9394,7 @@ msFilterList
 -d multiview.com
 -d munically.com
 -d music-desktop.com
+-d musicnote.info
 -d mutary.com
 -d mxtads.com
 -d my-layer.net
@@ -9722,6 +9726,7 @@ msFilterList
 -d propelplus.com
 -d prosperent.com
 -d protally.net
+-d provider-direct.com
 -d proximic.com
 -d prre.ru
 -d psclicks.com
@@ -9736,6 +9741,7 @@ msFilterList
 -d publicidad.net
 -d publicidees.com
 -d publicityclerks.com
+-d publicsunrise.link
 -d publisher.to
 -d publisheradnetwork.com
 -d pubmatic.com
@@ -11800,7 +11806,7 @@ msFilterList
 -d carfax.com /img_myap/
 - http://cas.*.criteo.com/third-party
 -d cas.clickability.com
--d cas.criteo.com /third-party
+-d cas.criteo.com
 -d cash.neweramediaworks.com
 -d cashmakingpowersites.com /banners/
 -d cashmyvideo.com /images/cashmyvideo_banner.gif
@@ -18907,6 +18913,7 @@ msFilterList
 +d investigationdiscovery.com /shared/ad-enablers/
 +d investopedia.com /public/js/ads.js
 +d investopedia.com /advertisement.js
++d investopedia.com /adverts.js
 +d iriptv.com /player/ads.js
 +d jevvi.es /adblock/
 +d jkanime.net /assets/js/advertisement.js
@@ -19159,6 +19166,7 @@ msFilterList
 +d filmon.com /ad/affiliateimages/banner-250x350.png
 +d flashgames247.com /advertising/preroll/google-fg247-preloader.swf
 +d fotojorgen.no /images/*/webadverts/
++d fotolog.com /styles/flags/ad.gif
 +d fotosioon.com /wp-content/*/images/advert.gif
 +d guloggratis.dk /modules/
 +d haberler.com /video-haber/adsense_news_politics.swf?
@@ -19546,6 +19554,7 @@ msFilterList
 +d adultadworld.com /adhandler/
 +d desihoes.com /advertisement.js
 +d fuqer.com /advertisement.js
++d hentaihaven.org /fuckadblock.js
 +d hentaimoe.com /js/advertisement.js
 +d imgadult.com /js/advertisement.js
 +d javpee.com /eroex.js
