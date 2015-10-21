@@ -59,6 +59,7 @@ msFilterList
 -d autoesa.cz /files/bannery/
 -d avony.cz /mp3splocha.php
 -d bannery.ccb.cz
+-d tools.bongacams.com
 -d blbosti.cz /sites/www.blbosti.cz/files/banner/
 -d blisty.cz /ad/
 -d centrum.cz /design/akt3/o/ads/
