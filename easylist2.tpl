@@ -39,6 +39,8 @@ msFilterList
 - -reklama.
 - _clickthru.swf?
 - http://*.lagardere.cz/europa2/img/u/branding*.jpg
+- http://www.zvraceny.cz/data/upload/velkypenis_banner.gif
+-d www.velkypenis.eu
 - http://*.s12.cdn.szn.cz/vod/
 - http://*.war-forum.net/images/sh/
 -d 1.im.cz /ad/gemius.js
