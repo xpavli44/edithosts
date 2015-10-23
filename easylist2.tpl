@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St říj 21 14:19:29 CEST 2015 ##################
+##### Aktualizováno: Pá říj 23 15:14:08 CEST 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8593,6 +8593,7 @@ msFilterList
 -d e-generator.com
 -d e-planning.net
 -d e-viral.com
+-d e2yth.tv
 -d e9mlrvy1.com
 -d eads-adserving.com
 -d eads.to
@@ -12414,6 +12415,9 @@ msFilterList
 -d media.myspace.com /play/*/featured-videos-
 -d media.onlineteachers.co.in
 -d mediaon.com /moneymoney/
+-d mediaplex.com /ad/bn/
+-d mediaplex.com /ad/fm/
+-d mediaplex.com /ad/js/
 -d mediaspanonline.com -Takeover-
 -d mediaspanonline.com -Takeover_
 -d megalivestream.net /pub.js
@@ -16910,7 +16914,6 @@ msFilterList
 +d speedtest.net /javascript/swfobject.js
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
-+d activistpost.com /wp-content/uploads/
 +d ajax.cloudflare.com /cdn-cgi/nexp/*.js
 +d assets.newsinc.com
 +d bigcommerce.com
