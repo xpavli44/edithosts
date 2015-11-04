@@ -1,13 +1,14 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 04 Nov 2015 11:01 UTC
+# Last modified: 04 Nov 2015 14:11 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
 # Last change: 04/11/2015
 # List maintainers: tomasko126, Fanboy, Moskoe
+# GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk & martinrotter
 # License: CC-BY-SA v4.0
 # Email: tomastaro@adblock.sk
 # Forum: http://adblock.sk/forum
