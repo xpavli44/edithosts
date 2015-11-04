@@ -1,13 +1,13 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 Nov 2015 14:01 UTC
+# Last modified: 04 Nov 2015 11:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 15/08/2015
-# List maintainers: Fanboy, Moskoe, tomasko126
+# Last change: 04/11/2015
+# List maintainers: tomasko126, Fanboy, Moskoe
 # License: CC-BY-SA v4.0
 # Email: tomastaro@adblock.sk
 # Forum: http://adblock.sk/forum
@@ -91,7 +91,9 @@ msFilterList
 -d cviceni-doma.cz /images/*banner
 -d cztorrent.net /images/bannery/
 -d d.lookit.cz /vv.js
--d data.idnes.cz /nocache/DPP/dacan/
+-d data.idnes.cz /nocache/*/automodul.htm
+-d data.idnes.cz /nocache/*/jobdnes.htm
+-d data.idnes.cz /nocache/*/reality.htm
 -d data.idnes.cz /soutez/
 -d data.idnes.cz /uni/
 -d devbook.cz /images/banners/
@@ -149,6 +151,7 @@ msFilterList
 -d lphard.cz /images/banners/
 -d lui-magazine.cz /images/banners/nove/brand/
 -d luxusnirekreacnidomy.cz /adds/
+-d majnuj.cz /wp-content/uploads/*/ulozto_button.png
 -d mamincinyrecepty.cz /images/banner
 -d matematika.cz /content/files/*/background*.jpg
 -d matematika.cz /content/files/snapbacks/
@@ -166,6 +169,8 @@ msFilterList
 -d old.disk.cz /disk/Lib.adv.Server.cls
 -d online-filmy-zdarma.cz /upload/Banner/
 -d parabola.cz /img_inzerent/
+-d parabola.cz /img_menu/s125_01.gif
+# ||partner.alza.cz$domain=majnuj.cz
 -d partner.xprovize.cz /accounts/default*/banners/
 -d phaeton.nadruhou.net /data/mp3s/bastard/
 -d playing.flashx.tv /player_embed.js
@@ -231,6 +236,7 @@ msFilterList
 -d youradio.cz /api/triton/preroll
 -d zbynekmlcoch.cz /info/images/banners/*.swf
 -d zbynekmlcoch.cz /info/images/banners/banner_
+-d zkouknito.cz /js/js.htmlad.js
 -d zvraceny.cz /data/upload/
 -d zvukarina.cz /forum/images/ostatni/
 #
@@ -341,6 +347,7 @@ msFilterList
 -d allewidget.aukro.cz
 -d aukro.cz /ap/ap_show.php?
 -d autoesa.cz /dynbann/
+- http://automodul.cz
 # ||b.lookit.cz^$third-party,subdocument
 -d banan.cz
 -d banner.ifortuna.cz
@@ -412,6 +419,7 @@ msFilterList
 +d adserver.adtech.de /?advideo/3.0/
 # @@/advertisements/*$domain=automotofans.cz
 # @@/banners/banner$domain=hafici.cz|svatba.cz
+# @@/VideoAd/*$domain=zkouknito.cz
 # @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
 +d ads2.czc.cz /www/
 +d alfacomp.cz /reklama/
@@ -456,6 +464,7 @@ msFilterList
 +d img.aaaauto.eu /thumb/
 # @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 # @@/moje-konto/inzeraty/
++d openload.co /ad.php
 +d openload.io /assets/js/advertisement.js
 +d openload.io /assets/js/pop.js
 +d openload.io /assets/js/popad.js
@@ -470,6 +479,9 @@ msFilterList
 +d spusti.net /advertisement.js
 +d topserialy.sk /js/ads.js
 +d topserialy.sk /js/advert.js
++d topserialy.sk /js/advert-detail.js
++d topserialy.sk /js/advertisement.js
++d topserialy.sk /js/fuckadblock.js
 +d tpd.sk /ads/rotator/
 # @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 #
@@ -4012,7 +4024,9 @@ msFilterList
 - /devicead/
 - /dfp-custom/
 - /dfp.js
+- /dfp/async.
 - /dfp/dc.js
+- /dfp/jquery.
 - /dfp_ads/
 - /dfp_delivery.js
 - /dfpads.
@@ -6129,6 +6143,7 @@ msFilterList
 - /work.php?n=*&size=*&c=
 - /wp-content/ads/
 - /wp-content/mbp-banner/
+- /wp-content/plugins/amazon-product-in-a-post-plugin/
 - /wp-content/plugins/automatic-social-locker/
 - /wp-content/plugins/banner-manager/
 - /wp-content/plugins/bhcb/lock.js
@@ -6889,8 +6904,10 @@ msFilterList
 - /cdn-cgi/pe/bag2?r[]=*cpx.to
 - /cdn-cgi/pe/bag2?r[]=*eclkmpbn.com
 - /cdn-cgi/pe/bag2?r[]=*eclkspsa.com
+- /cdn-cgi/pe/bag2?r[]=*googleadservices.com
 - /cdn-cgi/pe/bag2?r[]=*intellitxt.com
 - /cdn-cgi/pe/bag2?r[]=*juicyads.com
+- /cdn-cgi/pe/bag2?r[]=*linksmart.com
 - /cdn-cgi/pe/bag2?r[]=*popads.net
 - /cdn-cgi/pe/bag2?r[]=*popcash.net
 - /cdn-cgi/pe/bag2?r[]=*revcontent.com
@@ -6909,6 +6926,7 @@ msFilterList
 - /adb_detector.
 - /adblock-alerter/
 - /adblock-blocker/
+- /adblock-detect.
 - /adblock-notify-by-bweb/
 - /adblock_detector.
 - /adblock_detector2.
@@ -10865,6 +10883,7 @@ msFilterList
 -d ycasmd.info
 -d yceml.net
 -d yeabble.com
+-d yellads.com
 -d yes-messenger.com
 -d yesadsrv.com
 -d yesnexus.com
@@ -13040,6 +13059,7 @@ msFilterList
 -d gamblingwages.com /images/
 -d gameduell.com /res/affiliate/
 -d gameorc.net /a.html
+-d gamer-network.net /plugins/dfp/
 -d gamersaloon.com /images/banners/
 -d gamesports.net /img/betting_campaigns/
 -d gamestop.com /aflbanners/
@@ -13565,6 +13585,7 @@ msFilterList
 -d regnow.com /vendor/
 -d rehost.to /?ref=
 -d relink.us /images/
+-d rentalcars.com /affxml/
 -d res3.feedsportal.com
 -d resources.heavenmedia.net /selection.php?
 -d revealads.appspot.com
@@ -13944,6 +13965,7 @@ msFilterList
 # ||yontoo.com^$subdocument,third-party
 # ||yooclick.com^$subdocument,third-party
 -d you-cubez.com /images/banners/
+-d youinsure.co.za /frame/
 -d zapads.zapak.com
 -d zazzle.com /utl/getpanel
 -d zazzle.com ?rf
@@ -15931,6 +15953,7 @@ msFilterList
 # ||goal.com^*/betting/$~stylesheet
 -d goal.com /branding/
 # ||goauto.com.au/mellor/mellor.nsf/toy$subdocument
+-d godisageek.com /amazon.png
 -d gokunming.com /images/prom/
 -d gold-prices.biz /gold_trading_leader.gif
 -d gold-prices.biz _400x300.gif
@@ -17742,6 +17765,7 @@ msFilterList
 -d thedailystar.net /footer-sticky-add/
 -d thedailystar.net /scbbd.gif
 -d theday.com /assets/images/sponsorlogos/
+-d thedirectory.co.zw /banners/
 -d thedomainstat.com /filemanager/userfiles/banners/
 -d theedinburghreporter.co.uk /hmbanner/
 -d theenglishgarden.co.uk /bannerImage.
@@ -21343,7 +21367,7 @@ msFilterList
 +d utdallas.edu /maps/images/img/
 +d utdallas.edu /banner.js
 # @@||uuuploads.com/ads-on-buildings/$image,domain=boredpanda.com
-# @@||v.fwmrm.net/*/AdManager.swf$domain=marthastewart.com
+# @@||v.fwmrm.net/*/AdManager.swf$domain=marthastewart.com|nbcsports.com
 # @@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=abc.go.com|abcfamily.go.com|abcnews.go.com|adultswim.com|cartoonnetwork.com|cc.com|channel5.com|cmt.com|colbertnation.com|comedycentral.com|eonline.com|espn.go.com|espndeportes.com|espnfc.co.uk|espnfc.com|espnfc.com.au|espnfc.us|espnfcasia.com|gametrailers.com|ign.com|logotv.com|mlb.mlb.com|mtv.com|mtvnservices.com|nascar.com|nbc.com|nbcnews.com|nbcsports.com|nick.com|player.theplatform.com|simpsonsworld.com|sky.com|southpark.nl|southparkstudios.com|spike.com|teamcoco.com|teennick.com|thedailyshow.com|thingx.tv|tv3play.se|tvland.com|uverseonline.att.net|vevo.com|vh1.com|video.cnbc.com|vod.fxnetworks.com
 +d v.fwmrm.net /crossdomain.xml
 +d v.fwmrm.net /p/espn_live/
