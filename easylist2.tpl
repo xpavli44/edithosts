@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St lis 4 16:03:23 CET 2015 ##################
+##### Aktualizováno: Čt lis 5 11:48:37 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8607,6 +8607,7 @@ msFilterList
 -d doubleclick.net /pfadx/team.dal/
 -d doubleclick.net /pfadx/team.sd/
 -d doubleclick.net ;afv_flvurl=http://cdn.c.ooyala.com/
+-d doubleclickbygoogle.com
 -d doubleclicks.me
 -d doublemax.net
 -d doublepimp.com
@@ -10154,6 +10155,7 @@ msFilterList
 -d supplyframe.com
 -d supremeadsonline.com
 -d surf-bar-traffic.com
+-d surfboarddigital.com.au
 -d survey-poll.com
 -d surveyvalue.mobi
 -d surveyvalue.net
@@ -10692,6 +10694,7 @@ msFilterList
 -d compoter.net
 -d contentolyze.net
 -d contentr.net
+-d cotnr.com
 -d crhikay.me
 -d d3lens.com
 -d deuskex.link
@@ -11724,6 +11727,7 @@ msFilterList
 -d ak1.imgaft.com
 -d akamai.net .247realmedia.com/
 -d akamai.net /pics.drugstore.com/prodimg/promo/
+-d akamaihd.net /lmedianet.js
 -d akamaihd.net /web/pdk/swf/freewheel.swf?
 -d alexa.com /promotebuttons/
 - http://algart.net*_banner_
@@ -12962,6 +12966,7 @@ msFilterList
 -d usfine.com /images/sty_img/usfine.gif
 -d ussearch.com /preview/banner/
 -d valuechecker.co.uk /banners/
+-d vast.videe.tv /vast-proxy/
 -d vcnewsdaily.com /images/vcnews_right_banner.gif
 -d vendor1.fitschigogerl.com
 -d veospot.com .html
@@ -13541,7 +13546,7 @@ msFilterList
 -d a.giantrealm.com
 -d a.i-sgcm.com
 -d a.kat.cr
--d a.kickasstorrent.me
+-d a.kickass.to
 -d a.lolwot.com
 -d a7.org /info/
 -d aaugh.com /images/dreamhostad.gif
@@ -14341,6 +14346,7 @@ msFilterList
 -d episodic.com /logos/player-
 -d eprop.co.za /images/banners/
 -d eq2flames.com /images/styles/eq2/images/banner
+-d escapementmagazine.com /wp-content/banners/
 -d espn.co.uk /espnuk/williamhill/
 -d espn.co.uk /espnuk/williamhill_
 -d espn.co.uk /viagogo_sports.html
@@ -14741,6 +14747,7 @@ msFilterList
 -d hejban.youwatch.org
 -d helsinkitimes.fi /banners/
 -d hentai2read.com /ios/swf/
+-d hentaihaven.org /wp-content/banners/
 -d heraldm.com /hb/imad/
 -d heraldm.com /iframe/
 -d heraldm.com /banner/
@@ -15172,6 +15179,7 @@ msFilterList
 -d ll.a.hulu.com
 -d lmgtfy.com /s/images/ls_
 -d localdirectories.com.au /bannerimages/
+-d localvictory.com /Trailblazer-Ad.png
 -d locanto.co.za /run/afcbackfill/
 -d logoopenstock.com /img/banners/
 -d logotv.com /content/skins/
@@ -17036,11 +17044,11 @@ msFilterList
 +d content-img.newsinc.com
 +d explosm.net /favicons/favicon
 +d explosm.net /img/logo.png
-+d explosm.net /img/nav-button_first@*.png
-+d explosm.net /img/nav-button_newest@*.png
-+d explosm.net /img/nav-button_next@*.png
-+d explosm.net /img/nav-button_previous@*.png
-+d explosm.net /img/nav-button_random@*.png
++d explosm.net /img/nav-button_first@2x.png
++d explosm.net /img/nav-button_newest@2x.png
++d explosm.net /img/nav-button_next@2x.png
++d explosm.net /img/nav-button_previous@2x.png
++d explosm.net /img/nav-button_random@2x.png
 +d explosm.net /show/thumbnails/
 +d files.explosm.net /avatars/
 +d files.explosm.net /rcg/
@@ -19115,6 +19123,7 @@ msFilterList
 +d nosteam.ro /advertisement.js
 +d oneplay.tv /embed/js/fuckadblock.js
 +d onlinevideoconverter.com ad*.js
++d onrpg.com /advertisement.js
 +d onvasortir.com /advert*.js
 +d openload.io
 +d openrunner.com /js/advertisement.js
@@ -19165,6 +19174,7 @@ msFilterList
 +d shimory.com /js/show_ads.js
 +d showsport-tv.com /adv*.js
 +d siamfishing.com /advert.js
++d sitepoint.com /ad-server.js
 +d sizedrive.com /js/fuckadblock.js
 +d skidrowcrack.com /advertisement.js
 +d sockshare.com /js/*.js
@@ -19364,6 +19374,7 @@ msFilterList
 +d tvn.adocean.pl
 +d uol.com.br /html.ng/*&affiliate=
 +d varno-zavarovanje.com /system/modules/cp_pagepeel/html/peel.js
++d vedomosti.ru /assets/vendors/adriver.media-*.js
 +d velasridaura.com /modules/*/advertising_custom.
 +d videonuz.ensonhaber.com /player/hdflvplayer/xml/ads.xml?
 +d xe.gr /property/recent_ads?
