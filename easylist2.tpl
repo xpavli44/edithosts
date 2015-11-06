@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt lis 5 14:34:52 CET 2015 ##################
+##### Aktualizováno: Pá lis 6 12:04:10 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8382,6 +8382,7 @@ msFilterList
 -d cor-natty.com
 -d coretarget.co.uk
 -d cornflip.com
+-d cosmjs.com
 -d coull.com
 -d coupon2buy.com
 -d covertarget.com _*.php
@@ -9325,6 +9326,7 @@ msFilterList
 -d mcdomainalot.com
 -d mcdstorage.com
 -d mdadvertising.net
+-d mdadx.com
 -d mdialog.com
 -d mdn2015x1.com
 -d mdn2015x2.com
@@ -13200,6 +13202,7 @@ msFilterList
 -d cockfortwo.com /track/
 -d content.liveuniverse.com
 -d contentcache-a.akamaihd.net
+-d core.queerclick.com
 -d cp.intl.match.com
 -d cpm.amateurcommunity.com
 -d creamgoodies.com /potd/
@@ -13624,6 +13627,7 @@ msFilterList
 -d advanced-television.com /banners/
 -d advertise.twitpic.com
 -d advfn.com /tf_
+-d advice-ads-cdn.vice.com
 -d advpc.net /site_img/banner/
 -d adx.kat.ph
 -d adz.lk _ad.
@@ -16358,6 +16362,7 @@ msFilterList
 -d theedinburghreporter.co.uk /hmbanner/
 -d theenglishgarden.co.uk /bannerImage.
 -d thefile.me .php?*zoneid
+-d thefreedictionary.com /_/tr.ashx
 -d thefrontierpost.com /media/banner/
 -d thehealthcareblog.com /files/*/American-Resident-Project-Logo-
 -d thehealthcareblog.com /files/*/athena-300.jpg
@@ -18004,6 +18009,7 @@ msFilterList
 +d archiproducts.com /adv/
 +d architecturaldigest.com /etc/designs/ad/images/shell/ad-sprite.png
 +d area51.stackexchange.com /ads/
++d arthurbrokerage.com /Websites/arthur/templates/overture/
 +d arti-mediagroup.com /crossdomain.xml
 +d arti-mediagroup.com /flowplayer/amta_plugin.swf
 +d as.webmd.com /html.ng/transactionid=

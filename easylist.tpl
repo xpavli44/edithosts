@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 Nov 2015 13:31 UTC
+# Last modified: 06 Nov 2015 11:01 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -8675,6 +8675,7 @@ msFilterList
 -d cor-natty.com
 -d coretarget.co.uk
 -d cornflip.com
+-d cosmjs.com
 -d coull.com
 -d coupon2buy.com
 -d covertarget.com _*.php
@@ -9634,6 +9635,7 @@ msFilterList
 -d mcdomainalot.com
 -d mcdstorage.com
 -d mdadvertising.net
+-d mdadx.com
 -d mdialog.com
 -d mdn2015x1.com
 -d mdn2015x2.com
@@ -14243,6 +14245,7 @@ msFilterList
 -d cockfortwo.com /track/
 -d content.liveuniverse.com
 -d contentcache-a.akamaihd.net
+-d core.queerclick.com
 -d cp.intl.match.com
 -d cpm.amateurcommunity.com
 -d creamgoodies.com /potd/
@@ -14825,6 +14828,7 @@ msFilterList
 -d advertise.twitpic.com
 # ||adverts.itv.com^$image
 -d advfn.com /tf_
+-d advice-ads-cdn.vice.com
 -d advpc.net /site_img/banner/
 -d adx.kat.ph
 -d adz.lk _ad.
@@ -17782,6 +17786,7 @@ msFilterList
 -d theedinburghreporter.co.uk /hmbanner/
 -d theenglishgarden.co.uk /bannerImage.
 -d thefile.me .php?*zoneid
+-d thefreedictionary.com /_/tr.ashx
 -d thefrontierpost.com /media/banner/
 -d thehealthcareblog.com /files/*/American-Resident-Project-Logo-
 -d thehealthcareblog.com /files/*/athena-300.jpg
@@ -20097,6 +20102,7 @@ msFilterList
 +d archiproducts.com /adv/
 +d architecturaldigest.com /etc/designs/ad/images/shell/ad-sprite.png
 +d area51.stackexchange.com /ads/
++d arthurbrokerage.com /Websites/arthur/templates/overture/
 +d arti-mediagroup.com /crossdomain.xml
 +d arti-mediagroup.com /flowplayer/amta_plugin.swf
 # @@||as.bankrate.com/RealMedia/ads/adstream_mjx.ads/$script,~third-party
@@ -22872,7 +22878,11 @@ msFilterList
 # Amazon.com
 # @@||advertising.amazon.com^$domain=advertising.amazon.com
 # Adservice.com
+# @@||ad-server.one.com/click?agency=adservice-$domain=adservicemedia.dk
 # @@||adservice.com/wp-content/themes/adservice/$~third-party
+# @@||adservicemedia.dk/images/$~third-party
+# @@||adservicemedia.dk^$elemhide
+# @@||banners.one.com/bannere/$domain=adservicemedia.dk
 # *** easylist:easylist/easylist_whitelist_dimensions.txt ***
 # @@-120x60-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 # @@-120x60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
