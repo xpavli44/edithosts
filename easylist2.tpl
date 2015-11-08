@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 6 15:02:29 CET 2015 ##################
+##### Aktualizováno: Ne lis 8 23:01:57 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -513,6 +513,7 @@ msFilterList
 - -ad-rotators/
 - -ad-server/
 - -ad-sidebar-
+- -ad-switcher.
 - -ad-tile.
 - -ad-top.
 - -ad-unit.
@@ -721,6 +722,7 @@ msFilterList
 - .ad.json?
 - .ad.page.
 - .ad.premiere.
+- .ad/script/
 - .ad1.nspace
 - .adbanner.
 - .adbutler-
@@ -743,6 +745,7 @@ msFilterList
 - .ads.loader-
 - .ads.zones.
 - .ads1-
+- .ads1.
 - .ads2-
 - .ads3-
 - .ads_clickthru.
@@ -1645,6 +1648,7 @@ msFilterList
 - /adarena/
 - /adasset/
 - /adasset4/
+- /adb.js?tag=
 - /adback.
 - /adback?
 - /adban.
@@ -3201,6 +3205,7 @@ msFilterList
 - /advt.
 - /advt/
 - /advt2.
+- /advtarget/
 - /advtemplate/
 - /advtemplate_
 - /advweb.
@@ -7571,6 +7576,7 @@ msFilterList
 -d adincon.com
 -d adindigo.com
 -d adinfinity.com.au
+-d adintend.com
 -d adinterax.com
 -d adip.ly
 -d adiqglobal.com
@@ -7770,6 +7776,7 @@ msFilterList
 -d adsrvr.org
 -d adssend.net
 -d adssites.net
+-d adstargeting.com
 -d adstatic.com
 -d adsterra.com
 -d adsummos.net
@@ -8078,6 +8085,7 @@ msFilterList
 -d bannertracker-script.com
 -d bannerweb.com
 -d baronsoffers.com
+-d basebanner.com
 -d bbelements.com
 -d bbuni.com
 -d beaconads.com
@@ -8118,6 +8126,7 @@ msFilterList
 -d bigadpoint.net
 -d bigfineads.com
 -d bijscode.com
+-d billypub.com
 -d bimlocal.com
 -d bin-layer.de
 -d bin-layer.ru
@@ -8260,6 +8269,7 @@ msFilterList
 -d centralnervous.net
 -d cerotop.com
 -d cgecwm.org
+-d chameleon.ad
 -d chango.com
 -d chanished.net
 -d charltonmedia.com
@@ -8864,6 +8874,7 @@ msFilterList
 -d genericlink.com
 -d genericsteps.com
 -d genesismedia.com
+-d geniad.net
 -d genieessp.com
 -d genovesetacet.com
 -d geo-idm.fr
@@ -10561,6 +10572,7 @@ msFilterList
 -d yabuka.com
 -d yadomedia.com
 -d yambotan.ru
+-d yashi.com
 -d yawnedgtuis.org
 -d yb0t.com
 -d ycasmd.info
@@ -10682,6 +10694,7 @@ msFilterList
 -d baungarnr.com
 -d biankord.net
 -d biastoful.net
+-d blaundorz.com
 -d blazwuatr.com
 -d blipi.net
 -d bluazard.net
@@ -14607,6 +14620,7 @@ msFilterList
 -d gameknot.com /amaster.pl?j=
 -d gamemakerblog.com /gma/gatob.php
 -d gameplanet.co.nz -takeover.jpg
+-d gamepressure.com /ajax/f2p.asp
 -d gamerant.com /ads/
 -d gamersbook.com /banners/
 -d gameserpent.com /kit*.php
@@ -16526,6 +16540,7 @@ msFilterList
 -d trackitdown.net /skins/*_campaign/
 -d tracksat.com /banners/
 -d tradewinds.vi /images/banners/
+-d trailrunnermag.com /images/takeovers/
 -d trgoals.es /adk.html
 -d tribune.com.ng /images/banners/
 -d tribune242.com /pubfiles/
@@ -16691,6 +16706,7 @@ msFilterList
 -d videowood.tv /assets/js/popup.js
 -d videowood.tv /pop2
 -d vidhog.com /images/download_banner_
+-d vidspot.net /s/xfs.min.js?
 -d vidspot.net /pu.js
 -d vidvib.com /vidvibpopa.
 -d vidvib.com /vidvibpopb.
@@ -17089,6 +17105,7 @@ msFilterList
 +d youtube.com /iframe_api*.js
 +d youtube.com /player_api*.js
 +d ytimg.com /yts/jsbin/*.js
+-d supercheats.com /js/yavli.js
 - http://http.anno.channel4.com*-
 - http://http.anno.channel4.com*_*_*_
 -d nintendolife.com /adblock.jpg
@@ -17320,6 +17337,7 @@ msFilterList
 -d hanksgalleries.com /galleryimgs/
 -d hanksgalleries.com /stxt_
 -d hanksgalleries.com /vg_ad_
+-d hardcoresexgif.com /wp-content/msn.js
 -d hardsextube.com /preroll/getiton/
 -d hardsextube.com /testxml.php
 -d hardsextube.com /zone.php
@@ -19017,6 +19035,8 @@ msFilterList
 +d gamecopyworld.com /games/*.js
 +d gamecopyworld.eu /games/*.js
 +d gamersconnexion.com /js/advert.js
++d games.latimes.com /Scripts/advert.js
++d games.washingtonpost.com /Scripts/*.js
 +d gameshark.com /images/ads/
 +d gameslivetv.com /js/advertisement.js
 +d gdataonline.com /exp/textad.js
@@ -19067,6 +19087,7 @@ msFilterList
 +d kissanime.com /ads/
 +d kisscartoon.me /Ads/
 +d lasexta.com /adsxml/
++d lasprovincias.es /adframe.js
 +d layer13.net .js
 +d leaguesecretary.com /advertisement.js
 +d leecher.us /assets/img/*/ads/
