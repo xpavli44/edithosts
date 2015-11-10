@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Nov 2015 15:21 UTC
+# Last modified: 10 Nov 2015 11:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -23198,6 +23198,7 @@ msFilterList
 +d phncdn.com /www-static/js/ph-networkbar.js*.js
 +d phncdn.com /www-static/js/phub.*.js
 +d phncdn.com /www-static/js/playlist/*.js
++d phncdn.com /www-static/js/pornstars.js?*.js
 +d phncdn.com /www-static/js/premium/*.js
 +d phncdn.com /www-static/js/profile/*.js
 +d phncdn.com /www-static/js/quality-*.js
@@ -23367,6 +23368,7 @@ msFilterList
 # Non-English
 # @@||ads.b10f.jp/flv/$~third-party
 # *** easylist:easylist_adult/adult_whitelist_popup.txt ***
+# @@&utm_medium=traffic_trade&utm_campaign=pornhub_trade_search_box$popup,domain=pornhub.com
 # @@||as.sexad.net^*?p=*&v=$popup,domain=extremetube.com|keezmovies.com|pornhub.com|redtube.com|spankwire.com|tube8.com|tube8.es|tube8.fr
 # @@||contentabc.com/ads?spot_id=$popup,domain=tube8.com|tube8.es|tube8.fr
 # @@||extremetubefreehd.com^*.Extreme_HeaderTab&$popup,domain=extremetube.com

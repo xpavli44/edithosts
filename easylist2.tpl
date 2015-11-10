@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po lis 9 16:25:43 CET 2015 ##################
+##### Aktualizováno: Út lis 10 12:15:15 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -19627,6 +19627,7 @@ msFilterList
 +d phncdn.com /www-static/js/ph-networkbar.js*.js
 +d phncdn.com /www-static/js/phub.*.js
 +d phncdn.com /www-static/js/playlist/*.js
++d phncdn.com /www-static/js/pornstars.js?*.js
 +d phncdn.com /www-static/js/premium/*.js
 +d phncdn.com /www-static/js/profile/*.js
 +d phncdn.com /www-static/js/quality-*.js
