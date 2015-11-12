@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út lis 10 15:38:04 CET 2015 ##################
+##### Aktualizováno: Čt lis 12 14:39:39 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5431,6 +5431,7 @@ msFilterList
 - /showmarketingmaterial.
 - /showpost-ad-
 - /showsidebar-ad-
+- /showSp.php?
 - /side-ad-
 - /side-ad.
 - /side-ads-
@@ -9513,7 +9514,6 @@ msFilterList
 -d netliker.com
 -d netloader.cc
 -d netpondads.com
--d netrefer.com
 -d netseer.com
 -d netshelter.net
 -d netsolads.com
@@ -12516,6 +12516,7 @@ msFilterList
 -d media.domainking.ng /media/
 -d media.enimgs.net /brand/files/escalatenetwork/
 -d media.myspace.com /play/*/featured-videos-
+-d media.netrefer.com
 -d media.onlineteachers.co.in
 -d mediaon.com /moneymoney/
 -d mediaplex.com /ad/bn/
