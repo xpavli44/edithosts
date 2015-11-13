@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt lis 12 19:41:01 CET 2015 ##################
+##### Aktualizováno: Pá lis 13 07:39:13 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -14746,6 +14746,8 @@ msFilterList
 -d hackingchinese.com /media/pleco.png
 -d hackingchinese.com /media/skritter5.jpg
 -d hahasport.com /ads/
+-d hancinema.net /images/banner_
+-d hancinema.net /images/watch-now
 -d hardwareheaven.com /styles/*/frontpage/backdrop.jpg
 -d hardwareheaven.com /wp-content/*_skin_
 -d hawaiireporter.com -300x250.jpg

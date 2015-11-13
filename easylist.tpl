@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 12 Nov 2015 18:30 UTC
+# Last modified: 13 Nov 2015 06:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -16045,6 +16045,8 @@ msFilterList
 -d hackingchinese.com /media/pleco.png
 -d hackingchinese.com /media/skritter5.jpg
 -d hahasport.com /ads/
+-d hancinema.net /images/banner_
+-d hancinema.net /images/watch-now
 -d hardwareheaven.com /styles/*/frontpage/backdrop.jpg
 -d hardwareheaven.com /wp-content/*_skin_
 -d hawaiireporter.com -300x250.jpg
