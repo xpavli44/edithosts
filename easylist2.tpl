@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 13 11:56:36 CET 2015 ##################
+##### Aktualizováno: Ne lis 15 18:13:48 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3234,7 +3234,6 @@ msFilterList
 - /adwrapper/
 - /adwrapperiframe.
 - /adwriter2.
-- /adx.
 - /adx/ads?
 - /adx160.
 - /adx2.
@@ -3380,7 +3379,6 @@ msFilterList
 - /assets/sponsored/
 - /ast/ads/
 - /asyncadload.
-- /asyncjs.
 - /asyncspc.
 - /athena/tag/?
 - /atnads/
@@ -6738,6 +6736,7 @@ msFilterList
 - /Tag.eng*.js
 - /sl/assetlisting/?
 - /jquery.peelback.js
+- -adblocker-detection/
 - /ad-blocker.js
 - /adb_detector.
 - /adblock-alerter/
@@ -8016,6 +8015,7 @@ msFilterList
 -d assoc-amazon.it
 -d asterpix.com
 -d astree.be
+-d atadserver.com
 -d atemda.com
 -d atmalinks.com
 -d ato.mx
@@ -10097,6 +10097,7 @@ msFilterList
 -d solarmosa.com
 -d solocpm.com
 -d solutionzip.info
+-d solvemedia.com
 -d sonnerie.net
 -d sonobi.com
 -d sophiasearch.com
@@ -12098,6 +12099,7 @@ msFilterList
 -d dealtoday.com.mt /banners/
 -d dealzone.co.za .js
 -d delivery.importantmedia.org
+-d delivery.vidible.tv /jsonp/pid=
 -d dennis.co.uk /siteskins/
 -d depositfiles.com .php?ref=
 -d desi4m.com /desi4m.gif
@@ -12140,6 +12142,7 @@ msFilterList
 -d dpsq2uzakdgqz.cloudfront.net
 -d dq2tgxnc2knif.cloudfront.net
 -d dqhi3ea93ztgv.cloudfront.net
+-d dr8pk6ovub897.cloudfront.net
 -d dramafever.com /widget/
 -d dramafeverw2.appspot.com /widget/
 -d dreamboxcart.com /earning/
@@ -13744,6 +13747,7 @@ msFilterList
 -d arenabg.com /banners/
 -d arenadb.net /banners/
 -d armorgames.com /assets/*_skin_
+-d armorgames.com /backup_
 -d armorgames.com /banners/
 -d armorgames.com /site-skins/
 -d armorgames.com /siteskin.css
@@ -18181,6 +18185,7 @@ msFilterList
 +d deliciousdigital.com /data/our-work/advertising/
 +d delish.com /cm/shared/scripts/refreshads-*.js
 +d delvenetworks.com /player/*_ad_
++d design-essentials.net /affiliate/
 +d deviantart.net /minish/advertising/downloadad_splash_close.png
 +d digiads.com.au /css/24032006/adstyle.css
 +d digiads.com.au /images/shared/misc/ad-disclaimer.gif
@@ -18980,6 +18985,7 @@ msFilterList
 +d codingcrazy.com /demo/adframe.js
 +d coincheckin.com /js/adframe.js
 +d coinurl.com /get.php?id=18045
++d computerworld.com /www/js/ads/gpt_includes.js
 +d cookinggames.com /ads.js
 +d coolgames.com /ads.js
 +d d2anfhdgjxf8s1.cloudfront.net /ajs.php?adserver=*.js
@@ -19058,6 +19064,7 @@ msFilterList
 +d hardware.no /ads/
 +d hardware.no /artikler/
 +d hardware.no .js
++d hdfree.tv /live/ad.php
 +d hdmovie14.net /js/ad*.js
 +d hentai-foundry.com /ads.js
 +d hexawebhosting.com /adcode.js
