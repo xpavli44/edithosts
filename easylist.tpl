@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 15 Nov 2015 17:20 UTC
+# Last modified: 16 Nov 2015 06:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -806,6 +806,7 @@ msFilterList
 - -top-ad.
 - -top-ads.
 - -us/ads/
+- -video-ads/
 - -web-ad-
 - -Web-Ad.
 - -Web-Ads.
@@ -4864,6 +4865,7 @@ msFilterList
 - /linkedads/
 - /links_sponsored_
 - /live_ad.
+- /livead-
 - /liveads.
 - /livejasmin.
 - /livejasmin/*&id=
@@ -10415,7 +10417,6 @@ msFilterList
 -d solarmosa.com
 -d solocpm.com
 -d solutionzip.info
--d solvemedia.com
 -d sonnerie.net
 -d sonobi.com
 -d sophiasearch.com
@@ -14541,6 +14542,7 @@ msFilterList
 -d virtualhottie2.com /cash/tools/banners/
 -d visit-x.net /promo/
 -d vodconcepts.com /banners/
+-d vs3.com /_special/banners/
 -d vserv.bc.cdn.bitgravity.com
 -d vzzk.com /uploads/banners/
 -d wafflegirl.com /galleries/banner/

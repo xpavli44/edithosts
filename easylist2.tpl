@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne lis 15 18:31:10 CET 2015 ##################
+##### Aktualizováno: Po lis 16 07:45:52 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -704,6 +704,7 @@ msFilterList
 - -top-ad.
 - -top-ads.
 - -us/ads/
+- -video-ads/
 - -web-ad-
 - -Web-Ad.
 - -Web-Ads.
@@ -4706,6 +4707,7 @@ msFilterList
 - /linkedads/
 - /links_sponsored_
 - /live_ad.
+- /livead-
 - /liveads.
 - /livejasmin.
 - /livejasmin/*&id=
@@ -10097,7 +10099,6 @@ msFilterList
 -d solarmosa.com
 -d solocpm.com
 -d solutionzip.info
--d solvemedia.com
 -d sonnerie.net
 -d sonobi.com
 -d sophiasearch.com
@@ -13476,6 +13477,7 @@ msFilterList
 -d virtualhottie2.com /cash/tools/banners/
 -d visit-x.net /promo/
 -d vodconcepts.com /banners/
+-d vs3.com /_special/banners/
 -d vserv.bc.cdn.bitgravity.com
 -d vzzk.com /uploads/banners/
 -d wafflegirl.com /galleries/banner/
