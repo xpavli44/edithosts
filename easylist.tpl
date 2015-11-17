@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 16 Nov 2015 06:50 UTC
+# Last modified: 17 Nov 2015 21:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9003,7 +9003,6 @@ msFilterList
 -d emediate.dk
 -d emediate.eu
 -d emediate.se
--d emjcd.com
 -d empiremoney.com
 -d employers-freshly.org
 -d emptyspaceads.com
@@ -9191,7 +9190,6 @@ msFilterList
 -d geo-idm.fr
 -d geoipads.com
 -d geopromos.com
--d georiot.com
 -d geovisite.com
 -d gestionpub.com
 -d getgamers.eu
@@ -10139,7 +10137,6 @@ msFilterList
 -d ptp24.com
 -d pub-fit.com
 # ||pubdirecte.com^$third-party,domain=~debrideurstream.fr
--d pubexchange.com
 -d pubgears.com
 -d publicidad.net
 -d publicidees.com
@@ -12703,7 +12700,7 @@ msFilterList
 -d careerjunction.co.za /widget?
 -d carfax.com /img_myap/
 # ||cars.fyidriving.com^$subdocument,third-party
-- http://cas.*.criteo.com/third-party
+- http://cas.*.criteo.com/
 -d cas.clickability.com
 -d cas.criteo.com
 -d cash.neweramediaworks.com
@@ -12713,8 +12710,8 @@ msFilterList
 -d castasap.com /publi2.html
 -d casti.tv /adds/
 -d catholicweb.com /banners/
-- http://caw.*.criteo.com/third-party
--d caw.criteo.com /third-party
+- http://caw.*.criteo.com/
+-d caw.criteo.com
 -d cbpirate.com /getimg.php?
 -d cccam.co /banner_big.gif
 -d cdn.assets.gorillanation.com
@@ -13206,8 +13203,8 @@ msFilterList
 # ||images-amazon.com^$domain=cloudfront.net
 -d images-pw.secureserver.net /images/100yearsofchevy.gif
 # ||images-pw.secureserver.net^*_*.$image,third-party
-- http://images.*.criteo.net/third-party
--d images.criteo.net /third-party
+- http://images.*.criteo.net/
+-d images.criteo.net
 -d images.dreamhost.com
 -d images.mylot.com
 -d images.youbuy.it /images/
@@ -13738,18 +13735,18 @@ msFilterList
 -d stacksocial.com ?aid=
 -d stalliongold.com /images/*x
 -d stargames.com /bridge.asp?
-- http://static.*.criteo.net/design/third-party
-- http://static.*.criteo.net/flash/third-party
-- http://static.*.criteo.net/images/third-party
-- http://static.*.criteo.net/js/duplo/third-party
--d static.criteo.com /design/third-party
--d static.criteo.com /flash/third-party
--d static.criteo.com /images/third-party
--d static.criteo.com /js/duplo/third-party
--d static.criteo.net /design/third-party
--d static.criteo.net /flash/third-party
--d static.criteo.net /images/third-party
--d static.criteo.net /js/duplo/third-party
+- http://static.*.criteo.net/design/
+- http://static.*.criteo.net/flash/
+- http://static.*.criteo.net/images/
+- http://static.*.criteo.net/js/duplo/
+-d static.criteo.com /design/
+-d static.criteo.com /flash/
+-d static.criteo.com /images/
+-d static.criteo.com /js/duplo/
+-d static.criteo.net /design/
+-d static.criteo.net /flash/
+-d static.criteo.net /images/
+-d static.criteo.net /js/duplo/
 -d static.multiplayuk.com /images/w/w-
 -d static.tradetracker.net
 -d static.tumblr.com /dhqhfum/WgAn39721/cfh_header_banner_v2.jpg
@@ -17332,6 +17329,8 @@ msFilterList
 -d replacementdocs.com /popup.js
 -d retrevo.com /m/google?q=
 -d retrevo.com /pcwframe.jsp?
+-d reuters.com /reuters_bootstrap.js
+-d reuters.com /reuters_gpt_bootstrap*.js
 -d reviewcentre.com /cinergy-adv.php
 -d revisionworld.co.uk /sites/default/files/imce/Double-MPU2-v2.gif
 -d rfu.com /js/jquery.jcarousel.js
@@ -19982,6 +19981,7 @@ msFilterList
 +d ads.yimg.com /any/yahoologo
 +d ads.yimg.com /search/b/syc_logo_2.gif
 +d ads.yimg.com videoadmodule*.swf
+# @@||ads1.atpclick.com/atpClick.aspx?$image,script,domain=jobnet.co.il|jobs-israel.com
 # @@||ads1.msads.net^*/dapmsn.js$domain=msn.com
 +d ads1.msn.com /ads/pronws/
 # @@||ads1.msn.com/library/dap.js$domain=entertainment.msn.co.nz|msn.foxsports.com
@@ -20477,7 +20477,6 @@ msFilterList
 +d eluxe.ca _doubleclick.js*.pagespeed.*.js
 +d emailbidding.com /advertiser/
 +d emergencymedicalparamedic.com /wp-content/themes/AdSense/style.css
-# @@||emjcd.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 +d empireonline.com /images/image_index/300x250/
 # @@||engine.adzerk.net/ados?$script,domain=serverfault.com|stackoverflow.com
 +d englishanimes.com /wp-content/themes/englishanimes/js/pop.js
@@ -20570,7 +20569,6 @@ msFilterList
 +d garrysmod.org /ads/
 +d gcultra.com /js/exit_popup.js
 +d geektime.com /wp-content/uploads/*/Google-Adsense-
-# @@||georiot.com/snippet.js$domain=bound2hiphop.com
 +d getgamesgo.com /Banners/
 # @@||getprice.com.au/images/$domain=shopping.ninemsn.com.au|shopping.yahoo.com.au
 # @@||gfsrv.net/ad/$domain=ogame.org|ogame.us

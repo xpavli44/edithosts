@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po lis 16 07:58:20 CET 2015 ##################
+##### Aktualizováno: Út lis 17 22:16:42 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8697,7 +8697,6 @@ msFilterList
 -d emediate.dk
 -d emediate.eu
 -d emediate.se
--d emjcd.com
 -d empiremoney.com
 -d employers-freshly.org
 -d emptyspaceads.com
@@ -8884,7 +8883,6 @@ msFilterList
 -d geo-idm.fr
 -d geoipads.com
 -d geopromos.com
--d georiot.com
 -d geovisite.com
 -d gestionpub.com
 -d getgamers.eu
@@ -9821,7 +9819,6 @@ msFilterList
 -d ptp22.com
 -d ptp24.com
 -d pub-fit.com
--d pubexchange.com
 -d pubgears.com
 -d publicidad.net
 -d publicidees.com
@@ -11911,7 +11908,7 @@ msFilterList
 -d careerjunction.co.za /widgets/
 -d careerjunction.co.za /widget?
 -d carfax.com /img_myap/
-- http://cas.*.criteo.com/third-party
+- http://cas.*.criteo.com/
 -d cas.clickability.com
 -d cas.criteo.com
 -d cash.neweramediaworks.com
@@ -11920,8 +11917,8 @@ msFilterList
 -d castasap.com /publi2.html
 -d casti.tv /adds/
 -d catholicweb.com /banners/
-- http://caw.*.criteo.com/third-party
--d caw.criteo.com /third-party
+- http://caw.*.criteo.com/
+-d caw.criteo.com
 -d cbpirate.com /getimg.php?
 -d cccam.co /banner_big.gif
 -d cdn.assets.gorillanation.com
@@ -12381,8 +12378,8 @@ msFilterList
 -d images-amazon.com /images/*/associates/widgets/
 -d images-amazon.com /images/*/banner/
 -d images-pw.secureserver.net /images/100yearsofchevy.gif
-- http://images.*.criteo.net/third-party
--d images.criteo.net /third-party
+- http://images.*.criteo.net/
+-d images.criteo.net
 -d images.dreamhost.com
 -d images.mylot.com
 -d images.youbuy.it /images/
@@ -12856,18 +12853,18 @@ msFilterList
 -d stacksocial.com ?aid=
 -d stalliongold.com /images/*x
 -d stargames.com /bridge.asp?
-- http://static.*.criteo.net/design/third-party
-- http://static.*.criteo.net/flash/third-party
-- http://static.*.criteo.net/images/third-party
-- http://static.*.criteo.net/js/duplo/third-party
--d static.criteo.com /design/third-party
--d static.criteo.com /flash/third-party
--d static.criteo.com /images/third-party
--d static.criteo.com /js/duplo/third-party
--d static.criteo.net /design/third-party
--d static.criteo.net /flash/third-party
--d static.criteo.net /images/third-party
--d static.criteo.net /js/duplo/third-party
+- http://static.*.criteo.net/design/
+- http://static.*.criteo.net/flash/
+- http://static.*.criteo.net/images/
+- http://static.*.criteo.net/js/duplo/
+-d static.criteo.com /design/
+-d static.criteo.com /flash/
+-d static.criteo.com /images/
+-d static.criteo.com /js/duplo/
+-d static.criteo.net /design/
+-d static.criteo.net /flash/
+-d static.criteo.net /images/
+-d static.criteo.net /js/duplo/
 -d static.multiplayuk.com /images/w/w-
 -d static.tradetracker.net
 -d static.tumblr.com /dhqhfum/WgAn39721/cfh_header_banner_v2.jpg
@@ -15934,6 +15931,8 @@ msFilterList
 -d replacementdocs.com /popup.js
 -d retrevo.com /m/google?q=
 -d retrevo.com /pcwframe.jsp?
+-d reuters.com /reuters_bootstrap.js
+-d reuters.com /reuters_gpt_bootstrap*.js
 -d reviewcentre.com /cinergy-adv.php
 -d revisionworld.co.uk /sites/default/files/imce/Double-MPU2-v2.gif
 -d rfu.com /js/jquery.jcarousel.js
