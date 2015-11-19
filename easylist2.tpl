@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St lis 18 02:41:40 CET 2015 ##################
+##### Aktualizováno: Čt lis 19 16:16:18 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9287,7 +9287,6 @@ msFilterList
 -d ltassrv.com /goads.swf
 -d ltassrv.com /serve/
 -d lucidmedia.com
--d luminate.com
 -d lushcrush.com
 -d luxadv.com
 -d luxbetaffiliates.com.au

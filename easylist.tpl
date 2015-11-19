@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 18 Nov 2015 01:30 UTC
+# Last modified: 19 Nov 2015 15:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9597,7 +9597,6 @@ msFilterList
 -d ltassrv.com /goads.swf
 -d ltassrv.com /serve/
 -d lucidmedia.com
--d luminate.com
 -d lushcrush.com
 -d luxadv.com
 -d luxbetaffiliates.com.au
@@ -22920,6 +22919,9 @@ msFilterList
 +d dailymotion.com /advertise/
 # Amazon.com
 # @@||advertising.amazon.com^$domain=advertising.amazon.com
+# @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
+# @@||ams.amazon.co.uk^$domain=ams.amazon.co.uk
+# @@||ams.amazon.com^$domain=ams.amazon.com
 # Adservice.com
 # @@||ad-server.one.com/click?agency=adservice-$domain=adservicemedia.dk
 # @@||adservice.com/wp-content/themes/adservice/$~third-party
