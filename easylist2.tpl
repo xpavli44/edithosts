@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt lis 19 22:11:08 CET 2015 ##################
+##### Aktualizováno: Pá lis 20 00:06:23 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -14185,9 +14185,6 @@ msFilterList
 -d dailyfreegames.com /js/partners.html
 -d dailyherald.com /contextual.js
 -d dailyhome.com /leaderboard_banner
--d dailymail.co.uk /i/pix/*_107x58.jpg
--d dailymail.co.uk /i/pix/*_308x164.jpg
--d dailymail.co.uk /i/pix/*_308x262.jpg
 -d dailymail.co.uk /i/pix/ebay/
 -d dailymail.co.uk /modules/commercial/
 -d dailymail.co.uk /promoboxes/

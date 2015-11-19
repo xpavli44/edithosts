@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Nov 2015 21:00 UTC
+# Last modified: 19 Nov 2015 23:00 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -15440,9 +15440,6 @@ msFilterList
 -d dailyfreegames.com /js/partners.html
 -d dailyherald.com /contextual.js
 -d dailyhome.com /leaderboard_banner
--d dailymail.co.uk /i/pix/*_107x58.jpg
--d dailymail.co.uk /i/pix/*_308x164.jpg
--d dailymail.co.uk /i/pix/*_308x262.jpg
 -d dailymail.co.uk /i/pix/ebay/
 -d dailymail.co.uk /modules/commercial/
 -d dailymail.co.uk /promoboxes/
