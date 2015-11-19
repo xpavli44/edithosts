@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Nov 2015 20:20 UTC
+# Last modified: 19 Nov 2015 20:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -13840,6 +13840,7 @@ msFilterList
 -d tremormedia.com /embed/js/*_ads.js
 -d tremormedia.com /tpacudeoplugin46.swf
 -d tremormedia.com _preroll_
+-d trhnt.com /sx.tr.js
 -d trialfunder.com /banner/
 -d trialpay.com &dw-ptid=
 -d tribktla.files.wordpress.com -639x125-sponsorship.jpg?
@@ -20398,6 +20399,7 @@ msFilterList
 # @@||doubleclick.net/adi/apts.com/home;pos=$subdocument,domain=apartments.com
 # @@||doubleclick.net/adi/ebay.*/video;$subdocument,domain=ebay.com
 # @@||doubleclick.net/adi/mlb.mlb/*;pageid=cutfour;sz=$subdocument,domain=mlb.mlb.com
+# @@||doubleclick.net/adi/mlb.mlb/*;pageid=free_agent_tracker_$subdocument,domain=mlb.com
 # @@||doubleclick.net/adi/mlb.mlb/*^free_agent_tracker_12^$subdocument,domain=mlb.com
 # @@||doubleclick.net/adi/sny.tv/media;$subdocument,domain=sny.tv
 # @@||doubleclick.net/adi/sony.oz.opus/*;pos=bottom;$subdocument,domain=doctoroz.com

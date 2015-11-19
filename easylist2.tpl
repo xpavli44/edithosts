@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt lis 19 21:30:39 CET 2015 ##################
+##### Aktualizováno: Čt lis 19 21:57:05 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12945,6 +12945,7 @@ msFilterList
 -d tremormedia.com /embed/js/*_ads.js
 -d tremormedia.com /tpacudeoplugin46.swf
 -d tremormedia.com _preroll_
+-d trhnt.com /sx.tr.js
 -d trialfunder.com /banner/
 -d trialpay.com &dw-ptid=
 -d tribktla.files.wordpress.com -639x125-sponsorship.jpg?
