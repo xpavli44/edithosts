@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 20 00:06:23 CET 2015 ##################
+##### Aktualizováno: Po lis 23 15:47:57 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10304,6 +10304,7 @@ msFilterList
 -d trafficjunky.net
 -d trafficmasterz.net
 -d trafficmp.com
+-d trafficposse.com
 -d trafficrevenue.net
 -d trafficspaces.net
 -d trafficswarm.com
@@ -11941,7 +11942,7 @@ msFilterList
 -d choices.truste.com
 -d chriscasconi.com /nostalgia_ad.
 -d cimg.in /images/banners/
--d circularhub.com /circularhub_module.js
+-d circularhub.com
 -d citygridmedia.com /ads/
 -d cjmooter.xcache.kinxcdn.com
 -d clarity.abacast.com
@@ -18109,6 +18110,7 @@ msFilterList
 +d carzone.ie /es-ie/*advert
 +d cbc.ca /ads/*.php?
 +d cbs.com /sitecommon/includes/cacheable/combine.php?*/adfunctions.
++d cbsistatic.com /sticky-ads.js?
 +d cdn.complexmedianetwork.com /cdn/agenda.complex.com/js/jquery.writecapture.js
 +d cdn.complexmedianetwork.com /cdn/agenda.complex.com/js/jwplayerl.js
 +d cdn.complexmedianetwork.com /cdn/agenda.complex.com/js/swfobject.js

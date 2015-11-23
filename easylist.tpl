@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Nov 2015 23:00 UTC
+# Last modified: 23 Nov 2015 14:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10622,6 +10622,7 @@ msFilterList
 -d trafficjunky.net
 -d trafficmasterz.net
 -d trafficmp.com
+-d trafficposse.com
 -d trafficrevenue.net
 -d trafficspaces.net
 -d trafficswarm.com
@@ -12736,7 +12737,7 @@ msFilterList
 -d choices.truste.com
 -d chriscasconi.com /nostalgia_ad.
 -d cimg.in /images/banners/
--d circularhub.com /circularhub_module.js
+-d circularhub.com
 -d citygridmedia.com /ads/
 -d cjmooter.xcache.kinxcdn.com
 -d clarity.abacast.com
@@ -20250,6 +20251,7 @@ msFilterList
 +d cbs.com /sitecommon/includes/cacheable/combine.php?*/adfunctions.
 # @@||cbsistatic.com/cnwk.1d/ads/common/manta/adfunctions*.js$domain=cnettv.cnet.com
 # @@||cbsistatic.com^*/js/plugins/doubleclick.js$domain=cnet.com
++d cbsistatic.com /sticky-ads.js?
 # @@||cbslocal.com/flash/videoads.*.swf$object,domain=radio.com
 # @@||cc-dt.com/link/tplimage?lid=$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 # @@||cdn.betrad.com/pub/icon1.png$domain=usanetwork.com
