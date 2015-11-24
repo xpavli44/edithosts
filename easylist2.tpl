@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po lis 23 15:47:57 CET 2015 ##################
+##### Aktualizováno: Út lis 24 11:32:00 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -6149,6 +6149,7 @@ msFilterList
 - ?adcontext=
 - ?adCount=
 - ?adflashid=
+- ?adformat=
 - ?adfox_
 - ?adloc=
 - ?adlocation=
@@ -12097,7 +12098,6 @@ msFilterList
 -d dealtoday.com.mt /banners/
 -d dealzone.co.za .js
 -d delivery.importantmedia.org
--d delivery.vidible.tv /jsonp/pid=
 -d dennis.co.uk /siteskins/
 -d depositfiles.com .php?ref=
 -d desi4m.com /desi4m.gif
@@ -18671,6 +18671,7 @@ msFilterList
 +d sdelkino.com /images/ad/
 +d sdltutorials.com /Data/Ads/AppStateBanner.jpg
 +d search.comcast.net /static.php?
++d search.yahoo.com
 +d sec-ads.bridgetrack.com /ads_img/
 +d secondlife.com /assets/*_AD3.jpg
 +d securenetsystems.net /advertising/ad_campaign_get.cfm?

@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 23 Nov 2015 14:40 UTC
+# Last modified: 24 Nov 2015 10:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -6329,6 +6329,7 @@ msFilterList
 - ?adcontext=
 - ?adCount=
 - ?adflashid=
+- ?adformat=
 - ?adfox_
 - ?adloc=
 - ?adlocation=
@@ -12901,7 +12902,6 @@ msFilterList
 -d dealtoday.com.mt /banners/
 -d dealzone.co.za .js
 -d delivery.importantmedia.org
--d delivery.vidible.tv /jsonp/pid=
 -d dennis.co.uk /siteskins/
 -d depositfiles.com .php?ref=
 -d desi4m.com /desi4m.gif
@@ -21194,6 +21194,7 @@ msFilterList
 +d sdelkino.com /images/ad/
 +d sdltutorials.com /Data/Ads/AppStateBanner.jpg
 +d search.comcast.net /static.php?
++d search.yahoo.com
 +d sec-ads.bridgetrack.com /ads_img/
 +d secondlife.com /assets/*_AD3.jpg
 +d securenetsystems.net /advertising/ad_campaign_get.cfm?
