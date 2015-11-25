@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út lis 24 11:32:00 CET 2015 ##################
+##### Aktualizováno: St lis 25 11:36:30 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -7456,6 +7456,7 @@ msFilterList
 -d ad-vice.biz
 -d ad.atdmt.com /i/a.html
 -d ad.atdmt.com /i/a.js
+-d ad.linksynergy.com
 -d ad.mo.doubleclick.net /dartproxy/
 -d ad.pxlad.io
 -d ad.yieldpartners.com
@@ -9250,7 +9251,6 @@ msFilterList
 -d linkshowoff.com
 -d linksmart.com
 -d linkstorm.net
--d linksynergy.com
 -d linkwash.de
 -d linkworth.com
 -d linkybank.com

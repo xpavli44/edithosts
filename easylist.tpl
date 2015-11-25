@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 24 Nov 2015 10:20 UTC
+# Last modified: 25 Nov 2015 10:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -7746,6 +7746,7 @@ msFilterList
 -d ad.atdmt.com /i/a.html
 -d ad.atdmt.com /i/a.js
 # ||ad.doubleclick.net^$~object-subrequest,third-party
+-d ad.linksynergy.com
 -d ad.mo.doubleclick.net /dartproxy/
 -d ad.pxlad.io
 -d ad.yieldpartners.com
@@ -9559,7 +9560,6 @@ msFilterList
 -d linkshowoff.com
 -d linksmart.com
 -d linkstorm.net
--d linksynergy.com
 -d linkwash.de
 -d linkworth.com
 -d linkybank.com
