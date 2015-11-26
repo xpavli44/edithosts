@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St lis 25 16:12:37 CET 2015 ##################
+##### Aktualizováno: Čt lis 26 16:26:21 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10760,6 +10760,7 @@ msFilterList
 -d kilomonj.net
 -d kioshow.com
 -d kuangard.net
+-d leanoisgo.com
 -d lesuard.com
 -d lia-ndr.com
 -d lirte.org
@@ -13565,6 +13566,7 @@ msFilterList
 -d 980wcap.com /sponsorlogos/
 -d 9news.com /promo/
 -d a.cdngeek.net
+-d a.clipconverter.cc
 -d a.giantrealm.com
 -d a.i-sgcm.com
 -d a.kat.cr
@@ -14447,7 +14449,6 @@ msFilterList
 -d feiwei.tv /sandbox.html
 -d fever.fm /campaigns/
 -d fever.fm /sposor-
--d fff.dailymail.co.uk
 -d ffiles.com /counters.js
 -d fgfx.co.uk /banner.js?
 -d fhm.com /images/casinobutton.gif
@@ -14749,6 +14750,7 @@ msFilterList
 -d hahasport.com /ads/
 -d hancinema.net /images/banner_
 -d hancinema.net /images/watch-now
+-d happierabroad.com /Images/banner
 -d hardwareheaven.com /styles/*/frontpage/backdrop.jpg
 -d hardwareheaven.com /wp-content/*_skin_
 -d hawaiireporter.com -300x250.jpg
