@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt lis 26 16:58:01 CET 2015 ##################
+##### Aktualizováno: Po lis 30 02:13:52 CET 2015 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1257,6 +1257,7 @@ msFilterList
 - /ad/leaderboard.
 - /ad/listing-
 - /ad/live-
+- /ad/load.
 - /ad/load_
 - /ad/loading.
 - /ad/log/
@@ -8487,6 +8488,7 @@ msFilterList
 -d delivery47.com
 -d delivery49.com
 -d delivery51.com
+-d delnapb.com
 -d deplayer.net
 -d deployads.com
 -d deriversal.com
@@ -8803,6 +8805,7 @@ msFilterList
 -d flite.com
 -d fllwert.net
 -d flodonas.com
+-d flomigo.com
 -d fluidads.co
 -d fluxads.com
 -d flyertown.ca
@@ -9004,6 +9007,7 @@ msFilterList
 -d hplose.de
 -d hsslx.com
 -d hstpnetwork.com
+-d htmlhubing.xyz
 -d httpool.com
 -d httpsecurity.org
 -d huzonico.com
@@ -11991,6 +11995,7 @@ msFilterList
 -d customer.heartinternet.co.uk
 -d cuteonly.com /banners.php
 -d d13czkep7ax7nj.cloudfront.net
+-d d140sbu1b1m3h0.cloudfront.net
 -d d15565yqt7pv7r.cloudfront.net
 -d d15gt9gwxw5wu0.cloudfront.net
 -d d17f2fxw547952.cloudfront.net
@@ -14427,6 +14432,7 @@ msFilterList
 -d extratorrent.cc /scripts/pp_
 -d extremeoverclocking.com /template_images/it120x240.gif
 -d ezmoviestv.com /ad-for-ezmovies.png
+-d eztv.ag /js/openback*.js
 -d f1today.net /sponsors/
 -d faadooengineers.com /ads/
 -d facenfacts.com /ads/
@@ -14475,6 +14481,7 @@ msFilterList
 -d filespart.com /ot/fast.aspx?
 -d filespazz.com /imx/template_r2_c3.jpg
 -d filespazz.com /copyartwork_side_banner.gif
+-d filestream.me /requirements/images/cialis_generic.gif
 -d filestream.me /requirements/images/ed.gif
 -d filipinojournal.com /images/banners/
 -d filmey.com /Filmey.Ad.js
@@ -16466,6 +16473,7 @@ msFilterList
 -d thetvdb.com /images/jriver_banner.png
 -d thevideo.me /cgi-bin/get_creatives.cgi?
 -d thevideo.me /creatives/
+-d thevideo.me /js/popup.min.js
 -d thevoicebw.com 325x290.jpg
 -d thewb.com /thewb/swf/tmz-adblock/
 -d thewindowsclub.com /banner_
@@ -19761,6 +19769,7 @@ msFilterList
 +d mongoporn.com /adframe/
 +d n4mo.org /wp-content/*/ads/
 +d nightchan.com /advertisement.js
++d ooporn.com /ads.js
 +d openload.io /Ads.png
 +d phncdn.com /js/advertisement.js
 +d phncdn.com /ads.js

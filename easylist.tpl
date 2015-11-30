@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 26 Nov 2015 15:50 UTC
+# Last modified: 30 Nov 2015 01:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1374,6 +1374,7 @@ msFilterList
 - /ad/leaderboard.
 - /ad/listing-
 - /ad/live-
+- /ad/load.
 - /ad/load_
 - /ad/loading.
 - /ad/log/
@@ -8782,6 +8783,7 @@ msFilterList
 -d delivery47.com
 -d delivery49.com
 -d delivery51.com
+-d delnapb.com
 -d deplayer.net
 -d deployads.com
 -d deriversal.com
@@ -9109,6 +9111,7 @@ msFilterList
 -d flite.com
 -d fllwert.net
 -d flodonas.com
+-d flomigo.com
 -d fluidads.co
 -d fluxads.com
 -d flyertown.ca
@@ -9311,6 +9314,7 @@ msFilterList
 -d hplose.de
 -d hsslx.com
 -d hstpnetwork.com
+-d htmlhubing.xyz
 -d httpool.com
 -d httpsecurity.org
 -d huzonico.com
@@ -12793,6 +12797,7 @@ msFilterList
 -d cuteonly.com /banners.php
 # ||d-l-t.com^$subdocument,third-party
 -d d13czkep7ax7nj.cloudfront.net
+-d d140sbu1b1m3h0.cloudfront.net
 -d d15565yqt7pv7r.cloudfront.net
 -d d15gt9gwxw5wu0.cloudfront.net
 -d d17f2fxw547952.cloudfront.net
@@ -13537,6 +13542,7 @@ msFilterList
 # ||player.screenwavemedia.com^*/ova-jw.swf$object-subrequest
 -d playfooty.tv /jojo.html
 -d plexidigest.com /plexidigest-300x300.jpg
+# ||plista.com/async.js$domain=mirror.co.uk
 -d plus.net /images/referrals/*_banner_
 -d pm.web.com
 -d pokerjunkie.com /rss/
@@ -15705,6 +15711,7 @@ msFilterList
 -d extratorrent.cc /scripts/pp_
 -d extremeoverclocking.com /template_images/it120x240.gif
 -d ezmoviestv.com /ad-for-ezmovies.png
+-d eztv.ag /js/openback*.js
 -d f1today.net /sponsors/
 -d faadooengineers.com /ads/
 -d facenfacts.com /ads/
@@ -15757,6 +15764,7 @@ msFilterList
 -d filespart.com /ot/fast.aspx?
 -d filespazz.com /imx/template_r2_c3.jpg
 -d filespazz.com /copyartwork_side_banner.gif
+-d filestream.me /requirements/images/cialis_generic.gif
 -d filestream.me /requirements/images/ed.gif
 -d filipinojournal.com /images/banners/
 -d filmey.com /Filmey.Ad.js
@@ -17896,6 +17904,7 @@ msFilterList
 -d thetvdb.com /images/jriver_banner.png
 -d thevideo.me /cgi-bin/get_creatives.cgi?
 -d thevideo.me /creatives/
+-d thevideo.me /js/popup.min.js
 -d thevoicebw.com 325x290.jpg
 -d thewb.com /thewb/swf/tmz-adblock/
 -d thewindowsclub.com /banner_
@@ -18710,6 +18719,7 @@ msFilterList
 # @@||images.performgroup.com^$image,domain=sportsmole.co.uk
 +d images.sportsworldnews.com
 # @@||img.tfd.com^$third-party,domain=thefreedictionary.com
+# @@||img2.tfd.com^$image,domain=thefreedictionary.com
 +d imgur.com /min/*.js
 +d intensedebate.com /js/*.js
 # @@||jwplatform.com^$script,third-party,domain=activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|askmefast.com|bidnessetc.com|bulletsfirst.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailycaller.com|dailyheadlines.net|dailysurge.com|dccrimestories.com|digitaljournal.com|drhotze.com|enstarz.com|explosm.net|gamezone.com|genfringe.com|girlsjustwannahaveguns.com|heavy.com|heroichollywood.com|hngn.com|infowars.com|instigatornews.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinopost.com|latinpost.com|libertyunyielding.com|listverse.com|mensfitness.com|minutemennews.com|mobilelikez.com|mstarz.com|muscleandfitness.com|musictimes.com|naturalblaze.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|okmagazine.com|patriotoutdoornews.com|pitgrit.com|radaronline.com|rantlifestyle.com|realfarmacy.com|redmaryland.com|shark-tank.com|stevedeace.com|techtimes.com|theblacksphere.net|thechive.com|thegatewaypundit.com|themattwalshblog.com|thepoke.co.uk|townhall.com|unilad.co.uk|valuewalk.com|variety.com|vcpost.com|victoriajackson.com|viralnova.com
@@ -19808,7 +19818,7 @@ msFilterList
 #-----------------------Whitelists to fix broken sites------------------------#
 # *** easylist:easylist/easylist_whitelist.txt ***
 # @@.com/b/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
-# @@.com/banners/$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
+# @@.com/banners/$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|sianevents.com|travelplus.com
 # @@.com/image-*-$image,domain=affrity.com|catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|theperfectsaver.com|travelplus.com
 # @@.net/director/?t=$subdocument,third-party,domain=eafyfsuh.net
 # @@.net/image-*-$image,domain=affrity.com|catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
@@ -20689,7 +20699,7 @@ msFilterList
 +d imasdk.googleapis.com /flash/core/3.*/adsapi.swf
 +d imasdk.googleapis.com /flash/sdkloader/adsapi_3.swf
 # @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=audiomack.com|blinkboxmusic.com|cbc.ca|cnet.com|eboundservices.com|gamejolt.com|globalnews.ca|live.geo.tv|news.sky.com|nfl.com|reuters.tv|rottentomatoes.com|softgames.de|thestreet.com|video.foxnews.com|waywire.com|wibbitz.com
-# @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=audiomack.com|blinkboxmusic.com|cbc.ca|cnet.com|gamejolt.com|news.sky.com|theverge.com
+# @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=audiomack.com|blinkboxmusic.com|cbc.ca|cnet.com|gamejolt.com|news.sky.com|theverge.com|video.foxnews.com
 # @@||img-cdn.mediaplex.com^$image,domain=betfair.com
 # @@||img.espngp.com/ads/$image,domain=espnf1.com
 # @@||img.mediaplex.com^*_afl_bettingpage_$domain=afl.com.au
@@ -21039,7 +21049,7 @@ msFilterList
 # @@||partner.googleadservices.com/gampad/google_ads2.js$domain=motorcycle.com|mysoju.com|nedbank.co.za
 # @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=amctheatres.com|pitchfork.com|podomatic.com|virginaustralia.com
 # @@||partner.googleadservices.com/gampad/google_service.js$domain=autoguide.com|avclub.com|boatshop24.com|cadenasuper.com|dailygames.com|demotywatory.pl|drivearabia.com|ensonhaber.com|escapegames.com|juegosdiarios.com|lbox.me|letio.com|lightinthebox.com|memegenerator.net|motorcycle.com|mysoju.com|nedbank.co.za|nedbankgreen.co.za|nx8.com|playedonline.com|playstationlifestyle.net|readersdigest.com.au|sulekha.com|ticketek.com.ar|volokh.com|yfrog.com
-# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ew.com|forbes.com|foxnews.com|gawker.com|gizmodo.com|independent.co.uk|investopedia.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|latimes.com|lifehacker.com|m.tmz.com|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|nytimes.com|orbitz.com|sendtonews.com|thesimsresource.com|time.com|urbandictionary.com|vanityfair.com|vroomvroomvroom.com.au|weather.com|weddingspot.co.uk|wlj.net|zavvi.com|zdnet.com|zillow.com
+# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ew.com|forbes.com|foxnews.com|gawker.com|gizmodo.com|independent.co.uk|investopedia.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|latimes.com|lifehacker.com|m.tmz.com|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|nytimes.com|orbitz.com|sendtonews.com|thesimsresource.com|time.com|urbandictionary.com|vanityfair.com|video.foxnews.com|vroomvroomvroom.com.au|weather.com|weddingspot.co.uk|wlj.net|zavvi.com|zdnet.com|zillow.com
 +d partners.thefilter.com /crossdomain.xml
 # @@||partners.thefilter.com/dailymotionservice/$image,object-subrequest,script,domain=dailymotion.com
 # @@||patient-education.com/banners/$~third-party
@@ -21751,6 +21761,7 @@ msFilterList
 +d anti-adblock-scripts.googlecode.com /files/adscript.js
 +d apkmirror.com /wp-content/themes/APKMirror/js/ads.js
 # @@||apkone.net^$elemhide
+# @@||appdn.net^$elemhide
 # @@||appfull.net^$elemhide
 +d ar51.eu /ad/advertisement.js
 +d arto.com /includes/js/adtech.de/script.axd/adframe.js?
@@ -22748,6 +22759,8 @@ msFilterList
 +d s-nk.pl /img/ads/icons_pack
 # @@||s1emagst.akamaized.net/openx/*.jpg$domain=emag.hu
 +d sanook.com /php/get_ads.php?vast_linear=
+# @@||sascdn.com/diff/video/current/libs/js/controller.js$domain=ligtv.com.tr
+# @@||sascdn.com/video/$object,script,domain=ligtv.com.tr
 # @@||segundamano.mx/api/*/ads/$~third-party
 +d sigmalive.com /assets/js/jquery.openxtag.js
 +d skai.gr /advert/*.flv
@@ -23373,6 +23386,7 @@ msFilterList
 +d n4mo.org /wp-content/*/ads/
 # @@||n4mo.org^$elemhide
 +d nightchan.com /advertisement.js
++d ooporn.com /ads.js
 +d openload.io /Ads.png
 # @@||palaotog.net^$elemhide
 +d phncdn.com /js/advertisement.js
