@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po led 11 08:58:42 CET 2016 ##################
+##### Aktualizováno: Pá led 15 03:45:13 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -6082,6 +6082,7 @@ msFilterList
 - /x5advcorner.
 - /xads.php
 - /xadvertisement.
+- /xbanner.js
 - /xbanner.php?
 - /xclicks.
 - /xfiles/ads/
@@ -8094,6 +8095,7 @@ msFilterList
 -d arcadebanners.com
 -d arcadebe.com
 -d arcadechain.com
+-d areasins.com
 -d areasnap.com
 -d arti-mediagroup.com
 -d as-farm.com
@@ -9413,7 +9415,7 @@ msFilterList
 -d m57ku6sm.com
 -d m5prod.net
 -d mabirol.com
--d machings.com //
+-d machings.com
 -d madadsmedia.com
 -d madserving.com
 -d madsone.com
@@ -9458,6 +9460,7 @@ msFilterList
 -d mdialog.com
 -d mdn2015x1.com
 -d mdn2015x2.com
+-d mdn2015x3.com
 -d mdn2015x4.com
 -d meadigital.com
 -d media-general.com
@@ -9471,6 +9474,7 @@ msFilterList
 -d mediaadserver.org
 -d mediaclick.com
 -d mediacpm.com
+-d mediaessence.net
 -d mediaffiliation.com
 -d mediafilesdownload.com
 -d mediaflire.com
@@ -9524,6 +9528,7 @@ msFilterList
 -d milabra.com
 -d mindlytix.com
 -d minimumpay.info
+-d mintake.com
 -d mirago.com
 -d mirrorpersonalinjury.co.uk
 -d mistands.com
@@ -9891,6 +9896,7 @@ msFilterList
 -d pornv.org
 -d posternel.com
 -d postrelease.com
+-d poundaccordexecute.info
 -d poweradvertising.co.uk
 -d powerfulbusiness.net
 -d powerlinks.com
@@ -10474,6 +10480,7 @@ msFilterList
 -d turn.com
 -d tusno.com
 -d tutvp.com
+-d tvas-a.pw
 -d tvas-c.pw
 -d tvprocessing.com
 -d twalm.com
@@ -10923,6 +10930,7 @@ msFilterList
 -d qzsccm.com
 -d r3seek.com
 -d rdige.com
+-d reaspans.com
 -d regersd.net
 -d rhgersf.com
 -d rigistrar.net
@@ -11730,7 +11738,7 @@ msFilterList
 -d x-adservice.com
 -d x-exchanger.co.uk
 -d x3v66zlz.com
--d xaxoro.com //
+-d xaxoro.com
 -d xclickdirect.com
 -d xclicks.net
 -d xf43506e8.pw
@@ -11858,6 +11866,7 @@ msFilterList
 -d ads.dynamicyield.com
 -d ads.mp.mydas.mobi
 -d ads.tremorhub.com
+-d adsales.snidigital.com
 -d adscaspion.appspot.com
 -d adserv.legitreviews.com
 -d adsrv.eacdn.com
@@ -12827,7 +12836,6 @@ msFilterList
 -d pcmall.co.za /affiliates/
 -d pdl.viaplay.com /commercials/
 -d pearlriverusa.com /images/banner/
--d pebed.dm.gg
 -d perfectforex.biz /images/*x
 -d perfectmoney.com /img/banners/
 -d ph.hillcountrytexas.com /imp.php?
@@ -15691,6 +15699,7 @@ msFilterList
 -d ndtv.com /sponsors/
 -d nearlygood.com /_aff.php?
 -d nemesistv.info /jQuery.NagAds1.min.js
+-d neodrive.co /cam/
 -d neoseeker.com /a_pane.php
 -d neowin.net /images/atlas/aww
 -d nerej.com /c/
@@ -16150,7 +16159,6 @@ msFilterList
 -d roia.com
 -d rojadirecta.ge /pu.js
 -d rok.com.com /rok-get?
--d rollingstone.co.za /images/banners/
 -d rom-freaks.net /popup.php
 -d romhustler.net /square.js
 -d rootsweb.com /js/o*.js
@@ -16672,6 +16680,8 @@ msFilterList
 -d thevideo.me /js/jsmpc.js
 -d thevideo.me /js/jspc.js
 -d thevideo.me /js/popup.min.js
+-d thevideo.me /mba/cds.js
+-d thevideo.me /player/offers.js
 -d thevoicebw.com 325x290.jpg
 -d thewb.com /thewb/swf/tmz-adblock/
 -d thewindowsclub.com /banner_
@@ -19273,6 +19283,8 @@ msFilterList
 +d filmweb.pl /adbanner/*.js
 +d firstonetv.com /ads_advertisement.js
 +d fitshr.net
++d flvto.biz /scripts/ads.js
++d flvto.biz
 +d fm.tuba.pl /tuba3/_js/advert.js
 +d freebitco.in .js
 +d freebitcoin.wmat.pl /advertisement.js
@@ -19438,6 +19450,7 @@ msFilterList
 +d psarips.com .js
 +d pubdirecte.com /advertisement.js
 +d puromarketing.com /js/advertisement.js
++d pxstream.tv
 +d qrrro.com /adhandler/
 +d racedepartment.com /advertisement.js
 +d radar-toulouse.fr /advertisement.js
@@ -19495,6 +19508,7 @@ msFilterList
 +d thememypc.com /wp-content/*/ads/
 +d thesilverforum.com /public/js/jsLoader.js?adType=*.js
 +d thesominaltv.com /advertisement.js
++d thevideo.me /js/ads.js
 +d thevideos.tv /js/ads.js
 +d theweatherspace.com /advertisement.js
 +d tklist.net /tklist/*ad
