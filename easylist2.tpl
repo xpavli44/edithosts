@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po led 18 11:53:16 CET 2016 ##################
+##### Aktualizováno: Po led 18 15:32:12 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -663,6 +663,7 @@ msFilterList
 - -layer-ads/
 - -leaderboard-ad-
 - -load-ads.
+- -main/ad.
 - -NewAd.
 - -news-ad-
 - -newsletter-ad-
@@ -3607,6 +3608,7 @@ msFilterList
 - /bdcustomadsense-
 - /beacon/ad/
 - /behaviorads/
+- /bennerad.min.
 - /beta-ad.
 - /betrad.js
 - /bftv/ads/
@@ -3802,6 +3804,7 @@ msFilterList
 - /contentadvert1.
 - /contentadxxl.
 - /contentad
+- /contentmobilead.
 - /context_ad/
 - /context_ads.
 - /contextad.
@@ -4596,6 +4599,7 @@ msFilterList
 - /index-ad.
 - /index_ad/
 - /index_ads.
+- /indexmobilead2.
 - /inhouse_ads/
 - /initdefineads.
 - /initlayeredwelcomead-
@@ -4802,6 +4806,7 @@ msFilterList
 - /logoutad.
 - /lotto_ad_
 - /lrec_ad.
+- /m-ad.css?
 - /m0ar_ads.
 - /mac-ad?
 - /mad.aspx?
@@ -5007,6 +5012,7 @@ msFilterList
 - /omb-ad-
 - /ome.ads.
 - /onead.
+- /onead_
 - /onecam4ads.
 - /onesheet-ad-
 - /online/ads/
@@ -10872,6 +10878,7 @@ msFilterList
 -d contentr.net
 -d cotnr.com
 -d crhikay.me
+-d cuasparian.com
 -d d3lens.com
 -d deuskex.link
 -d diabolicaf.com
@@ -15076,7 +15083,6 @@ msFilterList
 -d iceinspace.com.au /iisads/
 -d icelandreview.com /auglysingar/
 -d iconeye.com /images/banners/
--d icrt.com.tw /downloads/banner/
 -d icydk.com /title_visit_sponsors.
 -d iddin.com /img/chatwing_banner.
 -d iddin.com /img/chatwing_banner_
@@ -15699,6 +15705,7 @@ msFilterList
 -d myway.com /gca_iframe.html
 -d mywot.net /files/wotcert/vipre.png
 -d naij.com /branding/
+-d namepros.com /images/backers/
 -d nation.co.ke _bg.png
 -d nation.lk /banners/
 -d nation.sc /images/banners/
