@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 18 Jan 2016 10:20 UTC
+# Last modified: 18 Jan 2016 10:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -14333,6 +14333,7 @@ msFilterList
 # ||rackcorp.com^$popup
 # ||record.sportsbetaffiliates.com.au^$popup,third-party
 # ||red-tube.com/popunder/$popup
+# ||reviversoft.com^*&utm_source=$popup,third-party
 # ||rocketgames.com^$popup,third-party
 # ||roomkey.com/referrals?$popup,third-party
 # ||secure.komli.com^$popup,third-party
