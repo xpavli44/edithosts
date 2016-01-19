@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út led 19 15:03:44 CET 2016 ##################
+##### Aktualizováno: Út led 19 15:50:53 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -13745,6 +13745,7 @@ msFilterList
 -d 1up.com /promos/
 -d 22lottery.com /images/lm468
 -d 24hourwristbands.com .googleadservices.com/
+-d 2ca.com.au /images/banners/
 -d 2cc.net.au /images/banners/
 -d 2flashgames.com /img/nfs.gif
 -d 2gb.com /backgrounds/

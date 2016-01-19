@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Jan 2016 14:01 UTC
+# Last modified: 19 Jan 2016 14:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -14971,6 +14971,7 @@ msFilterList
 # ||217.79.184.79^$domain=filmovizija.com
 -d 22lottery.com /images/lm468
 -d 24hourwristbands.com .googleadservices.com/
+-d 2ca.com.au /images/banners/
 -d 2cc.net.au /images/banners/
 -d 2flashgames.com /img/nfs.gif
 -d 2gb.com /backgrounds/
