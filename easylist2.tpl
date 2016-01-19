@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út led 19 12:15:44 CET 2016 ##################
+##### Aktualizováno: Út led 19 14:53:58 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5180,6 +5180,7 @@ msFilterList
 - /popads.
 - /popads/
 - /popads_
+- /popadscpm.
 - /poplivejasmine.
 - /popounder4.
 - /poprotator.
@@ -12804,6 +12805,7 @@ msFilterList
 -d newware.net /home/banner
 -d newware.net /home/newware-sm.png
 -d nimblecommerce.com /widget.action?
+-d nitroflare.com /img/banners/
 -d nitropdf.com /graphics/promo/
 -d nlsl.about.com /img?
 -d nocookie.net /wikiasearchads.js
@@ -16288,8 +16290,9 @@ msFilterList
 -d searchtempest.com /clhimages/aocbanner.jpg
 -d seatguru.com /deals?
 -d sebar.thand.info
--d secureupload.eu /gfx/dlbtn.png
--d secureupload.eu /gfx/freedl.png
+-d secureupload.eu /gfx/SecureUpload_Banner.png
+-d secureupload.eu /images/soundcloud_
+-d secureupload.eu /images/wpman_
 -d secureupload.eu /js/poad.js
 -d securitymattersmag.com /scripts/popup.js
 -d securitywonks.net /promotions/
@@ -19412,6 +19415,7 @@ msFilterList
 +d kisscartoon.me /Ads/
 +d koparos.info /ads.php
 +d kotaku.com.au /ads.js
++d lapurno.info /ads.php
 +d lasexta.com /adsxml/
 +d lasprovincias.es /adframe.js
 +d layer13.net .js
@@ -19481,6 +19485,7 @@ msFilterList
 +d nowvideo.li /banner.php?*.js
 +d nowvideo.sx /banner.php?*.js
 +d nowvideo.to /banner.php?*.js
++d oklivetv.com
 +d onlinemoviewatchs.com
 +d onlinevideoconverter.com ad*.js
 +d onrpg.com /advertisement.js

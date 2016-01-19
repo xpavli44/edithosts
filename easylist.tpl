@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Jan 2016 11:00 UTC
+# Last modified: 19 Jan 2016 13:43 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -5347,6 +5347,7 @@ msFilterList
 - /popads.
 - /popads/
 - /popads_
+- /popadscpm.
 - /poplivejasmine.
 - /popounder4.
 - /poprotator.
@@ -7657,6 +7658,7 @@ msFilterList
 # /adServe/sa?cid=$popup
 # /adserver.$popup
 # /adstream_sx.ads/*$popup
+# /adsxml.php$popup
 # /adsynserveuserid=$popup
 # /advlink.$popup
 # /afu.php?$popup
@@ -11395,6 +11397,7 @@ msFilterList
 # ||adonweb.ru^$popup,third-party
 # ||adplxmd.com^$popup,third-party
 # ||ads.sexier.com^$popup,third-party
+# ||adscpm.net^$popup,third-party
 # ||adserverplus.com^$popup,third-party
 # ||adshostnet.com^$popup,third-party
 # ||adsmarket.com^$popup,third-party
@@ -11649,6 +11652,7 @@ msFilterList
 # ||tracki112.com^$popup,third-party
 # ||trafficforce.com^$popup,third-party
 # ||traffichaus.com^$popup,third-party
+# ||trafficinvest.com^$popup,third-party
 # ||trklnks.com^$popup,third-party
 # ||trw12.com^$popup,third-party
 # ||tutvp.com^$popup,third-party
@@ -13687,6 +13691,7 @@ msFilterList
 -d newware.net /home/banner
 -d newware.net /home/newware-sm.png
 -d nimblecommerce.com /widget.action?
+-d nitroflare.com /img/banners/
 -d nitropdf.com /graphics/promo/
 -d nlsl.about.com /img?
 -d nocookie.net /wikiasearchads.js
@@ -14360,6 +14365,7 @@ msFilterList
 # ||sunmaker.com^*^a_aid^$popup,third-party
 # ||thebestbookies.com^$popup,third-party
 # ||theseforums.com^*/?ref=$popup
+# ||thesportstream.com^$popup,domain=sportcategory.org
 # ||thetraderinpajamas.com^$popup,third-party
 # ||tipico.com^*?affiliateid=$popup,third-party
 # ||torntv-tvv.org^$popup,third-party
@@ -17724,8 +17730,9 @@ msFilterList
 -d sebar.thand.info
 # ||seclists.org/shared/images/p/$image
 # ||sectools.org/shared/images/p/$image
--d secureupload.eu /gfx/dlbtn.png
--d secureupload.eu /gfx/freedl.png
+-d secureupload.eu /gfx/SecureUpload_Banner.png
+-d secureupload.eu /images/soundcloud_
+-d secureupload.eu /images/wpman_
 -d secureupload.eu /js/poad.js
 -d securitymattersmag.com /scripts/popup.js
 -d securitywonks.net /promotions/
@@ -22507,6 +22514,7 @@ msFilterList
 # @@||kshowes.net^$elemhide
 # @@||kwikupload.com^$elemhide
 # @@||lag10.net^$elemhide
++d lapurno.info /ads.php
 +d lasexta.com /adsxml/
 +d lasprovincias.es /adframe.js
 +d layer13.net .js
@@ -22641,6 +22649,7 @@ msFilterList
 +d nowvideo.to /banner.php?*.js
 # @@||nzbstars.com*/advertisement.js
 # @@||nzd.co.nz^*/ads/webads$script,domain=nzdating.com
++d oklivetv.com
 # @@||olcdn.net/ads1.js$domain=olweb.tv
 # @@||omaredomex.org^$elemhide
 # @@||oneplay.tv^$elemhide
