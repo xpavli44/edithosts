@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po led 18 16:44:31 CET 2016 ##################
+##### Aktualizováno: Út led 19 12:09:33 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1793,6 +1793,7 @@ msFilterList
 - /adcreative.
 - /adcreative/
 - /adcss/
+- /adcxtnew_
 - /adcycle.
 - /adcycle/
 - /add728.
@@ -4511,6 +4512,7 @@ msFilterList
 - /image/ads_
 - /image/adv/
 - /image/affiliate/
+- /image/sponsors/
 - /image_ads/
 - /imageads/
 - /imagecache_ads/
@@ -5963,6 +5965,7 @@ msFilterList
 - /vghd2.gif
 - /VHDpoppingModels/
 - /viagogoads.
+- /vice-ads.
 - /vidadv.
 - /video-ad-overlay.
 - /video-ads-player.
@@ -8178,6 +8181,7 @@ msFilterList
 -d backlinks.com
 -d badjocks.com
 -d baldiro.de
+-d bam-x.com
 -d bananaflippy.com
 -d banner-clix.com
 -d banner-rotation.com
@@ -9639,6 +9643,7 @@ msFilterList
 -d native-adserver.com
 -d nativead.co
 -d nativeads.com
+-d nativeadsfeed.com
 -d nbjmp.com
 -d nbstatic.com
 -d ncrjsserver.com
@@ -9830,6 +9835,7 @@ msFilterList
 -d percularity.com
 -d perfb.com
 -d perfcreatives.com
+-d perfectmarket.com
 -d perfoormapp.info
 -d performance-based.com
 -d performanceadvertising.mobi
@@ -14318,6 +14324,7 @@ msFilterList
 -d computerhelp.com /temp/banners/
 -d computerworld.com /jobroll/
 -d con-telegraph.ie /images/banners/
+-d concealednation.org /sponsors/
 -d concrete.tv /images/banners/
 -d connectionstrings.com /csas/public/a.ashx?
 -d conscioustalk.net /images/sponsors/
@@ -14353,6 +14360,7 @@ msFilterList
 -d cricbuzz.com /js/banners/
 -d cricruns.com /images/hioxindia-
 -d crimeaware.co.za /files-upload/banner/
+-d crow.com /biggreendot.png
 - http://crunchyroll.*/vast?
 -d crushorflush.com /html/promoframe.html
 -d cruzine.com /banners/
@@ -14765,6 +14773,7 @@ msFilterList
 -d forumimg.ipmart.com /swf/ipmart_forum/banner
 -d forumw.org /images/uploading.gif
 -d forward.com /workspace/assets/newimages/amazon.png
+-d foxandhoundsdaily.com /wp-content/uploads/*-AD.gif
 -d foxbusiness.com /html/google_homepage_promo
 -d foxsoccer2go.com /namedImage/*/backgroundSkin.jpg
 -d foxsports.com.au /sponsor/
@@ -15985,6 +15994,7 @@ msFilterList
 -d playgames2.com /rand100x100.php
 -d playhub.com /js/popup-wide.js
 -d playtowerdefensegames.com /ptdg-gao-gamebox-homepage.swf
+-d pleasurizemusic.com /banner/
 -d plsn.com /images/PLSN-Bg1.jpg
 -d plunderguide.com /leaderboard-gor.html
 -d plunderguide.com /rectangle2.html
@@ -17247,6 +17257,9 @@ msFilterList
 -d yomzansi.com -300x250.
 -d yopmail.com /fbd.js
 -d yorkshirecoastradio.com /resources/creative/
+-d yotv.co /ad/
+-d yotv.co /adds/
+-d yotv.co /class/adjsn3.js
 -d youconvertit.com /_images/*ad.png
 -d youngrider.com /images/sponsorships/
 -d yourbittorrent.com /downloadnow.png
