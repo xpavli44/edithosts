@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Jan 2016 15:00 UTC
+# Last modified: 20 Jan 2016 03:51 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -654,6 +654,7 @@ msFilterList
 - -adimage-
 - -admarvel/
 - -adnow.
+- -adops.
 - -adrotation.
 - -ads-180x
 - -ads-728x
@@ -9559,6 +9560,7 @@ msFilterList
 -d internetadbrokers.com
 -d interpolls.com
 -d interworksmedia.co.kr
+-d intextad.net
 -d intextdirect.com
 -d intextscript.com
 -d intextual.net
@@ -14255,6 +14257,7 @@ msFilterList
 -d chronophotographie.science
 -d croix.science
 -d d1nmk7iw7hajjn.cloudfront.net
+-d d3ujids68p6xmq.cloudfront.net
 # *** easylist:easylist/easylist_thirdparty_popup.txt ***
 # ||4utro.ru^$popup
 # ||5.39.67.191/promo.php?$popup
@@ -17769,7 +17772,7 @@ msFilterList
 -d sharetera.com /images/icon_download.png
 -d sharetera.com /promo.php?
 # ||sharkscope.com/images/verts/$image
--d shazam.com /stores/
+-d shazam.com /thestores/
 -d sherdog.com /index/load-banner?
 -d shodanhq.com /images/s/acehackware-obscured.jpg
 -d shop.com /cc.class/dfp?
@@ -20235,6 +20238,7 @@ msFilterList
 # @@||ad4.liverail.com^*LR_VIDEO_ID=$object-subrequest,domain=bizu.tv
 # @@||ad4game.com/ima3_preloader_*.swf$object,domain=escapefan.com
 # @@||ad4game.com/www/delivery/video.php?zoneid=$script,domain=escapefan.com
+# @@||adadyn.com/api/advertiser/$domain=adadyn.com
 # @@||adadyn.com^*/advertiser.js$domain=adadyn.com
 +d adap.tv /control?
 +d adap.tv /crossdomain.xml
@@ -20953,6 +20957,7 @@ msFilterList
 +d godlessnightsfilm.co.uk /scripts/ad-gallery/
 +d godtube.com /resource/mediaplayer/*&adzone=
 +d goember.com /ad/*.xml?
++d goodeed.com /donation/pr/*/makegoodeed
 +d goodyhoo.com /banners/
 # @@||google.*/s?*&q=$xmlhttprequest
 # @@||google.*/search?sclient=*&q=$xmlhttprequest
@@ -22363,6 +22368,7 @@ msFilterList
 # @@||folue.info/needes.js$domain=twer.info
 # @@||folue.info/player/*.js|$domain=youwatch.org
 # @@||forbesimg.com/scripts/advertisement.js$domain=forbes.com
+# @@||forshrd.com^$script,domain=4shared.com
 # @@||fragflix.com^*.png?*=$image,domain=majorleaguegaming.com
 # @@||free-bitcoin-faucet.eu^$elemhide
 # @@||free.smsmarkaz.urdupoint.com^$elemhide

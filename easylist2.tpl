@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út led 19 16:07:39 CET 2016 ##################
+##### Aktualizováno: St led 20 04:57:23 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -551,6 +551,7 @@ msFilterList
 - -adimage-
 - -admarvel/
 - -adnow.
+- -adops.
 - -adrotation.
 - -ads-180x
 - -ads-728x
@@ -9244,6 +9245,7 @@ msFilterList
 -d internetadbrokers.com
 -d interpolls.com
 -d interworksmedia.co.kr
+-d intextad.net
 -d intextdirect.com
 -d intextscript.com
 -d intextual.net
@@ -13315,6 +13317,7 @@ msFilterList
 -d chronophotographie.science
 -d croix.science
 -d d1nmk7iw7hajjn.cloudfront.net
+-d d3ujids68p6xmq.cloudfront.net
 -d 193.34.134.18 /banners/
 -d 193.34.134.74 /banners/
 -d 204.140.25.247 /ads/
@@ -16327,7 +16330,7 @@ msFilterList
 -d sharesix.com /a/images/watch-bnr.gif
 -d sharetera.com /images/icon_download.png
 -d sharetera.com /promo.php?
--d shazam.com /stores/
+-d shazam.com /thestores/
 -d sherdog.com /index/load-banner?
 -d shodanhq.com /images/s/acehackware-obscured.jpg
 -d shop.com /cc.class/dfp?
@@ -18615,6 +18618,7 @@ msFilterList
 +d godlessnightsfilm.co.uk /scripts/ad-gallery/
 +d godtube.com /resource/mediaplayer/*&adzone=
 +d goember.com /ad/*.xml?
++d goodeed.com /donation/pr/*/makegoodeed
 +d goodyhoo.com /banners/
 +d google.com /_/apps-static/*/socialads/
 +d google.com /_static/images/*/ads.png
