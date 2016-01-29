@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 Jan 2016 14:40 UTC
+# Last modified: 29 Jan 2016 08:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -2400,6 +2400,7 @@ msFilterList
 - /ads.asp?
 - /ads.aspx
 - /ads.bmp?
+- /ads.bundle.
 - /ads.cfm?
 - /ads.css
 - /ads.dll/
@@ -2410,6 +2411,7 @@ msFilterList
 - /ads.js?
 - /ads.json?
 - /ads.jsp
+- /ads.load.
 - /ads.pbs
 - /ads.php
 - /ads.pl?
@@ -4203,6 +4205,7 @@ msFilterList
 - /editable/ads/
 - /eht.js?site_
 - /emailads/
+- /embed/ads.
 - /embed_ad.
 - /emediatead.
 - /EmreAds.
@@ -7062,6 +7065,7 @@ msFilterList
 - /antiadblock.
 # /blockadblock.$domain=~blockadblock.com
 - /blockblock/blockblock.jquery.js
+# /BlockerBanner/*$xmlhttprequest
 - /Disable%2BAdblock.
 - /fuckadb.js
 - /no-adblock/
@@ -9055,7 +9059,6 @@ msFilterList
 -d doubleclick.net /pfadx/video.wsj.com/
 -d doubleclick.net /pfadx/www.tv3.co.nz
 -d doubleclick.net /xbbe/creative/vast?
-# ||doubleclick.net^$image,third-party
 # ||doubleclick.net^$third-party,domain=3news.co.nz|92q.com|abc-7.com|addictinggames.com|allbusiness.com|bizjournals.com|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boomphilly.com|break.com|cbc.ca|cbs19.tv|cbs3springfield.com|cbslocal.com|complex.com|dailymail.co.uk|darkhorizons.com|doubleviking.com|euronews.com|extratv.com|fandango.com|fox19.com|fox5vegas.com|gorillanation.com|hawaiinewsnow.com|hellobeautiful.com|hiphopnc.com|hot1041stl.com|hothiphopdetroit.com|hotspotatl.com|hulu.com|imdb.com|indiatimes.com|indyhiphop.com|ipowerrichmond.com|joblo.com|kcra.com|kctv5.com|ketv.com|koat.com|koco.com|kolotv.com|kpho.com|kptv.com|ksat.com|ksbw.com|ksfy.com|ksl.com|kypost.com|kysdc.com|live5news.com|livestation.com|livestream.com|metro.us|metronews.ca|miamiherald.com|my9nj.com|myboom1029.com|mycolumbuspower.com|nbcrightnow.com|neatorama.com|necn.com|neopets.com|news.com.au|news4jax.com|newsone.com|nintendoeverything.com|oldschoolcincy.com|pagesuite-professional.co.uk|pandora.com|play.it|player.theplatform.com|radio.com|radionowindy.com|rottentomatoes.com|sbsun.com|shacknews.com|sk-gaming.com|ted.com|thebeatdfw.com|theboxhouston.com|theglobeandmail.com|timesnow.tv|tv2.no|twitch.tv|ustream.tv|wapt.com|washingtonpost.com|wate.com|wbaltv.com|wcvb.com|wdrb.com|wdsu.com|wflx.com|wfmz.com|wfsb.com|wgal.com|whdh.com|wired.com|wisn.com|wiznation.com|wlky.com|wlns.com|wlwt.com|wmur.com|wnem.com|wowt.com|wral.com|wsj.com|wsmv.com|wsvn.com|wtae.com|wthr.com|wxii12.com|wyff4.com|yahoo.com|youtube-nocookie.com|youtube.com|zhiphopcleveland.com
 # ||doubleclick.net^*/ad/$~object-subrequest,third-party
 # ||doubleclick.net^*/adi/$~object-subrequest,third-party
@@ -9427,6 +9430,7 @@ msFilterList
 -d healthcarestars.com
 -d hebiichigo.com
 -d helloreverb.com
+-d helotero.com
 -d herocpm.com
 -d hexagram.com
 -d hgdat.com
@@ -10799,6 +10803,7 @@ msFilterList
 -d traffboost.net
 -d traffic-supremacy.com
 -d trafficbarads.com
+-d trafficbee.com
 -d trafficbroker.com
 -d trafficfactory.biz
 -d trafficforce.com
@@ -10863,6 +10868,7 @@ msFilterList
 -d u1hw38x0.com
 -d ubudigital.com
 -d udmserve.net
+-d ueuerea.com
 -d ugaral.com
 -d ughus.com
 -d uglyst.com
@@ -11508,6 +11514,7 @@ msFilterList
 # ||ezdownloadpro.info^$popup,third-party
 # ||f-hookups.com^$popup,third-party
 # ||f-questionnaire.com^$popup,third-party
+# ||fapping.club^$popup,third-party
 # ||fhserve.com^$popup,third-party
 # ||fidel.to^$popup,third-party
 # ||filestube.com^$popup,third-party
@@ -19016,6 +19023,7 @@ msFilterList
 +d speedtest.net /javascript/speedtest-main.js?v=
 +d speedtest.net /javascript/swfobject.js
 +d speedtest.net /results.php
++d speedtest.net /results.php
 # @@||speedtest.zendesk.com^$script,domain=speedtest.net
 # @@||widget.uservoice.com^$script,domain=speedtest.net
 # @@||zdassets.com^$script,domain=speedtest.net
@@ -19394,6 +19402,7 @@ msFilterList
 -d analtubegirls.com /js/realamateurtube.js
 -d andtube.com /ban_
 -d angelshack.com /images/under-video.png
+# ||anyporn.com^$image,subdocument
 -d anysex.com /b/
 -d anysex.com /content_sources/
 -d arionmovies.com /popup.php
@@ -19959,6 +19968,7 @@ msFilterList
 -d rextube.com /plug/iframe.asp?
 -d rikotachibana.org /wp-content/banner/
 -d rude.com /js/PopupWindow.js
+# ||rulirieter.com^$domain=gaytube.com
 -d rusdosug.com /Fotos/Banners/
 # ||s.xvideos.com^$subdocument
 -d scorehd.com /banner/
@@ -20982,6 +20992,7 @@ msFilterList
 +d g.doubleclick.net /crossdomain.xml
 # @@||g.doubleclick.net/gampad/ads?$object-subrequest,domain=majorleaguegaming.com|nfl.com|player.rogersradio.ca|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
 # @@||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|escapegames.com|fdlreporter.com|floridatoday.com|foxnews.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|investopedia.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|nedbank.co.za|nedbankgreen.co.za|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|noodle.com|orbitz.com|pal-item.com|phoronix.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|rgj.com|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|thoughtcatalog.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|vroomvroomvroom.com.au|wausaudailyherald.com|weddingspot.co.uk|wisconsinrapidstribune.com|wlj.net|zanesvilletimesrecorder.com|zavvi.com|zillow.com|zui.com
+# @@||g.doubleclick.net/gampad/ads?*^iu_parts=7372121%2CPTGBanner%2C$script,domain=pianobuyer.com
 # @@||g.doubleclick.net/gampad/ads?*www.forbes.com%2Ffdc%2Fwelcome_mjx.shtml$script,domain=forbes.com
 # @@||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
 # @@||g.doubleclick.net/gampad/google_ads.js$domain=nedbank.co.za|nitrome.com|ticketek.com.ar
@@ -21046,7 +21057,7 @@ msFilterList
 # @@||googleapis.com/flash/*adsapi_*.swf$domain=viki.com|wwe.com
 # @@||googlesyndication.com/pagead/ads?$object-subrequest,domain=nx8.com
 # @@||googlesyndication.com/pagead/imgad?id=$image,domain=noodle.com|vroomvroomvroom.com.au
-# @@||googlesyndication.com/simgad/$image,domain=amctheatres.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|drupalcommerce.org|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|nedbank.co.za|orbitz.com|podomatic.com|thoughtcatalog.com|weddingspot.co.uk|wlj.net|zavvi.com
+# @@||googlesyndication.com/simgad/$image,domain=amctheatres.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|drupalcommerce.org|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|nedbank.co.za|orbitz.com|pianobuyer.com|podomatic.com|thoughtcatalog.com|weddingspot.co.uk|wlj.net|zavvi.com
 # @@||gopjn.com/b/$image,domain=deliverydeals.co.uk
 # @@||gorillanation.com/storage/lightbox_code/static/companion_ads.js$domain=comingsoon.net|gamerevolution.com|sohh.com
 +d gotoassist.com /images/ad/
@@ -21478,7 +21489,7 @@ msFilterList
 # @@||partner.googleadservices.com/gampad/google_ads2.js$domain=motorcycle.com|mysoju.com|nedbank.co.za
 # @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=amctheatres.com|pitchfork.com|podomatic.com|virginaustralia.com
 # @@||partner.googleadservices.com/gampad/google_service.js$domain=autoguide.com|avclub.com|boatshop24.com|cadenasuper.com|dailygames.com|demotywatory.pl|drivearabia.com|ensonhaber.com|escapegames.com|juegosdiarios.com|lbox.me|letio.com|lightinthebox.com|memegenerator.net|motorcycle.com|mysoju.com|nedbank.co.za|nedbankgreen.co.za|nx8.com|playedonline.com|playstationlifestyle.net|readersdigest.com.au|sulekha.com|ticketek.com.ar|volokh.com
-# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ew.com|forbes.com|foxnews.com|gawker.com|gizmodo.com|independent.co.uk|investopedia.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|latimes.com|lifehacker.com|m.tmz.com|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nytimes.com|orbitz.com|phoronix.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|video.foxnews.com|vroomvroomvroom.com.au|weather.com|weddingspot.co.uk|wired.com|wlj.net|zavvi.com|zdnet.com|zillow.com
+# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ew.com|forbes.com|foxnews.com|gawker.com|gizmodo.com|independent.co.uk|investopedia.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|latimes.com|lifehacker.com|m.tmz.com|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nytimes.com|orbitz.com|phoronix.com|pianobuyer.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|video.foxnews.com|vroomvroomvroom.com.au|weather.com|weddingspot.co.uk|wired.com|wlj.net|zavvi.com|zdnet.com|zillow.com
 +d partners.thefilter.com /crossdomain.xml
 # @@||partners.thefilter.com/dailymotionservice/$image,object-subrequest,script,domain=dailymotion.com
 # @@||patient-education.com/banners/$~third-party
@@ -23543,7 +23554,7 @@ msFilterList
 # @@||doubleclick.net/clk;$popup,domain=hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com
 # @@||doubleclick.net/ddm/clk/$popup,domain=couponcodeswap.com
 # @@||doubleclick.net/ddm/trackclk/$popup,domain=vouchercodes.co.uk
-# @@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|weddingspot.co.uk|zillow.com
+# @@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
 +d gsmarena.com /adclick.php?bannerid=
 # @@||nosvideo.com^$popup,domain=putlocker.is
 # @@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=jobamatic.com
@@ -23561,6 +23572,7 @@ msFilterList
 +d ads.fuckingmachines.com
 +d ads.ultimatesurrender.com
 # @@||adv.alsscan.com^$image,stylesheet,domain=alscash.com
+# @@||anyporn.com*/images/
 # @@||as.sexad.net/as/r?d=preroll-mov-$object-subrequest,domain=youjizz.com
 # @@||boyzshop.com/affimages/$~third-party
 +d boyzshop.com /images/affbanners/
@@ -23598,6 +23610,7 @@ msFilterList
 # @@||thisav.com/uploaded_banners/jw.swf$domain=thisav.com
 # @@||tjoob.com/go.php?ad=$script,~third-party
 +d tnaflix.com /ad/
+# @@||tools-euads.flugubluc.com/dtct.js?ads=true$domain=gaytube.com
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
 # @@||ul.ehgt.org/ad/$image,domain=e-hentai.org|exhentai.org
 # @@||widget.plugrush.com^$subdocument,domain=amateursexy.net

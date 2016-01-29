@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po led 25 15:44:48 CET 2016 ##################
+##### Aktualizováno: Pá led 29 09:35:08 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2258,6 +2258,7 @@ msFilterList
 - /ads.asp?
 - /ads.aspx
 - /ads.bmp?
+- /ads.bundle.
 - /ads.cfm?
 - /ads.css
 - /ads.dll/
@@ -2268,6 +2269,7 @@ msFilterList
 - /ads.js?
 - /ads.json?
 - /ads.jsp
+- /ads.load.
 - /ads.pbs
 - /ads.php
 - /ads.pl?
@@ -4046,6 +4048,7 @@ msFilterList
 - /editable/ads/
 - /eht.js?site_
 - /emailads/
+- /embed/ads.
 - /embed_ad.
 - /emediatead.
 - /EmreAds.
@@ -9110,6 +9113,7 @@ msFilterList
 -d healthcarestars.com
 -d hebiichigo.com
 -d helloreverb.com
+-d helotero.com
 -d herocpm.com
 -d hexagram.com
 -d hgdat.com
@@ -10471,6 +10475,7 @@ msFilterList
 -d traffboost.net
 -d traffic-supremacy.com
 -d trafficbarads.com
+-d trafficbee.com
 -d trafficbroker.com
 -d trafficfactory.biz
 -d trafficforce.com
@@ -10535,6 +10540,7 @@ msFilterList
 -d u1hw38x0.com
 -d ubudigital.com
 -d udmserve.net
+-d ueuerea.com
 -d ugaral.com
 -d ughus.com
 -d uglyst.com
@@ -17367,6 +17373,7 @@ msFilterList
 +d speedtest.net /javascript/speedtest-main.js?p=*&r=*&q=*%3*&s=*%3*=
 +d speedtest.net /javascript/speedtest-main.js?v=
 +d speedtest.net /javascript/swfobject.js
++d speedtest.net /results.php
 +d speedtest.net /results.php
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
