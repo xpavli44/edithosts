@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 29 Jan 2016 08:30 UTC
+# Last modified: 31 Jan 2016 02:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -754,7 +754,7 @@ msFilterList
 - -google-ads-
 - -google-ads/
 - -google2-ad-
-- -gpt-ad-
+# -gpt-ad-$~xmlhttprequest
 - -housead-
 - -iframe-ad.
 - -iframe-ads/
@@ -12497,6 +12497,7 @@ msFilterList
 -d xxxlnk.com
 -d xxxmatch.com
 -d xxxmyself.com
+-d xxxnavy.com
 -d xxxvipporno.com
 -d xxxwebtraffic.com
 -d y72yuyr9.com
@@ -21969,6 +21970,7 @@ msFilterList
 +d wortech.ac.uk /publishingimages/adverts/
 +d wp.com /_static/*/criteo.js
 # @@||wp.com/adlib.info/$domain=adlib.info
+# @@||wp.com/digiday.com/wp-content/uploads/*-ad.jpg?$domain=digiday.com
 # @@||wp.com/digiday.com/wp-content/uploads/*/your-ad-here-banner.png?resize=$domain=digiday.com
 # @@||wp.com/www.noobpreneur.com/wp-content/uploads/*-ad.jpg?resize=$domain=noobpreneur.com
 # @@||wpthemedetector.com/ad/$~third-party

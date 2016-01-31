@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá led 29 09:35:08 CET 2016 ##################
+##### Aktualizováno: Ne led 31 03:58:29 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -650,7 +650,6 @@ msFilterList
 - -google-ads-
 - -google-ads/
 - -google2-ad-
-- -gpt-ad-
 - -housead-
 - -iframe-ad.
 - -iframe-ads/
@@ -11816,6 +11815,7 @@ msFilterList
 -d xxxlnk.com
 -d xxxmatch.com
 -d xxxmyself.com
+-d xxxnavy.com
 -d xxxvipporno.com
 -d xxxwebtraffic.com
 -d y72yuyr9.com
