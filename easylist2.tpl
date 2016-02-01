@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne led 31 08:06:03 CET 2016 ##################
+##### Aktualizováno: Po úno 1 11:24:48 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5060,6 +5060,7 @@ msFilterList
 - /page-peel
 - /page/ad/
 - /pagead/ads?
+- /pagead/conversion.
 - /pagead/gen_
 - /pagead/html/
 - /pagead/js/
@@ -7595,6 +7596,7 @@ msFilterList
 -d adapd.com
 -d adbard.net
 -d adbasket.net
+-d adbit.co
 -d adblade.com
 -d adboost.com
 -d adbooth.net
@@ -9624,6 +9626,7 @@ msFilterList
 -d msypr.com
 -d mtagmonetizationa.com
 -d mtagmonetizationb.com
+-d mtagmonetizationc.com
 -d mtrcss.com
 -d mujap.com
 -d multiadserv.com
@@ -10969,6 +10972,7 @@ msFilterList
 -d lirte.org
 -d loopr.co
 -d luadcik.com
+-d lunio.net
 -d maningrs.com
 -d muriarw.com
 -d nrfort.com
@@ -14160,6 +14164,7 @@ msFilterList
 -d bom.gov.au /includes/marketing2.php?
 -d botswanaguardian.co.bw /images/banners/
 -d boulderjewishnews.org /JFSatHome-3.gif
+-d boxbit.co.in /banners/
 -d boxlotto.com /banrotate.
 -d brandchannel.com /images/educationconference/
 -d break.com /marketguide-
@@ -14554,6 +14559,7 @@ msFilterList
 -d dprogram.net /rightsprites.png
 -d dpstatic.com /banner.png?
 -d dpstatic.com /s/ad.js
+-d drakulastream.tv /pu/*.js
 -d dreamscene.org _Banner.
 -d drhinternet.net /mwimgsent/
 -d drivearchive.co.uk /amazon/
@@ -17418,6 +17424,7 @@ msFilterList
 +d playbuzz.com /widget/*.js
 +d providesupport.com .js
 +d reembed.com /player/*.js
++d s.reembed.com .js
 +d static.cdn-ec.viddler.com .js
 +d static.reembed.com .js
 +d thegatewaypundit.com /wp-content/uploads/submit_tip.png
@@ -19311,10 +19318,13 @@ msFilterList
 +d binbox.io /adblock.js
 +d bitcoiner.net /advertisement.js
 +d boincstats.com /js/adframe.js
++d boxbit.co.in
 +d boxxod.net /advertisement.js
 +d btava.com .js
 +d btspread.com /eroex.js
 +d bulletproofserving.com /scripts/ads.js
++d buzina.xyz /first-ad_reven.php
++d buzina.xyz /avg_ls_dom.js
 +d captchme.net /js/advertisement-min.js
 +d captchme.net /js/advertisement.js
 +d casadossegredos.tv /ads/ads_
@@ -19351,6 +19361,7 @@ msFilterList
 +d domain.com /ads.html
 +d dontdrinkandroot.net /js/adframe.js
 +d doodle.com /builtstatic/*/doodle/js/*.js
++d drakulastream.tv /flash_popunder.js
 +d dressup.com /ads.js
 +d dressuppink.com /ads.js
 +d drugs.com
@@ -19469,6 +19480,7 @@ msFilterList
 +d leaguesecretary.com /advertisement.js
 +d leecher.us /assets/img/*/ads/
 +d liberallogic101.com /show_ads.js
++d lifehacker.com.au
 +d lifehacker.com.au /ads.js
 +d lilfile.com /js/advertise-2.js
 +d lilfile.com /js/advertise.js
