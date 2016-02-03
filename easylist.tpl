@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 01 Feb 2016 10:20 UTC
+# Last modified: 03 Feb 2016 13:00 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -8594,6 +8594,7 @@ msFilterList
 -d blogohertz.com
 -d blueadvertise.com
 -d bluestreak.com
+-d bluetoad.com
 -d blumi.to
 -d bmanpn.com
 -d bnetworx.com
@@ -8974,6 +8975,7 @@ msFilterList
 -d doomail.org
 -d dorenga.com
 -d dotandad.com
+-d dotandads.com
 -d double.net
 -d doubleclick.com
 -d doubleclick.net /ch_news.com/
@@ -11277,6 +11279,7 @@ msFilterList
 -d flaurse.net
 -d foulsomty.com
 -d fowar.net
+-d frlssw.me
 -d fruamens.com
 -d frxle.com
 -d frxrydv.com
@@ -14544,6 +14547,7 @@ msFilterList
 # ||cartoontube.com^$subdocument,third-party
 -d cash.femjoy.com
 -d cdn.epom.com /940_250.gif
+# ||cdn77.org/images/userbanners/$domain=topescortbabes.com
 -d cdncache2-a.akamaihd.net
 -d cdnjke.com
 -d chaturbate.com /affiliates/
@@ -14961,6 +14965,7 @@ msFilterList
 # /?placement=$script,domain=sockshare.com
 # /af.php?$subdocument
 # /assets/_takeover/*$domain=deadspin.com|gawker.com|gizmodo.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com
+# /asynch/null/*$script,third-party,domain=streamcloud.eu
 # /btcclicksskyscraper.png$domain=best-bitcoin-faucet.eu|best-free-faucet.eu|bitcoin-best-faucet.eu|bitcoin-cloud.eu|bitcoin-faucet.eu|bitcoin-free-faucet.eu|free-bitcoin-faucet.eu|get-bitcoins-free.eu|get-free-bitcoin.eu|win-free-bitcoins.eu
 # /clickpop.js$domain=miliblog.co.uk
 # /com.js$domain=kinox.to
@@ -16131,7 +16136,6 @@ msFilterList
 -d flvto.biz /scripts/banners.php?
 -d flyordie.com /games/free/b/
 -d flyordie.com /games/online/ca.html
--d fmr.co.za /banners/
 -d fncstatic.com /sponsored-by.gif
 -d foodingredientsfirst.com /content/banners/
 -d foodingredientsfirst.com /content/flash_loaders/loadlargetile.swf
@@ -19273,6 +19277,7 @@ msFilterList
 # ||fullonsms.com/sid.html$popup
 # ||gamezadvisor.com/popup.php$popup
 # ||goo.gl^$popup,domain=amaderforum.com|jumbofile.net|videomega.tv
+# ||google-analytics.com^$popup,domain=gorillavid.in
 # ||google.com.eg/url?$popup,domain=hulkload.com
 # ||gratuit.niloo.fr^$popup,domain=simophone.com
 # ||hide.me^$popup,domain=ncrypt.in
@@ -21859,6 +21864,7 @@ msFilterList
 # @@||tremormedia.com/acudeo/$script,domain=indiatimes.com
 +d trialpay.com /js/advertiser.js
 # @@||trifort.org/ads/$~third-party
+# @@||trklnks.com/Scripts/infinity.js.aspx?guid=$script,domain=streamcloud.eu
 +d trulia.com /modules/ad_agents_
 +d trustedreviews.com /adtech.js
 +d trutv.com /includes/banners/de/video/*.ad

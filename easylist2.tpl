@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po úno 1 11:24:48 CET 2016 ##################
+##### Aktualizováno: St úno 3 14:02:34 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8289,6 +8289,7 @@ msFilterList
 -d blogohertz.com
 -d blueadvertise.com
 -d bluestreak.com
+-d bluetoad.com
 -d blumi.to
 -d bmanpn.com
 -d bnetworx.com
@@ -8668,6 +8669,7 @@ msFilterList
 -d doomail.org
 -d dorenga.com
 -d dotandad.com
+-d dotandads.com
 -d double.net
 -d doubleclick.com
 -d doubleclick.net /ch_news.com/
@@ -10939,6 +10941,7 @@ msFilterList
 -d flaurse.net
 -d foulsomty.com
 -d fowar.net
+-d frlssw.me
 -d fruamens.com
 -d frxle.com
 -d frxrydv.com
@@ -14804,7 +14807,6 @@ msFilterList
 -d flvto.biz /scripts/banners.php?
 -d flyordie.com /games/free/b/
 -d flyordie.com /games/online/ca.html
--d fmr.co.za /banners/
 -d fncstatic.com /sponsored-by.gif
 -d foodingredientsfirst.com /content/banners/
 -d foodingredientsfirst.com /content/flash_loaders/loadlargetile.swf
