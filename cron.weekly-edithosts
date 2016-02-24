@@ -1,3 +1,0 @@
-#!/bin/bash
-/usr/sbin/gethosts &>> /var/log/syslog
-exit 0
