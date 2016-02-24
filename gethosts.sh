@@ -18,6 +18,7 @@ wget -nv -O - "http://winhelp2002.mvps.org/hosts.txt" >> "$temphosts1a"
 wget -nv -O - "http://hosts-file.net/ad_servers.asp" >> "$temphosts1b"
 wget -nv -O - "http://someonewhocares.org/hosts/hosts" >> "$temphosts1b"
 wget -nv -O - "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" >> "$temphosts1b"
+wget -nv -O - "https://raw.githubusercontent.com/Free-Software-for-Android/AdAway/master/hosts/hosts.txt " >> "$temphosts1b"
 
 sed -e 's/\r//' -e '/^0.0.0.0/!d' -e '/localhost/d' -e 's/127\.0\.0\.1/0.0.0.0/' -e 's/ \+/\t/' -e 's/#.*$//' -e 's/[ \t]*$//' < "$temphosts1a" | sort -u > "$temphosts2a"
 
