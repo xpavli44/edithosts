@@ -10,6 +10,8 @@ temphosts1b=$(mktemp)
 temphosts2a=$(mktemp)
 temphosts2b=$(mktemp)
 temphosts3=$(mktemp)
+temphostsipv6=$(mktemp)
+temphostsipv4ipv6=$(mktemp)
 whitelist=$(mktemp)
 
 
@@ -30,8 +32,11 @@ wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/
 
 for patern in $(cat "$whitelist"); do sed -i "/\b$patern\b/Id" "$temphosts3"; done
 
-echo -e "\n# Edithost updated this file at $(date)" | sudo cat /etc/hosts.d/hosts.conf - "$temphosts3" > /tmp/edithosts-hosts-block
-echo -e "\n# Blocked $(grep "0.0.0.0" /tmp/edithosts-hosts-block| wc -l) domains" >> /tmp/edithosts-hosts-block
+sed -e 's/0\.0\.0\.0/::1/' "$temphosts3" > "$temphostsipv6"
+cat "$temphosts3" "$temphostsipv6" | sort -u > "$temphostsipv4ipv6"
+
+echo -e "\n# Edithost updated this file at $(date)" | sudo cat /etc/hosts.d/hosts.conf - "$temphostsipv4ipv6" > /tmp/edithosts-hosts-block
+echo -e "\n# Blocked $(grep "0.0.0.0" /tmp/edithosts-hosts-block| wc -l) ipv4 and ipv6 domains" >> /tmp/edithosts-hosts-block
 rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist"
 sudo cp /tmp/edithosts-hosts-block /etc/hosts
 
