@@ -30,7 +30,7 @@ wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/
 for patern in $(cat "$whitelist"); do sed -i "/\b$patern\b/Id" "$temphosts3"; done
 
 echo -e "\n# Edithost updated this file at $(date)" | cat "/home/medved/Dropbox/Linux/edithosts-adway/hosts.conf" - "$temphosts3" > "/home/medved/Dropbox/Linux/edithosts-adway/hosts"
-echo -e "\n# Blocked $(cat "/home/medved/Dropbox/Linux/edithosts-adway/hosts" | grep 0.0.0.0 | wc -w) domains" >> "/home/medved/Dropbox/Linux/edithosts-adway/hosts"
+echo -e "\n# Blocked $(grep "0.0.0.0" /home/medved/Dropbox/Linux/edithosts-adway/hosts| wc -l) domains" >> "/home/medved/Dropbox/Linux/edithosts-adway/hosts"
 rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist"
 
 echo "edithosts:Filters are up to date now."
