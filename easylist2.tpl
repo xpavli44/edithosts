@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt úno 25 11:44:34 CET 2016 ##################
+##### Aktualizováno: Čt úno 25 17:35:19 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9128,7 +9128,6 @@ msFilterList
 -d healthcarestars.com
 -d hebiichigo.com
 -d helloreverb.com
--d helotero.com
 -d herocpm.com
 -d hexagram.com
 -d hgdat.com
@@ -17297,6 +17296,7 @@ msFilterList
 -d xbox-scene.com /crave/logo_on_white_s160.jpg
 -d xboxgaming.co.za /images/background/
 -d xiaopan.co /Reaver.png
+-d xing.com /xas/deliver?
 -d xomreviews.com /sponsors/
 -d xoops-theme.com /images/banners/
 -d xscores.com /livescore/banners/

@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 Feb 2016 10:40 UTC
+# Last modified: 25 Feb 2016 16:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9450,7 +9450,7 @@ msFilterList
 -d healthcarestars.com
 -d hebiichigo.com
 -d helloreverb.com
--d helotero.com
+# ||helotero.com^$third-party,domain=~streamcloud.eu
 -d herocpm.com
 -d hexagram.com
 -d hgdat.com
@@ -18841,6 +18841,7 @@ msFilterList
 -d xbox-scene.com /crave/logo_on_white_s160.jpg
 -d xboxgaming.co.za /images/background/
 -d xiaopan.co /Reaver.png
+-d xing.com /xas/deliver?
 -d xomreviews.com /sponsors/
 -d xoops-theme.com /images/banners/
 -d xscores.com /livescore/banners/
