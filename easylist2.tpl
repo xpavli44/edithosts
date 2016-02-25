@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út úno 23 08:48:51 CET 2016 ##################
+##### Aktualizováno: Čt úno 25 10:48:50 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8595,6 +8595,7 @@ msFilterList
 -d cygnus.com
 -d czasnaherbate.info
 -d d.adroll.com
+-d d.ligatus.com
 -d d.m3.net
 -d d03x2011.com
 -d d1110e4.se
@@ -8700,7 +8701,6 @@ msFilterList
 -d doubleclick.net /N2/pfadx/video.wsj.com/
 -d doubleclick.net /N3626/pfadx/thehothits.com.au/
 -d doubleclick.net /N4117/pfadx/*.sbs.com.au/
--d doubleclick.net /N4526/pfadx/*.muzu/
 -d doubleclick.net /N5202/pfadx/cmn_livemixtapes/
 -d doubleclick.net /N5479/pfadx/ctv.
 -d doubleclick.net /N6088/pfadx/ssp.kshb/
@@ -10437,6 +10437,7 @@ msFilterList
 -d thoseads.com
 -d thoughtleadr.com
 -d thoughtsondance.info
+-d tic-tic-bam.com
 -d ticrite.com
 -d tidaltv.com
 -d tightexact.net
@@ -11002,6 +11003,7 @@ msFilterList
 -d luadcik.com
 -d lunio.net
 -d maningrs.com
+-d moucitons.com
 -d muriarw.com
 -d nrfort.com
 -d nuaknamg.net
@@ -17410,6 +17412,7 @@ msFilterList
 -d zpag.es /b/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
++d monova.org /js/main.js?v=*.js
 +d exashare.com /ad.js
 +d exashare.com /js/*.js
 +d exashare.com /player6/*.js
@@ -19284,7 +19287,6 @@ msFilterList
 +d wikia.com /__spotlights/spc.php?
 +d wikia.nocookie.net /images/
 +d winnipegsun.com /assets/js/dfp.js?
-+d wired.com /ams/page-ads.js
 +d wired.com /cn-fe-ads/cn.dart.js
 +d wirefly.com /_images/ads/
 +d wisegeek.com /res/contentad/
