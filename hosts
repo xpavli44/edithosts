@@ -8,7 +8,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-# Edithost updated this file at Čt úno 25 01:41:11 CET 2016
+# Edithost updated this file at Čt úno 25 11:32:49 CET 2016
 0.0.0.0	aa.adfarm1.adition.com
 0.0.0.0	aaa.dv0.info
 0.0.0.0	aaa.vmsn.de
@@ -52124,6 +52124,7 @@ ff02::2 ip6-allrouters
 0.0.0.0	thelocalsearchnetwork.com
 0.0.0.0	themacuser.org
 0.0.0.0	themanroom.us.intellitxt.com
+0.0.0.0	themaplemethod.com
 0.0.0.0	themecounter.com
 0.0.0.0	themexp.ezthemes.com
 0.0.0.0	themoneyclippodcast.com
@@ -67160,4 +67161,4 @@ ff02::2 ip6-allrouters
 0.0.0.0	994119.r.axf8.net
 0.0.0.0	99.6.87.194.dynamic.dol.ru
 
-# Blocked 134300 domains
+# Blocked 67151 domains
