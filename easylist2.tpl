@@ -46,6 +46,7 @@ msFilterList
 -d api.myx.cz /js/
 - *.ccb.cz/
 - zvraceny.cz/data/upload/
+-d zvraceny.cz /js/swfobject.js
 -d 1.im.cz /ad/gemius.js
 -d 86.63.194.248 /media/bann/
 -d ab-forum.info /animation.swf
