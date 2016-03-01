@@ -41,7 +41,7 @@ msFilterList
 - http://*.lagardere.cz/europa2/img/u/branding*.jpg
 - http://*.s12.cdn.szn.cz/vod/
 - http://*.war-forum.net/images/sh/
--d a.ccb.cz /img/
+-d *.ccb.cz /img/
 -d 1.im.cz /ad/gemius.js
 -d 86.63.194.248 /media/bann/
 -d ab-forum.info /animation.swf
