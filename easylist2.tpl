@@ -42,6 +42,7 @@ msFilterList
 - http://*.s12.cdn.szn.cz/vod/
 - http://*.war-forum.net/images/sh/
 - *.ccb.cz/
+- zvraceny.cz/data/upload/
 -d 1.im.cz /ad/gemius.js
 -d 86.63.194.248 /media/bann/
 -d ab-forum.info /animation.swf
