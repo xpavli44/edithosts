@@ -41,6 +41,9 @@ msFilterList
 - http://*.lagardere.cz/europa2/img/u/branding*.jpg
 - http://*.s12.cdn.szn.cz/vod/
 - http://*.war-forum.net/images/sh/
+-d vjs.zencdn.net
+-d secure.myxheat.com
+-d api.myx.cz /js/
 - *.ccb.cz/
 - zvraceny.cz/data/upload/
 -d 1.im.cz /ad/gemius.js
