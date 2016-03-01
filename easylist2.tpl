@@ -47,6 +47,7 @@ msFilterList
 - *.ccb.cz/
 - zvraceny.cz/data/upload/
 -d zvraceny.cz swfobject.js
+-d zvraceny.cz SWFObject
 -d 1.im.cz /ad/gemius.js
 -d 86.63.194.248 /media/bann/
 -d ab-forum.info /animation.swf
