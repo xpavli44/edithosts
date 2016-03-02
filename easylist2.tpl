@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St bře 2 03:14:57 CET 2016 ##################
+##### Aktualizováno: St bře 2 03:16:47 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -41,15 +41,6 @@ msFilterList
 - http://*.lagardere.cz/europa2/img/u/branding*.jpg
 - http://*.s12.cdn.szn.cz/vod/
 - http://*.war-forum.net/images/sh/
--d vjs.zencdn.net
--d secure.myxheat.com
--d api.myx.cz /js/
-- *.ccb.cz/
-- zvraceny.cz/data/upload/
--d zvraceny.cz swfobject.js
--d zvraceny.cz SWFObject
-- zvraceny.cz SWFObject
-- SWFObject
 -d 1.im.cz /ad/gemius.js
 -d 86.63.194.248 /media/bann/
 -d ab-forum.info /animation.swf
