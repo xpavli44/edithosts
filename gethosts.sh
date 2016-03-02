@@ -10,7 +10,10 @@ temphosts1b=$(mktemp)
 temphosts2a=$(mktemp)
 temphosts2b=$(mktemp)
 temphosts3=$(mktemp)
+temphostsipv6=$(mktemp)
+temphostsipv4ipv6=$(mktemp)
 whitelist=$(mktemp)
+
 
 wget -nv -O - "https://raw.githubusercontent.com/jiri001meitner/edithosts/master/edithosts-blocklist.txt" >> "$temphosts1a"
 wget -nv -O - "http://winhelp2002.mvps.org/hosts.txt" >> "$temphosts1a"
@@ -29,9 +32,14 @@ wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/
 
 for patern in $(cat "$whitelist"); do sed -i "/\b$patern\b/Id" "$temphosts3"; done
 
-echo -e "\n# Edithost updated this file at $(date)" | cat "/home/medved/Dropbox/Linux/edithosts-adway/hosts.conf" - "$temphosts3" > "/home/medved/Dropbox/Linux/edithosts-adway/hosts"
-echo -e "\n# Blocked $(grep "0.0.0.0" /home/medved/Dropbox/Linux/edithosts-adway/hosts| wc -l) domains" >> "/home/medved/Dropbox/Linux/edithosts-adway/hosts"
-rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist"
+sed -e 's/0\.0\.0\.0/::1/' "$temphosts3" > "$temphostsipv6"
+cat "$temphosts3" "$temphostsipv6" | sort -u > "$temphostsipv4ipv6"
+
+echo -e "\n# Edithost updated this file at $(date)" | cat ~/Dropbox/Linux/edithosts-adway/hosts.conf - "$temphostsipv4ipv6" > /tmp/edithosts-hosts-block
+echo -e "\n# Blocked $(grep "0.0.0.0" /tmp/edithosts-hosts-block| wc -l) ipv4 and ipv6 domains" >> /tmp/edithosts-hosts-block
+rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist" "$temphostsipv6" "$temphostsipv4ipv6"
+cp /tmp/edithosts-hosts-block  ~/Dropbox/Linux/edithosts-adway/hosts
+rm /tmp/edithosts-hosts-block
 
 echo "edithosts:Filters are up to date now."
 
