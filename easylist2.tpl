@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St bře 2 03:16:47 CET 2016 ##################
+##### Aktualizováno: Ne bře 6 17:05:42 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -961,7 +961,6 @@ msFilterList
 - .shortcuts.search.
 - .show_ad_
 - .sk/ads/
-- .spider.ad/
 - .sponsorads.
 - .streamads.
 - .swf?1&clicktag=
@@ -1694,6 +1693,10 @@ msFilterList
 - /adbebi_
 - /adbetween/
 - /adbg.jpg
+- /adbl/
+- /adbl1/
+- /adbl2/
+- /adbl3/
 - /adblade-publisher-tools/
 - /adblob.
 - /adblock.ash
@@ -5766,6 +5769,7 @@ msFilterList
 - /studioads/
 - /stuff/ad-
 - /style_ad.
+- /styleads2.
 - /styles/ads.
 - /styles/ads/
 - /subAd.
@@ -6815,7 +6819,6 @@ msFilterList
 - _tagadvertising.
 - _temp/ad_
 - _text_ads.
-- _textad_
 - _textads.
 - _textads/
 - _theme/ads/
@@ -8163,7 +8166,6 @@ msFilterList
 -d arcadechain.com
 -d areasins.com
 -d areasnap.com
--d areyouahuman.com
 -d arti-mediagroup.com
 -d as-farm.com
 -d as5000.com
@@ -8447,6 +8449,7 @@ msFilterList
 -d chameleon.ad
 -d chango.com
 -d chanished.net
+-d chanitet.ru
 -d charltonmedia.com
 -d checkm8.com
 -d checkmystats.com.au
@@ -8839,6 +8842,7 @@ msFilterList
 -d durokuro.com
 -d durtz.com
 -d dvaminusodin.net
+-d dveribo.ru
 -d dyino.com
 -d dynamicoxygen.com
 -d dynamitedata.com
@@ -8860,6 +8864,7 @@ msFilterList
 -d ebannertraffic.com
 -d ebayobjects.com.au
 -d ebayobjects.com
+-d ebdr3.com
 -d eblastengine.com
 -d ebuzzing.com
 -d ebz.io
@@ -9430,6 +9435,7 @@ msFilterList
 -d leadmediapartners.com
 -d leetmedia.com
 -d legisland.net
+-d leohd59.ru
 -d letilyadothejob.com
 -d letsgoshopping.tk
 -d lfstmedia.com
@@ -9769,6 +9775,7 @@ msFilterList
 -d nspmotion.com
 -d ntent.com
 -d ntv.io
+-d ntvk1.ru
 -d numberium.com
 -d numbers.md
 -d nuseek.com
@@ -9781,6 +9788,7 @@ msFilterList
 -d nzphoenix.com
 -d oads.co
 -d oainternetservices.com
+-d obeisantcloddishprocrustes.com
 -d obesw.com
 -d obeus.com
 -d obibanners.com
@@ -9935,6 +9943,7 @@ msFilterList
 -d pixazza.com
 -d pixeltrack66.com
 -d pixfuture.net
+-d pixiv.org
 -d pixxur.com
 -d pjatr.com
 -d pjtra.com
@@ -10341,6 +10350,7 @@ msFilterList
 -d speeb.com
 -d speedshiftmedia.com
 -d speedsuccess.net
+-d spider.ad
 -d spiderhood.net
 -d spinbox.freedom.com
 -d spinbox.net
@@ -10493,6 +10503,7 @@ msFilterList
 -d tlvmedia.com
 -d tnyzin.ru
 -d toboads.com
+-d todich.ru
 -d tokenads.com
 -d tollfreeforwarding.com
 -d tomekas.com
@@ -10974,6 +10985,7 @@ msFilterList
 -d chualangry.com
 -d coaterhand.net
 -d compoter.net
+-d content-4-u.com
 -d contentolyze.net
 -d contentr.net
 -d cotnr.com
@@ -11017,6 +11029,7 @@ msFilterList
 -d frxrydv.com
 -d fuandarst.com
 -d gghfncd.net
+-d guaperty.net
 -d gusufrs.me
 -d hapnr.net
 -d havnr.com
@@ -11303,6 +11316,7 @@ msFilterList
 -d clickthruserver.com
 -d clicktrace.info
 -d cmdfnow.com
+-d cntrafficpro.com
 -d codelnet.com
 -d coldhardcash.com
 -d coloredguitar.com
@@ -11828,7 +11842,6 @@ msFilterList
 -d tubeadnetwork.com
 -d tubedspots.com
 -d tufosex.com.br
--d tvzavr.ru
 -d twistyscash.com
 -d txxx.com
 -d tynyh.com
@@ -15444,6 +15457,7 @@ msFilterList
 -d kentonline.co.uk /weatherimages/SEW.jpg
 -d kentonline.co.uk /weatherimages/sponsor_
 -d kephyr.com /spywarescanner/banner1.gif
+-d ker.pic2pic.site
 -d kermit.macnn.com
 -d kewlshare.com /reward.html
 -d kexp.org /sponsor-
@@ -17495,6 +17509,10 @@ msFilterList
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
 +d armorgames.com /files/games/
++d newgrounds.com /favorites/
++d newgrounds.com /min_score
++d newgrounds.com /review_page
++d newgrounds.com /vote
 +d onrpg.com /boards/activityrss.php?
 +d ajax.cloudflare.com /cdn-cgi/nexp/*.js
 +d assets.newsinc.com
@@ -20053,6 +20071,7 @@ msFilterList
 +d phncdn.com /cb/assets/*.js
 +d phncdn.com /cb/bundles/*.js
 +d phncdn.com /head/*.js
++d phncdn.com /highcharts-*.js
 +d phncdn.com /html5player/*.js
 +d phncdn.com /html5shiv-*.js
 +d phncdn.com /jquery-*.js
@@ -20150,7 +20169,13 @@ msFilterList
 +d phncdn.com /www-static/*/gif-view.js*.js
 +d phncdn.com /www-static/*/jquery.*.js
 +d phncdn.com /www-static/*/widgets-*.js
++d phncdn.com /www-static/js/album-display-public.js?*.js
++d phncdn.com /www-static/js/amateur/dropdown.js?*.js
++d phncdn.com /www-static/js/autocomplete-search.js*.js
++d phncdn.com /www-static/js/channel-main.js?*.js
++d phncdn.com /www-static/js/comments.js?*.js
 +d phncdn.com /www-static/js/create-account.js?*.js
++d phncdn.com /www-static/js/detect.browser.js?*.js
 +d phncdn.com /www-static/js/footer.js*.js
 +d phncdn.com /www-static/js/front-index.js?*.js
 +d phncdn.com /www-static/js/front-login.js*.js
@@ -20159,22 +20184,39 @@ msFilterList
 +d phncdn.com /www-static/js/header.js*.js
 +d phncdn.com /www-static/js/html5Player/*.js
 +d phncdn.com /www-static/js/lib/*.js
++d phncdn.com /www-static/js/manage-constructors.js*.js
++d phncdn.com /www-static/js/member-search.js?*.js
++d phncdn.com /www-static/js/messages.js?*.js
 +d phncdn.com /www-static/js/mg-modal.js*.js
 +d phncdn.com /www-static/js/mg-utils.js*.js
 +d phncdn.com /www-static/js/mg_flipbook-*.js
 +d phncdn.com /www-static/js/ph-footer.js*.js
 +d phncdn.com /www-static/js/ph-networkbar.js*.js
 +d phncdn.com /www-static/js/phub.*.js
++d phncdn.com /www-static/js/playlist-show.js*.js
 +d phncdn.com /www-static/js/playlist/*.js
 +d phncdn.com /www-static/js/pornstars.js?*.js
 +d phncdn.com /www-static/js/premium/*.js
 +d phncdn.com /www-static/js/profile/*.js
 +d phncdn.com /www-static/js/promo-banner.js*.js
 +d phncdn.com /www-static/js/quality-*.js
++d phncdn.com /www-static/js/recommended.js*.js
++d phncdn.com /www-static/js/sceditor/sceditor.bbcode.js?*.js
 +d phncdn.com /www-static/js/show_image.js?*.js
 +d phncdn.com /www-static/js/signin.js*.js
++d phncdn.com /www-static/js/stream-community.js?*.js
++d phncdn.com /www-static/js/stream-notifications.js?*.js
++d phncdn.com /www-static/js/stream-subscriptions.js?*.js
++d phncdn.com /www-static/js/stream.js?*.js
 +d phncdn.com /www-static/js/suggest-*.js
 +d phncdn.com /www-static/js/tag-*.js
++d phncdn.com /www-static/js/user-edit.js?*.js
++d phncdn.com /www-static/js/user-friend-requests.js?*.js
++d phncdn.com /www-static/js/user-share-item.js?*.js
++d phncdn.com /www-static/js/user-start.js?*.js
++d phncdn.com /www-static/js/user-stream-overview.js?*.js
++d phncdn.com /www-static/js/user-video-show.js?*.js
++d phncdn.com /www-static/js/verfication.js?*.js
 +d phncdn.com /www-static/js/video-*.js
 +d phncdn.com /www-static/js/vmobile/album.js*.js
 +d phncdn.com /www-static/js/vmobile/application.js*.js
