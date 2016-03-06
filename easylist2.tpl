@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne bře 6 17:05:42 CET 2016 ##################
+##### Aktualizováno: Ne bře 6 21:30:45 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -4032,6 +4032,7 @@ msFilterList
 - /dtiadvert125x125.
 - /dtim300x250.*.js
 - /dtmads/
+- /dummy_ad_
 - /dxd/ads/
 - /dyn_banner.
 - /dyn_banners_
@@ -6444,6 +6445,7 @@ msFilterList
 - _ad_serving.
 - _ad_show&
 - _ad_side.
+- _ad_sidebar_
 - _ad_size.
 - _ad_sky.
 - _ad_skyscraper.
@@ -6453,6 +6455,7 @@ msFilterList
 - _ad_square.
 - _ad_tall.
 - _ad_template_
+- _ad_top_
 - _ad_url=
 - _ad_vertical.
 - _ad_view=
@@ -8611,6 +8614,7 @@ msFilterList
 -d creative-serving.com
 -d creditcards15x.tk
 -d crispads.com
+-d crocspaceoptimizer.com
 -d crossrider.com
 -d crowdgatheradnetwork.com
 -d crowdgravity.com
@@ -10030,6 +10034,7 @@ msFilterList
 -d profitpeelers.com
 -d programresolver.net
 -d projectwonderful.com
+-d promenadd.ru
 -d promo-reklama.ru
 -d promobenef.com
 -d promoted.com
@@ -10291,6 +10296,7 @@ msFilterList
 -d skoovyads.com
 -d skyactivate.com
 -d skyscrpr.com
+-d skywarts.ru
 -d slfpu.com
 -d slikslik.com
 -d slimspots.com
@@ -14461,6 +14467,7 @@ msFilterList
 -d collarme.com /anv/
 -d collarme.com /zone_alt.asp
 -d collector.viki.io
+-d colombiareports.com /wp-content/banners/
 -d com-a.in /images/banners/
 -d com.com /cnwk.1d/aud/
 -d comicbookresources.com /assets/images/skins/
@@ -15400,6 +15407,7 @@ msFilterList
 -d iurfm.com /images/sponsors/
 -d iwebtool.com /bannerview.php
 -d ixquick.nl /graphics/banner_
+-d jacars.net /images/ba/
 -d jamaica-gleaner.com /images/promo/
 -d jame-world.com /adv/
 -d jango.com /assets/promo/1600x1000-
@@ -16738,6 +16746,7 @@ msFilterList
 -d techtree.com /jquery.catfish.js
 -d teesoft.info /images/uniblue.png
 -d teesupport.com /wp-content/themes/ts-blog/images/cp-
+-d tehrantimes.com /banner/
 -d tehrantimes.com /images/banners/
 -d telecomtiger.com _250x250_
 -d telecomtiger.com _640x480_
@@ -16852,6 +16861,7 @@ msFilterList
 -d theorganicprepper.ca /images/banners/
 -d thepaper24-7.com /SiteImages/Banner/
 -d thepaper24-7.com /SiteImages/Tile/
+-d thepatriot.co.bw /images/banners/
 -d thepeak.fm /images/banners/
 -d thepeninsulaqatar.com /banners/
 -d thephuketnews.com /photo/banner/
@@ -17258,6 +17268,7 @@ msFilterList
 -d weei.com /sponsors/
 -d weei.com /takeover_
 -d weei.com _banner.jpg
+-d weekendpost.co.bw /banner_
 -d wegoted.com /includes/biogreen.swf
 -d wegoted.com /uploads/memsponsor/
 -d wegoted.com /uploads/sponsors/
@@ -18354,6 +18365,7 @@ msFilterList
 -d yobt.tv /js/ttu.js
 -d yobt.tv /rec/
 -d youaresogay.com .html
+-d youjizz.com /adb/
 -d youjizz.com /vivid/
 -d youngpornvideos.com /images/bangbros/
 -d youngpornvideos.com /images/glamglam/
@@ -19237,6 +19249,7 @@ msFilterList
 +d telegraphcouk.skimlinks.com /api/telegraph.skimlinks.js
 +d tetrisfriends.com /ads/google_dfp_video_ad.html
 +d texasstudentmedia.com /advertise/
++d thankyouforadvertising.com .js
 +d theatlantic.com /widget/
 +d thedailygreen.com /ams/page-ads.js?
 +d theepochtimes.com /ads/video/inarticle-video.html
