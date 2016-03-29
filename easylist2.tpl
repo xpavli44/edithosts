@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út bře 29 00:37:40 CEST 2016 ##################
+##### Aktualizováno: Út bře 29 15:22:28 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10210,6 +10210,7 @@ msFilterList
 -d realsecuredredirect.com
 -d realvu.net
 -d reate.info
+-d recentres.com
 -d recomendedsite.com
 -d redcourtside.com
 -d redintelligence.net
@@ -10565,6 +10566,7 @@ msFilterList
 -d tfag.de
 -d tgtmedia.com
 -d thangasoline.com
+-d thankyouforadvertising.com
 -d theadgateway.com
 -d theads.me
 -d thebannerexchange.com
@@ -19383,7 +19385,6 @@ msFilterList
 +d telegraphcouk.skimlinks.com /api/telegraph.skimlinks.js
 +d tetrisfriends.com /ads/google_dfp_video_ad.html
 +d texasstudentmedia.com /advertise/
-+d thankyouforadvertising.com .js
 +d theatlantic.com /widget/
 +d thedailygreen.com /ams/page-ads.js?
 +d theepochtimes.com /ads/video/inarticle-video.html
@@ -19563,7 +19564,6 @@ msFilterList
 +d adf.ly
 +d ads.clubedohardware.com.br /www/delivery/*.js
 +d adserver.liverc.com /getBannerVerify.js
-+d adss.pleaseletmeadvertise.com _*.js
 +d afdah.co .js
 +d afdah.com .js
 +d afdah.tv .js
@@ -19714,6 +19714,7 @@ msFilterList
 +d freegamehosting.nl /advertisement.js
 +d freegamehosting.nl /js/advertisement.js
 +d freesportsbet.com /js/advertisement.js
++d freevaluator.com
 +d freshdown.net /templates/Blaster/img/*/ads/
 +d funniermoments.com /adframe.js
 +d funniermoments.com
@@ -19888,6 +19889,7 @@ msFilterList
 +d player.utv.ie /assets/js/adframe.js
 +d playhd.eu /advertisement.js
 +d playindiafilms.com /advertisement.js
++d pleaseletmeadvertise.com _*.js
 +d pleaseletmeadvertise.com /ad*.*.js
 +d premiumleecher.com /inc/adframe.js
 +d premiumleecher.com /inc/adsense.js
@@ -19924,6 +19926,7 @@ msFilterList
 +d securenetsystems.net /adv.js
 +d seekingalpha.com .js
 +d senmanga.com /advertisement.js
++d sepulchralconestogaleftover.com /ads.js
 +d series-cravings.info /wp-content/plugins/wordpress-adblock-blocker/*.js
 +d seriesbang.to
 +d sheepskinproxy.com /js/advertisement.js
