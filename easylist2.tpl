@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St dub 6 11:03:06 CEST 2016 ##################
+##### Aktualizováno: Pá dub 8 09:52:55 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1587,6 +1587,7 @@ msFilterList
 - /ad_parts.
 - /ad_peel/
 - /ad_pics/
+- /ad_policy.
 - /ad_pop.
 - /ad_pop1.
 - /ad_popup_
@@ -9525,6 +9526,7 @@ msFilterList
 -d legisland.net
 -d leohd59.ru
 -d letilyadothejob.com
+-d letsadvertisetogether.com
 -d letsgoshopping.tk
 -d lfstmedia.com
 -d lgse.com
@@ -11176,6 +11178,7 @@ msFilterList
 -d luadcik.com
 -d lunio.net
 -d maningrs.com
+-d monova.site
 -d moucitons.com
 -d muriarw.com
 -d nrfort.com
@@ -12416,7 +12419,6 @@ msFilterList
 -d clicksure.com /img/resources/banner_
 -d clicktripz.com /scripts/js/ct.js
 -d clipdealer.com /?action=widget&*&partner=
--d cloudflare.com /ajax/libs/fastclick/1.0.3/fastclick.min.js
 -d cloudfront.net /?tid=
 -d cloudfront.net /dfpd.js
 -d cloudfront.net /nimblebuy/
@@ -19101,7 +19103,6 @@ msFilterList
 +d lehighvalleylive.com /static/common/js/ads/ads.js
 +d lelong.com.my /UserImages/Ads/
 +d lemon-ads.com
-+d letsadvertisetogether.com .js
 +d libraryjournal.com /wp-content/plugins/wp-intern-ads/
 +d lightningcast.net /servlets/getplaylist?*&responsetype=asx&
 +d linkbucks.com /tmpl/
@@ -20447,6 +20448,7 @@ msFilterList
 +d phncdn.com /www-static/js/front-login.js*.js
 +d phncdn.com /www-static/js/gif-*.js
 +d phncdn.com /www-static/js/header-menu.js?*.js
++d phncdn.com /www-static/js/header-nojquery.js?*.js
 +d phncdn.com /www-static/js/header.js*.js
 +d phncdn.com /www-static/js/html5Player/*.js
 +d phncdn.com /www-static/js/lib/*.js
@@ -20464,6 +20466,8 @@ msFilterList
 +d phncdn.com /www-static/js/phub.*.js
 +d phncdn.com /www-static/js/playlist-show.js*.js
 +d phncdn.com /www-static/js/playlist/*.js
++d phncdn.com /www-static/js/pornstars-comment.js?*.js
++d phncdn.com /www-static/js/pornstars-photo.js?*.js
 +d phncdn.com /www-static/js/pornstars-profile.js?*.js
 +d phncdn.com /www-static/js/pornstars-upload.js?*.js
 +d phncdn.com /www-static/js/pornstars-video.js?*.js

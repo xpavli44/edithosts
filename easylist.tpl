@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 06 Apr 2016 09:00 UTC
+# Last modified: 08 Apr 2016 07:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1724,7 +1724,7 @@ msFilterList
 - /ad_parts.
 - /ad_peel/
 - /ad_pics/
-# /ad_policy.$object-subrequest
+- /ad_policy.
 - /ad_pop.
 - /ad_pop1.
 - /ad_popup_
@@ -9869,6 +9869,7 @@ msFilterList
 -d legisland.net
 -d leohd59.ru
 -d letilyadothejob.com
+-d letsadvertisetogether.com
 -d letsgoshopping.tk
 -d lfstmedia.com
 -d lgse.com
@@ -11541,6 +11542,7 @@ msFilterList
 -d luadcik.com
 -d lunio.net
 -d maningrs.com
+-d monova.site
 -d moucitons.com
 -d muriarw.com
 -d nrfort.com
@@ -11737,6 +11739,7 @@ msFilterList
 # ||clpremdo.com^$popup,third-party
 # ||cmllk2.info^$popup,third-party
 # ||computersoftwarelive.com^$popup,third-party
+# ||content.ad^$popup,third-party
 # ||contentabc.com^$popup,third-party
 # ||contractallsinstance.info^$popup,third-party
 # ||cpayard.com^$popup,third-party
@@ -11814,6 +11817,7 @@ msFilterList
 # ||kanoodle.com^$popup,third-party
 # ||landsraad.cc^$popup,third-party
 # ||legisland.net^$popup,third-party
+# ||letsadvertisetogether.com^$popup,third-party
 # ||letshareus.com^$popup,third-party
 # ||ligatus.com^$popup,third-party
 # ||liveadexchanger.com^$popup,third-party
@@ -13299,7 +13303,6 @@ msFilterList
 -d clicksure.com /img/resources/banner_
 -d clicktripz.com /scripts/js/ct.js
 -d clipdealer.com /?action=widget&*&partner=
--d cloudflare.com /ajax/libs/fastclick/1.0.3/fastclick.min.js
 -d cloudfront.net /?tid=
 -d cloudfront.net /dfpd.js
 # ||cloudfront.net/images/amazon/$domain=slader.com
@@ -21111,7 +21114,7 @@ msFilterList
 # @@||as.medscape.com/html.ng/transactionid%$subdocument,domain=medscape.com
 +d as.webmd.com /html.ng/transactionid=
 +d asiasold.com /assets/home/openx/
-# @@||asrock.com/images/index-ad-$~third-party
+# @@||asrock.com/images/ad-$~third-party
 # @@||assets.rewardstyle.com^$domain=glamour.com|itsjudytime.com
 +d assiniboine.mb.ca /files/intrasite_ads/
 # @@||assoc-amazon.com/widgets/$domain=sotumblry.com
@@ -21775,7 +21778,6 @@ msFilterList
 +d lelong.com.my /UserImages/Ads/
 +d lemon-ads.com
 # @@||lesacasino.com/banners/$~third-party
-+d letsadvertisetogether.com .js
 +d libraryjournal.com /wp-content/plugins/wp-intern-ads/
 +d lightningcast.net /servlets/getplaylist?*&responsetype=asx&
 # @@||lijit.com///www/delivery/fpi.js?*&width=728&height=90$script,domain=hypeseek.com
@@ -22414,6 +22416,7 @@ msFilterList
 +d tubemogul.com /crossdomain.xml
 +d tudouui.com /bin/player2/*&adsourceid=
 # @@||turner.com/adultswim/big/promos/$media,domain=video.adultswim.com
+# @@||turner.com^*/ad_policy.xml$object-subrequest,domain=go.cnn.com
 # @@||turner.com^*/ads/freewheel/*/AdManager.js$domain=adultswim.com|cartoonnetwork.com|cnn.com|hlntv.com|nba.com|tbs.com|teamcoco.com|tntdrama.com
 # @@||turner.com^*/ads/freewheel/*/admanager.swf$domain=adultswim.com|cartoonnetwork.com|cnn.com|hlntv.com|nba.com|tbs.com|teamcoco.com|tntdrama.com
 # @@||turner.com^*/ads/freewheel/bundles/*/renderers.xml$object-subrequest,domain=cartoonnetwork.com|tnt.tv
@@ -24370,6 +24373,7 @@ msFilterList
 +d phncdn.com /www-static/js/front-login.js*.js
 +d phncdn.com /www-static/js/gif-*.js
 +d phncdn.com /www-static/js/header-menu.js?*.js
++d phncdn.com /www-static/js/header-nojquery.js?*.js
 +d phncdn.com /www-static/js/header.js*.js
 +d phncdn.com /www-static/js/html5Player/*.js
 +d phncdn.com /www-static/js/lib/*.js
@@ -24387,6 +24391,8 @@ msFilterList
 +d phncdn.com /www-static/js/phub.*.js
 +d phncdn.com /www-static/js/playlist-show.js*.js
 +d phncdn.com /www-static/js/playlist/*.js
++d phncdn.com /www-static/js/pornstars-comment.js?*.js
++d phncdn.com /www-static/js/pornstars-photo.js?*.js
 +d phncdn.com /www-static/js/pornstars-profile.js?*.js
 +d phncdn.com /www-static/js/pornstars-upload.js?*.js
 +d phncdn.com /www-static/js/pornstars-video.js?*.js
