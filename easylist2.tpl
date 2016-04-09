@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá dub 8 15:05:37 CEST 2016 ##################
+##### Aktualizováno: So dub 9 18:08:12 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -418,6 +418,7 @@ msFilterList
 +d titulky.com /bannery/
 +d poradte.cz /js/ads.js
 +d iprima.cz
++d play.iprima.cz /ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 - &ad_box_
 - &ad_channel=
 - &ad_classid=
@@ -1139,6 +1140,7 @@ msFilterList
 - /ad-indicator-
 - /ad-inject/
 - /ad-injection/
+- /ad-inserter/
 - /ad-int-
 - /ad-issue.
 - /ad-label-
@@ -3376,6 +3378,7 @@ msFilterList
 - /affilatebanner.
 - /Affiliate-Banner-
 - /affiliate-content/
+- /affiliate.linker/
 - /affiliate/ad/
 - /affiliate/ads/
 - /affiliate/banner/
@@ -4176,6 +4179,7 @@ msFilterList
 - /featuredadshome.
 - /feedads.
 - /file/ad.
+- /fileadmin/ads/
 - /files/ad-
 - /files/ad/
 - /files/ads-
@@ -6745,6 +6749,7 @@ msFilterList
 - _fixed_ad.
 - _floating_ad_
 - _floatingad_
+- _FLYAD.
 - _footer_ad_
 - _framed_ad/
 - _friendlyduck.
@@ -10357,7 +10362,6 @@ msFilterList
 -d sexmoney.com
 -d shakamech.com
 -d share-server.com
--d shareasale.com
 -d sharegods.com
 -d shareresults.com
 -d sharethrough.com
@@ -11087,6 +11091,7 @@ msFilterList
 -d blipi.net
 -d bluazard.net
 -d boafernd.com
+-d bridlonz.link
 -d briduend.com
 -d buamingh.com
 -d buandirs.net
@@ -11116,6 +11121,7 @@ msFilterList
 -d draugonda.net
 -d drfflt.info
 -d duactinor.net
+-d duading.link
 -d duamews.com
 -d dutolats.net
 -d ectensian.net
@@ -11152,6 +11158,7 @@ msFilterList
 -d hobri.net
 -d holmgard.link
 -d hoppr.co
+-d iambibiler.net
 -d ignup.com
 -d incotand.com
 -d induanajo.com
@@ -13300,6 +13307,7 @@ msFilterList
 -d sfstatic.com /js/fl.js
 -d shaadi.com /get-banner.php?
 -d shaadi.com /get-html-banner.php?
+-d shareasale.com /image/
 -d shareflare.net /images/
 -d shariahprogram.ca /banners/
 -d sharingzone.net /images/banner
@@ -16599,6 +16607,7 @@ msFilterList
 -d sceper.eu /wp-content/banners.min.js
 -d scientopia.org /public_html/clr_lympholyte_banner.gif
 -d scmagazine.com.au /Utils/SkinCSS.ashx?skinID=
+-d scoopnest.com /content_rb.php
 -d scoot.co.uk /delivery.php
 -d screen4u.net /templates/banner.html
 -d screenafrica.com /jquery.jcarousel.min.js
@@ -17737,6 +17746,7 @@ msFilterList
 +d youtube.com /iframe_api*.js
 +d youtube.com /player_api*.js
 +d ytimg.com /yts/jsbin/*.js
+-d a.thefreethoughtproject.com
 -d supercheats.com /js/yavli.js
 -d birminghammail.co.uk /desktop.js?*.js
 -d birminghammail.co.uk /handlebarsCompiledTemplates.js?*.js
@@ -20571,6 +20581,7 @@ msFilterList
 +d redtube.com /js/jquery/
 +d redtube.com /language-star-suggestion/
 +d redtube.com /logout
++d redtube.com /media/avatars/
 +d redtube.com /message/
 +d redtube.com /notifications/
 +d redtube.com /panel/
@@ -20586,6 +20597,7 @@ msFilterList
 +d redtube.com /upload/
 +d redtube.com /videodetails/
 +d redtube.com /watched/
++d redtube.com /media/videos/
 +d tube8.com /_Incapsula_Resource?
 +d tube8.com /ajax-
 +d tube8.com /ajax/
