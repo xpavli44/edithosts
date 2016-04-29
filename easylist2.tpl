@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt dub 28 15:26:45 CEST 2016 ##################
+##### Aktualizováno: Pá dub 29 14:54:53 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10182,6 +10182,7 @@ msFilterList
 -d prf.hn
 -d prickac.com
 -d primaryads.com
+-d pritesol.com
 -d pro-advert.de
 -d pro-advertising.com
 -d pro-market.net
@@ -17828,18 +17829,6 @@ msFilterList
 +d conservativevideos.com
 +d content-img.newsinc.com
 +d digitaljournal.com /img/*-medium/
-+d explosm.net /favicons/favicon
-+d explosm.net /files/davecomicparrot.png
-+d explosm.net /img/logo.png
-+d explosm.net /img/nav-button_first@2x.png
-+d explosm.net /img/nav-button_newest@2x.png
-+d explosm.net /img/nav-button_next@2x.png
-+d explosm.net /img/nav-button_previous@2x.png
-+d explosm.net /img/nav-button_random@2x.png
-+d explosm.net /show/thumbnails/
-+d files.explosm.net /avatars/
-+d files.explosm.net /rcg/
-+d files.explosm.net /thumbs/
 +d google.com /js/th/*.js
 +d google.com /jsapi*.js
 +d google.com /recaptcha/*.js
