@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 25 13:04:31 CEST 2016 ##################
+##### Aktualizováno: St kvě 25 13:27:54 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2166,6 +2166,7 @@ msFilterList
 - /adorika300.
 - /adorika728.
 - /ados.js
+- /ados?
 - /adotube_adapter.
 - /adotubeplugin.
 - /adoverlay.
@@ -9556,6 +9557,7 @@ msFilterList
 -d isapi.solutions
 -d isohits.com
 -d isparkmedia.com
+-d isubdomains.com
 -d itrengia.com
 -d iu16wmye.com
 -d iv.doubleclick.net
@@ -9988,6 +9990,7 @@ msFilterList
 -d newgentraffic.com
 -d newideasdaily.com
 -d newsadstream.com
+-d newsmaxfeednetwork.com
 -d newsnet.in.ua
 -d newstogram.com
 -d newtention.net
@@ -10632,6 +10635,7 @@ msFilterList
 -d spotrails.com
 -d spotscenered.info
 -d spottt.com
+-d spotxcdn.com
 -d spotxchange.com
 -d spoutable.com
 -d sprintrade.com
@@ -12468,6 +12472,7 @@ msFilterList
 -d amazonaws.com /lms/sponsors/
 -d amazonaws.com /photos.offers.analoganalytics.com/
 -d amazonaws.com /pmb-musics/download_itunes.png
+-d amazonaws.com /promotions/
 -d amazonaws.com /publishflow/
 -d amazonaws.com /skyscrpr.js
 -d amazonaws.com /streetpulse/ads/
@@ -14466,6 +14471,7 @@ msFilterList
 -d affiliatesynergy.com /banner_
 -d afloat.ie /banners/
 -d afmradio.co.za /images/slider/
+-d afr.com /sponsored_
 -d africanbusinessmagazine.com /images/banners/
 -d africaonline.com.na /banners/
 -d afternoondc.in /banners/

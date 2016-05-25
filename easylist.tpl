@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 May 2016 11:00 UTC
+# Last modified: 25 May 2016 11:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -2325,6 +2325,7 @@ msFilterList
 - /adorika300.
 - /adorika728.
 - /ados.js
+- /ados?
 - /adotube_adapter.
 - /adotubeplugin.
 - /adoverlay.
@@ -9906,6 +9907,7 @@ msFilterList
 -d isapi.solutions
 -d isohits.com
 -d isparkmedia.com
+-d isubdomains.com
 -d itrengia.com
 -d iu16wmye.com
 -d iv.doubleclick.net
@@ -10345,6 +10347,7 @@ msFilterList
 -d newgentraffic.com
 -d newideasdaily.com
 -d newsadstream.com
+-d newsmaxfeednetwork.com
 -d newsnet.in.ua
 -d newstogram.com
 -d newtention.net
@@ -10993,6 +10996,7 @@ msFilterList
 -d spotrails.com
 -d spotscenered.info
 -d spottt.com
+-d spotxcdn.com
 -d spotxchange.com
 -d spoutable.com
 -d sprintrade.com
@@ -13384,6 +13388,7 @@ msFilterList
 -d amazonaws.com /photos.offers.analoganalytics.com/
 # ||amazonaws.com/player.php?vidurl=$object-subrequest,domain=ndtv.com
 -d amazonaws.com /pmb-musics/download_itunes.png
+-d amazonaws.com /promotions/
 -d amazonaws.com /publishflow/
 -d amazonaws.com /skyscrpr.js
 -d amazonaws.com /streetpulse/ads/
@@ -15846,6 +15851,7 @@ msFilterList
 -d affiliatesynergy.com /banner_
 -d afloat.ie /banners/
 -d afmradio.co.za /images/slider/
+-d afr.com /sponsored_
 -d africanbusinessmagazine.com /images/banners/
 -d africaonline.com.na /banners/
 -d afternoondc.in /banners/
