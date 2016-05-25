@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 May 2016 11:20 UTC
+# Last modified: 25 May 2016 11:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -23939,7 +23939,7 @@ msFilterList
 +d pandora.com /static/ads/
 # @@||partner.googleadservices.com/gampad/google_ads.js$domain=cityam.com
 # @@||partner.googleadservices.com/gampad/google_service.js$domain=cityam.com
-# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=baseball-reference.com|basketball-reference.com|cityam.com|computerworlduk.com|gamespot.com|hockey-reference.com|pro-football-reference.com|residentadvisor.net|sitepoint.com|speedtest.net|sports-reference.com|techworld.com
+# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=bakersfield.com|baseball-reference.com|basketball-reference.com|cityam.com|computerworlduk.com|gamespot.com|hockey-reference.com|pro-football-reference.com|residentadvisor.net|sitepoint.com|speedtest.net|sports-reference.com|techworld.com
 +d paste.org /style/adframe.js
 +d pcgames-download.net
 # @@||pcgames-download.net^$script,domain=pcgames-download.net
