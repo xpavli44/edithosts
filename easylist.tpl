@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 25 May 2016 11:50 UTC
+# Last modified: 26 May 2016 09:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 20/05/2015
+# Last change: 25/05/2015
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88
 # License: CC-BY-SA v4.0
@@ -541,6 +541,8 @@ msFilterList
 # @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
 +d games.tiscali.cz /img/adblock_on.gif
 +d games.tiscali.cz
++d topserialy.sk fuck-adblock*.js
+# @@||topserialy.sk$generichide
 # *** easylist.txt ***
 # Licence: https://easylist-downloads.adblockplus.org/COPYING
 #
@@ -10518,6 +10520,7 @@ msFilterList
 -d pebblemedia.be
 -d peelawaymaker.com
 -d peemee.com
+-d peer39.com
 -d peer39.net
 -d penuma.com
 -d pepperjamnetwork.com
@@ -16051,6 +16054,7 @@ msFilterList
 -d banners.i-comers.com
 -d banners.itweb.co.za
 -d banners.playocio.com
+# ||barnebys.com/widget/$domain=telegraph.co.uk
 -d barnesandnoble.com /promo/
 -d baseballamerica.com /plugs/
 -d bashandslash.com /images/banners/

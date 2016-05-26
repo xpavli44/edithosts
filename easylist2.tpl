@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 25 13:55:10 CEST 2016 ##################
+##### Aktualizováno: Čt kvě 26 11:20:21 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -434,6 +434,7 @@ msFilterList
 +d api.play-backend.iprima.cz /ad/banner/_adsense_/_adserver/
 +d games.tiscali.cz /img/adblock_on.gif
 +d games.tiscali.cz
++d topserialy.sk fuck-adblock*.js
 - &ad_box_
 - &ad_channel=
 - &ad_classid=
@@ -10158,6 +10159,7 @@ msFilterList
 -d pebblemedia.be
 -d peelawaymaker.com
 -d peemee.com
+-d peer39.com
 -d peer39.net
 -d penuma.com
 -d pepperjamnetwork.com
