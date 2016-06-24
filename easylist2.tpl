@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čen 22 14:00:49 CEST 2016 ##################
+##### Aktualizováno: Pá čen 24 11:06:49 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -217,7 +217,6 @@ msFilterList
 +d games.tiscali.cz /img/adblock_on.gif
 +d games.tiscali.cz /js/
 - http://idnes.cz*.js
-+d servix.idnes.cz /media
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
 -d akoviazatkravatu.sk /domain/akoviazatkravatu/files/sponzorovane-odkazy/
@@ -436,6 +435,7 @@ msFilterList
 +d games.tiscali.cz /img/adblock_on.gif
 +d games.tiscali.cz
 +d topserialy.sk fuck-adblock*.js
++d i0.cz /js/advert.
 - &ad_box_
 - &ad_channel=
 - &ad_classid=
@@ -14138,6 +14138,7 @@ msFilterList
 -d crocogirls.com /croco-new.js
 -d cs.celebbusters.com
 -d cs.exposedontape.com
+-d d1mib12jcgwmnv.cloudfront.net
 -d dailyvideo.securejoin.com
 -d datefree.com
 -d ddfcash.com /iframes/
@@ -19342,6 +19343,7 @@ msFilterList
 +d cydiaupdates.net /CydiaUpdates.com_600x80.png
 +d d3con.org /data1/
 +d dailycaller.com /wp-content/plugins/advertisements/*.js
++d dailycaller.com
 +d dailyhiit.com /sites/*/ad-images/
 +d dailymail.co.uk /googleads--.js
 +d dailymotion.com /videowall/*&clickTAG=http
@@ -20462,7 +20464,6 @@ msFilterList
 +d nosteam.ro /advertisement.js
 +d nosteam.ro /advertisement.js
 +d novamov.com /banner.php?*.js
-+d nowdownload.to /banner.php?*.js
 +d nowvideo.li /banner.php?*.js
 +d nowvideo.sx /banner.php?*.js
 +d nowvideo.to /banner.php?*.js
