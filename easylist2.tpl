@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá čen 24 11:06:49 CEST 2016 ##################
+##### Aktualizováno: Út čen 28 15:15:32 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -510,7 +510,9 @@ msFilterList
 - -ad-200x200-
 - -ad-24x24.
 - -ad-300x250.
+- -ad-300x450.
 - -ad-300x600-
+- -ad-303x481-
 - -ad-313x232.
 - -ad-336x280-
 - -ad-340x400-
@@ -3876,6 +3878,7 @@ msFilterList
 - /clients/ads/
 - /clkads.
 - /cm/ads/
+- /CME-ad-
 - /cms/ads/
 - /cms/js/ad_
 - /cn-advert.
@@ -5445,6 +5448,7 @@ msFilterList
 - /pub/ads/
 - /pub_images/
 - /pubad.
+- /pubads.
 - /pubads_
 - /public/ad/
 - /public/ad?
@@ -6351,6 +6355,8 @@ msFilterList
 - /zalando-ad-
 - /zanox/banner/
 - /zanox_ad/
+- /zaz-admanager.
+- /zaz-admanager/
 - /zedo_
 - /~cdn/ads/
 - ://a.ads.
@@ -9219,6 +9225,7 @@ msFilterList
 -d fb-plus.com
 -d fbgdc.com
 -d fbsvu.com
+-d featence.com
 -d featuredusers.com
 -d featurelink.com
 -d feed-ads.com
@@ -9544,6 +9551,7 @@ msFilterList
 -d incentaclick.com
 -d incloak.com
 -d incomeliberation.com
+-d increas.eu
 -d increase-marketing.com
 -d indexww.com
 -d indiabanner.com
@@ -9713,6 +9721,7 @@ msFilterList
 -d landelcut.com
 -d lanistaconcepts.com
 -d larentisol.com
+-d large-format.net
 -d largestable.com
 -d laserhairremovalstore.com
 -d launchbit.com
@@ -11187,6 +11196,7 @@ msFilterList
 -d worthathousandwords.com
 -d worthyadvertising.com
 -d ws-gateway.com
+-d wsp.mgid.com //
 -d wulium.com
 -d wurea.com
 -d wwbn.com
@@ -11461,6 +11471,7 @@ msFilterList
 -d jellr.net
 -d jerwing.net
 -d jianscoat.com
+-d juarinet.com
 -d juruasikr.net
 -d jusukrs.com
 -d kidasfid.com
@@ -11617,6 +11628,7 @@ msFilterList
 -d 89.248.172.46
 -d 8ipztcc1.com
 -d aaovn.info
+-d aappf.pt
 -d ab4tn.com
 -d abakys.ru
 -d abgeobalancer.com
@@ -11650,6 +11662,7 @@ msFilterList
 -d adultaccessnow.com
 -d adultadmedia.com
 -d adultadvertising.net
+-d adultcamchatfree.com
 -d adultcommercial.net
 -d adultdatingtraffic.com
 -d adultlinkexchange.com
@@ -11751,6 +11764,7 @@ msFilterList
 -d cashthat.com
 -d cashtraff.com
 -d cdn7.network
+-d cdn7.rocks
 -d ceepq.com
 -d celeb-ads.com
 -d celogera.com
@@ -11922,8 +11936,10 @@ msFilterList
 -d helltraffic.com
 -d hentaibiz.com
 -d herezera.com
+-d hgbn.rocks
 -d hghit.com
 -d hhit.xyz
+-d hickle.link
 -d hiddenbucks.com
 -d highnets.com
 -d hipals.com
@@ -11948,7 +11964,9 @@ msFilterList
 -d ideal-sexe.com
 -d idolbucks.com
 -d igiplay.net
+-d igithab.com
 -d iheartbucks.com
+-d ijquery10.com
 -d ilovecheating.com
 -d impotencehelp.info
 -d impressionmonster.com
@@ -12387,6 +12405,7 @@ msFilterList
 -d xpollo.com
 -d xpop.co
 -d xxltr.com
+-d xxxadv.com
 -d xxxallaccesspass.com
 -d xxxbannerswap.com
 -d xxxblackbook.com
@@ -14008,6 +14027,7 @@ msFilterList
 -d d3jgr4uve1d188.cloudfront.net
 -d d3ujids68p6xmq.cloudfront.net
 -d demande.science
+-d onfocus.io
 -d secretmedia.com
 -d zeste.top
 -d 193.34.134.18 /banners/
@@ -15207,6 +15227,7 @@ msFilterList
 -d digdug.divxnetworks.com
 -d digitaljournal.com /promo/
 -d digitalreality.co.nz /360_hacks_banner.gif
+-d digitaltveurope.net /wp-content/uploads/*_wallpaper_
 -d digitizor.com /wp-content/digimages/xsoftspyse.png
 -d digzip.com baner.swf
 -d diplodocs.com /shopping/sol.js
@@ -16604,6 +16625,7 @@ msFilterList
 -d nymag.com /partners/
 -d nymag.com /scripts/skintakeover.js
 -d nymag.com /metrony_
+-d nypost.com /xyz?
 -d nypost.com /takeovers/
 -d nyrej.com /c/
 -d nyt.com -sponsor-
@@ -17904,6 +17926,7 @@ msFilterList
 -d websitehome.co.uk /seoheap/cheap-web-hosting.gif
 -d webstatschecker.com /links/
 -d weddingtv.com /src/baners/
+-d weedwatch.com /images/banners/
 -d weei.com /sponsors/
 -d weei.com /takeover_
 -d weei.com _banner.jpg
@@ -18151,6 +18174,9 @@ msFilterList
 +d speedtest.net /javascript/speedtest-main.js?p=*&r=*&q=*%3*&s=*%3*=
 +d speedtest.net /javascript/speedtest-main.js?v=
 +d speedtest.net /javascript/swfobject.js
++d speedtest.net /mobile/js/helper.js*.js
++d speedtest.net /mobile/js/main.js*.js
++d speedtest.net /mobile/js/vendor/*.js
 +d speedtest.net /results.php
 +d speedtest.net /results.php
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
@@ -18483,6 +18509,7 @@ msFilterList
 -d hellporno.com /iframes/
 -d hentai-foundry.com /themes/*Banner
 -d hentai-foundry.com /themes/Hentai/images/hu/hu.jpg
+-d hentaihaven.org .php?*.js
 -d hentairules.net /pop_*.js
 -d hentaistream.com /out/
 -d hentaistream.com /wp-includes/images/bg-
@@ -18773,6 +18800,7 @@ msFilterList
 -d pornorips.com /rotate*.php
 -d pornosexxxtits.com /rec/
 -d pornoxo.com /tradethumbs/
+-d pornpause.com /fakevideo/
 -d pornper.com /mlr/
 -d pornper.com /pp.js
 -d pornreleasez.com /prpop.js
@@ -20171,6 +20199,8 @@ msFilterList
 +d bitcoiner.net /advertisement.js
 +d bitcoinspace.net /freebitcoins/display_ads.js
 +d boincstats.com /js/adframe.js
++d bojem3a.info /ads.js*.js
++d bojem3a.info /show_ads.js*.js
 +d bollywoodshaadis.com /js/ads.js
 +d boxbit.co.in
 +d boxxod.net /advertisement.js
@@ -21118,6 +21148,7 @@ msFilterList
 +d phncdn.com /www-static/js/vtablet/video/*.js
 +d phncdn.com /zeroclipboard-*.js
 +d phncdn.com /html5Uploader/*.js
++d phncdn.com /streamate/client.js*.js
 +d pornhub.com /_Incapsula_Resource?
 +d pornhub.com /album/
 +d pornhub.com /album_upload
