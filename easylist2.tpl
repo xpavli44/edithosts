@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 27 15:41:34 CEST 2016 ##################
+##### Aktualizováno: So čec 30 07:07:21 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -547,6 +547,7 @@ msFilterList
 - -ad-refresh/
 - -ad-resize-
 - -ad-right.
+- -ad-rotator-
 - -ad-rotators/
 - -ad-server/
 - -ad-sidebar-
@@ -905,6 +906,7 @@ msFilterList
 - .displayAds&
 - .ec/ads/
 - .eg/ads/
+- .es/ads/
 - .eu/ads/
 - .eu/adv/
 - .exp_ad-
@@ -2377,6 +2379,7 @@ msFilterList
 - /ads/728-
 - /ads/728.
 - /ads/728b.
+- /ads/?id=
 - /ads/?QAPS_
 - /ads/?uniq=
 - /ads/a.
@@ -4317,6 +4320,7 @@ msFilterList
 - /floatads.
 - /floatadv.
 - /floater_ad.
+- /floating-ad-
 - /floatingad.
 - /FloatingAd_
 - /floatingads.
@@ -8735,6 +8739,7 @@ msFilterList
 -d chango.com
 -d chanished.net
 -d chanitet.ru
+-d chargeplatform.com
 -d charltonmedia.com
 -d checkm8.com
 -d checkmystats.com.au
@@ -10052,6 +10057,7 @@ msFilterList
 -d mogointeractive.com
 -d mojoaffiliates.com
 -d mokonocdn.com
+-d monetizer101.com
 -d money-cpm.fr
 -d money4ads.com
 -d moneycosmos.com
@@ -12894,6 +12900,7 @@ msFilterList
 -d cdnservices.net /megatag.js
 -d centralmediaserver.com _side_bars.jpg
 -d centralscotlandjoinery.co.uk /images/csj-125.gif
+-d centrora.com //store/image/
 -d cerebral.typn.com
 -d cex.io /img/b/
 -d cex.io /informer/
@@ -16013,6 +16020,8 @@ msFilterList
 -d ifilm.com /website/*-skin-
 -d iframe.travel.yahoo.com
 -d iftn.ie /images/data/banners/
+-d iimg.in -banner-
+-d iimg.in /sponsor_
 -d ijn.com /images/banners/
 -d ijoomla.com /aff/banners/
 -d ilcorsaronero.info /home.gif
@@ -16959,6 +16968,8 @@ msFilterList
 -d portlanddailysun.me /images/banners/
 -d portmiamiwebcam.com /images/sling_
 -d porttechnology.org /images/partners/
+-d portugaldailyview.com /images/mrec/
+-d portugalresident.com /t/
 -d positivehealth.com /BannerAvatar/
 -d positivehealth.com /TopicbannerAvatar/
 -d postadsnow.com /panbanners/
@@ -17540,6 +17551,7 @@ msFilterList
 -d techcentral.co.za /wallpaper-
 -d techexams.net /banners/
 -d techhive.com /ads/
+-d techinsider.net /wp-content/uploads/*-300x500.
 -d technewsdaily.com /crime-stats/local_crime_stats.php
 -d technewsworld.com /images/sda/
 -d technomag.co.zw /TakeOverCampaign.
@@ -17662,6 +17674,9 @@ msFilterList
 -d thenonleaguefootballpaper.com /J4K-new-range-pictures.jpg
 -d thenonleaguefootballpaper.com /Lovell-Soccer.jpg
 -d theoldie.co.uk /Banners/
+-d theolivepress.es -300x33.
+-d theolivepress.es _300x30px_
+-d theolivepress.es _768x90px_
 -d theolympian.com /static/images/weathersponsor/
 -d theonion.com /ads/
 -d theorganicprepper.ca /images/banners/
@@ -18327,6 +18342,7 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
+-d imgcandy.net /fad/*.js
 +d monova.org /js/main.js?v=*.js
 +d flashx.tv /js/ads.js
 -d flashx.tv /?*.js
@@ -20307,6 +20323,7 @@ msFilterList
 +d zedo.com /crossdomain.xml
 +d zeenews.india.com /ads/jw/player.swf
 +d zillow.com /ads/FlexAd.htm?did=
++d zippyshare.com
 +d 300mblink.com
 +d 360haven.com /adframe.js
 +d 360haven.com
@@ -20630,6 +20647,7 @@ msFilterList
 +d iconizer.net /js/adframe.js
 +d idevnote.com
 +d ifirstrow.eu .js
++d ifmnwi.club /adblockr*.js
 +d iguide.to /js/advertisement.js
 +d ilive.to /js/advert*.js
 +d ilive.to
@@ -21201,7 +21219,7 @@ msFilterList
 +d openx.zomoto.nl /live/www/delivery/spcjs.php?id=
 +d peoplegreece.com /assets/js/adtech_res.js
 +d player.terra.com &adunit=*.js
-+d politiken.dk /static/content/js/*.js
++d politiken.dk /static/*.js
 +d prohardver.hu /js/common/forms_*.js
 +d psoe.es /Areas/Affiliation/
 +d ptchan.net /imagens/banner.php
@@ -21279,6 +21297,7 @@ msFilterList
 +d assets2.plinxmedia.net _300x250.
 +d bizquest.com _img/_franchise/*_120x60.
 +d canada.com /news/*-300-250.gif
++d cbsistatic.com /img/*/300x250/
 +d cinemanow.com /images/banners/300x250/
 +d consumerist-com.wpengine.netdna-cdn.com /assets/*300x250
 +d crowdignite.com /img/upload/*300x250
