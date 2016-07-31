@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So čec 30 07:07:21 CEST 2016 ##################
+##### Aktualizováno: Ne čec 31 23:55:29 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8681,6 +8681,7 @@ msFilterList
 -d buyt.in
 -d buzzcity.net
 -d buzzparadise.com
+-d bw94.xyz
 -d bwinpartypartners.com
 -d byspot.com
 -d byzoo.org
@@ -8871,6 +8872,7 @@ msFilterList
 -d conyak.com
 -d coolerads.com
 -d coolmirage.com
+-d coolyeti.info
 -d copacet.com
 -d cor-natty.com
 -d coretarget.co.uk
@@ -9420,6 +9422,7 @@ msFilterList
 -d geopromos.com
 -d geovisite.com
 -d gestionpub.com
+-d getfuneta.info
 -d getgamers.eu
 -d getgscfree.com
 -d gets-web.space
@@ -9822,6 +9825,7 @@ msFilterList
 -d leetmedia.com
 -d legisland.net
 -d leohd59.ru
+-d lepinsar.com
 -d letilyadothejob.com
 -d letsadvertisetogether.com
 -d letsgoshopping.tk
@@ -14861,6 +14865,7 @@ msFilterList
 -d as.inbox.com
 -d asd.projectfreetv.so
 -d asianewsnet.net /banner/
+-d asianfanfics.com /sponsors/
 -d ask.com /display.html?
 -d ask.com /fifdart?
 -d askandyaboutclothes.com /images/
@@ -17099,6 +17104,7 @@ msFilterList
 -d radiozindagi.com /sponsors/
 -d ragezone.com /output.php/
 -d rainbowpages.lk /images/banners/
+-d rainiertamayo.com /js/*.js
 -d rapidfiledownload.com /btn-input-download.png
 -d rapidgamez.com /images/
 -d rapidgator.net /images/banners/
@@ -18342,6 +18348,7 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
++d itechpost.com
 -d imgcandy.net /fad/*.js
 +d monova.org /js/main.js?v=*.js
 +d flashx.tv /js/ads.js
@@ -18838,6 +18845,7 @@ msFilterList
 -d motherless.com /3c*.js
 -d motherless.com /images/banners/
 -d motherman.com .html
+-d movierls.net /abecloader
 -d mp3musicengine.com /bearshare_logo.
 -d mp3musicengine.com /images/freewatchtv1.
 -d mrskin.com /data/mrskincash/
@@ -19052,6 +19060,7 @@ msFilterList
 -d rextube.com /plug/iframe.asp?
 -d rikotachibana.org /wp-content/banner/
 -d rude.com /js/PopupWindow.js
+-d rule34.xxx /r34.js
 -d rusdosug.com /Fotos/Banners/
 -d russiansexytube.com /js/spc_banners_init.js
 -d russiansexytube.com /js/video_popup.js
@@ -20037,6 +20046,7 @@ msFilterList
 +d radioline.co /js/advert.js?
 +d radiotimes.com /rt-service/resource/jspack?
 +d rainbowdressup.com /ads/adsnewvars.swf
++d rainiertamayo.com /js/*-*.js
 +d rapoo.com /images/ad/
 +d rcards.net /wp-content/plugins/useful-banner-manager/
 +d rcards.net /wp-content/uploads/useful_banner_manager_banners/
@@ -20473,6 +20483,7 @@ msFilterList
 +d cookinggames.com
 +d coolgames.com /ads.js
 +d corepacks.com
++d cpu-world.com
 +d crazygallery.info /ads/*.js
 +d cricket-365.tv
 +d crunchyroll.com /ads_enabled_flag.js
@@ -20615,6 +20626,7 @@ msFilterList
 +d go4up.com
 +d gofirstrow.eu /advertisement.js
 +d gofirstrow.eu /advertisement.js
++d gogi.in
 +d goldsday.com
 +d goodvideohost.com
 +d gorillavid.in /script/ad.js
@@ -20626,6 +20638,8 @@ msFilterList
 +d hackintosh.zone
 +d hackintosh.zone /adframe.js*.js
 +d hallpass.com /ads.js
++d happytrips.com _ad*.js
++d happytrips.com ads*.js
 +d hardware.no /ads/
 +d hardware.no /artikler/
 +d hardware.no .js
@@ -20643,6 +20657,7 @@ msFilterList
 +d hqq.tv
 +d hubturkey.net
 +d hulkusc.com
++d hypixel.net
 +d ibmmainframeforum.com
 +d iconizer.net /js/adframe.js
 +d idevnote.com
@@ -20687,6 +20702,7 @@ msFilterList
 +d katsomo.fi /advertisement.js
 +d kbb.com /js/advert.js
 +d kbb.com
++d kbb.com /ads.js
 +d kdliker.com /js/advert.js
 +d kenkenpuzzle.com /assets/ads-*.js
 +d kissanime.com /ads/
@@ -21258,6 +21274,7 @@ msFilterList
 +d tusoft.org
 +d tv2.dk /mpx/player.php/adtech_
 +d tvn.adocean.pl
++d tvp.pl /files/tvplayer/
 +d uol.com.br /html.ng/*&affiliate=
 +d varno-zavarovanje.com /system/modules/cp_pagepeel/html/peel.js
 +d vedomosti.ru /assets/vendors/adriver.media-*.js
