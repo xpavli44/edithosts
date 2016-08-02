@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 31 Jul 2016 21:50 UTC
+# Last modified: 02 Aug 2016 20:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -2929,6 +2929,7 @@ msFilterList
 - /adsadview.
 - /AdsAjaxRefresh.
 - /adsales/
+- /adsall.
 - /adsame.
 - /adsample.
 - /adsandbox.
@@ -6186,6 +6187,7 @@ msFilterList
 - /swfbin/ad3_
 - /switchadbanner.
 - /SWMAdPlayer.
+- /syads.
 - /synad2.
 - /synad3.
 - /syndication/ad.
@@ -6795,6 +6797,7 @@ msFilterList
 - _ad?size=
 - _ad_125x125.
 - _ad_2012.
+- _ad_250.
 - _ad_300.
 - _ad_350x250.
 - _ad_728_
@@ -7030,7 +7033,7 @@ msFilterList
 - _advert_label.
 - _advert_overview.
 - _advert_vert
-- _advertise-
+# _advertise-$domain=~linkedin.com
 - _advertise.
 - _advertise180.
 - _advertisehere.
@@ -7353,6 +7356,7 @@ msFilterList
 # /anti-adblock/*$~stylesheet
 - /anti_ab.
 - /antiadblock.
+- /antiblock_script/
 - /blockblock/blockblock.jquery.js
 # /BlockerBanner/*$xmlhttprequest
 - /Disable%2BAdblock.
@@ -8077,6 +8081,7 @@ msFilterList
 -d 360yield.com
 -d 365sbaffiliates.com
 -d 3cnce854.com
+-d 3jsbf5.xyz
 -d 3lift.com
 -d 3lr67y45.com
 -d 3omb.com
@@ -8589,6 +8594,7 @@ msFilterList
 -d advanseads.com
 -d advantageglobalmarketing.com
 -d advard.com
+-d advarkads.com
 -d advatar.to
 -d adventori.com
 -d adverigo.com
@@ -9557,6 +9563,7 @@ msFilterList
 -d ebuzzing.com
 -d ebz.io
 -d ecpmrocks.com
+-d ecto-ecto-uno.com
 -d edgeads.org
 -d edgevertise.com
 -d edomz.net
@@ -9602,6 +9609,7 @@ msFilterList
 -d especifican.com
 -d essayads.com
 -d essaycoupons.com
+-d et-code.ru
 -d etargetnet.com
 -d etgdta.com
 -d etmanly.ru
@@ -10028,6 +10036,7 @@ msFilterList
 -d instantdollarz.com
 -d instinctiveads.com
 -d instivate.com
+-d instreamvideo.ru
 -d integral-marketing.com
 -d intellibanners.com
 -d intellitxt.com
@@ -10160,6 +10169,7 @@ msFilterList
 -d kumpulblogger.com
 -d l3op.info
 -d ladbrokesaffiliates.com.au
+-d laim.tv
 -d lakequincy.com
 -d lakidar.net
 -d landelcut.com
@@ -10192,6 +10202,7 @@ msFilterList
 -d letilyadothejob.com
 -d letsadvertisetogether.com
 -d letsgoshopping.tk
+-d letysheeps.ru
 -d lfstmedia.com
 -d lgse.com
 -d liftdna.com
@@ -10482,6 +10493,8 @@ msFilterList
 -d myvads.com
 -d mywidget.mobi
 -d mz28ismn.com
+-d n130adserv.com
+-d n161adserv.com
 -d n388hkxg.com
 -d n4403ad.doubleclick.net
 -d nabbr.com
@@ -11374,6 +11387,7 @@ msFilterList
 -d toroadvertisingmedia.com
 -d torrida.net
 -d torrpedoads.net
+-d torvind.com
 -d total-media.net
 -d totalprofitplan.com
 -d totemcash.com
@@ -11781,7 +11795,6 @@ msFilterList
 -d zeads.com
 -d zedo.com
 -d zeesiti.com
--d zemanta.com
 -d zenoviaexchange.com
 -d zenoviagroup.com
 -d zercstas.com
@@ -12313,6 +12326,7 @@ msFilterList
 # ||integral-marketing.com^$popup,third-party
 # ||interner-magaziin.ru^$popup,third-party
 # ||jdtracker.com^$popup,third-party
+# ||juiceads.net^$popup,third-party
 # ||jujzh9va.com^$popup,third-party
 # ||junbi-tracker.com^$popup,third-party
 # ||kanoodle.com^$popup,third-party
@@ -12610,6 +12624,7 @@ msFilterList
 -d adultadmedia.com
 -d adultadvertising.net
 -d adultcamchatfree.com
+-d adultcamfree.com
 -d adultcommercial.net
 -d adultdatingtraffic.com
 -d adultforce.com
@@ -15027,6 +15042,7 @@ msFilterList
 -d sweeva.com /widget.php?w=
 -d swimg.net /banners/
 -d synapsys.us /widgets/chatterbox/
+-d synapsys.us /widgets/dynamic_widget/
 -d syndicate.payloadz.com
 -d syndication.jsadapi.com
 -d syndication.visualthesaurus.com /std/vtad.js
@@ -15266,6 +15282,7 @@ msFilterList
 -d zapads.zapak.com
 -d zazzle.com /utl/getpanel
 -d zazzle.com ?rf
+-d zemanta.com /loader.js
 -d zergnet.com
 -d zeus.qj.net
 -d zeusfiles.com /promo/
@@ -15957,7 +15974,7 @@ msFilterList
 #----------------------Specific advert blocking filters-----------------------#
 # *** easylist:easylist/easylist_specific_block.txt ***
 # .com/?$script,third-party,domain=streamcloud.eu
-# .com/?*=$script,~third-party,domain=100percentfedup.com|allenwestrepublic.com|americannewsx.com|clashdaily.com|conservativebyte.com|coviral.com|eaglerising.com|freedomoutpost.com|girlsjustwannahaveguns.com|joeforamerica.com|libertyunyielding.com|minutemennews.com|patriotupdate.com|redhotchacha.com|religionlo.com|reviveusa.com|theblacksphere.net|zionica.com
+# .com/?*=$script,~third-party,domain=100percentfedup.com|allenwestrepublic.com|americannewsx.com|barbwire.com|clashdaily.com|conservativebyte.com|coviral.com|eaglerising.com|freedomoutpost.com|girlsjustwannahaveguns.com|joeforamerica.com|libertyunyielding.com|minutemennews.com|patriotupdate.com|redhotchacha.com|religionlo.com|reviveusa.com|theblacksphere.net|zionica.com
 # .com/b?z=$domain=couchtuner.eu|zzstream.li
 - .com/jquery/*.js?_t=*.js
 # .com/m$image,third-party,domain=primewire.ag|primewire.in
@@ -16626,6 +16643,7 @@ msFilterList
 -d chinanews.com /gg/
 -d chronicle.lu /images/banners/
 -d chronicle.lu /images/Sponsor_
+-d churchmilitant.com /ad-
 -d churchnewssite.com -banner1.
 -d churchnewssite.com /banner-
 -d churchnewssite.com /bannercard-
@@ -19187,6 +19205,8 @@ msFilterList
 -d supermarket.co.za /images/advetising/
 -d supermonitoring.com /images/banners/
 -d superplatyna.com /automater.swf
+-d surfmusic.de /anz
+-d surfmusic.de /banner
 -d surfthechannel.com /promo/
 -d swagmp3.com /cdn-cgi/pe/
 -d swampbuggy.com /media/images/banners/
@@ -20117,6 +20137,7 @@ msFilterList
 # geekzone.co.nz
 # @@||ajax.googleapis.com^$script,domain=geekzone.co.nz
 # @@||disqus.com^$script,third-party,domain=geekzone.co.nz
+# @@||maps.googleapis.com^$script,domain=geekzone.co.nz
 # @@||platform.twitter.com^$script,domain=geekzone.co.nz
 # @@||tinymce.com^$script,domain=geekzone.co.nz
 # |http://$script,third-party,domain=geekzone.co.nz
@@ -20354,6 +20375,7 @@ msFilterList
 # fastpic
 # |http://$script,stylesheet,third-party,domain=fastpic.ru
 # |https://$script,stylesheet,third-party,domain=fastpic.ru
+# |ws://$other,third-party,domain=fastpic.ru
 # monova
 # @@||gstatic.com^$script,third-party,domain=monova.org
 +d monova.org /js/main.js?v=*.js
@@ -20913,6 +20935,7 @@ msFilterList
 -d 3xupdate.com /ryushare2.gif
 -d 3xupdate.com /ryusharepremium.gif
 -d 3yen.com /wfn_
+# ||46.166.188.43^$domain=motherless.com
 -d 4sex4.com /pd/
 -d 4tube.com /tb/banner/
 -d 4ufrom.me /xpw.gif
@@ -21059,6 +21082,7 @@ msFilterList
 -d drtuber.com /templates/frontend/white/js/embed.js?
 -d drtuber.com /aff_banner.swf
 -d dusttube.com /pop*.js
+-d dyn.tnaflix.com .php*.js
 -d easypic.com /js/easypicads.js
 -d eccie.net /buploads/
 -d eccie.net /eros/
@@ -21268,6 +21292,7 @@ msFilterList
 -d jailbaitgallery.com /banners300/
 -d jav-porn.net /js/popout.js
 -d jav-porn.net /js/popup.js
+-d javhub.net /img/r.jpg
 -d javporn.in /clicunder.js
 -d javsin.com /vip.html
 -d javstreaming.net /app/forad.js
@@ -21625,6 +21650,7 @@ msFilterList
 -d stockingstv.com /partners/
 -d stolenvideos.net /stolen.js
 -d submityourflicks.com /banner/
+-d sunporno.com /_b3.php
 -d sunporno.com /js/flirt/serve.js
 -d svscomics.com /dtrotator.js
 -d sxx.com /js/lj.js
@@ -22325,6 +22351,7 @@ msFilterList
 +d btrll.com /crossdomain.xml
 # @@||btrll.com/vast/$object-subrequest,domain=nfl.com
 # @@||budgetedbauer.com^$script,domain=speedtest.net
+# @@||bulletproofserving.com/scripts/ads*.js$domain=technobuffalo.com
 +d burbankleader.com /hive/images/adv_
 # @@||burfordadvertising.com/advertising/$~third-party
 +d business-supply.com /images/adrotator/
@@ -22778,6 +22805,7 @@ msFilterList
 +d hipsterhitler.com /wp-content/webcomic/
 +d historyextra.com _advertorial
 # @@||hitc-s.com^*/advertisement.js$domain=hitc.com
+# @@||hitwastedgarden.com^$script,domain=dailycaller.com
 +d hologfx.com /banners/
 +d homedepot.com /thdGoogleAdSense.js
 +d hotnewhiphop.com /web_root/images/ads/banner-*.png
@@ -23180,7 +23208,7 @@ msFilterList
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=flashgames247.com|freeonlinegames.com|gameitnow.com|play181.com|toongames.com
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
 # @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
-# @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
+# @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com|technobuffalo.com
 +d pagead2.googlesyndication.com /pagead/static?format=in_video_ads&
 +d pagesinventory.com /_data/flags/ad.gif
 +d pandasecurity.com /banners/
@@ -23451,6 +23479,7 @@ msFilterList
 +d static.ak.fbcdn.net /ads/*.js
 # @@||static.bored.com/advertising/top10/$image,domain=bored.com
 +d static.cricinfo.com /ADVERTS/*/liveScores.swf
+# @@||static.criteo.net/images/pixel.gif?ch=1$image,domain=opensubtitles.org|technobuffalo.com
 # @@||stats.g.doubleclick.net/dc.js$domain=native-instruments.com|nest.com|theheldrich.com
 # @@||stclassifieds.sg/images/ads/$~third-party
 +d stclassifieds.sg /postad/
@@ -23742,6 +23771,7 @@ msFilterList
 # @@||zedo.com/jsc/c5/fhs.js$domain=rrstar.com
 # @@||zedo.com/swf/$domain=startv.in
 +d zeenews.india.com /ads/jw/player.swf
++d zemanta.com /plugins/*.js
 # @@||zergnet.com^$image,script,stylesheet,domain=ci.craveonline.com|ci.gamerevolution.com|ci.momtastic.com|ci.thefashionspot.com|ci.totallyher.com
 # @@||ziehl-abegg.com/images/img_adverts/$~third-party
 +d zillow.com /ads/FlexAd.htm?did=
@@ -23806,6 +23836,7 @@ msFilterList
 # @@||176.31.95.144^$script,domain=filmovizija.in
 # @@||188.165.28.32/advert*.js$domain=filmovizija.in
 # @@||247realmedia.com/RealMedia/ads/Creatives/default/empty.gif$image,domain=surfline.com
+# @@||25cc212ae11.net^$script,domain=openload.co
 # @@||2mdn.net/instream/video/client.js$domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com|majorleaguegaming.com
 +d 300mblink.com
 +d 360haven.com /adframe.js
@@ -25986,6 +26017,7 @@ msFilterList
 +d submityourflicks.com /player/player-ads.swf
 # @@||syndication.exoclick.com/ads.php?type=728x90&$script,domain=dirtstyle.tv
 # @@||tmoncdn.com/scripts/advertisement.js$domain=tubemonsoon.com
++d traffichaus.com /ads.js*.js
 +d traffichaus.com /advertisement.js*.js
 +d tube8.com /js/advertisement.js
 # @@||xhcdn.com^*/ads.js$domain=xhamster.com

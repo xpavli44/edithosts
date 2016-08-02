@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne čec 31 23:57:09 CEST 2016 ##################
+##### Aktualizováno: Út srp 2 22:12:38 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2759,6 +2759,7 @@ msFilterList
 - /adsadview.
 - /AdsAjaxRefresh.
 - /adsales/
+- /adsall.
 - /adsame.
 - /adsample.
 - /adsandbox.
@@ -5977,6 +5978,7 @@ msFilterList
 - /swfbin/ad3_
 - /switchadbanner.
 - /SWMAdPlayer.
+- /syads.
 - /synad2.
 - /synad3.
 - /syndication/ad.
@@ -6572,6 +6574,7 @@ msFilterList
 - _ad?size=
 - _ad_125x125.
 - _ad_2012.
+- _ad_250.
 - _ad_300.
 - _ad_350x250.
 - _ad_728_
@@ -6806,7 +6809,6 @@ msFilterList
 - _advert_label.
 - _advert_overview.
 - _advert_vert
-- _advertise-
 - _advertise.
 - _advertise180.
 - _advertisehere.
@@ -7117,6 +7119,7 @@ msFilterList
 - /adsblocker.
 - /anti_ab.
 - /antiadblock.
+- /antiblock_script/
 - /blockblock/blockblock.jquery.js
 - /Disable%2BAdblock.
 - /fuckadb.js
@@ -7738,6 +7741,7 @@ msFilterList
 -d 360yield.com
 -d 365sbaffiliates.com
 -d 3cnce854.com
+-d 3jsbf5.xyz
 -d 3lift.com
 -d 3lr67y45.com
 -d 3omb.com
@@ -8241,6 +8245,7 @@ msFilterList
 -d advanseads.com
 -d advantageglobalmarketing.com
 -d advard.com
+-d advarkads.com
 -d advatar.to
 -d adventori.com
 -d adverigo.com
@@ -9198,6 +9203,7 @@ msFilterList
 -d ebuzzing.com
 -d ebz.io
 -d ecpmrocks.com
+-d ecto-ecto-uno.com
 -d edgeads.org
 -d edgevertise.com
 -d edomz.net
@@ -9243,6 +9249,7 @@ msFilterList
 -d especifican.com
 -d essayads.com
 -d essaycoupons.com
+-d et-code.ru
 -d etargetnet.com
 -d etgdta.com
 -d etmanly.ru
@@ -9666,6 +9673,7 @@ msFilterList
 -d instantdollarz.com
 -d instinctiveads.com
 -d instivate.com
+-d instreamvideo.ru
 -d integral-marketing.com
 -d intellibanners.com
 -d intellitxt.com
@@ -9797,6 +9805,7 @@ msFilterList
 -d kumpulblogger.com
 -d l3op.info
 -d ladbrokesaffiliates.com.au
+-d laim.tv
 -d lakequincy.com
 -d lakidar.net
 -d landelcut.com
@@ -9829,6 +9838,7 @@ msFilterList
 -d letilyadothejob.com
 -d letsadvertisetogether.com
 -d letsgoshopping.tk
+-d letysheeps.ru
 -d lfstmedia.com
 -d lgse.com
 -d liftdna.com
@@ -10114,6 +10124,8 @@ msFilterList
 -d myvads.com
 -d mywidget.mobi
 -d mz28ismn.com
+-d n130adserv.com
+-d n161adserv.com
 -d n388hkxg.com
 -d n4403ad.doubleclick.net
 -d nabbr.com
@@ -11001,6 +11013,7 @@ msFilterList
 -d toroadvertisingmedia.com
 -d torrida.net
 -d torrpedoads.net
+-d torvind.com
 -d total-media.net
 -d totalprofitplan.com
 -d totemcash.com
@@ -11401,7 +11414,6 @@ msFilterList
 -d zeads.com
 -d zedo.com
 -d zeesiti.com
--d zemanta.com
 -d zenoviaexchange.com
 -d zenoviagroup.com
 -d zercstas.com
@@ -11787,6 +11799,7 @@ msFilterList
 -d adultadmedia.com
 -d adultadvertising.net
 -d adultcamchatfree.com
+-d adultcamfree.com
 -d adultcommercial.net
 -d adultdatingtraffic.com
 -d adultforce.com
@@ -13949,6 +13962,7 @@ msFilterList
 -d sweeva.com /widget.php?w=
 -d swimg.net /banners/
 -d synapsys.us /widgets/chatterbox/
+-d synapsys.us /widgets/dynamic_widget/
 -d syndicate.payloadz.com
 -d syndication.jsadapi.com
 -d syndication.visualthesaurus.com /std/vtad.js
@@ -14162,6 +14176,7 @@ msFilterList
 -d zapads.zapak.com
 -d zazzle.com /utl/getpanel
 -d zazzle.com ?rf
+-d zemanta.com /loader.js
 -d zergnet.com
 -d zeus.qj.net
 -d zeusfiles.com /promo/
@@ -15149,6 +15164,7 @@ msFilterList
 -d chinanews.com /gg/
 -d chronicle.lu /images/banners/
 -d chronicle.lu /images/Sponsor_
+-d churchmilitant.com /ad-
 -d churchnewssite.com -banner1.
 -d churchnewssite.com /banner-
 -d churchnewssite.com /bannercard-
@@ -17516,6 +17532,8 @@ msFilterList
 -d supermarket.co.za /images/advetising/
 -d supermonitoring.com /images/banners/
 -d superplatyna.com /automater.swf
+-d surfmusic.de /anz
+-d surfmusic.de /banner
 -d surfthechannel.com /promo/
 -d swagmp3.com /cdn-cgi/pe/
 -d swampbuggy.com /media/images/banners/
@@ -18597,6 +18615,7 @@ msFilterList
 -d drtuber.com /templates/frontend/white/js/embed.js?
 -d drtuber.com /aff_banner.swf
 -d dusttube.com /pop*.js
+-d dyn.tnaflix.com .php*.js
 -d easypic.com /js/easypicads.js
 -d eccie.net /buploads/
 -d eccie.net /eros/
@@ -18796,6 +18815,7 @@ msFilterList
 -d jailbaitgallery.com /banners300/
 -d jav-porn.net /js/popout.js
 -d jav-porn.net /js/popup.js
+-d javhub.net /img/r.jpg
 -d javporn.in /clicunder.js
 -d javsin.com /vip.html
 -d javstreaming.net /app/forad.js
@@ -19127,6 +19147,7 @@ msFilterList
 -d stockingstv.com /partners/
 -d stolenvideos.net /stolen.js
 -d submityourflicks.com /banner/
+-d sunporno.com /_b3.php
 -d sunporno.com /js/flirt/serve.js
 -d svscomics.com /dtrotator.js
 -d sxx.com /js/lj.js
@@ -20332,6 +20353,7 @@ msFilterList
 +d zattoo.com /advertising/channelswitch/
 +d zedo.com /crossdomain.xml
 +d zeenews.india.com /ads/jw/player.swf
++d zemanta.com /plugins/*.js
 +d zillow.com /ads/FlexAd.htm?did=
 +d zippyshare.com
 +d 300mblink.com
@@ -21779,6 +21801,7 @@ msFilterList
 +d pornxs.com /js/ads/ads.js*.js
 +d sexvidx.tv /js/eroex.js
 +d submityourflicks.com /player/player-ads.swf
++d traffichaus.com /ads.js*.js
 +d traffichaus.com /advertisement.js*.js
 +d tube8.com /js/advertisement.js
 +d xibitnet.com /check/advertisement.js
