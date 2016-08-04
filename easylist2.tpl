@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 2 22:12:38 CEST 2016 ##################
+##### Aktualizováno: Čt srp 4 09:41:41 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -466,6 +466,7 @@ msFilterList
 - &adslots=
 - &adsourceid=
 - &adspace=
+- &adsrc=
 - &adstype=
 - &adType=PREROLL&
 - &adunit=
@@ -2089,9 +2090,6 @@ msFilterList
 - /adlib.
 - /adlift4.
 - /adlift4_
-- /adlink-
-- /adlink.
-- /adlink/
 - /adLink728.
 - /adlink_
 - /adlinks.
@@ -9266,7 +9264,6 @@ msFilterList
 -d excellenceads.com
 -d exchange4media.com
 -d exitexplosion.com
--d exitintel.com
 -d exitjunction.com
 -d exoclick.com
 -d exoneratedresignation.info
@@ -19698,6 +19695,7 @@ msFilterList
 +d fifa.com /flash/videoplayer/libs/advert_
 +d files.coloribus.com
 +d filestage.to /design/player/player.swf?*&popunder=
++d firstpost.in /wp-content/uploads/promo/social_icons.png
 +d fixtracking.com /images/ad-
 +d flipboard.com /media/uploads/adv_
 +d flyerservices.com /cached_banner_pages/*bannerid=
@@ -21771,6 +21769,7 @@ msFilterList
 +d desihoes.com /advertisement.js
 +d drtst.com /ads.js*.js
 +d exoclick.com /ad_track.js
++d exoclick.com /invideo.js
 +d fuqer.com /advertisement.js
 +d fux.com /assets/ads-*.js
 +d hclips.com /js/advertising.js
