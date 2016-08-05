@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 Aug 2016 09:10 UTC
+# Last modified: 05 Aug 2016 13:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -8720,6 +8720,7 @@ msFilterList
 -d aim4media.com
 -d aimatch.com
 -d ajansreklam.net
+-d ajgffcat.com
 -d ajillionmax.com
 -d akamhd.com
 -d albopa.work
@@ -9202,6 +9203,7 @@ msFilterList
 -d completecarrd.com
 -d complive.link
 -d comscore.com
+-d comwgi.com
 -d conduit-banners.com
 -d conduit-services.com
 -d connatix.com
@@ -10639,6 +10641,7 @@ msFilterList
 -d oos4l.com
 -d opap.co.kr
 -d openbook.net
+-d openclose.click
 -d openetray.com
 -d opensourceadvertisementnetwork.info
 -d openx.net
@@ -12261,6 +12264,7 @@ msFilterList
 # ||download-performance.com^$popup,third-party
 # ||downloadboutique.com^$popup,third-party
 # ||downloadthesefile.com^$popup,third-party
+# ||dradvice.in^$popup,third-party
 # ||durokuro.com^$popup,third-party
 # ||easydownloadnow.com^$popup,third-party
 # ||easykits.org^$popup,third-party
@@ -20137,7 +20141,9 @@ msFilterList
 # |https://$script,third-party,xmlhttprequest,domain=itechpost.com
 # geekzone.co.nz
 # @@||ajax.googleapis.com^$script,domain=geekzone.co.nz
-# @@||disqus.com^$script,third-party,domain=geekzone.co.nz
+# @@||apis.google.com^$script,domain=geekzone.co.nz
+# @@||disqus.com^$script,domain=geekzone.co.nz
+# @@||disquscdn.com^$script,domain=geekzone.co.nz
 # @@||maps.googleapis.com^$script,domain=geekzone.co.nz
 # @@||platform.twitter.com^$script,domain=geekzone.co.nz
 # @@||tinymce.com^$script,domain=geekzone.co.nz

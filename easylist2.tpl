@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá srp 5 11:15:41 CEST 2016 ##################
+##### Aktualizováno: Pá srp 5 15:14:47 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8367,6 +8367,7 @@ msFilterList
 -d aim4media.com
 -d aimatch.com
 -d ajansreklam.net
+-d ajgffcat.com
 -d ajillionmax.com
 -d akamhd.com
 -d albopa.work
@@ -8849,6 +8850,7 @@ msFilterList
 -d completecarrd.com
 -d complive.link
 -d comscore.com
+-d comwgi.com
 -d conduit-banners.com
 -d conduit-services.com
 -d connatix.com
@@ -10263,6 +10265,7 @@ msFilterList
 -d oos4l.com
 -d opap.co.kr
 -d openbook.net
+-d openclose.click
 -d openetray.com
 -d opensourceadvertisementnetwork.info
 -d openx.net
