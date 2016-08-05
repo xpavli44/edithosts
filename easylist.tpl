@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 04 Aug 2016 07:30 UTC
+# Last modified: 05 Aug 2016 09:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -547,14 +547,15 @@ msFilterList
 # @@||topserialy.sk$generichide
 +d i0.cz /js/advert.
 # *** easylist.txt ***
-# Licence: https://easylist.github.io/pages/licence.html
+# The contents of this filter list are fetched from the EasyList repository: https://github.com/easylist/easylist
+# Licence: https://easylist.to/pages/licence.html
 #
 # Please report any unblocked adverts or problems
 # in the forums (https://forums.lanik.us/)
 # or via e-mail (easylist.subscription@gmail.com).
 #
 #-----------------------General advert blocking filters-----------------------#
-# *** easylist:easylist/easylist_general_block.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt ***
 - &ad_box_
 - &ad_channel=
 - &ad_classid=
@@ -7366,7 +7367,7 @@ msFilterList
 - /no-adblock/
 - /wp-content/plugins/anti-block/
 - /wp-content/plugins/anti_ad_blocker/
-# *** easylist:easylist/easylist_general_block_dimensions.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_dimensions.txt ***
 - ,160x600;
 - ,468x60-
 - ,468x60;
@@ -7936,7 +7937,7 @@ msFilterList
 - _970x30_
 - _980x100.
 - _a468x60.
-# *** easylist:easylist/easylist_general_block_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt ***
 # &link_type=offer$popup,third-party
 # &popunder=$popup
 # &program=revshare&$popup
@@ -8001,7 +8002,7 @@ msFilterList
 # ?zoneid=*_bannerid=$popup
 # _popunder+$popup
 #------------------------General element hiding rules-------------------------#
-# *** easylist:easylist/easylist_general_hide.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt ***
 # Adreclaim
 # Genric mobile element
 # Yavli
@@ -8021,10 +8022,10 @@ msFilterList
 # https://adblockplus.org/forum/viewtopic.php?f=2&t=13414
 # yavli.com Sponsored content
 # zergnet
-# *** easylist:easylist/easylist_whitelist_general_hide.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_whitelist_general_hide.txt ***
 # Anti-Adblock
 #---------------------------Third-party advertisers---------------------------#
-# *** easylist:easylist/easylist_adservers.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt ***
 -d 007-gateway.com
 -d 0icep80f.com
 -d 0xwxmj21r75kka.com
@@ -12102,7 +12103,7 @@ msFilterList
 -d ziccardia.com
 -d zomri.net
 -d zrfrornn.net
-# *** easylist:easylist/easylist_adservers_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt ***
 # ||0755.pics^$popup,third-party
 # ||123vidz.com^$popup,third-party
 # ||1afcfcb2c.ninja^$popup,third-party
@@ -12540,7 +12541,7 @@ msFilterList
 # ||zeroredirect9.com^$popup,third-party
 # ||zonearmour4u.link^$popup
 # ||zryydi.com^$popup,third-party
-# *** easylist:easylist_adult/adult_adservers.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt ***
 -d 00zasdf.pw
 -d 0llii0g6.com
 -d 100pour.com
@@ -13406,7 +13407,7 @@ msFilterList
 -d zog.link
 # Mobile
 -d reporo.net
-# *** easylist:easylist_adult/adult_adservers_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt ***
 # ||33traffic.com^$popup
 # ||3file.info^$popup,third-party
 # ||3questionsgetthegirl.com^$popup
@@ -13507,7 +13508,7 @@ msFilterList
 # ||xxxmatch.com^$popup
 # ||y72yuyr9.com^$popup,third-party
 #-----------------------------Third-party adverts-----------------------------#
-# *** easylist:easylist/easylist_thirdparty.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt ***
 - -api.adyoulike.com
 -d 000webhost.com /images/banners/
 -d 04stream.com /pop*.js
@@ -15305,7 +15306,7 @@ msFilterList
 -d onfocus.io
 -d secretmedia.com
 -d zeste.top
-# *** easylist:easylist/easylist_thirdparty_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt ***
 # ||4utro.ru^$popup
 # ||5.39.67.191/promo.php?$popup
 # ||6angebot.ch/?ref=$popup,third-party
@@ -15444,7 +15445,7 @@ msFilterList
 # ||with-binaryoption.com^$popup,third-party
 # ||withbinaryoptions.com^$popup,third-party
 # ||wptpoker.com^$popup
-# *** easylist:easylist_adult/adult_thirdparty.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt ***
 # .php?pub=*&trw_adblocker=$subdocument
 # /exports/livemodel/?$subdocument
 -d 193.34.134.18 /banners/
@@ -15881,7 +15882,7 @@ msFilterList
 -d ztod.com /flash/wall*.swf
 # ||ztod.com/iframe/third/$subdocument
 -d zubehost.com ?zoneid=
-# *** easylist:easylist_adult/adult_thirdparty_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt ***
 # ||1800freecams.com^$popup,third-party
 # ||21sextury.com^$popup
 # ||777livecams.com/?id=$popup,third-party
@@ -15972,7 +15973,7 @@ msFilterList
 # ||xvideoslive.com/?AFNO$popup,third-party
 # ||xvideoslive.com/landing/$popup,third-party
 #----------------------Specific advert blocking filters-----------------------#
-# *** easylist:easylist/easylist_specific_block.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt ***
 # .com/?$script,third-party,domain=streamcloud.eu
 # .com/?*=$script,~third-party,domain=100percentfedup.com|allenwestrepublic.com|americannewsx.com|barbwire.com|clashdaily.com|conservativebyte.com|coviral.com|eaglerising.com|freedomoutpost.com|girlsjustwannahaveguns.com|joeforamerica.com|libertyunyielding.com|minutemennews.com|patriotupdate.com|redhotchacha.com|religionlo.com|reviveusa.com|theblacksphere.net|zionica.com
 # .com/b?z=$domain=couchtuner.eu|zzstream.li
@@ -20759,7 +20760,7 @@ msFilterList
 # ||31.7.60.66/script/ad.$domain=thewatchseries.to
 # ||nativly.com/tds/widget?wid=$domain=thewatchseries.to
 # ||ws-gateway.com^$domain=thewatchseries.to
-# *** easylist:easylist/easylist_specific_block_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt ***
 # .link/$popup,domain=bigfile.to
 # /sendspace-pop.$popup,domain=sendspace.com
 # ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
@@ -20899,7 +20900,7 @@ msFilterList
 # ||zanox.com^$popup,domain=pregen.net
 # ||ziddu.com/onclickpop.php$popup
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
-# *** easylist:easylist_adult/adult_specific_block.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt ***
 # .download^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # .info^$script,domain=www.pornhub.com
 # .pw^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
@@ -21848,7 +21849,7 @@ msFilterList
 # dreamamateurs.com
 # |http://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
 # |https://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
-# *** easylist:easylist_adult/adult_specific_block_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt ***
 # ^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
 # |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
 # |http://*?*^id^$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
@@ -21880,15 +21881,15 @@ msFilterList
 # ||site-rips.org^$popup,domain=backupload.net
 # ||ymages.org/prepop.php$popup
 #------------------------Specific element hiding rules------------------------#
-# *** easylist:easylist/easylist_specific_hide.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt ***
 # thefreethoughtproject.com
 # Yavli Specific filters
 # Site Specific filters (used with $generichide)
 # Filter for testpages.adblockplus.org
 # CSS property filters for Adblock Plus
-# *** easylist:easylist_adult/adult_specific_hide.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt ***
 #-----------------------Whitelists to fix broken sites------------------------#
-# *** easylist:easylist/easylist_whitelist.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_whitelist.txt ***
 # @@.com/b/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 # @@.com/banners/$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|sianevents.com|travelplus.com
 # @@.com/image-*-$image,domain=affrity.com|catalogfavoritesvip.com|deliverydeals.co.uk|extrarebates.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|theperfectsaver.com|travelplus.com
@@ -25398,7 +25399,7 @@ msFilterList
 # @@||banners.one.com/bannere/$domain=adservicemedia.dk
 # @@||publisher.adservice.com^$domain=publisher.adservice.com
 +d publisher.adservice.com
-# *** easylist:easylist/easylist_whitelist_dimensions.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_whitelist_dimensions.txt ***
 # @@-120x60-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 # @@-120x60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 # @@_120_60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
@@ -25497,7 +25498,7 @@ msFilterList
 +d weatherbug.com /style/stickers/*_728x90.css
 # @@||wixstatic.com/media/*_300_250_$image,domain=lenislens.com
 +d zorza-polarna.pl /environment/cache/images/300_250_
-# *** easylist:easylist/easylist_whitelist_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_whitelist_popup.txt ***
 # @@/clickthrgh.asp?btag=*&aid=$popup,domain=casinobonus24.se
 # @@/promoRedirect?*&zone=$popup,domain=casinobonus24.se|top5casinosites.co.uk
 # @@/redirect.aspx?bid=$popup,domain=casinosonline.co.uk|onlinecasinos.co.uk|top5casinosites.co.uk
@@ -25548,7 +25549,7 @@ msFilterList
 # @@||viroll.com^$popup,domain=imagebam.com|imgbox.com
 # @@||vk.com/ads?$popup,domain=vk.com
 +d youtube.com /ads/preferences/
-# *** easylist:easylist_adult/adult_whitelist.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_whitelist.txt ***
 # @@/cdn-cgi/pe/bag2?r[]=*ads.exoclick.com$xmlhttprequest,domain=hd-porn.me
 # @@/cdn-cgi/pe/bag2?r[]=*juicyads.com$xmlhttprequest,domain=glamourbabe.eu
 # @@/cdn-cgi/pe/bag2?r[]=*popads.net$xmlhttprequest,domain=hd-porn.me
@@ -26030,7 +26031,7 @@ msFilterList
 +d youngmodelsclub.net
 # Non-English
 # @@||ads.b10f.jp/flv/$~third-party
-# *** easylist:easylist_adult/adult_whitelist_popup.txt ***
+# *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_whitelist_popup.txt ***
 # @@&utm_medium=traffic_trade&utm_campaign=pornhub_trade_search_box$popup,domain=pornhub.com
 # @@||as.sexad.net^*?p=*&v=$popup,domain=extremetube.com|keezmovies.com|pornhub.com|redtube.com|spankwire.com|tube8.com|tube8.es|tube8.fr
 # @@||blogger.com^$popup,domain=pornhub.com
