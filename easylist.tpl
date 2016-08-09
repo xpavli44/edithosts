@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Aug 2016 09:40 UTC
+# Last modified: 09 Aug 2016 19:10 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10585,6 +10585,7 @@ msFilterList
 # ||nster.net^$third-party,domain=~nster.com
 -d ntent.com
 -d ntv.io
+-d nui.media
 -d nullenabler.com
 -d numberium.com
 -d numbers.md
@@ -10682,6 +10683,7 @@ msFilterList
 -d overture.com
 -d overturs.com
 -d ovtopli.ru
+-d owlads.io
 -d oxado.com
 -d oxsng.com
 -d oxtracking.com
@@ -11341,6 +11343,7 @@ msFilterList
 -d textsrv.com
 -d tfag.de
 -d tgtmedia.com
+-d thaez4sh.com
 -d thangasoline.com
 -d thankyouforadvertising.com
 -d theadgateway.com
@@ -20143,6 +20146,9 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
+# rlslog.net
+# |http://$script,third-party,xmlhttprequest,domain=rlslog.net
+# |https://$script,third-party,xmlhttprequest,domain=rlslog.net
 # torrenteo.com
 # |http://$script,third-party,xmlhttprequest,domain=torrenteo.com
 # |https://$script,third-party,xmlhttprequest,domain=torrenteo.com
@@ -22831,7 +22837,7 @@ msFilterList
 +d hipsterhitler.com /wp-content/webcomic/
 +d historyextra.com _advertorial
 # @@||hitc-s.com^*/advertisement.js$domain=hitc.com
-# @@||hitwastedgarden.com^$script,domain=dailycaller.com
+# @@||hitwastedgarden.com^$script,domain=dailycaller.com|junglevibe2.net
 +d hologfx.com /banners/
 +d homedepot.com /thdGoogleAdSense.js
 +d hotnewhiphop.com /web_root/images/ads/banner-*.png

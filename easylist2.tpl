@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 9 11:45:42 CEST 2016 ##################
+##### Aktualizováno: Út srp 9 21:14:50 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10210,6 +10210,7 @@ msFilterList
 -d nsstatic.net
 -d ntent.com
 -d ntv.io
+-d nui.media
 -d nullenabler.com
 -d numberium.com
 -d numbers.md
@@ -10306,6 +10307,7 @@ msFilterList
 -d overture.com
 -d overturs.com
 -d ovtopli.ru
+-d owlads.io
 -d oxado.com
 -d oxsng.com
 -d oxtracking.com
@@ -10963,6 +10965,7 @@ msFilterList
 -d textsrv.com
 -d tfag.de
 -d tgtmedia.com
+-d thaez4sh.com
 -d thangasoline.com
 -d thankyouforadvertising.com
 -d theadgateway.com
