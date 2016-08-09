@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá srp 5 15:49:36 CEST 2016 ##################
+##### Aktualizováno: Út srp 9 11:45:42 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5622,6 +5622,7 @@ msFilterList
 - /rss2/?hp=*&np=*.js
 - /rss2/?np=*&hp=*.js
 - /rswebsiteads/
+- /rtb/worker.php?
 - /rule34/ads/
 - /rule34v2/ads/
 - /safead/
@@ -6466,6 +6467,7 @@ msFilterList
 - ?*=x55g%3add4vv4fy.
 - ?action=ads&
 - ?ad_ids=
+- ?ad_partner=
 - ?ad_size=
 - ?ad_tag=
 - ?ad_type=
@@ -7695,6 +7697,7 @@ msFilterList
 -d 0xwxmj21r75kka.com
 -d 101m3.com
 -d 103092804.com
+-d 104.154.237.93
 -d 10fbb07a4b0.se
 -d 10pipsaffiliates.com
 -d 1100i.com
@@ -8393,6 +8396,7 @@ msFilterList
 -d amazon-adsystem.com
 -d amazon-cornerstone.com
 -d amazonily.com
+-d ambaab.com
 -d amd2016.com
 -d amertazy.com
 -d amgdgt.com
@@ -8621,6 +8625,7 @@ msFilterList
 -d boo-box.com
 -d bookelement.biz
 -d booklandonline.info
+-d boom-boom-vroom.com
 -d boostable.com
 -d boostads.net
 -d boostclic.com
@@ -9411,6 +9416,7 @@ msFilterList
 -d gate-ru.com
 -d gatikus.com
 -d gayadnetwork.com
+-d gbiwxmjw.com
 -d gdmdigital.com
 -d geede.info
 -d geek2us.net
@@ -9435,6 +9441,7 @@ msFilterList
 -d getscorecash.com
 -d getthislistbuildingvideo.biz
 -d gettipsz.info
+-d gggemaop.com
 -d ggncpm.com
 -d giantaffiliates.com
 -d gigamega.su
@@ -11235,6 +11242,7 @@ msFilterList
 -d vuiads.de
 -d vuiads.info
 -d vuiads.net
+-d vxuhavco.com
 -d w00tads.com
 -d w00tmedia.net
 -d w3exit.com
@@ -11391,6 +11399,7 @@ msFilterList
 -d yourfastpaydayloans.com
 -d yourlegacy.club
 -d yourquickads.com
+-d ypyarwgh.com
 -d ytsa.net
 -d yuarth.com
 -d yucce.com
@@ -12686,6 +12695,7 @@ msFilterList
 -d advanced-intelligence.com /banner
 -d adz.zwee.ly
 -d adziff.com /zdcse.min.js
+-d afairweb.com /html/
 -d aff.cupidplc.com
 -d aff.eteachergroup.com
 -d aff.marathonbet.com
@@ -16069,6 +16079,7 @@ msFilterList
 -d images.mmorpg.com /images/*skin
 -d images.sharkscope.com /acr/*_Ad-
 -d images.sharkscope.com /everest/twister.jpg
+-d images4et.com /images/other/warning-vpn2.gif
 -d imageshack.us /images/contests/*/lp-bg.jpg
 -d imageshack.us /ym.php?
 -d imagesnake.com /oc.js
@@ -18715,6 +18726,8 @@ msFilterList
 -d hdporn.in /js/focus.*.js
 -d hdporn.in /js/pops2.
 -d hdporn.net /images/hd-porn-banner.gif
+-d hdzog.com .php?*.js
+-d hdzog.com /_ra_lib.js
 -d hdzog.com /contents/content_sources/
 -d hdzog.com /contents/cst/
 -d hdzog.com /hdzog.php?t_sid=
@@ -20548,6 +20561,7 @@ msFilterList
 +d dressuppink.com /ads.js
 +d drugs.com
 +d dutplanet.net /ajax/reclamecheck.php?
++d dvbtmap.eu /script/ads.js
 +d dvdfullfree.com
 +d dx-tv.com
 +d dynamicyield.com /abadimage/
@@ -20671,6 +20685,7 @@ msFilterList
 +d hdmovie14.net /js/ad*.js
 +d hdwallpapers.cat /js/adsbygoogle.js
 +d hentai-foundry.com /ads.js
++d hindustantimes.com ad*.js
 +d hindustantimes.com /ads.js
 +d hitcric.info
 +d hogarutil.com
@@ -20934,6 +20949,7 @@ msFilterList
 +d postimg.org /js/adframe.js
 +d prad.de /en/
 +d preloaders.net /jscripts/adframe.js
++d premium-place.co
 +d premium4.us
 +d premiumgeneratorlink.com
 +d premiumleecher.com /inc/adframe.js
@@ -20971,7 +20987,6 @@ msFilterList
 +d rtube.de
 +d runners.es /advertisement.js
 +d saavn.com /ads/search_config_ad.php?
-+d sadeempc.com
 +d saikoanimes.net /advertisement.js
 +d samaup.com
 +d sankakucomplex.com .js
@@ -21081,6 +21096,7 @@ msFilterList
 +d ulto.ga
 +d unlockpwd.com
 +d up-flow.org /advertisement.js
++d upi.com
 +d upload.so
 +d uploadex.com
 +d uploadlw.com /getbanner.cfm?*.js
@@ -21395,6 +21411,7 @@ msFilterList
 +d weatherbug.com /desktop-weather/*=728x90&
 +d weatherbug.com /images/stickers/*/728x90/
 +d weatherbug.com /style/stickers/*_728x90.css
++d worlds-luxury-guide.com /sites/default/files/rectangle-300x250-newsletter.jpg
 +d zorza-polarna.pl /environment/cache/images/300_250_
 +d ad.doubleclick.net /ddm/clk/*http
 +d ads.affiliatecruise.com /redirect.aspx?
@@ -21801,6 +21818,7 @@ msFilterList
 +d pornve.com
 +d pornve.com .js
 +d pornxs.com /js/ads/ads.js*.js
++d sexix.net /adframe.js
 +d sexvidx.tv /js/eroex.js
 +d submityourflicks.com /player/player-ads.swf
 +d traffichaus.com /ads.js*.js
