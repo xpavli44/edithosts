@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 30 14:44:48 CEST 2016 ##################
+##### Aktualizováno: Po zář 5 16:13:28 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2224,6 +2224,7 @@ msFilterList
 - /adpix/
 - /adplace/
 - /adplace5_
+- /adPlaceholder.
 - /adplacement.
 - /adplay.
 - /adplayer-
@@ -2642,6 +2643,7 @@ msFilterList
 - /ads18.
 - /ads2.
 - /ads2/
+- /ads20.
 - /ads2012/
 - /ads2013/
 - /ads2015/
@@ -6313,7 +6315,6 @@ msFilterList
 - /wp-content/uploads/useful_banner_manager_banners/
 - /wp-popup-scheduler/
 - /wp-srv/ad/
-- /wp_ad_250.
 - /wp_ad_250_
 - /wp_pro_ad_system/
 - /wpads/iframe.
@@ -7699,6 +7700,7 @@ msFilterList
 - _970x30_
 - _980x100.
 - _a468x60.
+- /xdirect.html?popup
 -d 007-gateway.com
 -d 0icep80f.com
 -d 0xwxmj21r75kka.com
@@ -7734,6 +7736,7 @@ msFilterList
 -d 213.163.70.183
 -d 247realmedia.com
 -d 254a.com
+-d 2al.pw
 -d 2beon.co.kr
 -d 2d4c3870.info
 -d 2d4c3872.info
@@ -8118,7 +8121,6 @@ msFilterList
 -d ads-stats.com
 -d ads-twitter.com
 -d ads.cc
--d ads.intergi.com
 -d ads.rd.linksynergy.com
 -d ads01.com
 -d ads2ads.net
@@ -8247,6 +8249,7 @@ msFilterList
 -d adtrace.org
 -d adtransfer.net
 -d adtrgt.com
+-d adtrieval.com
 -d adtrix.com
 -d adtrovert.com
 -d adtruism.com
@@ -8317,7 +8320,6 @@ msFilterList
 -d adxchg.com
 -d adxcore.com
 -d adxion.com
--d adxpansion.com
 -d adxpose.com
 -d adxpower.com
 -d adyoulike.com
@@ -8386,7 +8388,6 @@ msFilterList
 -d aim4media.com
 -d aimatch.com
 -d ajansreklam.net
--d ajgffcat.com
 -d ajillionmax.com
 -d akamhd.com
 -d albopa.work
@@ -8464,7 +8465,6 @@ msFilterList
 -d asermtawlfs.xyz
 -d asklots.com
 -d asooda.com
--d asqamasz.com
 -d asrety.com
 -d assetize.com
 -d assoc-amazon.ca
@@ -8577,6 +8577,7 @@ msFilterList
 -d bentdownload.com
 -d bepolite.eu
 -d beringmedia.com
+-d bestarmour4u.work
 -d bestcasinopartner.com
 -d bestdeals.ws
 -d bestfindsite.com
@@ -8634,7 +8635,6 @@ msFilterList
 -d bluetoad.com
 -d blumi.to
 -d bmanpn.com
--d bmqnguru.com
 -d bnetworx.com
 -d bnhtml.com
 -d bnmla.com
@@ -8778,6 +8778,7 @@ msFilterList
 -d checkoutfree.com
 -d cherytso.com
 -d chicbuy.info
+-d chiliadv.com
 -d china-netwave.com
 -d chinagrad.ru
 -d chipleader.com
@@ -8789,7 +8790,6 @@ msFilterList
 -d cityadspix.com
 -d citysite.net
 -d cjt1.net
--d ckwpsghi.com
 -d clarityray.com
 -d clash-media.com
 -d claxonmedia.com
@@ -8870,7 +8870,6 @@ msFilterList
 -d combotag.com
 -d comclick.com
 -d comeadvertisewithus.com
--d comgnnyx.com
 -d commission-junction.com
 -d commission.bz
 -d commissionfactory.com.au
@@ -8879,7 +8878,6 @@ msFilterList
 -d completecarrd.com
 -d complive.link
 -d comscore.com
--d comwgi.com
 -d conduit-banners.com
 -d conduit-services.com
 -d connatix.com
@@ -9025,6 +9023,7 @@ msFilterList
 -d descz.ovh
 -d destinationurl.com
 -d detailtoothteam.com
+-d dethao.com
 -d detroposal.com
 -d developermedia.com
 -d deximedia.com
@@ -9057,7 +9056,6 @@ msFilterList
 -d dj-updates.com
 -d dl-rms.com
 -d dltags.com
--d dmdcpvgu.com
 -d dmu20vut.com
 -d dnbizcdn.com
 -d dntrck.com
@@ -9418,7 +9416,6 @@ msFilterList
 -d futureresiduals.com
 -d futureus.com
 -d fxdepo.com
--d fxjyultd.com
 -d fxyc0dwa.com
 -d g-cash.biz
 -d g4whisperermedia.com
@@ -9444,7 +9441,6 @@ msFilterList
 -d gate-ru.com
 -d gatikus.com
 -d gayadnetwork.com
--d gbiwxmjw.com
 -d gbkfkofgks.com
 -d gbkfkofgmks.com
 -d gdmdigital.com
@@ -9471,7 +9467,6 @@ msFilterList
 -d getscorecash.com
 -d getthislistbuildingvideo.biz
 -d gettipsz.info
--d gggemaop.com
 -d ggncpm.com
 -d giantaffiliates.com
 -d gigamega.su
@@ -9489,7 +9484,6 @@ msFilterList
 -d globaltakeoff.net
 -d glowdot.com
 -d gmads.net
--d gmpdixdh.com
 -d go2jump.org
 -d go2media.org
 -d go2speed.org
@@ -9580,10 +9574,10 @@ msFilterList
 -d hit-now.com
 -d hits.sys.lv
 -d hitwastedgarden.com
--d hkoxlirf.com
 -d hlads.com
 -d hmongcash.com
 -d hokaybo.com
+-d hola-shopping.com
 -d holdingprice.net
 -d holidaytravelguide.org
 -d honestlypopularvary.xyz
@@ -9619,6 +9613,7 @@ msFilterList
 -d hype-ads.com
 -d hypeads.org
 -d hypemakers.net
+-d hyperbanner.net
 -d hyperlinksecure.com
 -d hypertrackeraff.com
 -d hypervre.com
@@ -9642,7 +9637,6 @@ msFilterList
 -d igameunion.com
 -d igloohq.com
 -d ignitioninstaller.com
--d igupodzh.com
 -d ikzikistheking.com
 -d imageadnet.com
 -d imasdk.googleapis.com
@@ -9753,6 +9747,7 @@ msFilterList
 -d isubdomains.com
 -d itrengia.com
 -d iu16wmye.com
+-d iu1xoe7o.com
 -d iv.doubleclick.net
 -d iwantmoar.net
 -d ixnp.com
@@ -9761,7 +9756,6 @@ msFilterList
 -d j2ef76da3.website
 -d jacquarter.com
 -d jadcenter.com
--d jahsrhlp.com
 -d jango.com
 -d jangonetwork.com
 -d jbrlsr.com
@@ -9774,13 +9768,11 @@ msFilterList
 -d jivox.com
 -d jiwire.com
 -d jizzontoy.com
--d jlflzjdt.com
 -d jmp9.com
 -d jo7cofh3.com
 -d jobsyndicate.com
 -d jobtarget.com
 -d joytocash.com
--d jqqrcwwd.com
 -d jque.net
 -d js.cdn.ac
 -d jscloud.org
@@ -9916,7 +9908,6 @@ msFilterList
 -d liveadserver.net
 -d liveuniversenetwork.com
 -d lkqd.net
--d lkrcapch.com
 -d lndjj.com
 -d loading-resource.com
 -d localadbuy.com
@@ -10190,7 +10181,6 @@ msFilterList
 -d nbstatic.com
 -d ncrjsserver.com
 -d neblotech.com
--d nefxtwxk.com
 -d negolist.com
 -d neo-neo-xeo.com
 -d neobux.com
@@ -10226,7 +10216,6 @@ msFilterList
 -d nexage.com
 -d nextlandingads.com
 -d nextmobilecash.com
--d nfniziqm.com
 -d ngecity.com
 -d nicheadgenerator.com
 -d nicheads.com
@@ -10278,6 +10267,7 @@ msFilterList
 -d obibanners.com
 -d objectservers.com
 -d oceanwebcraft.com
+-d oclaserver.com
 -d oclasrv.com
 -d oclsasrv.com
 -d oclus.com
@@ -10294,7 +10284,6 @@ msFilterList
 -d ohmcasting.com
 -d ohmwrite.com
 -d oileddaintiessunset.info
--d okmuxdbq.com
 -d oldtiger.net
 -d omclick.com
 -d omg2.com
@@ -10440,6 +10429,7 @@ msFilterList
 -d pioneeringad.com
 -d pip-pip-pop.com
 -d pipeaota.com
+-d pippio.com
 -d piticlik.com
 -d pivotalmedialabs.com
 -d pivotrunner.com
@@ -10554,6 +10544,7 @@ msFilterList
 -d provider-direct.com
 -d proximic.com
 -d prre.ru
+-d prxio.site
 -d psclicks.com
 -d pseqcs05.com
 -d psma02.com
@@ -10698,6 +10689,7 @@ msFilterList
 -d richwebmedia.com
 -d ringtonematcher.com
 -d ringtonepartner.com
+-d riowrite.com
 -d ripplead.com
 -d riverbanksand.com
 -d rixaka.com
@@ -10929,6 +10921,7 @@ msFilterList
 -d statcamp.net
 -d statecannoticed.com
 -d statelead.com
+-d staticswind.club
 -d statsmobi.com
 -d stealthlockers.com
 -d steepto.com
@@ -10941,7 +10934,6 @@ msFilterList
 -d struq.com
 -d sturdynotwithstandingpersuasive.info
 -d style-eyes.eu
--d sualzmze.com
 -d subemania.com
 -d sublimemedia.net
 -d submitexpress.co.uk
@@ -10970,7 +10962,6 @@ msFilterList
 -d surveywidget.biz
 -d suthome.com
 -d svlu.net
--d svrsqqtj.com
 -d swadvertising.org
 -d swbdds.com
 -d swelen.com
@@ -11230,6 +11221,7 @@ msFilterList
 -d v11media.com
 -d v2cigs.com
 -d v2mlblack.biz
+-d v3g4s.com
 -d vadpay.com
 -d validclick.com
 -d valuead.com
@@ -11285,7 +11277,6 @@ msFilterList
 -d viewex.co.uk
 -d viewivo.com
 -d vindicosuite.com
--d vipcpms.com
 -d vipquesting.com
 -d viralmediatech.com
 -d visiads.com
@@ -11309,7 +11300,6 @@ msFilterList
 -d vuiads.de
 -d vuiads.info
 -d vuiads.net
--d vxuhavco.com
 -d w00tads.com
 -d w00tmedia.net
 -d w3exit.com
@@ -11392,7 +11382,6 @@ msFilterList
 -d worldwidemailer.com
 -d worthathousandwords.com
 -d worthyadvertising.com
--d wrmcfyzl.com
 -d ws-gateway.com
 -d wsp.mgid.com
 -d wulium.com
@@ -11406,7 +11395,6 @@ msFilterList
 -d xad.com
 -d xadcentral.com
 -d xaxoro.com
--d xbynkkqi.com
 -d xcelltech.com
 -d xcelsiusadserver.com
 -d xchangebanners.com
@@ -11423,7 +11411,6 @@ msFilterList
 -d xtcie.com
 -d xtendadvert.com
 -d xtendmedia.com
--d xttrofww.com
 -d xubob.com
 -d xvika.com
 -d xwwmhfbikx.net
@@ -11471,7 +11458,7 @@ msFilterList
 -d yourfastpaydayloans.com
 -d yourlegacy.club
 -d yourquickads.com
--d ypyarwgh.com
+-d youwatchtools.com
 -d ytsa.net
 -d yuarth.com
 -d yucce.com
@@ -11510,7 +11497,6 @@ msFilterList
 -d zonealta.com
 -d zonplug.com
 -d zoomdirect.com.au
--d zoowknbw.com
 -d zorwrite.com
 -d zugo.com
 -d zwaar.org
@@ -11563,6 +11549,123 @@ msFilterList
 -d albaldah.xyz
 -d albali.xyz
 -d albireo.xyz
+-d ads-codes.net
+-d aeghae5y.com
+-d aeghie6dien.info
+-d aew9eigieng.info
+-d ahn2phee3oh.info
+-d booj7tho.com
+-d chohye2t.com
+-d ci3ixee8.com
+-d dah0ooy4doe.info
+-d ef5ahgoo.com
+-d faeph6ax.com
+-d lie8oong.com
+-d meinooriut3.info
+-d nepalhtml.com
+-d nich1eox.com
+-d no1chie7poh.info
+-d ohs1upuwi8b.info
+-d ohv1tie2.com
+-d qued9yae1ai.info
+-d sahraex7vah.info
+-d terraadstools.com
+-d urahor9u.com
+-d vipcpms.com
+-d viuboin4.com
+-d yie4zooseif.info
+-d aiypulgy.com
+-d ajgffcat.com
+-d asqamasz.com
+-d awsatstb.com
+-d azeozrjk.com
+-d bgitczbd.com
+-d bircgizd.com
+-d bmqnguru.com
+-d ccdkyvyw.com
+-d cdicyazp.com
+-d ckwpsghi.com
+-d cmpsuzvr.com
+-d comgnnyx.com
+-d comwgi.com
+-d crkgtnad.com
+-d dcneohtx.com
+-d dmdcpvgu.com
+-d dyunhvev.com
+-d ervpgpxr.com
+-d fjfxpykp.com
+-d fluohbiy.com
+-d fokisduu.com
+-d fqpteozo.com
+-d fxjyultd.com
+-d gbiwxmjw.com
+-d gggemaop.com
+-d gmpdixdh.com
+-d gwaatiev.com
+-d haqlmmii.com
+-d hffmzplu.com
+-d hfjuehls.com
+-d hkoxlirf.com
+-d hxbvbmxv.com
+-d idpukwmp.com
+-d igupodzh.com
+-d irxpndjg.com
+-d izwsvyqv.com
+-d jahsrhlp.com
+-d jdlnquri.com
+-d jjipgxjf.com
+-d jlflzjdt.com
+-d jqqrcwwd.com
+-d kgkjlivo.com
+-d kyowarob.com
+-d lckpubqq.com
+-d lkrcapch.com
+-d lpwvdgfo.com
+-d lzmovatu.com
+-d mnjgoxmx.com
+-d mnusvlgl.com
+-d mvqinxgp.com
+-d nefxtwxk.com
+-d negdrvgo.com
+-d nfniziqm.com
+-d oawleebf.com
+-d obthqxbm.com
+-d okmuxdbq.com
+-d ossdqciz.com
+-d ovgzbnjj.com
+-d pbnnsras.com
+-d pnunijdm.com
+-d qljczwei.com
+-d qnpolbme.com
+-d qrozsnmc.com
+-d rjnkpqax.com
+-d rpczohkv.com
+-d ruovcruc.com
+-d sriaqmzx.com
+-d sualzmze.com
+-d svrsqqtj.com
+-d uckxjsiy.com
+-d uqgloylf.com
+-d vrqajyuu.com
+-d vxuhavco.com
+-d vxvxsgut.com
+-d wgefjuno.com
+-d wkexsfmw.com
+-d wklyhvfc.com
+-d wrmcfyzl.com
+-d wtvyenir.com
+-d wwgjtcge.com
+-d xbynkkqi.com
+-d xpnttdct.com
+-d xttrofww.com
+-d ygrtbssc.com
+-d ynlrfiwj.com
+-d ypyarwgh.com
+-d zmytwgfd.com
+-d zoowknbw.com
+-d zpmbsivi.com
+-d zptncsir.com
+-d zycvyudt.com
 -d 247view.net
 -d absilf.com
 -d absquint.com
@@ -11629,6 +11732,7 @@ msFilterList
 -d dutolats.net
 -d ectensian.net
 -d edabl.net
+-d edgualf.com
 -d elepheny.com
 -d entru.co
 -d ergers.net
@@ -11724,7 +11828,6 @@ msFilterList
 -d qulifiad.com
 -d qzsccm.com
 -d r3seek.com
--d rddywd.com
 -d rdige.com
 -d reaspans.com
 -d regersd.net
@@ -11757,6 +11860,7 @@ msFilterList
 -d th4wwe.net
 -d thiscdn.com
 -d thrilamd.net
+-d thrutime.net
 -d tolosgrey.net
 -d topdi.net
 -d trllxv.co
@@ -11922,6 +12026,7 @@ msFilterList
 -d alladultcash.com
 -d allosponsor.com
 -d allotraffic.com
+-d amateurcouplewebcam.com
 -d amtracking01.com
 -d amvotes.ru
 -d anastasia-international.com
@@ -11946,6 +12051,7 @@ msFilterList
 -d bcash4you.com
 -d belamicash.com
 -d belasninfetas.org
+-d bestcontentservice.top
 -d bestholly.com
 -d bestssn.com
 -d betweendigital.com
@@ -12180,7 +12286,6 @@ msFilterList
 -d hotsocials.com
 -d hsmclick.com
 -d hubtraffic.com
--d hxbvbmxv.com
 -d iceban.su
 -d icetraffic.com
 -d icqadvert.org
@@ -12228,6 +12333,7 @@ msFilterList
 -d kingpinmedia.net
 -d kinopokaz.org
 -d kliklink.ru
+-d klocko.link
 -d kolestence.com
 -d kolitat.com
 -d kolort.ru
@@ -12335,6 +12441,7 @@ msFilterList
 -d odzb5nkp.com
 -d okeo.ru
 -d omynews.net
+-d onedmp.com.
 -d onhercam.com
 -d onyarysh.ru
 -d ordermc.com
@@ -12441,6 +12548,7 @@ msFilterList
 -d retargetpro.net
 -d retoxo.com
 -d rexbucks.com
+-d rfvoort.com
 -d ripbwing.com
 -d rivcash.com
 -d rlogoro.ru
@@ -12622,7 +12730,6 @@ msFilterList
 -d x-adservice.com
 -d x-exchanger.co.uk
 -d x3v66zlz.com
--d xaxoro.com
 -d xclickdirect.com
 -d xclicks.net
 -d xf43506e8.pw
@@ -12686,7 +12793,6 @@ msFilterList
 -d 247hd.net /ad
 -d 24casino.cz /poker300-
 -d 24hrlikes.com /images/
--d 2beon.co.kr /nad/
 -d 2leep.com /ticker2/
 -d 2yu.in /banner/
 -d 360pal.com /ads/
@@ -12962,7 +13068,6 @@ msFilterList
 -d businessnewswatch.ca /images/nnwbanner/
 -d buy.com /affiliate/
 -d buyhatke.com /widgetBack/
--d buyt.in /api?widgets=*.js
 -d buzina.xyz .js
 -d buzznet.com /showpping-banner-
 -d byzoo.org /script/tu*.js
@@ -13778,8 +13883,6 @@ msFilterList
 -d partner.catchy.com
 -d partner.e-conomic.com
 -d partner.premiumdomains.com
--d partnerads.ysm.yahoo.com
--d partnerads1.ysm.yahoo.com
 -d partners.autotrader.co.uk
 -d partners.betus.com
 -d partners.dogtime.com /network/
@@ -13982,7 +14085,6 @@ msFilterList
 -d slysoft.com /img/banner/
 -d smart.styria-digital.com
 -d smartdestinations.com /ai/
--d smartlinks.dianomi.com
 -d smblock.s3.amazonaws.com
 -d smilepk.com /bnrsbtns/
 -d snacktools.net /bannersnack/
@@ -14307,13 +14409,11 @@ msFilterList
 -d 88.85.77.94 /rotation/
 -d 91.83.237.41 /banners/
 -d a.sucksex.com
--d ab.adultcamfree.com
 -d ad.duga.jp
 -d ad.favod.net
 -d ad.iloveinterracial.com
 -d ad.traffmonster.info
 -d adb.fling.com
--d ads.contentabc.com
 -d ads.videosz.com
 -d adsrv.bangbros.com
 -d adtools.gossipkings.com
@@ -14426,7 +14526,6 @@ msFilterList
 -d dailyvideo.securejoin.com
 -d datefree.com
 -d ddfcash.com /iframes/
--d ddfcash.com /promo/banners/
 -d ddstatic.com /banners/
 -d desk.cmix.org
 -d devilgirls.co /images/devil.gif
@@ -15331,6 +15430,7 @@ msFilterList
 -d comparestoreprices.co.uk /images/promotions/
 -d compassnewspaper.com /images/banners/
 -d complaintsboard.com /img/202x202.gif
+-d complaintsboard.com /img/300x250anti.gif
 -d complaintsboard.com /img/banner-
 -d complexmedianetwork.com /takeovers/
 -d complexmedianetwork.com /toolbarlogo.png
@@ -15919,6 +16019,7 @@ msFilterList
 -d gcnlive.com /assets/sponsorsPlayer/
 -d geckoforums.net /banners/
 -d geeklab.info /billy.png
+-d gelbooru.com /script/frontend_loader.js
 -d generalfiles.me /download_sponsored.
 -d gentoo.org /images/sponsors/
 -d geocities.com /js_source/
@@ -16176,6 +16277,7 @@ msFilterList
 -d imageshack.us /ym.php?
 -d imagesnake.com /oc.js
 -d imagetoupload.com /images/87633952425570896161.jpg
+-d imagetwist.com /frontend_loader.js
 -d imagevenue.com /interstitial.
 -d imcdb.org /res/cth_
 -d imfdb.org /FoG-300x250.jpg
@@ -16279,6 +16381,7 @@ msFilterList
 -d isxdead.com /images/showbox.png
 -d italiangenealogy.com /images/banners/
 -d itpro.co.uk /images/skins/
+-d itservicesthatworkforyou.com /sp/ebay.jpg
 -d itv.com /adexplore/*/config.xml
 -d itweb.co.za /banners/
 -d itweb.co.za /logos/
@@ -16418,6 +16521,7 @@ msFilterList
 -d kyivpost.com /media/banners/
 -d l.yimg.com /ao/i/ad/
 -d l.yimg.com /mq/a/
+-d l2b.co.za /L2BBMP/
 -d l4dmaps.com /i/right_dllme.gif
 -d l4dmaps.com /img/right_gameservers.gif
 -d labtimes.org /banner/
@@ -16871,7 +16975,6 @@ msFilterList
 -d nme.com /themes/takeovers/
 -d nmimg.net /css/takeover_
 -d nodevice.com /images/banners/
--d noram.srv.ysm.yahoo.com
 -d northjersey.com _Sponsor.
 -d norwaypost.no /images/banners/
 -d nosteam.ro /compressed.ggotab36.js
@@ -17011,7 +17114,6 @@ msFilterList
 -d pcworld.co.nz _siteskin_
 - http://pcworld.com*/ads/
 -d pcworld.com /images/*_vidmod_316x202_
--d pcworld.com /templates/video/popup.jsp?*&flv=/pcw/ads/
 -d pe.com /biice2scripts.js
 -d pechextreme.com /banner.
 -d pechextreme.com /banners/
@@ -17107,6 +17209,7 @@ msFilterList
 -d power1035fm.com /banners/
 -d power977.com /images/banners/
 -d powerbot.org /ads/
+-d powvideo.net ?zoneid=*.js
 -d powvideo.net /ban/
 -d powvideo.net /js/pu2/*.js
 -d pqarchiver.com /utilstextlinksxml.js
@@ -17493,7 +17596,6 @@ msFilterList
 -d smn-news.com /images/flash/
 -d smoothjazznetwork.com /images/buyicon.jpg
 -d smotrisport.com /ads/
--d snimg.com /image/sponsors/
 -d snopes.com /_ra_lib.js
 -d snopes.com /casalebanner.asp
 -d snopes.com /casalebox.asp
@@ -18056,8 +18158,6 @@ msFilterList
 -d uploadcore.com /images/*-Lad.jpg
 -d uploadcore.com /images/*-mad.jpg
 -d uploadcore.com /images/*-Rad.png
--d uploaded.net /js2/ablok.js
--d uploaded.net /js2/blocktag.js
 -d uploaded.net /js2/downloadam.js
 -d uploaded.net /bloka.js
 -d uploaded.to /img/e/ad/
@@ -18202,6 +18302,7 @@ msFilterList
 -d watchcartoononline.com /530x90.
 -d watchfreemovies.ch /js/lmst.js
 -d watchop.com /player/watchonepiece-gao-gamebox.swf
+-d watchseries-online.se /jquery.js
 -d watchseries.eu /images/affiliate_buzz.gif
 -d watchseries.eu /images/download.png
 -d watchseries.eu /js/csspopup.js
@@ -18401,6 +18502,8 @@ msFilterList
 -d yellowpageskenya.com /images/laterals/
 -d yesbeby.whies.info
 -d yfmghana.com /images/banners/
+-d yimg.com /cv/*/billboard/
+-d yimg.com /cv/*/config-object-html5billboardfloatexp.js
 -d yimg.com /flash/promotions/
 -d yimg.com /yad.html
 -d ynaija.com /ad.
@@ -18475,7 +18578,6 @@ msFilterList
 -d zurrieqfc.com /images/banners/
 -d eztv.ag /js/img.js
 -d eztv.ag /js/jsc.js
-+d itechpost.com
 -d imgcandy.net /fad/*.js
 +d hulkusc.com
 +d monova.org /js/main.js?v=*.js
@@ -18561,7 +18663,6 @@ msFilterList
 -d sportspyder.com /assets/application-*.js
 -d techweb.com /adblocktrack
 -d vapingunderground.com /js/vapingunderground/fucking_adblock.js
--d watchfreeinhd.com /js/adblocker.js
 -d ytconv.net /site/adblock_detect
 -d anandabazar.com /js/anandabazar-bootstrap/custom.js
 -d livehindustan.com /js/BlockerScript.js
@@ -18721,7 +18822,6 @@ msFilterList
 -d dot2.eporner.com
 -d dronporn.com /main-video-place.html
 -d dronporn.com /tizer.html
--d drtuber.com /promo/banners/
 -d drtuber.com /templates/frontend/white/js/embed.js?
 -d drtuber.com /aff_banner.swf
 -d dusttube.com /pop*.js
@@ -19576,9 +19676,8 @@ msFilterList
 +d auditude.com /crossdomain.xml
 +d auditude.com /AuditudeAdUnit.swf
 +d autogespot.info /upload/ads/
-+d autotrader.co.uk /advert/
++d autotrader.co.uk /lightbox/video?
 +d autotrader.co.uk /static/*/images/adv/icons.png
-+d autotrader.co.uk /advert/
 +d autotrader.co.uk _adverts/
 +d avclub.com /ads/av-video-ad/
 +d aviationclassifieds.com /adimg/
@@ -19708,7 +19807,6 @@ msFilterList
 +d cydiaupdates.net /CydiaUpdates.com_600x80.png
 +d d3con.org /data1/
 +d dailycaller.com /wp-content/plugins/advertisements/*.js
-+d dailycaller.com
 +d dailyhiit.com /sites/*/ad-images/
 +d dailymail.co.uk /googleads--.js
 +d dailymotion.com /videowall/*&clickTAG=http
@@ -20493,7 +20591,6 @@ msFilterList
 +d adf.ly
 +d ads.clubedohardware.com.br /www/delivery/*.js
 +d adserver.liverc.com /getBannerVerify.js
-+d advertisingwouldbegreat.com /-*-*.js
 +d afdah.co .js
 +d afdah.com .js
 +d afdah.tv .js
@@ -20505,6 +20602,7 @@ msFilterList
 +d akstream.video /include/advertisement.js
 +d alcohoin-faucet.tk /advertisement.js
 +d allkpop.com /ads.js
++d allmusic.com
 +d allmyvideos.net
 +d altoque.com
 +d amazonaws.com /atzuma/ajs.php?adserver=*.js
@@ -20743,11 +20841,13 @@ msFilterList
 +d funniermoments.com
 +d gallery.aethereality.net /advertisement.js
 +d gallerynova.se /advertisement.js
++d galna.org
 +d gamecopyworld.com /games/*.js
 +d gamecopyworld.eu /games/*.js
 +d gameopc.blogspot.com.ar
 +d gamereactor.net /advertisement.js
 +d gamersconnexion.com /js/advert.js
++d games-pc.ro /adver*.js*.js
 +d games.latimes.com /Scripts/advert.js
 +d games.washingtonpost.com /Scripts/*.js
 +d gamesgames.com /advertisement.js
@@ -20823,13 +20923,16 @@ msFilterList
 +d imgclick.net
 +d imgleech.com /ads/banner.jpg?
 +d imgsure.com /ads/banner.jpg?
++d imgve.com /pop.js
 +d incredibox.com /js/advertisement.js
 +d incredibox.com
 +d indiatimes.com _ad*.js
 +d indiatimes.com /ad*.js
 +d indiatimes.com
 +d inskinmedia.com /crossdomain.xml
++d intoday.in /ads/
 +d intoday.in
++d intoday.in /ads.js
 +d investigationdiscovery.com /shared/ad-enablers/
 +d investing.com /ads.js
 +d investors.com /ads.js
@@ -20839,6 +20942,7 @@ msFilterList
 +d iriptv.com /player/ads.js
 +d itunesplusaacm4a.org
 +d jagranjosh.com /Resources/*.js
++d jansatta.com ads_*.js
 +d jevvi.es /adblock/
 +d jiwangmovie.com
 +d jjcast.com
@@ -20870,6 +20974,8 @@ msFilterList
 +d lasprovincias.es /adframe.js
 +d latinomegahd.net
 +d layer13.net
++d lcpdfr.com /adblock.js
++d lcpdfr.com
 +d leaguesecretary.com /advertisement.js
 +d leecher.us /assets/img/*/ads/
 +d leecher.us
@@ -20997,11 +21103,11 @@ msFilterList
 +d next-episode.net .js
 +d nextthreedays.com /Include/Javascript/AdFunctions.js
 +d nicoblog-games.com
++d nmac.to
 +d nonags.com
 +d nonags.com /ad
 +d nornar.com
-+d nosteam.ro /advertisement.js
-+d nosteam.ro /advertisement.js
++d nosteam.ro ad*.*.js
 +d noticiasautomotivas.com.br
 +d novamov.com /banner.php?*.js
 +d nowvideo.li /banner.php?*.js
@@ -21216,7 +21322,6 @@ msFilterList
 +d up-flow.org /advertisement.js
 +d upi.com
 +d upload.so
-+d uploaded.net /js2/ablok.js
 +d uploaded.net
 +d uploadex.com
 +d uploadlw.com /getbanner.cfm?*.js
@@ -21579,7 +21684,6 @@ msFilterList
 +d sundaysportclassifieds.co.uk /ads/
 +d tnaflix.com /ad/
 +d tracking.hornymatches.com /track?type=unsubscribe&enid=
-+d traffichaus.com /advertisement.js*.js
 +d upornia.com /js/advertising.js?*.js
 +d xhcdn.com /images/flag/AD.gif
 +d xxxporntalk.com /images/xxxpt-chrome.jpg
@@ -21926,7 +22030,6 @@ msFilterList
 +d crazyshit.com
 +d desihoes.com /advertisement.js
 +d drtst.com /ads.js*.js
-+d ero-advertising.com /banads/
 +d exoclick.com /ad_track.js
 +d exoclick.com /invideo.js
 +d fuqer.com /advertisement.js
