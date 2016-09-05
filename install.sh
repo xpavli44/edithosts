@@ -33,8 +33,10 @@ sudo mv man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
 sudo chmod 755 /opt/edithosts -R
 
 ## periodic updates
-sudo cp /opt/edithosts/autoupdate.sh /etc/cron.monthly/updateprogramuedithosts
-sudo cp /opt/edithosts/cron.weekly-edithosts /etc/cron.weekly/edithosts
+sudo cp cron.monthly-edithosts /etc/cron.monthly/edithosts
+sudo cp cron.weekly-edithosts /etc/cron.weekly/edithosts
+sudo chmod 755 /etc/cron.weekly/edithosts
+sudo chmod 755 /etc/cron.monthly/edithosts
 
 echo "edithosts:Installing OK, Do not edit /etc/hosts file directly, but only through the command: edithosts."
 echo -e "edithosts:To uninstall a rollback, use the command:\n/opt/edithosts/uninstall.sh"
