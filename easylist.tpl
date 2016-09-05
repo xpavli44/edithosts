@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 05 Sep 2016 14:10 UTC
+# Last modified: 05 Sep 2016 18:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 01/09/2016
+# Last change: 05/09/2016
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -19412,6 +19412,7 @@ msFilterList
 -d sponsors.s2ki.com
 -d sponsors.webosroundup.com
 -d sporcle.com /adn/yak.php?
+# ||sporcle.com/g00/$subdocument
 -d sportcategory.com /ads/
 -d sportcategory.org /pu/
 -d spotflux.com /service/partner.php
