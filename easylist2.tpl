@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne zář 11 22:59:38 CEST 2016 ##################
+##### Aktualizováno: Po zář 12 14:28:42 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9745,6 +9745,7 @@ msFilterList
 -d isapi.solutions
 -d isohits.com
 -d isparkmedia.com
+-d istripper.com
 -d isubdom.com
 -d isubdomains.com
 -d itrengia.com
@@ -10103,6 +10104,7 @@ msFilterList
 -d mobitracker.info
 -d mobiyield.com
 -d moborobot.com
+-d mobsterbird.info
 -d mobstitialtag.com
 -d mobstrks.com
 -d mobtrks.com
@@ -11588,6 +11590,7 @@ msFilterList
 -d awsatstb.com
 -d awvrvqxq.com
 -d azeozrjk.com
+-d bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
 -d bgitczbd.com
 -d bircgizd.com
 -d bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
@@ -11603,6 +11606,7 @@ msFilterList
 -d crkgtnad.com
 -d dcneohtx.com
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
+-d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 -d dmdcpvgu.com
 -d dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
@@ -11617,6 +11621,8 @@ msFilterList
 -d gbiwxmjw.com
 -d gerpkshe.com
 -d gggemaop.com
+-d gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
+-d glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 -d gmpdixdh.com
 -d gpbznagpormpyusuxbvlpbuejqzwvspcyqjcxbqtbdtlixcgzp.com
 -d grceweaxhbpvclyxhwuozrbtvqzjgbnzklvxdezzficwjnmfil.com
@@ -11630,6 +11636,7 @@ msFilterList
 -d hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
 -d hxbvbmxv.com
 -d hyvsquazvafrmmmcfpqkabocwpjuabojycniphsmwyhizxgebu.com
+-d icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
 -d idpukwmp.com
 -d igupodzh.com
 -d imrwxmau.com
@@ -11638,10 +11645,12 @@ msFilterList
 -d izwsvyqv.com
 -d jahsrhlp.com
 -d jdlnquri.com
+-d jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 -d jjipgxjf.com
 -d jlflzjdt.com
 -d jqqrcwwd.com
 -d kgkjlivo.com
+-d ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
 -d kyowarob.com
 -d lckpubqq.com
 -d lkrcapch.com
@@ -11654,6 +11663,7 @@ msFilterList
 -d nefxtwxk.com
 -d negdrvgo.com
 -d nfniziqm.com
+-d npeanaixbjptsemxrcivetuusaagofdeahtrxofqpxoshduhri.com
 -d nrgpugas.com
 -d oawleebf.com
 -d obthqxbm.com
@@ -11668,6 +11678,7 @@ msFilterList
 -d qnpolbme.com
 -d qrozsnmc.com
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
+-d rhfvzboqkjfmabakkxggqdmulrsxmisvuzqijzvysbcgyycwfk.com
 -d rjnkpqax.com
 -d rpczohkv.com
 -d ruovcruc.com
@@ -11680,9 +11691,11 @@ msFilterList
 -d tjbgiyek.com
 -d tmdcfkxcckvqbqbixszbdyfjgusfzyguvtvvisojtswwvoduhi.com
 -d uckxjsiy.com
+-d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
 -d umqsrvdg.com
 -d uqgloylf.com
 -d uqpotqld.com
+-d uupqrsjbxrstncicwcdlzrcgoycrgurvfbuiraklyimzzyimrq.com
 -d uxyofgcf.com
 -d uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 -d vfnvsvxlgxbvndhgqqohfgdcfprvxqisiqhclfhdpnjzloctny.com
@@ -11703,6 +11716,7 @@ msFilterList
 -d xhojlvfznietogsusdiflwvxpkfhixbgdxcnsdshxwdlnhtlih.com
 -d xhqilhfrfkoecllmthusrpycaogrfivehyymyqkpmxbtomexwl.com
 -d xpnttdct.com
+-d xswutjmmznesinsltpkefkjifvchyqiinnorwikatwbqzjelnp.com
 -d xttrofww.com
 -d ygrtbssc.com
 -d ynlrfiwj.com
@@ -13050,6 +13064,7 @@ msFilterList
 -d banners.smarttweak.com
 -d banners.videosz.com
 -d banners.webmasterplan.com
+-d bannersnack.com /iframe/
 -d bbcchannels.com /workspace/uploads/
 -d bc.coupons.com
 -d bc.vc /js/link-converter.js
@@ -14212,6 +14227,7 @@ msFilterList
 -d syndication.visualthesaurus.com /std/vtad.js
 -d syndication1.viraladnetwork.net
 -d tag.regieci.com
+-d tags2.adshell.net
 -d take2.co.za /misc/bannerscript.php?
 -d talkfusion.com /banners/
 -d tankionline.com /tankiref.swf
@@ -15049,7 +15065,6 @@ msFilterList
 -d alternet.org /givememygfp.
 -d amazingmoneymagnet.com //upload/banners/
 -d amazonaws.com /cdn.megacpm.com/
--d amazonaws.com /files.bannersnack.com/
 -d ambriefonline.com /banners/
 -d amd.com /publishingimages/*/master_
 -d americanangler.com /images/banners/
@@ -21185,6 +21200,7 @@ msFilterList
 +d openspeedtest.com /advertisement.js
 +d openx.gamereactor.dk /multi.php?*.js
 +d oploverz.net
++d optifine.net
 +d osdarlings.com
 +d ouo.io
 +d overclock3d.net /js/advert.js
@@ -21382,6 +21398,7 @@ msFilterList
 +d uploadlw.com
 +d uploadocean.com
 +d uploadrocket.net /ads.js
++d uploadrocket.net
 +d uploadshub.com
 +d upshare.org /advertisement.js
 +d uptobox.com
@@ -21892,6 +21909,7 @@ msFilterList
 +d phncdn.com /www-static/js/header-nojquery.js?*.js
 +d phncdn.com /www-static/js/header.js*.js
 +d phncdn.com /www-static/js/html5Player/*.js
++d phncdn.com /www-static/js/htmlPauseRoll/*.js
 +d phncdn.com /www-static/js/lib/*.js
 +d phncdn.com /www-static/js/manage-constructors.js*.js
 +d phncdn.com /www-static/js/member-search.js?*.js
@@ -21965,15 +21983,7 @@ msFilterList
 +d phncdn.com /www-static/js/vr/normotion.js?*.js
 +d phncdn.com /www-static/js/vr/vrplayer-noMin.js?*.js
 +d phncdn.com /www-static/js/vr/vrplayer.js?*.js
-+d phncdn.com /www-static/js/vtablet/fakeworker-*.js
-+d phncdn.com /www-static/js/vtablet/front/*.js
-+d phncdn.com /www-static/js/vtablet/hammer.min.js*.js
-+d phncdn.com /www-static/js/vtablet/iscroll-lite.*.js
-+d phncdn.com /www-static/js/vtablet/legacy.js*.js
-+d phncdn.com /www-static/js/vtablet/main.js*.js
-+d phncdn.com /www-static/js/vtablet/pcFunctions.js*.js
-+d phncdn.com /www-static/js/vtablet/template-*.js
-+d phncdn.com /www-static/js/vtablet/video/*.js
++d phncdn.com /www-static/js/vtablet/*.js
 +d phncdn.com /www-static/js/widgets-album-upper-info.js*.js
 +d phncdn.com /www-static/js/widgets-category_listings.js*.js
 +d phncdn.com /www-static/js/widgets-comments-simple.js*.js
