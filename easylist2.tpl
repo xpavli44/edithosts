@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt zář 15 15:07:32 CEST 2016 ##################
+##### Aktualizováno: Ne zář 18 10:41:59 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1938,6 +1938,7 @@ msFilterList
 - /adfillers/
 - /adflash.
 - /adflashes/
+- /adfliction-
 - /adfly/
 - /adfolder/
 - /adfootcenter.
@@ -2083,7 +2084,6 @@ msFilterList
 - /adlargefooter2.
 - /adlayer.
 - /adlayer/
-- /adlead.
 - /adleader.
 - /adleaderboardtop.
 - /adleft.
@@ -2255,6 +2255,7 @@ msFilterList
 - /adreactor/
 - /adreadytractions.
 - /adrec.
+- /adreclaim-
 - /adrectanglebanner?
 - /adrefresh-
 - /adrefresh.
@@ -5259,6 +5260,7 @@ msFilterList
 - /pagead/gen_
 - /pagead/html/
 - /pagead/js/
+- /pagead/lvz?
 - /pagead/osd.
 - /pagead2.
 - /pagead46.
@@ -6662,6 +6664,7 @@ msFilterList
 - _ad_template_
 - _ad_top_
 - _ad_url=
+- _ad_utils-
 - _ad_vertical.
 - _ad_view=
 - _ad_widesky.
@@ -7728,6 +7731,7 @@ msFilterList
 -d 1nimo.com
 -d 1phads.com
 -d 1rx.io
+-d 1rxntv.io
 -d 1sadx.net
 -d 1web.me
 -d 1yk851od.com
@@ -7930,6 +7934,8 @@ msFilterList
 -d ademails.com
 -d adengage.com
 -d adespresso.com
+-d adexc.net
+-d adexchange.io
 -d adexcite.com
 -d adexprt.com
 -d adexprts.com
@@ -8031,6 +8037,7 @@ msFilterList
 -d admaya.in
 -d admedia.com
 -d admedias.net
+-d admedit.net
 -d admedo.com
 -d admeld.com
 -d admeta.com
@@ -8770,7 +8777,6 @@ msFilterList
 -d centralnervous.net
 -d cerotop.com
 -d cgecwm.org
--d chameleon.ad
 -d chango.com
 -d chanished.net
 -d chanitet.ru
@@ -9421,6 +9427,7 @@ msFilterList
 -d fxdepo.com
 -d fxyc0dwa.com
 -d g-cash.biz
+-d g17media.com
 -d g4whisperermedia.com
 -d gagacon.com
 -d gagenez.com
@@ -9775,6 +9782,7 @@ msFilterList
 -d jiwire.com
 -d jizzontoy.com
 -d jmp9.com
+-d jmvnolvmspponhnyd6b.com
 -d jo7cofh3.com
 -d jobsyndicate.com
 -d jobtarget.com
@@ -9966,6 +9974,7 @@ msFilterList
 -d makemoneymakemoney.net
 -d mallsponsor.com
 -d mangoforex.com
+-d mansiontheologysoon.xyz
 -d marbil24.co.za
 -d marfeel.com
 -d marginalwoodfernrounddance.com
@@ -10162,6 +10171,7 @@ msFilterList
 -d myemailbox.info
 -d myinfotopia.com
 -d mylinkbox.com
+-d mynativeads.com
 -d mynewcarquote.us
 -d myplayerhd.net
 -d mysafeurl.com
@@ -10292,6 +10302,7 @@ msFilterList
 -d ohmcasting.com
 -d ohmwrite.com
 -d oileddaintiessunset.info
+-d oldership.com
 -d oldtiger.net
 -d omclick.com
 -d omg2.com
@@ -10525,6 +10536,7 @@ msFilterList
 -d prickac.com
 -d primaryads.com
 -d pritesol.com
+-d privilegebedroomlate.xyz
 -d prizel.com
 -d prm-native.com
 -d pro-advert.de
@@ -10694,6 +10706,7 @@ msFilterList
 -d rfgsi.com
 -d rfihub.net
 -d rhown.com
+-d rhythmcontent.com
 -d rhythmxchange.com
 -d ric-ric-rum.com
 -d ricead.com
@@ -10726,6 +10739,7 @@ msFilterList
 -d rtbpops.com
 -d rtk.io
 -d rubiconproject.com
+-d ruckusschroederraspberry.com
 -d rummyaffiliates.com
 -d runadtag.com
 -d runreproducerow.com
@@ -10907,6 +10921,7 @@ msFilterList
 -d spotrails.com
 -d spotscenered.info
 -d spottt.com
+-d spottysense.com
 -d spotxcdn.com
 -d spotxchange.com
 -d spoutable.com
@@ -11251,6 +11266,7 @@ msFilterList
 -d vapedia.com
 -d vashoot.com
 -d vastopped.com
+-d vaultwrite.com
 -d vcmedia.com
 -d vcommission.com
 -d vcxzv.website
@@ -12064,6 +12080,7 @@ msFilterList
 -d adperiun.com
 -d adpron.com
 -d adrent.net
+-d adrevenuerescue.com
 -d adsbr.info
 -d adsgangsta.com
 -d adshostview.com
@@ -12872,6 +12889,7 @@ msFilterList
 -d zog.link
 -d reporo.net
 -d abbp1.space.
+-d abbp1.website.
 -d poolnoodle.tech.
 - -api.adyoulike.com
 -d 000webhost.com /images/banners/
@@ -14188,6 +14206,7 @@ msFilterList
 -d slot.union.ucweb.com
 -d slysoft.com /img/banner/
 -d smart.styria-digital.com
+-d smartasset.com /embed.js
 -d smartdestinations.com /ai/
 -d smblock.s3.amazonaws.com
 -d smilepk.com /bnrsbtns/
@@ -16296,7 +16315,6 @@ msFilterList
 -d hotfiletrend.com /dlp.gif
 -d hothardware.com /pgmerchanttable.aspx?
 -d hothardware.com _staticbanner_*.jpg
--d houndmirror.com /images/XmkuP.gif
 -d houseoftravel.co.nz /flash/banner/
 -d howtogeek.com /go/
 -d howtogermany.com /banner/
@@ -17767,6 +17785,7 @@ msFilterList
 -d sportcategory.org /pu/
 -d spotflux.com /service/partner.php
 -d spreaker.net /spots/
+-d spt.dictionary.com
 -d spycss.com /images/hostgator.gif
 -d squadedit.com /img/peanuts/
 -d srv.thespacereporter.com
@@ -20521,6 +20540,7 @@ msFilterList
 +d telegraphcouk.skimlinks.com /api/telegraph.skimlinks.js
 +d tetrisfriends.com /ads/google_dfp_video_ad.html
 +d texasstudentmedia.com /advertise/
++d the-watch-series.to
 +d theatlantic.com /widget/
 +d thedailygreen.com /ams/page-ads.js?
 +d theepochtimes.com /ads/video/inarticle-video.html
@@ -20732,8 +20752,8 @@ msFilterList
 +d animefushigi.com
 +d animerebel.com
 +d animesproject.com /player.php
++d animesubita.info
 +d animizer.net /js/adframe.js
-+d animmex.net
 +d anisearch.com /ads.js?
 +d anizm.com
 +d anonymousemail.me /js/
@@ -21067,6 +21087,7 @@ msFilterList
 +d jpost.com /JavaScript/ads.js?
 +d juba-get.com /advertisement.js
 +d juegosparaplaystation.com
++d jukezilla.com
 +d junksport.com /watch/advertisement.js
 +d juzupload.com /advert*.js
 +d katsomo.fi /advert.js
@@ -21076,6 +21097,8 @@ msFilterList
 +d kbb.com /ads.js
 +d kdliker.com /js/advert.js
 +d kenkenpuzzle.com /assets/ads-*.js
++d kenkenpuzzle.com
++d ketubanjiwa.com
 +d kissanime.com /ads/
 +d kisscartoon.me /Ads/
 +d koparos.info /ads.php
@@ -21212,6 +21235,7 @@ msFilterList
 +d nationalgeographic.com /advertising.js
 +d nbahd.com
 +d nbc.com
++d nbcudigitaladops.com /hosted/*.js
 +d ndtv.com
 +d needrom.com /advert1.js
 +d nettavisen.no /advertisement.js
@@ -21405,6 +21429,7 @@ msFilterList
 +d telemetryverification.net /crossdomain.xml
 +d television-envivo.com
 +d thecountrycaller.com /showads.php
++d thefreethoughtproject.com
 +d thelordofstreaming.it /wp-content/uploads/*/ad_
 +d thelordofstreaming.it
 +d thememypc.com /wp-content/*/ads/
@@ -21562,8 +21587,8 @@ msFilterList
 +d autotube.cz /ui/player/ad.php?id=
 +d bancainternet.com.ar /eBanking/images/*-PUBLICIDAD.
 +d banki.ru /bitrix/*/advertising.block/
-+d bhaskar.com /revenue/blocker/*.js
-+d bhaskar.com /revenue/showads.js*.js
++d bhaskar.com /revenue/*.js
++d bhaskar.com /ads/*.js
 +d biancolavoro.euspert.com /js/ad.js
 +d blocket.se /newad.js
 +d bmwoglasnik.si /images/ads/
@@ -22188,6 +22213,7 @@ msFilterList
 +d traffichaus.com /advertisement.js*.js
 +d tube8.com /js/advertisement.js
 +d voyeurperversion.com /inc/showads.js
++d wackshack.net /advertisement.js
 +d xibitnet.com /check/advertisement.js
 +d xibitnet.com /check/advertisements.js
 +d youfreeporntube.com
