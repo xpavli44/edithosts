@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne zář 18 10:41:59 CEST 2016 ##################
+##### Aktualizováno: Po zář 19 13:07:28 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -272,6 +272,8 @@ msFilterList
 -d pricemania.sk /pictures/banners/
 -d pricemania.sk /pictures/campaigns/
 -d recycle-static.zoznam.sk /*branding*.jpg
+-d recycle-static.zoznam.sk .mp4
+-d recycle-static.zoznam.sk .html
 -d spartak.sk /pics-new2/reklamy/
 -d sport.aktuality.sk /css/skins/
 -d static.itnews.sk /branding/
@@ -19540,6 +19542,7 @@ msFilterList
 -d tubecup.org /?t_sid=
 -d tubedupe.com /footer_four.html
 -d tubedupe.com /side_two.html
+-d tubepornclassic.com .php?z=*&sub=*.js
 -d turboimagehost.com /p1.js
 -d twinsporn.net /images/delay.gif
 -d twinsporn.net /images/free-penis-pills.png
