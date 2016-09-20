@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 19 Sep 2016 13:50 UTC
+# Last modified: 20 Sep 2016 15:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 18/09/2016
+# Last change: 19/09/2016
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -256,6 +256,7 @@ msFilterList
 -d zvukarina.cz /forum/images/ostatni/
 # games.tiscali.cz
 -d games.tiscali.cz .js
+# ||games.tiscali.cz/*/$image,~third-party
 +d games.tiscali.cz /img/bg/
 +d games.tiscali.cz /img/special/
 +d games.tiscali.cz /img/socials.png
