@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 20 Sep 2016 15:20 UTC
+# Last modified: 21 Sep 2016 11:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -10389,6 +10389,7 @@ msFilterList
 -d marbil24.co.za
 -d marfeel.com
 -d marginalwoodfernrounddance.com
+-d marimedia.com
 -d marketbanker.com
 -d marketfly.net
 -d marketgid.com
@@ -12175,12 +12176,14 @@ msFilterList
 -d vxuhavco.com
 -d vxvxsgut.com
 -d vzhbfwpo.com
+-d wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com
 -d wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com
 -d wgefjuno.com
 -d wkexsfmw.com
 -d wkhychiklhdglppaeynvntkublzecyyymosjkiofraxechigon.com
 -d wklyhvfc.com
 -d wrmcfyzl.com
+-d wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
 -d wtvyenir.com
 -d wwgjtcge.com
 -d wzueqhwf.com
@@ -13816,7 +13819,7 @@ msFilterList
 # Mobile
 -d reporo.net
 # Pornhub network
-# ||00zasdf.pw$other
+# ||00zasdf.pw$other,websocket
 -d abbp1.space.
 -d abbp1.website.
 -d poolnoodle.tech.
@@ -16448,8 +16451,8 @@ msFilterList
 # |http://nh.$image,third-party,domain=primewire.ag|primewire.is
 # |http://p.pw^$subdocument
 # |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|tvbximak.com|u.bb
-# |ws://nodesocket-$other,domain=thewatchseries.to
-# |wss:$other,domain=thewatchseries.to
+# |ws://nodesocket-$other,websocket,domain=thewatchseries.to
+# |wss:$other,websocket,domain=thewatchseries.to
 -d 0-60mag.com /js/takeover-2.0/
 -d 04stream.com /NEWAD11.php?
 -d 04stream.com /podddpo.js
@@ -17446,7 +17449,7 @@ msFilterList
 -d ejpress.org /images/banners/
 -d ejpress.org /img/banners/
 -d ekantipur.com /uploads/banner/
-# ||elasticbeanstalk.com^$other,domain=boreburn.com|yourtailorednews.com
+# ||elasticbeanstalk.com^$other,websocket,domain=boreburn.com|yourtailorednews.com
 -d electricenergyonline.com /bannieres/
 -d electronicsfeed.com /bximg/
 -d elevenmyanmar.com /images/banners/
@@ -20692,7 +20695,7 @@ msFilterList
 # |http://$script,third-party,xmlhttprequest,domain=filedot.xyz
 # |https://$script,third-party,xmlhttprequest,domain=filedot.xyz
 # batmanstream.com
-# |ws://$other,third-party,domain=batmanstream.com
+# |ws://$other,third-party,websocket,domain=batmanstream.com
 # rlslog.net
 # |http://$script,third-party,xmlhttprequest,domain=rlslog.net
 # |https://$script,third-party,xmlhttprequest,domain=rlslog.net
@@ -20816,7 +20819,7 @@ msFilterList
 # @@||windows.net/event-collector/messages?$xmlhttprequest,domain=jpost.com
 # |http://$script,third-party,xmlhttprequest,domain=jpost.com
 # |https://$script,third-party,xmlhttprequest,domain=jpost.com
-# |ws://$other,third-party,domain=jpost.com
+# |ws://$other,third-party,websocket,domain=jpost.com
 # powvideo.net
 # @@||ajax.googleapis.com^$script,third-party,domain=powvideo.net
 # |http://$script,subdocument,third-party,domain=powvideo.net
@@ -20931,7 +20934,7 @@ msFilterList
 # fastpic
 # |http://$script,stylesheet,third-party,domain=fastpic.ru
 # |https://$script,stylesheet,third-party,domain=fastpic.ru
-# |ws://$other,third-party,domain=fastpic.ru
+# |ws://$other,third-party,websocket,domain=fastpic.ru
 # monova
 # @@||gstatic.com^$script,third-party,domain=monova.org
 +d monova.org /js/main.js?v=*.js
@@ -20951,8 +20954,8 @@ msFilterList
 # @@||connect.facebook.net^$script,domain=thewatchseries.to|watch-series.to|watchseries.li
 # @@||maxcdn.bootstrapcdn.com^$script,domain=thewatchseries.to|watch-series.to|watchseries.li
 # @@||platform.twitter.com^$script,domain=thewatchseries.to|watch-series.to|watchseries.li
-# |http://$other,script,third-party,xmlhttprequest,domain=thewatchseries.to|watch-series.to|watchseries.li
-# |https://$other,script,third-party,xmlhttprequest,domain=thewatchseries.to|watch-series.to|watchseries.li
+# |http://$other,script,third-party,websocket,xmlhttprequest,domain=thewatchseries.to|watch-series.to|watchseries.li
+# |https://$other,script,third-party,websocket,xmlhttprequest,domain=thewatchseries.to|watch-series.to|watchseries.li
 # briskfile.com
 # @@||ajax.googleapis.com^$script,domain=briskfile.com
 # @@||connect.facebook.net^$script,domain=briskfile.com
@@ -21455,18 +21458,18 @@ msFilterList
 # ||ziddu.com/onclickpop.php$popup
 # ||zmovie.tv^$popup,domain=deditv.com|vidbox.net
 # *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt ***
-# .download^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .download^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # .info^$script,domain=www.pornhub.com
-# .online./$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .online^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .pw^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .science^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .space^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .trade^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .website^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-# .win^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .online./$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .online^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .pw^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .science^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .space^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .trade^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .website^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# .win^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # /\/[0-9].*\-.*\-[a-z0-9]{4}/$script,xmlhttprequest,domain=gaytube.com|keezmovies.com|spankwire.com|tube8.com|tube8.es|tube8.fr
-# /json^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# /json^$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # |blob:$script,domain=pornhub.com|youporn.com
 # |http://$image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |http://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -21477,7 +21480,7 @@ msFilterList
 # |https://$image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |https://$object,domain=pornhub.com|redtube.com|youporn.com
-# |ws://$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+# |ws://$other,websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # ||109.201.146.142^$domain=xxxbunker.com
 -d 213.174.140.38 /bftv/js/msn-
 # ||213.174.140.38^*/msn-*.js$domain=boyfriendtv.com|pornoxo.com
@@ -22189,6 +22192,7 @@ msFilterList
 -d sexyfuckgames.com /images/promo/
 -d sexyshare.net //banners/
 -d sexytime.com /img/sexytime_anima.gif
+# ||sh-cdn.com/backend_loader.php$domain=simply-hentai.com
 -d shanbara.jp /300_200plus.jpg
 -d shanbara.jp /okusamadx.gif
 -d sharew.org /modalfiles/
@@ -22600,7 +22604,7 @@ msFilterList
 # @@||adm.fwmrm.net^*/BrightcovePlugin.js$domain=9jumpin.com.au|9news.com.au|bigbrother.com.au|ninemsn.com.au
 # @@||adm.fwmrm.net^*/LinkTag2.js$domain=6abc.com|7online.com|abc.go.com|abc11.com|abc13.com|abc30.com|abc7.com|abc7chicago.com|abc7news.com|ahctv.com|animalplanet.com|destinationamerica.com|discovery.com|discoverylife.com|tlc.com
 # @@||adm.fwmrm.net^*/TremorAdRenderer.$object-subrequest,domain=go.com
-# @@||adm.fwmrm.net^*/videoadrenderer.$object-subrequest,domain=cnbc.com|espnfc.co.uk|espnfc.com|espnfc.com.au|espnfc.us|espnfcasia.com|go.com|nbc.com
+# @@||adm.fwmrm.net^*/videoadrenderer.$object-subrequest,domain=cnbc.com|espnfc.co.uk|espnfc.com|espnfc.com.au|espnfc.us|espnfcasia.com|go.com|nbc.com|nbcnews.com
 # @@||adman.se^$~third-party
 # @@||admedia.wsod.com^$domain=scottrade.com
 # @@||admin.brightcove.com/viewer/*/brightcovebootloader.swf?$object,domain=gamesradar.com
@@ -23733,6 +23737,7 @@ msFilterList
 +d nsandi.com /files/asset/banner-ads/
 # @@||ntv.io/serve/load.js$domain=mcclatchydc.com
 # @@||nyctourist.com/www/delivery/spcjs.php?$script,domain=nyctourist.com
+# @@||nydailynews.servedbyopenx.com/w/1.0/jstag$domain=nydailynews.com
 # @@||nyt.com^*/ad-loader.js$domain=nytimes.com
 # @@||nyt.com^*/ad-view-manager.js$domain=nytimes.com
 # @@||nyt.com^*/dfp.js$domain=nytimes.com
@@ -23819,7 +23824,7 @@ msFilterList
 # @@||partner.googleadservices.com/gampad/google_ads2.js$domain=motorcycle.com|mysoju.com|nedbank.co.za
 # @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=amctheatres.com|pitchfork.com|podomatic.com|virginaustralia.com
 # @@||partner.googleadservices.com/gampad/google_service.js$domain=autoguide.com|avclub.com|boatshop24.com|cadenasuper.com|dailygames.com|demotywatory.pl|drivearabia.com|ensonhaber.com|escapegames.com|juegosdiarios.com|lbox.me|letio.com|lightinthebox.com|memegenerator.net|motorcycle.com|mysoju.com|nedbank.co.za|nedbankgreen.co.za|nx8.com|playedonline.com|playstationlifestyle.net|readersdigest.com.au|sulekha.com|ticketek.com.ar|volokh.com
-# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|economist.com|ew.com|flightcentre.co.uk|forbes.com|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wired.com|wlj.net|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+# @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|economist.com|ew.com|flightcentre.co.uk|forbes.com|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wired.com|wlj.net|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 +d partners.thefilter.com /crossdomain.xml
 # @@||partners.thefilter.com/dailymotionservice/$image,object-subrequest,script,domain=dailymotion.com
 # @@||patient-education.com/banners/$~third-party
@@ -24517,7 +24522,6 @@ msFilterList
 # @@||adshost2.com/js/show_ads.js$domain=bitcoinker.com
 # @@||adtechus.com/dt/common/DACMultiAdPlugin.js$domain=e24.no
 # @@||adtechus.com/dt/common/postscribe.js$domain=vg.no
-# @@||adv.wp.pl/RM/Box/*.mp4$object-subrequest,domain=wp.tv
 # @@||adverticum.net/static/js/$domain=kisscartoon.me
 # @@||advertisegame.com^$image,domain=kissanime.com
 # @@||advertisingwouldbegreat.com/ad*.js$domain=zoptv.com

@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út zář 20 17:30:01 CEST 2016 ##################
+##### Aktualizováno: St zář 21 13:30:04 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9980,6 +9980,7 @@ msFilterList
 -d marbil24.co.za
 -d marfeel.com
 -d marginalwoodfernrounddance.com
+-d marimedia.com
 -d marketbanker.com
 -d marketfly.net
 -d marketgid.com
@@ -11747,12 +11748,14 @@ msFilterList
 -d vxuhavco.com
 -d vxvxsgut.com
 -d vzhbfwpo.com
+-d wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com
 -d wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com
 -d wgefjuno.com
 -d wkexsfmw.com
 -d wkhychiklhdglppaeynvntkublzecyyymosjkiofraxechigon.com
 -d wklyhvfc.com
 -d wrmcfyzl.com
+-d wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
 -d wtvyenir.com
 -d wwgjtcge.com
 -d wzueqhwf.com
