@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 27 Sep 2016 22:10 UTC
+# Last modified: 28 Sep 2016 13:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 26/09/2016
+# Last change: 28/09/2016
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -22635,6 +22635,9 @@ msFilterList
 # @@/iframe_video/ad.php?$object-subrequest,~third-party
 # @@/wordpress/wp-admin/*-ads-manager/*$~third-party
 # @@/wordpress/wp-admin/*/adrotate/*$~third-party
+# @@/wp-content/plugins/ad-inserter/css/*$image,stylesheet,~third-party
+# @@/wp-content/plugins/ad-inserter/includes/*$script,~third-party
+# @@/wp-content/plugins/ad-inserter/js/ad-inserter.js$script,~third-party
 # @@/wp-content/plugins/bwp-minify/min/?f=$script,stylesheet,~third-party
 # @@||192.168.$~third-party,xmlhttprequest
 # @@||192.168.*/images/adv_$~third-party
