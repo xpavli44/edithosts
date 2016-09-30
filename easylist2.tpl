@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St zář 28 15:46:38 CEST 2016 ##################
+##### Aktualizováno: Pá zář 30 13:34:52 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -118,6 +118,7 @@ msFilterList
 -d itnetwork.cz /script/abc/
 -d jpg.assets-finance-media.cz /newsimg/brand/
 -d kaloricketabulky.cz /images/branding/
+-d kaloricketabulky.cz /styles4/bigscreen2.css
 -d kecy.roumen.cz /roumingBannerator.php
 -d kurzy.cz /e/adv?
 -d lamer.cz /images/bg*.jpg
@@ -2003,7 +2004,6 @@ msFilterList
 - /adgitize-
 - /adgooglefull2.
 - /adgraphics/
-- /adguard.
 - /adguru.
 - /adhads.
 - /adhalfbanner.
@@ -8779,6 +8779,7 @@ msFilterList
 -d cdnads.com
 -d cdnapi.net
 -d cdnload.top
+-d cdnmedia.xyz
 -d cdnrl.com
 -d cdnservr.com
 -d cdntrip.com
@@ -10631,6 +10632,7 @@ msFilterList
 -d questionmarket.com
 -d questus.com
 -d quickcash500.com
+-d quideo.men
 -d quinstreet.com
 -d qwobl.net
 -d qwzmje9w.com
@@ -11840,6 +11842,7 @@ msFilterList
 -d blaundorz.com
 -d blazwuatr.com
 -d bliankerd.net
+-d blindury.com
 -d blipi.net
 -d blowwor.com
 -d bluazard.net
@@ -16054,6 +16057,7 @@ msFilterList
 -d fiverr.com /javascripts/conversion.js
 -d flameload.com /onvertise.
 -d flashscore.com /res/image/bookmaker-list.png
+-d flashx.tv /img/downloadit.png
 -d flashy8.com /banner/
 -d flatpanelshd.com /pictures/*banner
 -d fleetwatch.co.za /images/banners/
@@ -16156,6 +16160,7 @@ msFilterList
 -d gamblinginsider.com /partner_events.php
 -d game1games.com /exchange/
 -d gameads.digyourowngrave.com
+-d gameawayscouponsstorage.blob.core.windows.net /images/greenmangaming/
 - http://gamecopyworld.com*/!
 -d gamecopyworld.com /games/i/if6.gif
 -d gamecopyworld.com /games/js/abd.js
@@ -19717,21 +19722,18 @@ msFilterList
 +d motherless.com /register/
 +d motherless.com /scripts/auth.min.js
 +d motherless.com /scripts/bots.min.js
++d motherless.com /scripts/classifieds.min.js
 +d motherless.com /scripts/groups.js
 +d motherless.com /scripts/home_page.min.js
 +d motherless.com /scripts/jquery-*.min.js
 +d motherless.com /scripts/jquery-ui.js
-+d motherless.com /scripts/jquery.autocomplete.pack.js
-+d motherless.com /scripts/jquery.backgroundSize.min.js
-+d motherless.com /scripts/jquery.boxy.js
-+d motherless.com /scripts/jquery.counter.min.js
-+d motherless.com /scripts/jquery.iframetracker.min.js
-+d motherless.com /scripts/jquery.inview.min.js
-+d motherless.com /scripts/jquery.tipTip.min.js
++d motherless.com /scripts/jquery.*.js
 +d motherless.com /scripts/jwplayer.js
++d motherless.com /scripts/media.min.js
 +d motherless.com /scripts/members.min.js
 +d motherless.com /scripts/perfect-scrollbar.jquery.min.js
 +d motherless.com /scripts/register.min.js
++d motherless.com /scripts/responsive.min.js
 +d motherless.com /scripts/site.min.js
 +d motherless.com /scripts/sprintf.min.js
 +d motherless.com /scripts/store.min.js
@@ -21030,7 +21032,6 @@ msFilterList
 +d firstonetv.com /ads_advertisement.js
 +d firsttube.co
 +d fitshr.net
-+d flashx.tv
 +d flvto.biz /scripts/ads.js
 +d flvto.biz
 +d fm.tuba.pl /tuba3/_js/advert.js
