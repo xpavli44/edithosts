@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá zář 30 23:07:29 CEST 2016 ##################
+##### Aktualizováno: So říj 1 21:22:40 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3012,6 +3012,7 @@ msFilterList
 - /adsrv.
 - /adsrv/
 - /adsrv2/
+- /adsrvmedia/
 - /adss.asp
 - /adsscript.
 - /adsserv.
@@ -4124,6 +4125,7 @@ msFilterList
 - /display-ads-
 - /display-ads/
 - /display.ad.
+- /display/ads/
 - /display?ad_
 - /display_ad
 - /displayad.
@@ -8492,6 +8494,7 @@ msFilterList
 -d asterpix.com
 -d astree.be
 -d atadserver.com
+-d atas.io
 -d atemda.com
 -d atmalinks.com
 -d ato.mx
@@ -9524,6 +9527,7 @@ msFilterList
 -d googletagservices.com /tag/static/
 -d gorgonkil.com
 -d gortags.com
+-d gotagy.com
 -d gotjs.xyz
 -d gourmetads.com
 -d governmenttrainingexchange.com
@@ -9723,6 +9727,7 @@ msFilterList
 -d inskinad.com
 -d inspiringsweater.xyz
 -d insta-cash.net
+-d instancetour.info
 -d instantbannercreator.com
 -d instantclk.com
 -d instantdollarz.com
@@ -9894,6 +9899,7 @@ msFilterList
 -d leohd59.ru
 -d lepinsar.com
 -d lepintor.com
+-d letadnew.com
 -d letilyadothejob.com
 -d letsadvertisetogether.com
 -d letsgoshopping.tk
@@ -9988,6 +9994,7 @@ msFilterList
 -d marfeel.com
 -d marginalwoodfernrounddance.com
 -d marimedia.com
+-d markergot.com
 -d marketbanker.com
 -d marketfly.net
 -d marketgid.com
@@ -10199,6 +10206,7 @@ msFilterList
 -d nabbr.com
 -d nagrande.com
 -d nanigans.com
+-d nasdak.in
 -d native-adserver.com
 -d nativead.co
 -d nativead.tech
@@ -10320,6 +10328,7 @@ msFilterList
 -d omnitagjs.com
 -d onad.eu
 -d onads.com
+-d onclasrv.com
 -d onclickads.net
 -d onedmp.com
 -d onenetworkdirect.com
@@ -10914,6 +10923,7 @@ msFilterList
 -d spectato.com
 -d speeb.com
 -d speednetwork14.com
+-d speedserver.top
 -d speedshiftmedia.com
 -d speedsuccess.net
 -d spider.ad
@@ -10999,6 +11009,7 @@ msFilterList
 -d supremeadsonline.com
 -d surf-bar-traffic.com
 -d surfboarddigital.com.au
+-d surgeprice.com
 -d survey-poll.com
 -d surveyvalue.mobi
 -d surveyvalue.net
@@ -11123,6 +11134,7 @@ msFilterList
 -d torrida.net
 -d torrpedoads.net
 -d torvind.com
+-d tostickad.com
 -d total-media.net
 -d totalprofitplan.com
 -d totemcash.com
@@ -11400,6 +11412,7 @@ msFilterList
 -d wgreatdream.com
 -d wh5kb0u4.com
 -d where.com
+-d whiteboardnez.com
 -d whoads.net
 -d whtsrv9.com
 -d why-outsource.net
@@ -11636,6 +11649,7 @@ msFilterList
 -d bkmmlcbertdbselmdxpzcuyuilaolxqfhtyukmjkklxphbwsae.com
 -d bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
 -d bmqnguru.com
+-d bmubqabepbcb.com
 -d bujntrmh.com
 -d bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com
 -d ccdkyvyw.com
@@ -11650,6 +11664,7 @@ msFilterList
 -d crkgtnad.com
 -d cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 -d dcneohtx.com
+-d ddprxzxnhzbq.com
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
 -d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
@@ -15081,6 +15096,7 @@ msFilterList
 -d activewin.com /blaze_static2.gif
 -d actressarchives.com /takeover/
 -d ad.cooks.com
+-d ad.crichd.in
 -d ad.digitimes.com.tw
 -d ad.directmirror.com
 -d ad.download.cnet.com
@@ -18529,6 +18545,7 @@ msFilterList
 -d webnewswire.com /images/banner
 -d websitehome.co.uk /seoheap/cheap-web-hosting.gif
 -d webstatschecker.com /links/
+-d webtv.ws /adds/
 -d weddingtv.com /src/baners/
 -d weedwatch.com /images/banners/
 -d weei.com /sponsors/
@@ -20380,6 +20397,7 @@ msFilterList
 +d nationalgeographic.com /channel/videos/satellite/*.swf?adsite=
 +d nationmultimedia.com /new/js/doubleclick.js
 +d nbc.com /collarity/
++d nbcmontana.com /html/js/endplay/ads/ad-core.js?
 +d ncregister.com /images/ads/
 +d ncregister.com /images/sized/images/ads/
 +d nedbank.co.za /website/content/home/google_ad_Cut.jpg
@@ -20807,6 +20825,7 @@ msFilterList
 +d adf.ly
 +d ads.clubedohardware.com.br /www/delivery/*.js
 +d adserver.liverc.com /getBannerVerify.js
++d aetv.com
 +d afdah.co .js
 +d afdah.com .js
 +d afdah.tv .js
@@ -21056,6 +21075,7 @@ msFilterList
 +d funniermoments.com /adframe.js
 +d funniermoments.com
 +d funniermoments.com
++d fyi.tv
 +d gallery.aethereality.net /advertisement.js
 +d gallerynova.se /advertisement.js
 +d galna.org
@@ -21378,6 +21398,7 @@ msFilterList
 +d picu.pk
 +d pipocas.tv /js/advertisement.js
 +d pirlotv.tv
++d pixsense.net /ad*.js*.js
 +d plantuml.com /adsbygoogle.js
 +d play-old-pc-games.com
 +d player.foxfdm.com /playback.js
@@ -21485,6 +21506,7 @@ msFilterList
 +d speakingtree.in
 +d speedpremium.info .js
 +d sports4u.live
++d sportstvstream.me
 +d springstreetads.com /scripts/advertising.js
 +d srnet.eu .js
 +d srnk.co /js/ads.js
