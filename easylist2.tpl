@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt říj 6 21:12:42 CEST 2016 ##################
+##### Aktualizováno: So říj 8 21:35:32 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1722,6 +1722,7 @@ msFilterList
 - /ad_tile/
 - /ad_timer.
 - /ad_title_
+- /ad_tools/
 - /ad_top.
 - /ad_top/
 - /ad_top_
@@ -7824,6 +7825,7 @@ msFilterList
 -d a3pub.com
 -d a433.com
 -d a4dtrk.com
+-d a4to4.pw
 -d a5pub.com
 -d aa.voice2page.com
 -d aaa.at4.info
@@ -9334,6 +9336,7 @@ msFilterList
 -d expogrim.com
 -d exponential.com
 -d expresswebtraffic.com
+-d extend.tv
 -d extra33.com
 -d eyere.com
 -d eyereturn.com
@@ -11658,6 +11661,7 @@ msFilterList
 -d avrdpbiwvwyt.com
 -d awsatstb.com
 -d awvrvqxq.com
+-d azbdbtsmdocl.com
 -d azeozrjk.com
 -d bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
 -d bbopkapcgonb.com
@@ -11682,6 +11686,7 @@ msFilterList
 -d cmpsuzvr.com
 -d comgnnyx.com
 -d comwgi.com
+-d cpamnizzierk.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d crkgtnad.com
 -d csbsyukodmga.com
@@ -11692,9 +11697,12 @@ msFilterList
 -d dcneohtx.com
 -d ddprxzxnhzbq.com
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
+-d djntmaplqzbi.com
 -d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 -d dmdcpvgu.com
+-d dmwubqhtuvls.com
+-d dnxpseduuehm.com
 -d dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 -d dobjgpqzygow.com
 -d dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
@@ -11703,10 +11711,13 @@ msFilterList
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
 -d elbeobjhnsvh.com
+-d elkpxsfzrubq.com
 -d emdbszgmxggo.com
 -d eovkzcueutgf.com
 -d ervpgpxr.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
+-d fcjnqpkrdglw.com
+-d fdepobamndfn.com
 -d fjfxpykp.com
 -d fluohbiy.com
 -d fneheruhxqtv.com
@@ -11722,6 +11733,7 @@ msFilterList
 -d gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
 -d glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 -d gmpdixdh.com
+-d gojwyansqmcl.com
 -d gpbznagpormpyusuxbvlpbuejqzwvspcyqjcxbqtbdtlixcgzp.com
 -d gpgsxlmjnfid.com
 -d gqthfroeirol.com
@@ -11757,8 +11769,10 @@ msFilterList
 -d imrwxmau.com
 -d imyqdbxq.com
 -d iohaqrkjddeq.com
+-d iqrqmhrfkyuu.com
 -d irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 -d irxpndjg.com
+-d iydghotpzofn.com
 -d izwsvyqv.com
 -d jahsrhlp.com
 -d jdlnquri.com
@@ -11768,19 +11782,23 @@ msFilterList
 -d jjipgxjf.com
 -d jlflzjdt.com
 -d jqqrcwwd.com
+-d karcvrpwayal.com
 -d kgkjlivo.com
 -d kihhgldtpuho.com
 -d kjjlucebvxtu.com
 -d ksbklucaxgbf.com
 -d ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
+-d kthdreplfmil.com
 -d kyowarob.com
 -d lckpubqq.com
 -d lcyxmuhxroyo.com
+-d lhuqalcxjmtq.com
 -d ljngencgbdbn.com
 -d lkjmcevfgoxfbyhhmzambtzydolhmeelgkotdllwtfshrkhrev.com
 -d lkrcapch.com
 -d lmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
 -d lpwvdgfo.com
+-d lwenrqtarmdx.com
 -d lytpdzqyiygthvxlmgblonknzrctcwsjycmlcczifxbkquknsr.com
 -d lzmovatu.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
@@ -11797,6 +11815,7 @@ msFilterList
 -d ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
 -d nnigsvoorscmgnyobwuhrgnbcgtiicyflrtpwxsekldubasizg.com
 -d nnvjigagpwsh.com
+-d noolablkcuyu.com
 -d npeanaixbjptsemxrcivetuusaagofdeahtrxofqpxoshduhri.com
 -d nrgpugas.com
 -d nsazelqlavtc.com
@@ -11810,9 +11829,12 @@ msFilterList
 -d orszajhynaqr.com
 -d oslzqjnh.com
 -d ossdqciz.com
+-d otpyldlrygga.com
+-d otrfmbluvrde.com
 -d ovgzbnjj.com
 -d ozhwenyohtpb.com
 -d pbnnsras.com
+-d peewuvgdcian.com
 -d pkmzxzfazpst.com
 -d pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
 -d plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
@@ -11880,6 +11902,7 @@ msFilterList
 -d vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 -d vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
 -d vpsotshujdguwijdiyzyacgwuxgnlucgsrhhhglezlkrpmdfiy.com
+-d vpwwtzprrkcn.com
 -d vrqajyuu.com
 -d vxuhavco.com
 -d vxvxsgut.com
@@ -11919,8 +11942,11 @@ msFilterList
 -d ynlrfiwj.com
 -d ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
 -d ypyarwgh.com
+-d ytwtqabrkfmu.com
 -d yyuztnlcpiym.com
 -d yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
+-d yzygkqjhedpw.com
+-d zamjzpwgekeo.com
 -d zbfncjtaiwngdsrxvykupflpibvbrewhemghxlwsdoluaztwyi.com
 -d zbrkywjutuxu.com
 -d zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
@@ -11930,6 +11956,7 @@ msFilterList
 -d zoowknbw.com
 -d zpmbsivi.com
 -d zptncsir.com
+-d zpxbdukjmcft.com
 -d zrxgdnxneslb.com
 -d zycvyudt.com
 -d 247view.net
@@ -12150,6 +12177,7 @@ msFilterList
 -d wensdteuy.com
 -d wolopiar.com
 -d wopdi.com
+-d wqqqpe.com
 -d wuakula.net
 -d wuarnurf.net
 -d wuatriser.net
@@ -18848,7 +18876,6 @@ msFilterList
 -d ysm.yahoo.com
 -d ytmnd.com /ugh
 -d yts.ag /images/vpnanim.gif
--d yts.ag /js/bgb.js
 -d yudu.com _intro_ads
 -d zabasearch.com /search_box.php?*&adword=
 -d zads.care2.com
@@ -18895,8 +18922,8 @@ msFilterList
 +d gorillavid.in /jsSelect.js
 +d gorillavid.in /jwplayer.js
 +d monova.org /js/main.js?v=*.js
-+d flashx.tv /js/ads.js
--d flashx.tv /?*.js
++d flash-x.tv /js/showad*.js
++d flashx.tv /js/showad*.js
 +d exashare.com /ad.js
 +d exashare.com /js/*.js
 +d exashare.com /player*.js
@@ -20926,7 +20953,7 @@ msFilterList
 +d 9xbuddy.com /js/ads.js
 +d ad.filmweb.pl .js
 +d ad.leadbolt.net /show_cu.js
-+d ad8k.com /script,domain=wccftech.com|extratorrent.cc
++d ad8k.com /script,domain=wccftech.com|extratorrent.cc|wrestlinginc.com|flash-x.tv|flashx.tv
 +d adexprt.com /cdn3/*&m=magnet
 +d adf.ly /ad/banner/*=
 +d adf.ly
@@ -21276,8 +21303,6 @@ msFilterList
 +d incredibox.com /js/advertisement.js
 +d incredibox.com
 +d indianexpress.com ad*.js
-+d indiatimes.com _ad*.js
-+d indiatimes.com /ad*.js
 +d indiatimes.com
 +d inskinmedia.com /crossdomain.xml
 +d intoday.in /ads/
@@ -21665,6 +21690,8 @@ msFilterList
 +d tklist.net /tklist/*ad
 +d tklist.net
 +d tlc.com
++d tomshardware.co.uk
++d tomshardware.com
 +d torrent2ddl.com
 +d tpmrpg.net /adframe.js
 +d trackitonline.ru
@@ -21763,6 +21790,7 @@ msFilterList
 +d worldofapk.tk
 +d wowebook.org
 +d wowhq.eu
++d wrestlinginc.com
 +d wrestlingtalk.org
 +d writing.com .js
 +d wwe2day.tv
