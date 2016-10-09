@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So říj 8 21:41:34 CEST 2016 ##################
+##### Aktualizováno: Ne říj 9 10:54:32 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -7191,6 +7191,7 @@ msFilterList
 - -468x60/
 - -468x60_
 - -468x60px-
+- -468x60px.
 - -468x70.
 - -468x80-
 - -468x80.
@@ -9563,6 +9564,7 @@ msFilterList
 -d groupcommerce.com
 -d grt02.com
 -d grt03.com
+-d grumpyadzen.com
 -d gscontxt.net
 -d gscsystemwithdarren.com
 -d guardiandigitalcomparison.co.uk
@@ -9622,6 +9624,7 @@ msFilterList
 -d hopfeed.com
 -d horse-racing-affiliate-program.co.uk
 -d horsered.com
+-d hortestoz.com
 -d horyzon-media.com
 -d hostgit.net
 -d hosticanaffiliate.com
@@ -11264,6 +11267,7 @@ msFilterList
 -d uiadserver.com
 -d uiqatnpooq.com
 -d ukbanners.com
+-d ukulelead.com
 -d ultimategracelessness.info
 -d unanimis.co.uk
 -d underclick.ru
@@ -11652,6 +11656,7 @@ msFilterList
 -d viuboin4.com
 -d yie4zooseif.info
 -d aatmytrykqhi.com
+-d agpnzrmptmos.com
 -d aiypulgy.com
 -d ajgffcat.com
 -d ambqphwf.com
@@ -11694,6 +11699,7 @@ msFilterList
 -d cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 -d cxrmgoybhyrk.com
 -d cymuxbcnhinm.com
+-d czoivochvduv.com
 -d dcneohtx.com
 -d ddprxzxnhzbq.com
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
@@ -11710,6 +11716,7 @@ msFilterList
 -d dyunhvev.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
+-d ejjrckrhigez.com
 -d elbeobjhnsvh.com
 -d elkpxsfzrubq.com
 -d emdbszgmxggo.com
@@ -11718,7 +11725,9 @@ msFilterList
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 -d fcjnqpkrdglw.com
 -d fdepobamndfn.com
+-d ffanszicnoqs.com
 -d fjfxpykp.com
+-d fkjyzxnoxusg.com
 -d fluohbiy.com
 -d fneheruhxqtv.com
 -d fokisduu.com
@@ -11757,6 +11766,7 @@ msFilterList
 -d hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
 -d hxbvbmxv.com
 -d hyvsquazvafrmmmcfpqkabocwpjuabojycniphsmwyhizxgebu.com
+-d hztkbjdkaiwt.com
 -d icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
 -d iczhhiiowapd.com
 -d idpukwmp.com
@@ -11781,11 +11791,13 @@ msFilterList
 -d jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 -d jjipgxjf.com
 -d jlflzjdt.com
+-d jmzaqwcmcbui.com
 -d jqqrcwwd.com
 -d karcvrpwayal.com
 -d kgkjlivo.com
 -d kihhgldtpuho.com
 -d kjjlucebvxtu.com
+-d kmtubsbmwdep.com
 -d ksbklucaxgbf.com
 -d ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
 -d kthdreplfmil.com
@@ -11807,6 +11819,7 @@ msFilterList
 -d mnusvlgl.com
 -d mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
 -d mvqinxgp.com
+-d mzbetmhucxih.com
 -d nbbljlzbbpck.com
 -d nbrwtboukesx.com
 -d nefxtwxk.com
@@ -11851,6 +11864,7 @@ msFilterList
 -d qixlpaaeaspr.com
 -d qljczwei.com
 -d qnpolbme.com
+-d qotwtnckqrke.com
 -d qpiyjprptazz.com
 -d qrozsnmc.com
 -d qtsmzrnccnwz.com
@@ -11866,6 +11880,7 @@ msFilterList
 -d rpczohkv.com
 -d rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
 -d ruovcruc.com
+-d rxicrihobtkf.com
 -d rzcmcqljwxyy.com
 -d saipuciruuja.com
 -d sbhnftwdlpbo.com
@@ -11891,6 +11906,7 @@ msFilterList
 -d ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
 -d uckxjsiy.com
 -d uecjpplzfjur.com
+-d ufmnicckqyru.com
 -d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
 -d umqsrvdg.com
 -d uqgloylf.com
@@ -11898,6 +11914,7 @@ msFilterList
 -d uupqrsjbxrstncicwcdlzrcgoycrgurvfbuiraklyimzzyimrq.com
 -d uxyofgcf.com
 -d uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
+-d vbupfouyymse.com
 -d vfnvsvxlgxbvndhgqqohfgdcfprvxqisiqhclfhdpnjzloctny.com
 -d vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 -d vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
@@ -18912,6 +18929,12 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
++d last.fm /static/js-build/ads/zergnet.js*.js
++d last.fm /static/js-build/components/*.js
++d last.fm /static/js-build/kerve/widgets/*.js
++d last.fm /static/js-build/lib/jquery-onscreen/jquery.onscreen.min.js*.js
++d last.fm /static/js-build/lib/masonry/*.js
++d last.fm /static/js-build/player/*.js
 -d twoddl.link .js
 +d gelbooru.com /index.php?
 +d gelbooru.com /script/application.js*.js
@@ -19845,6 +19868,7 @@ msFilterList
 -d youaresogay.com .html
 -d youjizz.com /adb/
 -d youjizz.com /vivid/
+-d youjizz.com /xoa/*.js
 -d youjizz.com _yjserve.js
 -d youngpornvideos.com /images/bangbros/
 -d youngpornvideos.com /images/glamglam/
@@ -20953,7 +20977,7 @@ msFilterList
 +d 9xbuddy.com /js/ads.js
 +d ad.filmweb.pl .js
 +d ad.leadbolt.net /show_cu.js
-+d ad8k.com /script,domain=wccftech.com|extratorrent.cc|wrestlinginc.com|flash-x.tv|flashx.tv
++d ad8k.com /script,domain=izismile.com|wccftech.com|extratorrent.cc|wrestlinginc.com|flash-x.tv|flashx.tv
 +d adexprt.com /cdn3/*&m=magnet
 +d adf.ly /ad/banner/*=
 +d adf.ly
@@ -21316,6 +21340,7 @@ msFilterList
 +d iridiumsergeiprogenitor.info .js
 +d iriptv.com /player/ads.js
 +d itunesplusaacm4a.org
++d izismile.com
 +d jagranjosh.com /Resources/*.js
 +d jansatta.com ads_*.js
 +d jevvi.es /adblock/
@@ -21425,6 +21450,7 @@ msFilterList
 +d mid-day.com /Resources/midday/js/*.js
 +d mimaletamusical.blogspot.com.ar
 +d minecraft-forum.net
++d minecrafthousedesign.com
 +d miniclipcdn.com /js/advertisement.js
 +d mintmovies.net
 +d mix.dj /jscripts/jquery/mdj_adverts.js
@@ -21497,6 +21523,7 @@ msFilterList
 +d nowvideo.li /banner.php?*.js
 +d nowvideo.sx /banner.php?*.js
 +d nowvideo.to /banner.php?*.js
++d npttech.com /advertising.js*.js
 +d ntn24.com /sites/all/libraries/can-run-ads/*.js
 +d okgoals.com
 +d oklivetv.com
@@ -21765,6 +21792,7 @@ msFilterList
 +d vivotvhd.com
 +d vodu.ch .js
 +d vpnproxy.online
++d wallpaperbeta.com /js/adsbygoogle.js
 +d wallpapermania.eu /assets/js/advertisement.js
 +d wallpapershacker.com /js/adsbygoogle.js
 +d wallpapersimages.co.uk
