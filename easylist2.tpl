@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne říj 9 11:43:23 CEST 2016 ##################
+##### Aktualizováno: Út říj 11 20:23:43 CEST 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11680,11 +11680,13 @@ msFilterList
 -d bnkgacehxxmx.com
 -d bujntrmh.com
 -d bvobtmbziccr.com
+-d bwyckpmsolzk.com
 -d bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com
 -d ccdkyvyw.com
 -d cdicyazp.com
 -d cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
 -d cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
+-d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 -d cjxkzkzmdomd.com
 -d ckwpsghi.com
@@ -11716,6 +11718,7 @@ msFilterList
 -d dyunhvev.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
+-d eidzaqzygtvq.com
 -d ejjrckrhigez.com
 -d elbeobjhnsvh.com
 -d elkpxsfzrubq.com
@@ -11731,6 +11734,7 @@ msFilterList
 -d fluohbiy.com
 -d fneheruhxqtv.com
 -d fokisduu.com
+-d fppupmqbydpk.com
 -d fqpteozo.com
 -d fvbeyduylvgy.com
 -d fxjyultd.com
@@ -11740,6 +11744,7 @@ msFilterList
 -d gggemaop.com
 -d ghtroafchzrt.com
 -d gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
+-d gkiryieltcbg.com
 -d glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 -d gmpdixdh.com
 -d gojwyansqmcl.com
@@ -11753,6 +11758,7 @@ msFilterList
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
 -d haqlmmii.com
 -d hbbwlhxfnbpq.com
+-d hbedvoyluzmq.com
 -d hbrbtmjyvdsy.com
 -d hffmzplu.com
 -d hfjuehls.com
@@ -11820,6 +11826,7 @@ msFilterList
 -d mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
 -d mvqinxgp.com
 -d mzbetmhucxih.com
+-d mzguykhxnuap.com
 -d nbbljlzbbpck.com
 -d nbrwtboukesx.com
 -d nefxtwxk.com
@@ -11869,6 +11876,7 @@ msFilterList
 -d qrozsnmc.com
 -d qtsmzrnccnwz.com
 -d qxxyzmukttyp.com
+-d rbppnzuxoatx.com
 -d rbyjirwjbibz.com
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 -d rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com
@@ -11955,6 +11963,7 @@ msFilterList
 -d xttrofww.com
 -d xwwkuacmqblu.com
 -d ygrtbssc.com
+-d yjjglyoytiew.com
 -d ylksuifuyryt.com
 -d ynlrfiwj.com
 -d ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
@@ -16602,6 +16611,7 @@ msFilterList
 -d imageporter.com /hiokax.js
 -d imageporter.com /micromoo.html
 -d imageporter.com /someo.html
+-d imagerar.com /frontend_loader.js
 -d imagerise.com /ir.js
 -d imagerise.com /ir2.js
 -d images-amazon.com /images/*/browser-scripts/da-
@@ -18930,10 +18940,13 @@ msFilterList
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
 +d last.fm /static/js-build/ads/zergnet.js*.js
++d last.fm /static/js-build/charts/scrobble-chart.js*.js
 +d last.fm /static/js-build/components/*.js
++d last.fm /static/js-build/init.*.js
 +d last.fm /static/js-build/kerve/widgets/*.js
 +d last.fm /static/js-build/lib/jquery-onscreen/jquery.onscreen.min.js*.js
 +d last.fm /static/js-build/lib/masonry/*.js
++d last.fm /static/js-build/lib/require/*.js
 +d last.fm /static/js-build/player/*.js
 -d twoddl.link .js
 +d gelbooru.com /index.php?
@@ -18946,7 +18959,13 @@ msFilterList
 +d gorillavid.in /jwplayer.js
 +d monova.org /js/main.js?v=*.js
 +d flash-x.tv /js/showad*.js
++d flashx.tv /js/jquery.cookie.js
++d flashx.tv /js/jquery.min.js
++d flashx.tv /js/light.min.js
 +d flashx.tv /js/showad*.js
++d flashx.tv /js/xfs.js
++d flashx.tv /js/xupload.js
++d flashx.tv /player6/jwplayer.js
 +d exashare.com /ad.js
 +d exashare.com /js/*.js
 +d exashare.com /player*.js
@@ -19915,6 +19934,23 @@ msFilterList
 +d motherless.com /scripts/swfobject.js
 +d pornxs.com /ajax.php?
 +d sprites.pornxs.com
++d vintage-erotica-forum.com /clientscript/ncode_imageresizer.js?*.js
++d vintage-erotica-forum.com /clientscript/post_thanks.js*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_namesugg.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_nameverif.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_reputation.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_search.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_threadrate.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_global.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_lightbox.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_md5.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_menu.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_multi_quote.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_post_loader.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_quick_edit.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_quick_reply.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_read_marker.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_textedit.js?*.js
 +d 209.222.8.217 /crossdomain.xml
 +d 247realmedia.com /farecomp/
 +d 24ur.com /adserver/adall.

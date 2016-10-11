@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 09 Oct 2016 09:40 UTC
+# Last modified: 11 Oct 2016 18:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 07/10/2016
+# Last change: 10/10/2016
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -3516,7 +3516,7 @@ msFilterList
 - /advertisements_
 - /AdvertisementShare.
 - /advertisementview/
-# /advertiser.$domain=~advertiser.growmobile.com|~panel.rightflow.com
+# /advertiser.$domain=~advertiser.adverbid.com|~advertiser.growmobile.com|~panel.rightflow.com
 # /advertiser/*$domain=~bingads.microsoft.com|~mobileapptracking.com|~trialpay.com
 # /advertisers.$image,script,subdocument,domain=~advertisers.adversense.com|~advertisers.easyweddings.com.au|~panel.rightflow.com
 # /advertisers/*$domain=~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com
@@ -12113,11 +12113,13 @@ msFilterList
 -d bnkgacehxxmx.com
 -d bujntrmh.com
 -d bvobtmbziccr.com
+-d bwyckpmsolzk.com
 -d bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com
 -d ccdkyvyw.com
 -d cdicyazp.com
 -d cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
 -d cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
+-d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 -d cjxkzkzmdomd.com
 -d ckwpsghi.com
@@ -12149,6 +12151,7 @@ msFilterList
 -d dyunhvev.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
+-d eidzaqzygtvq.com
 -d ejjrckrhigez.com
 -d elbeobjhnsvh.com
 -d elkpxsfzrubq.com
@@ -12164,6 +12167,7 @@ msFilterList
 -d fluohbiy.com
 -d fneheruhxqtv.com
 -d fokisduu.com
+-d fppupmqbydpk.com
 -d fqpteozo.com
 -d fvbeyduylvgy.com
 -d fxjyultd.com
@@ -12173,6 +12177,7 @@ msFilterList
 -d gggemaop.com
 -d ghtroafchzrt.com
 -d gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
+-d gkiryieltcbg.com
 -d glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 -d gmpdixdh.com
 -d gojwyansqmcl.com
@@ -12186,6 +12191,7 @@ msFilterList
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
 -d haqlmmii.com
 -d hbbwlhxfnbpq.com
+-d hbedvoyluzmq.com
 -d hbrbtmjyvdsy.com
 -d hffmzplu.com
 -d hfjuehls.com
@@ -12253,6 +12259,7 @@ msFilterList
 -d mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
 -d mvqinxgp.com
 -d mzbetmhucxih.com
+-d mzguykhxnuap.com
 -d nbbljlzbbpck.com
 -d nbrwtboukesx.com
 -d nefxtwxk.com
@@ -12302,6 +12309,7 @@ msFilterList
 -d qrozsnmc.com
 -d qtsmzrnccnwz.com
 -d qxxyzmukttyp.com
+-d rbppnzuxoatx.com
 -d rbyjirwjbibz.com
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 -d rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com
@@ -12388,6 +12396,7 @@ msFilterList
 -d xttrofww.com
 -d xwwkuacmqblu.com
 -d ygrtbssc.com
+-d yjjglyoytiew.com
 -d ylksuifuyryt.com
 -d ynlrfiwj.com
 -d ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
@@ -16663,7 +16672,7 @@ msFilterList
 # /wp-content/plugins/wbounce/*$script,domain=viralcraze.net
 # ?random=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
 # ^guid=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
-# |blob:$script,domain=the-watch-series.to|vidup.me|world4ufree.ws
+# |blob:$script,domain=the-watch-series.to|thevideo.me|vidup.me|world4ufree.ws
 # |http:$subdocument,third-party,domain=2ad.in|ad2links.com|adfoc.us|adv.li|adyou.me|allmyvideos.net|amvtv.net|ay.gy|fuestfka.com|imgmega.com|j.gs|linkbucksmedia.com|mortastica.com|prodsetter-in.com|q.gs|sh.st|shr77.com|sonomerit.com|ssovgoxbvppy.net|streamcloud.eu|thevideo.me|twer.info|u.bb|uploaded.net|vidspot.net
 # |http:$third-party,xmlhttprequest,domain=primewire.ag|primewire.in
 # |http://*.com^*|*$script,third-party,domain=sporcle.com
@@ -16674,7 +16683,7 @@ msFilterList
 # |http://mh.$image,third-party,domain=primewire.ag|primewire.is
 # |http://nh.$image,third-party,domain=primewire.ag|primewire.is
 # |http://p.pw^$subdocument
-# |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|tvbximak.com|u.bb
+# |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|thevideo.me|tvbximak.com|u.bb
 # |ws://nodesocket-$other,domain=the-watch-series.to
 # |ws://nodesocket-$websocket,domain=the-watch-series.to
 # |wss:$other,domain=the-watch-series.to
@@ -18294,6 +18303,7 @@ msFilterList
 -d imageporter.com /hiokax.js
 -d imageporter.com /micromoo.html
 -d imageporter.com /someo.html
+-d imagerar.com /frontend_loader.js
 -d imagerise.com /ir.js
 -d imagerise.com /ir2.js
 -d images-amazon.com /images/*/browser-scripts/da-
@@ -20825,13 +20835,18 @@ msFilterList
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
 # last.fm
+# @@||cloudfront.net/static/js/remote-control-bridge.js$script,domain=last.fm
 # @@||js-sec.indexww.com^$script,domain=last.fm
 +d last.fm /static/js-build/ads/zergnet.js*.js
++d last.fm /static/js-build/charts/scrobble-chart.js*.js
 +d last.fm /static/js-build/components/*.js
++d last.fm /static/js-build/init.*.js
 +d last.fm /static/js-build/kerve/widgets/*.js
 +d last.fm /static/js-build/lib/jquery-onscreen/jquery.onscreen.min.js*.js
 +d last.fm /static/js-build/lib/masonry/*.js
++d last.fm /static/js-build/lib/require/*.js
 +d last.fm /static/js-build/player/*.js
+# @@||tags.tiqcdn.com^$script,domain=last.fm
 # |http://$script,domain=last.fm
 # |https://$script,domain=last.fm
 # yts.ag
@@ -21295,7 +21310,13 @@ msFilterList
 # |https://$script,third-party,domain=vid.ag
 # flashx.tv
 +d flash-x.tv /js/showad*.js
++d flashx.tv /js/jquery.cookie.js
++d flashx.tv /js/jquery.min.js
++d flashx.tv /js/light.min.js
 +d flashx.tv /js/showad*.js
++d flashx.tv /js/xfs.js
++d flashx.tv /js/xupload.js
++d flashx.tv /player6/jwplayer.js
 # |http://$script,third-party,xmlhttprequest,domain=flash-x.tv|flashx.tv
 # |https://$script,third-party,xmlhttprequest,domain=flash-x.tv|flashx.tv
 # patheos.com
@@ -21643,8 +21664,8 @@ msFilterList
 # .link/$popup,domain=bigfile.to
 # /sendspace-pop.$popup,domain=sendspace.com
 # ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
-# |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extratorrent.cc|extreme-board.com|eztv.ag|fastspics.net|filepost.com|filmovizija.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|promptfile.com|thevideo.me|twer.info|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
-# |https:$popup,third-party,domain=eztv.ag|flashx.tv|yts.ag
+# |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|filmovizija.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|promptfile.com|thevideo.me|twer.info|vid.ag|vidspot.net|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
+# |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|thevideo.me|yts.ag
 # ||104.198.221.99^$popup,domain=viralitytoday.com
 # ||104.239.139.5/display/$popup
 # ||4fuckr.com/api.php$popup
@@ -22814,6 +22835,27 @@ msFilterList
 # dreamamateurs.com
 # |http://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
 # |https://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
+# Vintageeroticaforum
+# @@||pimpandhost.com/site/jsUploadPlugin|$script,third-party,domain=vintage-erotica-forum.com
++d vintage-erotica-forum.com /clientscript/ncode_imageresizer.js?*.js
++d vintage-erotica-forum.com /clientscript/post_thanks.js*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_namesugg.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_nameverif.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_reputation.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_search.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_ajax_threadrate.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_global.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_lightbox.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_md5.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_menu.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_multi_quote.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_post_loader.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_quick_edit.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_quick_reply.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_read_marker.js?*.js
++d vintage-erotica-forum.com /clientscript/vbulletin_textedit.js?*.js
+# @@||yui.yahooapis.com^$script,third-party,domain=vintage-erotica-forum.com
+# |http://$script,domain=vintage-erotica-forum.com
 # *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt ***
 # ^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
 # |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
