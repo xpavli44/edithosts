@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St říj 19 15:45:26 CEST 2016 ##################
+##### Aktualizováno: Po říj 31 20:19:18 CET 2016 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -117,8 +117,6 @@ msFilterList
 -d in-pocasi.cz /img/left*.jpg
 -d in-pocasi.cz /img/right*.jpg
 -d in-pocasi.cz /img/zahlavi*.jpg
--d isport.blesk.cz /ad-list
--d isport.blesk.cz &target*.js
 -d itnetwork.cz /images/banners/
 -d itnetwork.cz /script/abc/
 -d jpg.assets-finance-media.cz /newsimg/brand/
@@ -230,13 +228,24 @@ msFilterList
 -d aktualne.cz =wallpaper
 -d aktualne.cz fullbanner*.js
 -d aktualne.cz viewid*.js
+-d aktualne.cz /*/*=leader*.js
+-d aktualne.cz /*/*leaderboard*.js
+-d aktualne.cz /*&ad_slot*.js
+-d aktualne.cz //*adfscript*.js
+-d i0.cz /abcampaign/
 -d autorevue.cz one2n2*.js
 -d autorevue.cz ad_slot*.js
+-d autorevue.cz //*//*3.1.1*/*/*.js
 -d games.tiscali.cz /js/*Ad*.js
--d games.tiscali.cz /js/*target*.js
--d games.tiscali.cz /js/*please*.js
+-d games.tiscali.cz /js/*BBID*.js
 -d games.tiscali.cz /js/*one2n*.js
+-d games.tiscali.cz /js/*please*.js
+-d games.tiscali.cz /js/*target*.js
 -d games.tiscali.cz /js/*0.19*.js
+-d games.tiscali.cz /JSAdserving*.js
+-d games.tiscali.cz /*&clbk=sklik*.js
+-d games.tiscali.cz /*&ad_slot*.js
+-d games.tiscali.cz /*&uje*.js
 +d games.tiscali.cz /img/bg/
 +d games.tiscali.cz /img/special/
 +d games.tiscali.cz /img/socials.png
@@ -244,14 +253,22 @@ msFilterList
 +d games.tiscali.cz /img/fav/
 +d foto.games.tiscali.cz
 - http://idnes.cz*.js
--d zive.cz /Client.Scripts/*zive?format=js
--d zive.cz /Client.Scripts/*please*.js
--d zive.cz one2n2*.js
--d zive.cz BBID*.js
-+d speedtest2.zive.cz /js/script.js*.js
+-d isport.blesk.cz /ad-list
+-d isport.blesk.cz &target*.js
+-d isport.blesk.cz //*uaw*.js
+-d isport.blesk.cz //*//*1.1.3*/*/*.js
 -d mobilmania.cz /Client.Scripts/*/showit*.js
 -d mobilmania.cz /Client.Scripts/*one2n2*.js
 -d mobilmania.cz /Client.Scripts/*BBID*.js
+-d mobilmania.cz /Client.Scripts/*//*uaw*.js
+-d mobilmania.cz /Client.Scripts/*//*//*3.1.1*/*/*.js
+-d zive.cz /Client.Scripts/*zive?format=js
+-d zive.cz /Client.Scripts/*please*.js
+-d zive.cz /Client.Scripts/*/*.js
+-d zive.cz one2n2*.js
+-d zive.cz BBID*.js
+-d zive.cz //*uaw*.js
++d speedtest2.zive.cz /js/script.js*.js
 -d 81.89.48.147 /if.html
 - http://adb.azet.sk
 -d autobazar.eu /__branding/
@@ -1316,6 +1333,7 @@ msFilterList
 - /ad/?section=
 - /ad/?site=
 - /ad/a.aspx?
+- /ad/ad2/
 - /ad/afc_
 - /ad/article_
 - /ad/audsci.
@@ -2478,6 +2496,7 @@ msFilterList
 - /ads/directory/
 - /ads/display/
 - /ads/displaytrust.
+- /ads/dj_
 - /ads/elementViewability.
 - /ads/empty.
 - /ads/exit.
@@ -4318,6 +4337,7 @@ msFilterList
 - /featuredadshome.
 - /feedads.
 - /file/ad.
+- /file/ads/
 - /fileadmin/ads/
 - /files/ad-
 - /files/ad/
@@ -5995,6 +6015,7 @@ msFilterList
 - /stuff/ad-
 - /style_ad.
 - /styleads2.
+- /styles/ad/
 - /styles/ads.
 - /styles/ads/
 - /subAd.
@@ -6023,7 +6044,6 @@ msFilterList
 - /system/ad/
 - /system/ads/
 - /system_ad.
-- /systemad.
 - /systemad_
 - /t-ads.
 - /t.php?uid=*.*&src=
@@ -7859,7 +7879,6 @@ msFilterList
 -d aaa.dv0.info
 -d abasourdir.tech
 -d abletomeet.com
--d ablsrv.com
 -d abnad.net
 -d aboutads.quantcast.com
 -d abtracker.us
@@ -8136,6 +8155,7 @@ msFilterList
 -d adpath.mobi
 -d adpay.com
 -d adpays.net
+-d adpdx.com
 -d adperfect.com
 -d adperium.com
 -d adphreak.com
@@ -8322,6 +8342,7 @@ msFilterList
 -d advatar.to
 -d adventori.com
 -d adverigo.com
+-d adverpub.com
 -d adversal.com
 -d adversaldisplay.com
 -d adversalservers.com
@@ -8364,6 +8385,7 @@ msFilterList
 -d advombat.ru
 -d advpoints.com
 -d advrtice.com
+-d advserver.xyz
 -d advsnx.net
 -d adwires.com
 -d adwordsservicapi.com
@@ -8732,6 +8754,7 @@ msFilterList
 -d bravenetmedianetwork.com
 -d breadpro.com
 -d brealtime.com
+-d brethrengenotypeteledyne.com
 -d bridgetrack.com
 -d brighteroption.com
 -d brightshare.com
@@ -8792,6 +8815,7 @@ msFilterList
 -d cardincraping.net
 -d carrier.bz
 -d cartorkins.com
+-d cartstick.com
 -d casalemedia.com
 -d cash-duck.com
 -d cash4members.com
@@ -8898,6 +8922,7 @@ msFilterList
 -d clickwinks.com
 -d clickxchange.com
 -d clickzxc.com
+-d clipurl.club
 -d clixgalore.com
 -d clixsense.com
 -d clixtrac.com
@@ -9115,6 +9140,7 @@ msFilterList
 -d disqusads.com
 -d distilled.ie
 -d districtm.ca
+-d ditwrite.com
 -d dj-updates.com
 -d dl-rms.com
 -d dltags.com
@@ -9399,6 +9425,7 @@ msFilterList
 -d feljack.com
 -d fenixm.com
 -d fiberpairjo.link
+-d ficusoid.xyz
 -d fidel.to
 -d filetarget.com
 -d filtermomosearch.com
@@ -9543,6 +9570,7 @@ msFilterList
 -d gitcdn.site
 -d gitload.site
 -d gklmedia.com
+-d glaswall.online
 -d glical.com
 -d global-success-club.net
 -d globaladsales.com
@@ -9822,6 +9850,7 @@ msFilterList
 -d isparkmedia.com
 -d isubdom.com
 -d isubdomains.com
+-d it4oop7.bid
 -d itrengia.com
 -d iu16wmye.com
 -d iu1xoe7o.com
@@ -9921,6 +9950,7 @@ msFilterList
 -d laim.tv
 -d lakequincy.com
 -d lakidar.net
+-d lamiflor.xyz
 -d landelcut.com
 -d lanistaconcepts.com
 -d larentisol.com
@@ -10417,6 +10447,7 @@ msFilterList
 -d optimalroi.info
 -d optimatic.com
 -d optimizeadvert.biz
+-d optimizesocial.com
 -d optinemailpro.com
 -d optinmonster.com
 -d orangeads.fr
@@ -10518,7 +10549,6 @@ msFilterList
 -d pioneeringad.com
 -d pip-pip-pop.com
 -d pipeaota.com
--d pippio.com
 -d piticlik.com
 -d pivotalmedialabs.com
 -d pivotrunner.com
@@ -10660,6 +10690,7 @@ msFilterList
 -d pubmatic.com
 -d pubmine.com
 -d pubnation.com
+-d pubrain.com
 -d pubserve.net
 -d pubted.com
 -d puhtml.com
@@ -10753,6 +10784,7 @@ msFilterList
 -d remiroyal.ro
 -d repaynik.com
 -d replacescript.in
+-d requiredcollectfilm.info
 -d resideral.com
 -d respecific.net
 -d respond-adserver.cloudapp.net
@@ -10995,6 +11027,7 @@ msFilterList
 -d sponsorpalace.com
 -d sponsorpay.com
 -d sponsorselect.com
+-d sportslovin.com
 -d sportsyndicator.com
 -d spotrails.com
 -d spotscenered.info
@@ -11186,7 +11219,7 @@ msFilterList
 -d torerolumiere.net
 -d toroadvertising.com
 -d toroadvertisingmedia.com
--d torpsol.com //
+-d torpsol.com
 -d torrida.net
 -d torrpedoads.net
 -d torvind.com
@@ -11455,6 +11488,7 @@ msFilterList
 -d webads.co.nz
 -d webads.nl
 -d webadvertise123.com
+-d webeatyouradblocker.com
 -d webmedia.co.il
 -d webonlinnew.com
 -d weborama.fr
@@ -11693,15 +11727,20 @@ msFilterList
 -d vipcpms.com
 -d viuboin4.com
 -d yie4zooseif.info
+-d aadbobwqgmzi.com
 -d aatmytrykqhi.com
+-d afqwfxkjmgwv.com
 -d agpnzrmptmos.com
+-d ahkpdnrtjwat.com
 -d aiypulgy.com
 -d ajgffcat.com
 -d ajxftwwmlinv.com
 -d ambqphwf.com
 -d amqtbshegbqg.com
+-d antrtrtyzkhw.com
 -d aominpzhzhwj.com
 -d apgjczhgjrka.com
+-d aragvjeosjdx.com
 -d aryufuxbmwnb.com
 -d asqamasz.com
 -d avrdpbiwvwyt.com
@@ -11711,16 +11750,22 @@ msFilterList
 -d azbdbtsmdocl.com
 -d azeozrjk.com
 -d bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
+-d bboemhlddgju.com
 -d bbopkapcgonb.com
+-d bfhavmgufvhn.com
+-d bgcsojmtgdrv.com
 -d bgitczbd.com
 -d bguaeoakgmrw.com
+-d bhjhijisulwl.com
 -d bircgizd.com
+-d bjpktmjdxqpl.com
 -d bjzcyqezwksznxxhscsfcogugkyiupgjhikadadgoiruasxpxo.com
 -d bkmmlcbertdbselmdxpzcuyuilaolxqfhtyukmjkklxphbwsae.com
 -d bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
 -d bmqnguru.com
 -d bmubqabepbcb.com
 -d bnkgacehxxmx.com
+-d bsaixnxcpaai.com
 -d bujntrmh.com
 -d bvobtmbziccr.com
 -d bwyckpmsolzk.com
@@ -11733,9 +11778,11 @@ msFilterList
 -d cdveeechegws.com
 -d ceseyitsikzs.com
 -d cewdbisyrzdv.com
+-d cgmkpdqjnedb.com
 -d chxfeymgmwbo.com
 -d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
+-d cjvgnswapbqo.com
 -d cjxkzkzmdomd.com
 -d ckwpsghi.com
 -d cmpsuzvr.com
@@ -11752,11 +11799,14 @@ msFilterList
 -d cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 -d cxrmgoybhyrk.com
 -d cymuxbcnhinm.com
+-d cywegkfcrhup.com
 -d czoivochvduv.com
 -d dcneohtx.com
 -d ddprxzxnhzbq.com
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
 -d disbkzufvqhk.com
+-d diysqcbfyuru.com
+-d djbnmqdawodm.com
 -d djntmaplqzbi.com
 -d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
@@ -11766,12 +11816,15 @@ msFilterList
 -d dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 -d dobjgpqzygow.com
 -d dppcevxbshdl.com
+-d drtqfejznjnl.com
 -d dulpsxaznlwr.com
 -d dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
 -d dxigubtmyllj.com
 -d dyunhvev.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
+-d eejcqlenlsko.com
 -d eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
+-d ehnjtmqchrub.com
 -d eidzaqzygtvq.com
 -d ejjrckrhigez.com
 -d ejwmxjttljbe.com
@@ -11780,6 +11833,8 @@ msFilterList
 -d elxxkpaeudxu.com
 -d emdbszgmxggo.com
 -d eovkzcueutgf.com
+-d epesogtigole.com
+-d erkwkjfompvt.com
 -d erszwzaidmlc.com
 -d ervpgpxr.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
@@ -11788,7 +11843,10 @@ msFilterList
 -d fegyacmbobil.com
 -d ffanszicnoqs.com
 -d fgkvpyrmkbap.com
+-d fgmucsiirrsq.com
+-d fhawywadfjlo.com
 -d fjfxpykp.com
+-d fkdqrjnoxhch.com
 -d fkjyzxnoxusg.com
 -d fluohbiy.com
 -d fneheruhxqtv.com
@@ -11799,6 +11857,7 @@ msFilterList
 -d frdhsmerubfg.com
 -d fvbeyduylvgy.com
 -d fxjyultd.com
+-d fxtgrttlarkl.com
 -d fxvxgwqcddvm.com
 -d gbiwxmjw.com
 -d gbltotkythfh.com
@@ -11818,11 +11877,13 @@ msFilterList
 -d gpgsxlmjnfid.com
 -d gqthfroeirol.com
 -d grceweaxhbpvclyxhwuozrbtvqzjgbnzklvxdezzficwjnmfil.com
+-d gtaouarrwypu.com
 -d gtqfsxrrerzu.com
 -d gwaatiev.com
 -d gwcujaprdsen.com
 -d gxgnvickedxpuiavkgpisnlsphrcyyvkgtordatszlrspkgppe.com
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
+-d hafbezbemwwd.com
 -d haqlmmii.com
 -d hbbwlhxfnbpq.com
 -d hbedvoyluzmq.com
@@ -11832,6 +11893,7 @@ msFilterList
 -d hffmzplu.com
 -d hfjuehls.com
 -d hgbmwkklwittcdkjapnpeikxojivfhgszbxmrjfrvajzhzhuks.com
+-d higygtvnzxad.com
 -d hkacgxlpfurb.com
 -d hkdjrnkjwtqo.com
 -d hkoxlirf.com
@@ -11839,12 +11901,15 @@ msFilterList
 -d hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 -d hpxxzfzdocinivvulcujuhypyrniicjfauortalmjerubjgaja.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
+-d hueenmivecmx.com
+-d huejizictcgd.com
 -d huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com
 -d hvfzacisynoq.com
 -d hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
 -d hxbvbmxv.com
 -d hyubowucvkch.com
 -d hyvsquazvafrmmmcfpqkabocwpjuabojycniphsmwyhizxgebu.com
+-d hzskbnafzwsu.com
 -d hztkbjdkaiwt.com
 -d icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
 -d iczhhiiowapd.com
@@ -11862,6 +11927,7 @@ msFilterList
 -d imrwxmau.com
 -d imyqdbxq.com
 -d iohaqrkjddeq.com
+-d ionbpysfukdh.com
 -d iqrqmhrfkyuu.com
 -d irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 -d irxpndjg.com
@@ -11869,12 +11935,16 @@ msFilterList
 -d itevcsjvtcmb.com
 -d iwrjczthkkla.com
 -d iydghotpzofn.com
+-d izhvnderudte.com
 -d izwsvyqv.com
 -d jahsrhlp.com
+-d jbvisobwrlcv.com
+-d jcctggmdccmt.com
 -d jdlnquri.com
 -d jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
 -d jgqkrvjtuapt.com
 -d jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
+-d jjdrwkistgfh.com
 -d jjipgxjf.com
 -d jkkernvkrwdr.com
 -d jlflzjdt.com
@@ -11890,6 +11960,7 @@ msFilterList
 -d kjjlucebvxtu.com
 -d kjplmlvtdoaf.com
 -d kldwitfrqwal.com
+-d klrdsagmuepg.com
 -d kmtubsbmwdep.com
 -d kmvupiadkzdn.com
 -d kpnuqvpevotn.com
@@ -11898,14 +11969,20 @@ msFilterList
 -d ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
 -d kthdreplfmil.com
 -d kwgpddeduvje.com
+-d kwipnlppnybc.com
+-d kxdprqrrfhhn.com
 -d kxtepdregiuo.com
 -d kyowarob.com
+-d lazkslkkmtpy.com
+-d lbypppwfvagq.com
 -d lckpubqq.com
 -d lcxrhcqouqtw.com
 -d lcyxmuhxroyo.com
+-d ldaiuhkayqtu.com
 -d lgthvsytzwtc.com
 -d lhuqalcxjmtq.com
 -d liosawitskzd.com
+-d lixzmpxjilqp.com
 -d ljngencgbdbn.com
 -d lkbvfdgqvvpk.com
 -d lkjmcevfgoxfbyhhmzambtzydolhmeelgkotdllwtfshrkhrev.com
@@ -11915,18 +11992,24 @@ msFilterList
 -d lnzcmgguxlac.com
 -d lpwvdgfo.com
 -d lwenrqtarmdx.com
+-d lyifwfhdizcc.com
 -d lytpdzqyiygthvxlmgblonknzrctcwsjycmlcczifxbkquknsr.com
 -d lzmovatu.com
 -d maxgirlgames.com
 -d medyagundem.com
+-d mepchnbjsrik.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
+-d miadbbnreara.com
 -d mizmhwicqhprznhflygfnymqbmvwokewzlmymmvjodqlizwlrf.com
 -d mkmxovjaijti.com
 -d mkzynqxqlcxk.com
+-d mmeddgjhplqy.com
 -d mnjgoxmx.com
 -d mnusvlgl.com
 -d mnzimonbovqs.com
 -d mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
+-d mpytdykvcdsg.com
+-d munpprwlhric.com
 -d mvjuhdjuwqtk.com
 -d mvqinxgp.com
 -d mzbetmhucxih.com
@@ -11939,7 +12022,10 @@ msFilterList
 -d negdrvgo.com
 -d nfniziqm.com
 -d ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
+-d nifyalnngdhb.com
 -d nkyngrtleloc.com
+-d nlljrfvbnisi.com
+-d nmhhnyqmxgku.com
 -d nnigsvoorscmgnyobwuhrgnbcgtiicyflrtpwxsekldubasizg.com
 -d nnvjigagpwsh.com
 -d nokswnfvghee.com
@@ -11949,13 +12035,16 @@ msFilterList
 -d nrgpugas.com
 -d nsazelqlavtc.com
 -d nuayfpthqlkq.com
+-d nubtjnopbjup.com
 -d nunsbvlzuhyi.com
 -d nybpurpgexoe.com
 -d nyqogyaflmln.com
 -d oawleebf.com
 -d obthqxbm.com
 -d obuuyneuhfwf.com
+-d obvbubmzdvom.com
 -d obxwnnheaixf.com
+-d oewscpwrvoca.com
 -d okgfvcourjeb.com
 -d okmuxdbq.com
 -d olctpejrnnfh.com
@@ -11976,12 +12065,16 @@ msFilterList
 -d pkmzxzfazpst.com
 -d pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
 -d plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
+-d plwvwvhudkuv.com
 -d pmlcuxqbngrl.com
+-d pnmkuqkonlzj.com
 -d pnunijdm.com
 -d prggimadscvm.com
 -d prqivgpcjxpp.com
 -d pserhnmbbwexmbjderezswultfqlamugbqzsmyxwumgqwxuerl.com
 -d ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
+-d pugklldkhrfg.com
+-d pusbamejpkxq.com
 -d pvtcntdlcdsb.com
 -d pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
 -d pxgkuwybzuqz.com
@@ -12004,16 +12097,21 @@ msFilterList
 -d qtsmzrnccnwz.com
 -d qxxyzmukttyp.com
 -d qzxtbsnaebfw.com
+-d rbfxurlfctsz.com
 -d rbppnzuxoatx.com
 -d rbyjirwjbibz.com
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 -d rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com
+-d rgztepyoefvm.com
+-d rhfntvnbxfxu.com
 -d rhfvzboqkjfmabakkxggqdmulrsxmisvuzqijzvysbcgyycwfk.com
 -d rjnkpqax.com
 -d rjyihkorkewq.com
 -d rkelvtnnhofl.com
 -d rkrpvzgzdwqaynyzxkuviotbvibnpqaktcioaaukckhbvkognu.com
+-d rkvpcjiuumbk.com
 -d rmetgarrpiouttmwqtuajcnzgesgozrihrzwmjlpxvcnmdqath.com
+-d rmjxcosbfgyl.com
 -d rnrbvhaoqzcksxbhgqtrucinodprlsmuvwmaxqhxngkqlsiwwp.com
 -d rpczohkv.com
 -d rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
@@ -12021,27 +12119,40 @@ msFilterList
 -d rxicrihobtkf.com
 -d rzcmcqljwxyy.com
 -d saipuciruuja.com
+-d sajhiqlcsugy.com
 -d sbftffngpzwt.com
 -d sbhnftwdlpbo.com
+-d scbnvzfscfmn.com
 -d sceuexzmiwrf.com
+-d scmffjmashzc.com
 -d sgfcsnwegazn.com
 -d shnmhrlcredd.com
+-d siwtuvvgraum.com
 -d sjgklyyyraghhrgimsepycygdqvezppyfjkqddhlzbimoabjae.com
 -d sjpexaylsfjnopulpgkbqtkzieizcdtslnofpkafsqweztufpa.com
+-d smrqvdpgkbvz.com
 -d sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 -d snjhhcnr.com
 -d snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
 -d sqtsuzrfefwy.com
 -d sriaqmzx.com
+-d ssdphmfduwcl.com
+-d stnvgvtwzzrh.com
 -d sualzmze.com
 -d svrsqqtj.com
 -d swckuwtoyrklhtccjuuvcstyesxpbmycjogrqkivmmcqqdezld.com
+-d sxtzhwvbuflt.com
 -d sydnkqqscbxc.com
 -d syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
+-d szyejlnlvnmy.com
 -d tabeduhsdhlkalelecelxbcwvsfyspwictbszchbbratpojhlb.com
+-d tailpdulprkp.com
 -d tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com
 -d tawgiuioeaovaozwassucoydtrsellartytpikvcjpuwpagwfv.com
+-d tazvowjqekha.com
 -d tedlrouwixqq.com
+-d tevrhhgzzutw.com
+-d tftsbqbeuthh.com
 -d tgrmzphjmvem.com
 -d tjbgiyek.com
 -d tkarkbzkirlw.com
@@ -12057,6 +12168,7 @@ msFilterList
 -d uerladwdpkge.com
 -d ufmnicckqyru.com
 -d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
+-d ujocmihdknwj.com
 -d umqsrvdg.com
 -d uqgloylf.com
 -d uqpotqld.com
@@ -12066,9 +12178,12 @@ msFilterList
 -d uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 -d uzreuvnlizlz.com
 -d vbupfouyymse.com
+-d vbuqjdyrsrvi.com
+-d vdvylfkwjpvw.com
 -d vfnvsvxlgxbvndhgqqohfgdcfprvxqisiqhclfhdpnjzloctny.com
 -d vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 -d vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
+-d vmcpydzlqfcg.com
 -d vpfiiojohjch.com
 -d vpsotshujdguwijdiyzyacgwuxgnlucgsrhhhglezlkrpmdfiy.com
 -d vpwwtzprrkcn.com
@@ -12076,6 +12191,7 @@ msFilterList
 -d vtoygnkflehv.com
 -d vxuhavco.com
 -d vxvxsgut.com
+-d vydlqaxchmij.com
 -d vzhbfwpo.com
 -d wbtgtphzivet.com
 -d wdbddckjoguz.com
@@ -12087,6 +12203,7 @@ msFilterList
 -d wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com
 -d wgefjuno.com
 -d wggnmbmedlmo.com
+-d whsjufifuwkw.com
 -d wijczxvihjyu.com
 -d wkexsfmw.com
 -d wkhychiklhdglppaeynvntkublzecyyymosjkiofraxechigon.com
@@ -12097,15 +12214,21 @@ msFilterList
 -d wrmcfyzl.com
 -d wrmwikcnynbk.com
 -d wrqjwrrpsnnm.com
+-d wscrsmuagezg.com
 -d wscvmnvhanbr.com
 -d wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
 -d wtvyenir.com
+-d wvljugmqpfyd.com
 -d wwgdpbvbrublvjfbeunqvkrnvggoeubcfxzdjrgcgbnvgcolbf.com
 -d wwgjtcge.com
+-d wxdtvssnezam.com
+-d wxxfcyoaymug.com
 -d wzjbvbxldfrn.com
 -d wzueqhwf.com
 -d xbynkkqi.com
+-d xcjoqraqjwmk.com
 -d xdwqixeyhvqd.com
+-d xfgqvqoyzeiu.com
 -d xhdzcofomosh.com
 -d xhojlvfznietogsusdiflwvxpkfhixbgdxcnsdshxwdlnhtlih.com
 -d xhqilhfrfkoecllmthusrpycaogrfivehyymyqkpmxbtomexwl.com
@@ -12117,6 +12240,8 @@ msFilterList
 -d xttrofww.com
 -d xuwptpzdwyaw.com
 -d xwwkuacmqblu.com
+-d xxzkqbdibdgq.com
+-d yaxdboxgsbgh.com
 -d ycojhxdobkrd.com
 -d yfkwqoswbghk.com
 -d ygrtbssc.com
@@ -12125,6 +12250,7 @@ msFilterList
 -d ylksuifuyryt.com
 -d ynlrfiwj.com
 -d ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
+-d ynxrrzgfkuih.com
 -d ypbfrhlgquaj.com
 -d ypyarwgh.com
 -d ytwtqabrkfmu.com
@@ -12135,13 +12261,17 @@ msFilterList
 -d zbfncjtaiwngdsrxvykupflpibvbrewhemghxlwsdoluaztwyi.com
 -d zbrkywjutuxu.com
 -d zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
+-d zizmvnytmdto.com
 -d zlbdtqoayesloeazgxkueqhfzadqjqqduwrufqemhpbrjvwaar.com
 -d zlvbqseyjdna.com
 -d zmytwgfd.com
+-d zoileyozfexv.com
 -d zoowknbw.com
+-d zpkobplsfnxf.com
 -d zpmbsivi.com
 -d zptncsir.com
 -d zpxbdukjmcft.com
+-d zqaxaqqqutrx.com
 -d zrxgdnxneslb.com
 -d zsancthhfvqm.com
 -d ztfrlktqtcnl.com
@@ -12156,6 +12286,8 @@ msFilterList
 -d advuatianf.com
 -d allianrd.net
 -d anomiely.com
+-d antuandi.net
+-d anumiltrk.com
 -d appr8.net
 -d artbr.net
 -d azwergz.net
@@ -12244,6 +12376,7 @@ msFilterList
 -d genegd.com
 -d gghfncd.net
 -d gruadhc.com
+-d gualdoniye.com
 -d guaperty.net
 -d gusufrs.me
 -d hapnr.net
@@ -12325,6 +12458,7 @@ msFilterList
 -d rterdf.me
 -d ruamupr.com
 -d ruandr.com
+-d ruap-oldr.net
 -d rugistoto.net
 -d rugistratuan.com
 -d selectr.net
@@ -14045,6 +14179,7 @@ msFilterList
 -d googlesyndication.com /simgad/
 -d googlesyndication.com /domainpark.cgi?
 -d googlesyndication.com /simgad/
+-d googletagservices.com /dcm/dcmads.js
 -d gopjn.com /b/
 -d gopjn.com /i/
 -d gorgonprojectinvest.com /images/banners/
@@ -15479,6 +15614,7 @@ msFilterList
 -d advpc.net /site_img/banner/
 -d adx.kat.ph
 -d adz.lk _ad.
+-d aerotime.aero /upload/banner/
 -d aetv.com /includes/dart/
 -d aff.lmgtfy.com
 -d affiliatesynergy.com /banner_
@@ -16236,6 +16372,7 @@ msFilterList
 -d encyclopediadramatica.es /spon/
 -d energytribune.com /res/banner/
 -d england.fm /i/ducksunited120x60english.gif
+-d englishgrammar.org /images/30off-coupon.png
 -d englishtips.org /b/
 -d enigmagroup.org /clients/privatetunnels.swf
 -d environmental-finance.com banner
@@ -17798,6 +17935,7 @@ msFilterList
 -d ptf.com /js/fdm_banner.js
 -d ptf.com /js/ptf_rc_*.js
 -d ptf.com /js/rc_banner.js
+-d pub.chinadailyasia.com
 -d publicdomaintorrents.info /grabs/hdsale.png
 -d publicdomaintorrents.info /rentme.gif
 -d publicdomaintorrents.info /srsbanner.gif
@@ -17883,6 +18021,7 @@ msFilterList
 -d reason.org /UserFiles/web-fin1.gif
 -d red.bayimg.net
 -d reddit.com _sponsor.png?
+-d redfm.com.au /Sponsor_
 -d rednationonline.ca /Portals/0/derbystar_leaderboard.jpg
 -d redpepper.org.uk /ad-
 -d redvase.bravenet.com
@@ -19110,6 +19249,17 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
++d last.fm /static/js-build/ads/zergnet.js*.js
++d last.fm /static/js-build/charts/scrobble-chart.js*.js
++d last.fm /static/js-build/components/*.js
++d last.fm /static/js-build/init.*.js
++d last.fm /static/js-build/kerve/widgets/*.js
++d last.fm /static/js-build/lib/jquery-onscreen/jquery.onscreen.min.js*.js
++d last.fm /static/js-build/lib/masonry/*.js
++d last.fm /static/js-build/lib/require/*.js
++d last.fm /static/js-build/player/*.js
++d vidshare.us /player6/jwplayer.js
+-d vidshare.us .js
 -d twoddl.link .js
 +d gelbooru.com /index.php?
 +d gelbooru.com /script/application.js*.js
@@ -19213,7 +19363,6 @@ msFilterList
 -d ytconv.net /site/adblock_detect
 -d anandabazar.com /js/anandabazar-bootstrap/custom.js
 -d livehindustan.com /js/BlockerScript.js
-+d the-watch-series.to
 -d 213.174.140.38 /bftv/js/msn-
 -d 244pix.com /webop.jpg
 -d 24porn7.com /24roll.html
@@ -19661,6 +19810,7 @@ msFilterList
 -d nudevista.com /nv-com.min.js
 -d nudez.com .php?*=*.js
 -d nudography.com /photos/banners/
+-d nuvid.com /b4.php
 -d nuvid.com /videos_banner.html
 -d oasisactive.com /oasis-widget.html
 -d olderhill.com /ubr.js
@@ -20077,6 +20227,23 @@ msFilterList
 -d yumymilf.com /banners/
 -d yuvutu.com /banners/
 -d zazzybabes.com /misc/virtuagirl-skin.js
++d drtst.com /templates/drtuber/js/drtuber-min.js*.js
++d drtst.com /templates/drtuber/js/jquery.profile.drtuber.js*.js
++d drtuber.com /templates/base_master/js/jquery.shows.min.js*.js
++d drtuber.com /templates/base_master/js/plupload/plupload.full.min.js*.js
++d drtuber.com /templates/base_master/js/upload/jquery.fileprogress.plupload.drtuber.js*.js
++d drtuber.com /templates/base_master/js/upload/jquery.upload-avatar.plupload.drtuber.js*.js
++d drtuber.com /templates/base_master/libs/*.js
++d anyporn.com /captcha/comments/?
++d anyporn.com /player/btn_play_old.png
++d anyporn.com /v4_js/main.min.js*.js
++d anyporn.com /videojs/video.js*.js
++d anyporn.com /videojs/videojs-overlay.js*.js
++d anyporn.com /videojs/vjs-related.js*.js
++d anyporn.com /videos_screenshots/
+-d anyporn.com .js
++d imagefap.com /combine.php?*.js
++d imagefap.com /jscripts/gallery.js*.js
 +d motherless.com /register/
 +d motherless.com /scripts/auth.min.js
 +d motherless.com /scripts/bots.min.js
@@ -20497,6 +20664,7 @@ msFilterList
 +d explosm.net /comics/
 +d explosm.net /db/files/comics/
 +d extras.chron.com /banners/*/social_icons/
++d facebook.com /ads/ajax/ads_stats_dialog/
 +d facebook.com /ads/profile/advertisers/
 +d facebook.com /ads/profile/interests/
 +d faceinhole.com /adsense.swf
@@ -21184,6 +21352,7 @@ msFilterList
 +d adexprt.com /cdn3/*&m=magnet
 +d adf.ly /ad/banner/*=
 +d adf.ly
++d adnow.tech /ads/ad_forum_*.js
 +d ads.clubedohardware.com.br /www/delivery/*.js
 +d adserver.liverc.com /getBannerVerify.js
 +d aetv.com
@@ -21341,6 +21510,7 @@ msFilterList
 +d dailymail.co.uk
 +d dailyuploads.net
 +d danydanielrt.com
++d dawn.com
 +d dayt.se
 +d debrastagi.com
 +d debrid.us
@@ -21486,6 +21656,7 @@ msFilterList
 +d gorillavid.in /script/ad.js
 +d gorillavid.in
 +d grouchyaccessoryrockefeller.com /ads.js
++d gsmarena.com
 +d gsmdude.com
 +d guygames.com /ads.js
 +d hackers.co.id /adframe/adframe.js
@@ -21583,6 +21754,7 @@ msFilterList
 +d lapurno.info /ads.php
 +d lasexta.com /adsxml/
 +d lasprovincias.es /adframe.js
++d last.fm
 +d latinomegahd.net
 +d layer13.net
 +d lcpdfr.com /adblock.js
@@ -21660,6 +21832,7 @@ msFilterList
 +d minecrafthousedesign.com
 +d miniclipcdn.com /js/advertisement.js
 +d mintmovies.net
++d mirrorcreator.com
 +d mix.dj /jscripts/jquery/mdj_adverts.js
 +d mix.dj /advertisement.js
 +d mma-core.com /Scripts/adscript.js
@@ -21748,8 +21921,6 @@ msFilterList
 +d openload.co
 +d openload.io
 +d openrunner.com /js/advertisement.js
-+d openspeedtest.com /adsbygoogle.js
-+d openspeedtest.com /advertisement.js
 +d openx.gamereactor.dk /multi.php?*.js
 +d oploverz.net
 +d optifine.net
@@ -21884,6 +22055,7 @@ msFilterList
 +d srnet.eu .js
 +d srnk.co /js/ads.js
 +d stackexchange.com /affiliate/
++d startlr.com
 +d startribune.com
 +d stickgames.com /ads.js
 +d stream2watch.me
@@ -21909,9 +22081,10 @@ msFilterList
 +d telemetryverification.net /crossdomain.xml
 +d television-envivo.com
 +d theatlantic.com
-+d theatlantic.com /advertisement.js
++d theatlantic.com /adver*.js
 +d thecountrycaller.com /showads.php
 +d thefreethoughtproject.com
++d theinquirer.net
 +d thelordofstreaming.it /wp-content/uploads/*/ad_
 +d thelordofstreaming.it
 +d thememypc.com /wp-content/*/ads/
@@ -21962,6 +22135,7 @@ msFilterList
 +d uploadrocket.net /ads.js
 +d uploadrocket.net
 +d uploadshub.com
++d uplod.ws
 +d upshare.org /advertisement.js
 +d uptobox.com
 +d urbanplanet.org
@@ -21976,6 +22150,7 @@ msFilterList
 +d userscdn.com
 +d uskip.me
 +d uvnc.com /advertisement.js
++d v3.co.uk
 +d vbaddict.net
 +d veedi.com /player/js/ads/advert.js
 +d veedi.com /ADS.js
@@ -21999,6 +22174,7 @@ msFilterList
 +d vipbox.tv /js/ads.js
 +d vipboxsa.co /js/ads.js*.js
 +d vipleague.se /js/ads.js
++d viralitytoday.com
 +d virtualpets.com /ads.js
 +d vivotvhd.com
 +d vodu.ch .js
@@ -22047,6 +22223,7 @@ msFilterList
 +d youwatch.org /js/show_ads.js
 +d youwatch.org
 +d ytconv.net google_ads.js
++d zahipedia.net
 +d zahitvstation.com
 +d zattoo.com /ads/cs?
 +d zman.com /adv/ova/overlay.xml
@@ -22673,6 +22850,7 @@ msFilterList
 +d crazyshit.com
 +d desihoes.com /advertisement.js
 +d drtst.com /ads.js*.js
++d drtuber.com
 +d exoclick.com /ad_track.js
 +d exoclick.com /invideo.js
 +d fuckme.me
@@ -22708,9 +22886,9 @@ msFilterList
 +d pornxs.com /js/ads/ads.js*.js
 +d sexix.net /adframe.js
 +d sexvidx.tv /js/eroex.js
++d sexwebvideo.com /js/ads.js
 +d submityourflicks.com /player/player-ads.swf
-+d traffichaus.com /ads.js*.js
-+d traffichaus.com /advertisement.js*.js
++d traffichaus.com /ad*.js
 +d tube8.com /js/advertisement.js
 +d urlgalleries.net
 +d voyeurperversion.com /inc/showads.js
