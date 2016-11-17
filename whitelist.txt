@@ -5,4 +5,3 @@ c.allegrostatic.pl
 analytics.google.com
 tracker.cztorrent.net
 pagead2.googlesyndication.com
-1gr.cz
