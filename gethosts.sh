@@ -32,9 +32,10 @@ cat "$temphosts2a" "$temphosts2b" | sort -u > "$temphosts3"
 
 wget -nv -O - https://raw.githubusercontent.com/jiri001meitner/edithosts/master/whitelist.txt >> "$whitelist"
 
-for patern in $(cat "$whitelist"); do
-  sed -i '' "/\b$patern\b/Id" "$temphosts3";
-done
+while IFS= read -r patern
+do
+  sed -i '' "/\b$patern\b/Id" "$temphosts3"
+done < "$whitelist"
 
 sed -e 's/0\.0\.0\.0/::1/' "$temphosts3" > "$temphostsipv6"
 cat "$temphosts3" "$temphostsipv6" | sort -u > "$temphostsipv4ipv6"
